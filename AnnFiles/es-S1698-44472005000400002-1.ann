@@ -1,0 +1,55 @@
+T1 PROC 1 9 consulta
+T2 DISO 44 87 tumoración palpable , dolorosa a la presión
+T3 ANAT 41 61 región pre auricular
+T4 PROC 55 73 exploración física
+T5 DISO 17 21 masa
+T6 ANAT 81 97 área paro tí dea
+T7 DISO 37 43 nódulo
+T8 PROC 120 137 pruebas de imagen
+T9 PROC 249 280 tomografía axial computer izada
+T10 PROC 82 91 ecografía
+T11 DISO 101 111 tumoración
+T12 ANAT 45 49 paró
+T13 ANAT 49 53 tida
+T14 ANAT 365 393 estructuras óseas musculares
+T15 DISO 267 286 tumor de bajo grado
+T16 PROC 496 529 punción aspiración con aguja fina
+T17 DISO 97 103 lesión
+T18 PROC 290 307 aspiración manual
+T19 CHEM 127 134 alcohol
+T20 PROC 134 141 técnica
+T21 PROC 341 358 Papanicolaou aire
+T22 PROC 526 551 tinción de Dif f - Qu ick
+T23 PROC 529 553 examen de los extendidos
+T24 ANAT 162 169 celular
+T25 ANAT 97 101 idad
+T26 ANAT 201 209 náºcleos
+T27 ANAT 131 136 nucle
+T28 ANAT 82 85 olo
+T29 ANAT 253 262 cromatina
+T30 ANAT 291 301 citoplasma
+T31 ANAT 241 249 gránulos
+T32 ANAT 218 225 células
+T33 ANAT 225 232 células
+T34 ANAT 331 341 citoplasma
+T35 ANAT 239 246 náºcleo
+T36 DISO 1331 1369 patología de células a cin ares seroso
+T37 DISO 325 334 carcinoma
+T38 PROC 778 799 cuantificación de ADN
+T39 PROC 761 781 citometría de imagen
+T40 ANAT 235 241 frotis
+T41 PROC 281 288 punción
+T42 PROC 411 421 valoración
+T43 PROC 169 173 PAAF
+T44 PROC 1162 1189 determinación ci tom étrica
+T45 CHEM 749 766 alcohol me tílico
+T46 PROC 1981 2025 tinción de Hemato xil ina progresiva de Gill
+T47 DISO 47 48 p
+T48 DISO 95 97 lo
+T49 DISO 97 99 id
+T50 DISO 99 101 ía
+T51 ANAT 351 358 células
+T52 DISO 154 157 ane
+T53 DISO 209 213 uplo
+T54 DISO 107 109 id
+T55 DISO 109 111 ía

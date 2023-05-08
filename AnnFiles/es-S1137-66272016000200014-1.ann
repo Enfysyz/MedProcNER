@@ -1,0 +1,86 @@
+T1 PROC 1 9 consultó
+T2 DISO 4 7 cox
+T3 DISO 31 46 algia izquierda
+T4 PROC 19 25 reposo
+T5 DISO 129 161 malformación de Arnold - Chi ari
+T6 DISO 61 73 hidrocefalia
+T7 DISO 181 211 malformación de D and y Walker
+T8 PROC 372 425 tratada válvula de derivación ventrículo - peritoneal
+T9 DISO 105 118 epilepsia con
+T10 DISO 145 161 crisis parciales
+T11 PROC 131 144 examen físico
+T12 DISO 254 277 disfunción de la marcha
+T13 DISO 229 248 cojera anti ál gica
+T14 ANAT 131 141 extremidad
+T15 DISO 71 76 hiper
+T16 DISO 46 49 lor
+T17 DISO 193 205 dosis lumbar
+T18 ANAT 103 109 cadera
+T19 PROC 163 172 hemograma
+T20 PROC 742 781 marcadores de fase aguda de inflamación
+T21 PROC 461 484 pruebas reumat ológicas
+T22 PROC 379 397 radiografía simple
+T23 DISO 419 438 osteopenia regional
+T24 PROC 70 73 TAC
+T25 DISO 121 126 edema
+T26 DISO 226 235 discontin
+T27 ANAT 495 514 cartílago articular
+T28 DISO 541 561 hipertrofia sinovial
+T29 PROC 141 146 artro
+T30 PROC 233 241 centesis
+T31 PROC 691 714 control de radios copia
+T32 PROC 528 545 anestesia general
+T33 ANAT 225 232 muestra
+T34 ANAT 529 545 líquido sinovial
+T35 PROC 171 176 artro
+T36 PROC 211 217 grafía
+T37 DISO 109 112 con
+T38 DISO 38 39 d
+T39 DISO 115 118 rol
+T40 DISO 157 161 isis
+T41 PROC 441 452 diagnóstico
+T42 DISO 124 127 con
+T43 DISO 43 44 d
+T44 DISO 130 133 rol
+T45 DISO 661 676 isis idiopática
+T46 PROC 271 277 reposo
+T47 PROC 1703 1740 descarga de la extremidad de bastones
+T48 PROC 988 1009 rehabilitación física
+T49 PROC 1201 1226 infiltración de la cadera
+T50 CHEM 834 851 ácido hialurónico
+T51 PROC 1051 1072 control radios cópico
+T52 DISO 409 417 síntomas
+T53 PROC 573 584 tratamiento
+T54 PROC 584 595 diagnóstico
+T55 PROC 1189 1211 movilización articular
+T56 PROC 936 953 anestesia general
+T57 ANAT 785 799 cabeza femoral
+T58 ANAT 343 349 pelvis
+T59 DISO 117 119 an
+T60 DISO 237 241 quil
+T61 DISO 721 733 osis fibrosa
+T62 DISO 1038 1055 rigidez articular
+T63 PROC 187 190 ten
+T64 PROC 64 65 o
+T65 PROC 1473 1496 tomías periar ticulares
+T66 PROC 716 727 diagnóstico
+T67 DISO 1123 1140 rigidez articular
+T68 PROC 2815 2857 tratamiento con tracción de partes blandas
+T69 PROC 1157 1174 control del dolor
+T70 PROC 553 561 tracción
+T71 PROC 1331 1350 marcha con bastones
+T72 PROC 1776 1801 tratamiento rehabilitador
+T73 PROC 793 804 tratamiento
+T74 DISO 366 371 dolor
+T75 DISO 445 451 cojera
+T76 ANAT 1276 1293 espacio articular
+T77 DISO 761 771 osteopenia
+T78 DISO 386 391 dolor
+T79 ANAT 1327 1344 espacio articular
+T80 PROC 238 241 RNM
+T81 DISO 1921 1945 estrechamiento articular
+T82 DISO 1864 1887 lesiones subcon dr ales
+T83 ANAT 1149 1163 cabeza femoral
+T84 ANAT 333 337 acet
+T85 ANAT 85 86 á
+T86 ANAT 341 345 bulo

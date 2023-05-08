@@ -1,0 +1,76 @@
+T1 ANAT 1 15 intraabdominal
+T2 CHEM 6 11 droga
+T3 DISO 41 61 episodio convuls ivo
+T4 PROC 49 65 presión arterial
+T5 PROC 77 96 frecuencia cardiaca
+T6 PROC 56 67 temperatura
+T7 PROC 85 99 saturación O 2
+T8 PROC 78 89 exploración
+T9 ANAT 57 64 abdomen
+T10 DISO 91 101 distendido
+T11 DISO 81 89 doloroso
+T12 DISO 78 85 cuerpos
+T13 ANAT 133 144 mesogastrio
+T14 DISO 144 155 peritonismo
+T15 DISO 99 106 pupilas
+T16 DISO 196 209 mid ri áticas
+T17 PROC 113 120 Glasgow
+T18 DISO 358 379 focalidad neurológica
+T19 PROC 379 400 radiografía abdominal
+T20 DISO 134 141 cuerpos
+T21 ANAT 201 211 leucocitos
+T22 PROC 211 221 creatinina
+T23 PROC 155 162 glucosa
+T24 PROC 415 433 electrocardiograma
+T25 DISO 457 476 taquicardia sinusal
+T26 PROC 426 443 análisis de orina
+T27 CHEM 183 190 cocaína
+T28 CHEM 406 421 benzodiazepinas
+T29 PROC 617 639 tratamiento evacu ante
+T30 CHEM 871 901 solución de polie til englicol
+T31 CHEM 91 94 Cas
+T32 CHEM 249 257 englicol
+T33 PROC 609 628 observación clínica
+T34 PROC 232 239 ingreso
+T35 DISO 715 736 agitación psicomotriz
+T36 DISO 386 397 taquicardia
+T37 DISO 1261 1296 disminución del nivel de conciencia
+T38 DISO 149 153 inco
+T39 DISO 191 196 ordin
+T40 DISO 469 481 ación motora
+T41 DISO 361 370 midriasis
+T42 DISO 985 1009 crisis tónico - cl ónica
+T43 PROC 1807 1850 trasladado a una unidad cuidados intensivos
+T44 CHEM 87 89 cl
+T45 CHEM 353 361 onazepam
+T46 CHEM 361 369 diazepam
+T47 PROC 507 518 laparotomía
+T48 ANAT 800 817 cavidad abdominal
+T49 DISO 337 344 cuerpos
+T50 ANAT 785 801 tracto digestivo
+T51 PROC 301 307 gastro
+T52 PROC 817 833 tomía transversa
+T53 ANAT 313 319 antral
+T54 PROC 54 55 i
+T55 PROC 163 166 leo
+T56 PROC 991 1009 tomía longitudinal
+T57 ANAT 1065 1084 válvula ile oc ecal
+T58 PROC 229 233 colo
+T59 PROC 1219 1240 tomías longitudinales
+T60 ANAT 945 961 colon transverso
+T61 ANAT 301 306 sigma
+T62 PROC 1160 1179 lavado anteróg rado
+T63 ANAT 311 316 recto
+T64 ANAT 64 65 -
+T65 ANAT 193 196 sig
+T66 ANAT 131 133 ma
+T67 CHEM 1123 1140 suero fisiológico
+T68 PROC 269 273 colo
+T69 PROC 341 346 tomía
+T70 DISO 484 491 cuerpos
+T71 DISO 491 498 enfermo
+T72 PROC 782 793 observación
+T73 PROC 1441 1461 vigilancia intensiva
+T74 PROC 585 593 peristal
+T75 PROC 223 226 sis
+T76 PROC 751 761 dieta oral

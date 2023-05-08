@@ -1,0 +1,75 @@
+T1 PROC 1 8 ingresa
+T2 DISO 23 45 accidente de automóvil
+T3 DISO 21 31 politrauma
+T4 DISO 16 21 tismo
+T5 DISO 113 141 fractura de 6 Â° arco costal
+T6 DISO 91 109 contusión pulmonar
+T7 DISO 31 36 lacer
+T8 DISO 78 89 ación renal
+T9 DISO 353 397 hematoma sub capsular y suprarrenal derechos
+T10 DISO 244 271 hematoma de pared abdominal
+T11 DISO 241 265 luxación de codo derecho
+T12 DISO 232 253 lesión lig ament aria
+T13 ANAT 85 92 rodilla
+T14 DISO 417 449 heridas con pérdida de sustancia
+T15 ANAT 323 346 extremidades inferiores
+T16 DISO 46 49 TCE
+T17 PROC 353 375 intubación orotraqueal
+T18 PROC 341 361 ventilación asistida
+T19 DISO 469 495 insuficiencia respiratoria
+T20 PROC 457 481 transfusiones sanguíneas
+T21 DISO 241 253 anemia aguda
+T22 PROC 127 133 ingres
+T23 PROC 243 254 ando en UCI
+T24 PROC 47 49 Ex
+T25 PROC 49 51 tu
+T26 PROC 101 105 bado
+T27 PROC 547 568 colocación de un yeso
+T28 ANAT 730 757 extremidad inferior derecha
+T29 PROC 477 494 alta hospitalaria
+T30 DISO 320 331 traumatismo
+T31 DISO 631 652 dolor dorso - lum bar
+T32 DISO 1086 1121 traumatismo renal pérdida de fuerza
+T33 DISO 353 364 parestesias
+T34 DISO 100 103 dis
+T35 DISO 273 281 estesias
+T36 ANAT 806 829 extremidades inferiores
+T37 DISO 1045 1074 dificultad iniciar la micción
+T38 DISO 519 533 estreá±imiento
+T39 DISO 419 430 traumatismo
+T40 PROC 79 81 Rx
+T41 ANAT 281 288 columna
+T42 ANAT 329 337 torácica
+T43 ANAT 253 259 lumbar
+T44 ANAT 388 397 distancia
+T45 ANAT 309 316 interes
+T46 ANAT 136 139 pin
+T47 ANAT 139 142 osa
+T48 ANAT 753 769 cuerpo vertebral
+T49 DISO 385 393 luxación
+T50 ANAT 932 951 facetas articulares
+T51 DISO 401 409 fractura
+T52 ANAT 817 833 cuerpo vertebral
+T53 PROC 105 107 RM
+T54 DISO 1114 1135 hematomas en el canal
+T55 PROC 109 111 Rx
+T56 DISO 936 953 contusión medular
+T57 ANAT 337 343 sangre
+T58 ANAT 1426 1451 ligamento interes pin oso
+T59 PROC 407 414 ingreso
+T60 DISO 237 241 para
+T61 DISO 421 428 paresia
+T62 DISO 1160 1179 déficits sensitivos
+T63 DISO 311 316 hiper
+T64 DISO 190 193 ref
+T65 DISO 1025 1041 lexia rotul iana
+T66 DISO 1301 1321 liberación piramidal
+T67 PROC 133 135 TC
+T68 ANAT 805 817 facetas T 11
+T69 ANAT 273 277 T 12
+T70 DISO 1312 1331 estenosis del canal
+T71 PROC 2731 2770 reconstrucción sagital y tridimensional
+T72 DISO 569 577 luxación
+T73 ANAT 1369 1388 facetas articulares
+T74 ANAT 74 75 T
+T75 PROC 2073 2101 intervenido quiráºrgicamente

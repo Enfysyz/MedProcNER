@@ -1,0 +1,72 @@
+T1 DISO 1 10 fallecido
+T2 DISO 17 33 Carcinoma pulmón
+T3 DISO 7 10 Sin
+T4 DISO 7 9 us
+T5 DISO 17 21 itis
+T6 DISO 41 49 rinorrea
+T7 DISO 13 15 ep
+T8 DISO 29 33 ísta
+T9 DISO 25 28 xis
+T10 PROC 46 51 rinos
+T11 PROC 51 56 copia
+T12 DISO 45 49 masa
+T13 ANAT 121 131 fosa nasal
+T14 DISO 157 169 poli po ideo
+T15 DISO 71 76 sangr
+T16 ANAT 151 161 fosa nasal
+T17 ANAT 113 120 tabique
+T18 ANAT 86 91 corne
+T19 ANAT 145 153 te medio
+T20 ANAT 39 41 co
+T21 ANAT 61 64 ana
+T22 ANAT 148 155 nasofar
+T23 ANAT 89 93 inge
+T24 PROC 162 169 biopsia
+T25 DISO 73 76 est
+T26 DISO 51 53 es
+T27 DISO 105 109 ione
+T28 DISO 82 85 uro
+T29 DISO 225 233 blastoma
+T30 PROC 639 661 TAC de cabeza y cuello
+T31 DISO 511 528 masa poli po idea
+T32 ANAT 311 321 fosa nasal
+T33 ANAT 97 100 cav
+T34 ANAT 67 69 um
+T35 PROC 749 771 RNM de cabeza y cuello
+T36 DISO 946 973 lesión ocup ante de espacio
+T37 ANAT 109 112 cav
+T38 ANAT 75 77 um
+T39 ANAT 495 508 fosas nasales
+T40 ANAT 976 1001 musculatura pre vertebral
+T41 ANAT 201 206 infil
+T42 ANAT 165 169 trar
+T43 ANAT 85 87 la
+T44 PROC 861 881 estudio de extensión
+T45 PROC 529 541 TAC de tórax
+T46 PROC 721 737 gammagrafía ósea
+T47 DISO 415 424 patología
+T48 PROC 518 529 intervenida
+T49 PROC 1393 1422 cirugía funcional endoscópica
+T50 DISO 148 151 est
+T51 DISO 101 103 es
+T52 DISO 205 209 ione
+T53 DISO 157 160 uro
+T54 DISO 425 433 blastoma
+T55 PROC 163 166 TAC
+T56 ANAT 1101 1121 seno maxilar derecho
+T57 DISO 1793 1825 engrosamiento poli po ideo de la
+T58 ANAT 343 349 mucosa
+T59 DISO 581 591 malignidad
+T60 ANAT 1181 1201 seno frontal derecho
+T61 PROC 1261 1282 tratamiento adyuvante
+T62 PROC 2502 2543 Radioterapia externa Ac el erador L ineal
+T63 ANAT 435 442 tisular
+T64 PROC 1135 1153 simulación virtual
+T65 PROC 1089 1106 planificación 3 D
+T66 PROC 846 859 TC helicoidal
+T67 ANAT 859 872 lecho tumoral
+T68 DISO 1609 1633 toxicidad máxima cutánea
+T69 ANAT 409 415 mucosa
+T70 ANAT 415 421 orofar
+T71 ANAT 351 356 íngea
+T72 PROC 782 793 irradiación

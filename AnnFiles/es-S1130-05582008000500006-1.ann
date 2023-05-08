@@ -1,0 +1,71 @@
+T1 PROC 1 9 consulta
+T2 PROC 12 23 diagnóstico
+T3 DISO 5 7 SM
+T4 DISO 4 5 R
+T5 DISO 73 91 aumento de volumen
+T6 ANAT 71 85 labio inferior
+T7 PROC 67 78 tratamiento
+T8 CHEM 78 89 corticoides
+T9 DISO 145 163 aumento de volumen
+T10 ANAT 127 141 labio inferior
+T11 PROC 51 56 biops
+T12 PROC 45 49 iado
+T13 PROC 433 469 diagnosticado histo pat ológicamente
+T14 DISO 14 15 Q
+T15 DISO 15 16 G
+T16 DISO 31 33 SM
+T17 DISO 17 18 R
+T18 PROC 188 199 tratamiento
+T19 PROC 577 609 infiltraciones intr ales ionales
+T20 CHEM 77 81 beta
+T21 CHEM 41 43 me
+T22 CHEM 127 133 tasona
+T23 CHEM 221 231 prednisona
+T24 PROC 208 217 anamnesis
+T25 DISO 529 551 antecedentes mór bidos
+T26 DISO 226 235 epilepsia
+T27 PROC 287 298 tratamiento
+T28 DISO 379 393 retraso mental
+T29 DISO 393 407 hipotiroidismo
+T30 DISO 726 751 resistencia a la insulina
+T31 DISO 211 218 alergia
+T32 CHEM 125 129 yodo
+T33 CHEM 257 265 fármacos
+T34 CHEM 133 137 Levo
+T35 CHEM 273 281 tiroxina
+T36 CHEM 141 145 Carb
+T37 CHEM 109 112 ama
+T38 CHEM 223 229 zepina
+T39 CHEM 381 391 Metformina
+T40 PROC 508 521 examen físico
+T41 DISO 721 739 aumento de volumen
+T42 ANAT 575 589 labio inferior
+T43 ANAT 253 259 lengua
+T44 DISO 259 265 surcos
+T45 ANAT 573 586 dorso lingual
+T46 DISO 721 737 lengua fis urada
+T47 DISO 231 236 macro
+T48 DISO 189 193 glos
+T49 DISO 97 99 ia
+T50 PROC 540 551 tratamiento
+T51 PROC 1601 1633 infiltraciones intr ales ionales
+T52 ANAT 715 729 labio inferior
+T53 CHEM 157 160 Ken
+T54 CHEM 107 109 ac
+T55 CHEM 163 166 ort
+T56 CHEM 56 57 T
+T57 CHEM 225 229 riam
+T58 CHEM 172 175 cin
+T59 CHEM 987 1004 olona acet ón ido
+T60 CHEM 532 541 lidocaína
+T61 DISO 301 306 dolor
+T62 PROC 733 745 infiltración
+T63 PROC 435 442 control
+T64 PROC 64 65 ó
+T65 ANAT 897 911 labio inferior
+T66 PROC 781 793 infiltración
+T67 PROC 199 202 que
+T68 PROC 202 205 ilo
+T69 PROC 2653 2692 plastía de reducción del labio inferior
+T70 PROC 1174 1191 anestesia general
+T71 ANAT 421 427 labial

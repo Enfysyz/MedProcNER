@@ -1,0 +1,72 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 67 133 carcinoma de endometrio mixto , endometrio ide y de células claras
+T3 PROC 15 22 ingreso
+T4 DISO 7 9 me
+T5 DISO 9 11 tr
+T6 DISO 11 13 or
+T7 DISO 37 43 ragias
+T8 PROC 92 105 histerectomía
+T9 PROC 33 37 anex
+T10 PROC 154 171 ectomía bilateral
+T11 PROC 231 254 linfadenectomía pélvica
+T12 PROC 430 469 tratamiento con braquiterapia adyuvante
+T13 PROC 85 92 ingreso
+T14 PROC 365 393 controles consultas externas
+T15 DISO 141 151 enfermedad
+T16 PROC 106 113 ingreso
+T17 DISO 113 120 astenia
+T18 DISO 137 145 anorexia
+T19 DISO 163 172 debilidad
+T20 DISO 267 281 desorientación
+T21 DISO 81 85 brad
+T22 DISO 43 45 if
+T23 DISO 89 93 asia
+T24 DISO 323 337 estreá±imiento
+T25 DISO 193 201 poliuria
+T26 DISO 76 79 nic
+T27 DISO 131 136 turia
+T28 DISO 109 113 poli
+T29 DISO 57 59 di
+T30 DISO 117 121 psia
+T31 PROC 271 280 analítica
+T32 PROC 94 97 cal
+T33 PROC 161 166 cemia
+T34 PROC 298 307 analítica
+T35 PROC 103 106 cal
+T36 PROC 176 181 cemia
+T37 PROC 469 482 calcio iónico
+T38 PROC 667 685 exploración física
+T39 PROC 837 859 radiografía de abdomen
+T40 PROC 703 721 electrocardiograma
+T41 PROC 441 452 diagnostica
+T42 DISO 1067 1093 síndrome hiper cal c émico
+T43 PROC 211 216 trata
+T44 PROC 560 573 rehidratación
+T45 CHEM 45 46 z
+T46 CHEM 136 139 ole
+T47 CHEM 323 330 dronato
+T48 CHEM 471 481 furosemida
+T49 PROC 145 148 cal
+T50 PROC 246 251 cemia
+T51 PROC 551 562 tratamiento
+T52 PROC 358 365 ingresa
+T53 PROC 157 160 VSG
+T54 PROC 478 487 albáºmina
+T55 PROC 163 166 PTH
+T56 PROC 111 113 25
+T57 PROC 57 58 -
+T58 PROC 286 291 hidro
+T59 PROC 59 60 x
+T60 PROC 119 121 iv
+T61 PROC 661 672 itamina D 3
+T62 PROC 1221 1241 marcadores tumorales
+T63 DISO 1055 1072 neoplasia uterina
+T64 PROC 1009 1025 gammagrafía ósea
+T65 PROC 1537 1561 TAC torácico y abdominal
+T66 DISO 2081 2113 masa en fondo de saco de Douglas
+T67 DISO 2179 2212 implantes tumorales perit oneales
+T68 DISO 1408 1429 metástasis pulmonares
+T69 PROC 1361 1381 biopsia transvaginal
+T70 DISO 2209 2241 masa en fondo de saco de Douglas
+T71 DISO 1471 1492 enfermedad neoplásica
+T72 PROC 1350 1369 cuidados paliativos

@@ -1,0 +1,97 @@
+T1 DISO 1 9 asmática
+T2 PROC 12 23 tratamiento
+T3 CHEM 31 46 anticonceptivos
+T4 DISO 58 77 cefalea holocraneal
+T5 DISO 37 46 fotofobia
+T6 DISO 36 43 nauseas
+T7 DISO 43 50 vómitos
+T8 DISO 43 49 fiebre
+T9 DISO 225 253 inestabilidad para la marcha
+T10 DISO 73 81 diplopia
+T11 PROC 181 199 examen neurológico
+T12 DISO 155 169 rigidez n ucal
+T13 DISO 61 66 oftal
+T14 DISO 27 29 mo
+T15 DISO 281 301 plejia intern uclear
+T16 PROC 46 49 Rom
+T17 PROC 65 69 berg
+T18 PROC 511 541 tomografía axial computarizada
+T19 DISO 109 115 lesión
+T20 ANAT 286 301 región temporal
+T21 ANAT 61 64 cis
+T22 ANAT 463 485 ternas sup ras el ares
+T23 ANAT 89 93 cuad
+T24 ANAT 70 73 rig
+T25 ANAT 457 476 é minas bilaterales
+T26 ANAT 651 677 ángulo pon to cereb el oso
+T27 ANAT 911 946 asta frontal del ventrículo lateral
+T28 CHEM 136 141 grasa
+T29 DISO 505 523 meningitis química
+T30 DISO 784 811 ruptura de quiste der moide
+T31 PROC 331 342 tratamiento
+T32 CHEM 373 385 dexametasona
+T33 PROC 929 958 resonancia magnética cerebral
+T34 DISO 265 273 síntomas
+T35 DISO 205 211 masa a
+T36 DISO 211 217 quiste
+T37 ANAT 469 482 polo temporal
+T38 ANAT 112 115 cis
+T39 ANAT 951 976 terna perim es encefálica
+T40 CHEM 196 201 grasa
+T41 ANAT 881 903 espacio subaracno ideo
+T42 ANAT 124 127 mes
+T43 ANAT 337 345 encéfalo
+T44 PROC 1291 1321 secuencias potenci adas en T 2
+T45 PROC 1101 1126 secuencias en difusión AD
+T46 PROC 46 47 C
+T47 DISO 783 800 infarto isquémico
+T48 PROC 471 481 resonancia
+T49 PROC 817 834 secuencias en T 1
+T50 PROC 99 101 EG
+T51 PROC 51 52 D
+T52 PROC 766 781 supresión grasa
+T53 PROC 729 743 administración
+T54 CHEM 478 487 gadolinio
+T55 ANAT 1189 1211 espacio subaracno ideo
+T56 DISO 771 785 acáºmulo graso
+T57 ANAT 169 172 cis
+T58 ANAT 1369 1393 terna inter ped un cular
+T59 ANAT 117 119 la
+T60 ANAT 414 421 basilar
+T61 ANAT 2761 2807 ramas perfor antes medi ales mes ence fál icas
+T62 ANAT 1953 1985 arterias cerebel osas superiores
+T63 ANAT 1923 1954 arterias cerebrales posteriores
+T64 PROC 694 705 neuroimagen
+T65 PROC 385 391 prueba
+T66 PROC 716 727 tratamiento
+T67 CHEM 1453 1475 ácido acetilsalicílico
+T68 PROC 1207 1225 estudio etiológico
+T69 DISO 341 346 ictus
+T70 PROC 622 631 analítica
+T71 PROC 631 640 hemograma
+T72 PROC 214 217 lip
+T73 PROC 217 220 ido
+T74 PROC 366 371 grama
+T75 PROC 1777 1801 estudio de autoinmunidad
+T76 PROC 676 685 serología
+T77 PROC 1369 1387 hormonas tiroideas
+T78 PROC 463 469 homoci
+T79 PROC 235 238 ste
+T80 PROC 238 241 ina
+T81 PROC 2161 2188 anticuerpos antic ardi olip
+T82 CHEM 82 83 B
+T83 CHEM 83 84 2
+T84 CHEM 831 841 antifosfol
+T85 CHEM 421 426 ípido
+T86 PROC 2891 2925 estudio de líquido cefalorraquídeo
+T87 PROC 1549 1567 electrocardiograma
+T88 PROC 175 177 du
+T89 PROC 2641 2671 plex de troncos supra ór ticos
+T90 PROC 1781 1801 doppler transcraneal
+T91 PROC 1441 1457 test de burbujas
+T92 PROC 2731 2761 ecocardiografía trans torácica
+T93 PROC 277 280 hol
+T94 PROC 1489 1505 ter de arritmias
+T95 PROC 377 381 angi
+T96 PROC 381 385 ores
+T97 PROC 1921 1941 onancia de polí gono

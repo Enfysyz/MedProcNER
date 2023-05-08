@@ -1,0 +1,67 @@
+T1 DISO 1 6 dolor
+T2 DISO 24 47 dolor abdominal crónico
+T3 DISO 35 52 angina intestinal
+T4 DISO 106 141 enfermedades cron ico degenerativas
+T5 PROC 25 31 laparo
+T6 PROC 31 37 tomías
+T7 PROC 145 169 laparoscopia diagnóstica
+T8 DISO 141 161 isquemia mesentérica
+T9 PROC 89 100 Diagnóstico
+T10 DISO 181 201 isquemia mesentérica
+T11 PROC 561 617 tomografía computarizada con contraste venoso y arterial
+T12 DISO 254 277 dolor abdominal crónico
+T13 CHEM 133 144 analgésicos
+T14 DISO 157 169 Dolor cólico
+T15 DISO 211 226 náusea y vómito
+T16 PROC 271 289 Exploración física
+T17 PROC 257 273 presión arterial
+T18 PROC 324 343 frecuencia cardíaca
+T19 PROC 415 438 frecuencia respiratoria
+T20 DISO 628 661 palidez de mucosas y te g umentos
+T21 DISO 41 43 ca
+T22 DISO 43 45 qu
+T23 DISO 45 47 éc
+T24 DISO 93 97 tica
+T25 ANAT 97 101 Cara
+T26 ANAT 151 157 cabeza
+T27 ANAT 157 163 cuello
+T28 ANAT 379 393 cardiopulmonar
+T29 ANAT 197 204 abdomen
+T30 DISO 146 151 dolor
+T31 ANAT 121 125 cuad
+T32 ANAT 187 193 rantes
+T33 PROC 961 991 palpación superficial profunda
+T34 PROC 100 103 sis
+T35 DISO 171 176 masas
+T36 PROC 631 649 exploración física
+T37 PROC 829 852 Diagnóstico alg ológico
+T38 DISO 852 875 dolor abdominal crónico
+T39 PROC 837 859 Diagnóstico etiológico
+T40 DISO 664 681 angina intestinal
+T41 DISO 81 83 is
+T42 DISO 739 757 quemia mesentérica
+T43 PROC 43 44 T
+T44 PROC 130 133 era
+T45 PROC 133 136 péu
+T46 PROC 181 185 tica
+T47 CHEM 369 377 opiáceos
+T48 CHEM 236 241 hidro
+T49 CHEM 193 197 morf
+T50 CHEM 148 151 ona
+T51 CHEM 401 409 metadona
+T52 CHEM 52 53 o
+T53 CHEM 417 425 xicodona
+T54 CHEM 372 379 morfina
+T55 CHEM 487 496 fentanilo
+T56 CHEM 221 225 adyu
+T57 CHEM 337 343 vantes
+T58 CHEM 1312 1335 antagonistas del calcio
+T59 CHEM 465 473 nitratos
+T60 PROC 945 961 intervencionismo
+T61 PROC 901 916 anticoagulación
+T62 CHEM 123 125 ac
+T63 CHEM 125 127 en
+T64 CHEM 127 129 oc
+T65 CHEM 257 261 umar
+T66 CHEM 196 199 ina
+T67 CHEM 1783 1810 antiagregantes plaquetarios

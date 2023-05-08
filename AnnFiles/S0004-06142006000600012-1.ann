@@ -1,0 +1,78 @@
+T1 DISO 1 32 dolor en hemi esc ro to derecho
+T2 PROC 14 27 examen físico
+T3 DISO 21 31 varicocele
+T4 DISO 22 29 volumin
+T5 DISO 13 16 osa
+T6 DISO 21 25 masa
+T7 ANAT 109 127 área renal derecha
+T8 PROC 134 153 ecografía abdominal
+T9 DISO 129 145 masa heterogénea
+T10 ANAT 127 141 riá±ón derecho
+T11 ANAT 161 177 riá±ón izquierdo
+T12 PROC 507 553 tomografía axial computada de abdomen y pelvis
+T13 CHEM 109 118 contraste
+T14 DISO 456 491 formación renal derecha heterogénea
+T15 DISO 57 61 aden
+T16 DISO 421 449 omegalias retro peritoneales
+T17 ANAT 353 375 pedículo renal derecho
+T18 PROC 341 361 resonancia magnética
+T19 DISO 631 666 formación heterogénea renal derecha
+T20 ANAT 248 261 polo superior
+T21 ANAT 201 211 vena renal
+T22 ANAT 379 397 vena cava inferior
+T23 PROC 595 622 nefrectomía radical derecha
+T24 PROC 438 457 anatomía patológica
+T25 DISO 769 801 Tumor maligno indifer enciado de
+T26 PROC 451 469 inmunohistoquímica
+T27 DISO 183 190 tumoral
+T28 DISO 136 141 Invas
+T29 DISO 85 88 ión
+T30 DISO 146 151 tumor
+T31 ANAT 391 404 cápsula renal
+T32 DISO 559 577 infiltración focal
+T33 ANAT 769 793 grasa per is up rar enal
+T34 ANAT 100 103 Hil
+T35 ANAT 273 281 io renal
+T36 DISO 211 217 lesión
+T37 DISO 109 112 Emb
+T38 DISO 75 77 ol
+T39 DISO 533 547 ias vasculares
+T40 DISO 547 561 lesión tumoral
+T41 ANAT 241 247 Riá±ón
+T42 DISO 452 463 neoplás ico
+T43 DISO 883 904 pielonefritis crónica
+T44 DISO 87 89 Ar
+T45 DISO 221 226 terio
+T46 DISO 271 277 arteri
+T47 DISO 93 95 ol
+T48 DISO 142 145 one
+T49 DISO 145 148 fro
+T50 DISO 491 501 esclerosis
+T51 DISO 951 970 quiste de retención
+T52 ANAT 103 105 Gl
+T53 ANAT 157 160 ánd
+T54 ANAT 796 811 ula suprarrenal
+T55 DISO 325 331 lesión
+T56 PROC 111 113 IH
+T57 DISO 281 286 Nefro
+T58 DISO 742 755 blastoma T um
+T59 DISO 697 709 or de Wil ms
+T60 PROC 119 121 TC
+T61 DISO 961 977 recidiva tumoral
+T62 PROC 672 683 nefrectomía
+T63 PROC 435 442 esquema
+T64 PROC 820 833 quimioterapia
+T65 CHEM 193 196 vin
+T66 CHEM 66 67 c
+T67 CHEM 463 470 ristina
+T68 CHEM 68 69 d
+T69 CHEM 341 346 actin
+T70 CHEM 484 491 omicina
+T71 CHEM 351 356 doxor
+T72 CHEM 214 217 ubi
+T73 CHEM 289 293 cina
+T74 PROC 950 963 quimioterapia
+T75 DISO 593 601 neumonía
+T76 DISO 2101 2129 deterioro del estado general
+T77 DISO 457 463 sepsis
+T78 PROC 848 859 nefrectomía

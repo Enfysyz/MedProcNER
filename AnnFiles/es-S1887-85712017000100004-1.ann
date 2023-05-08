@@ -1,0 +1,60 @@
+T1 PROC 1 8 disparo
+T2 ANAT 6 11 muslo
+T3 PROC 39 58 valoración primaria
+T4 PROC 25 33 atención
+T5 PROC 21 26 evacu
+T6 PROC 16 19 ado
+T7 PROC 67 78 diagnostica
+T8 DISO 295 337 fractura de tercio distal de fémur derecho
+T9 PROC 89 100 exploración
+T10 DISO 73 81 lesiones
+T11 PROC 191 210 limpieza exhaustiva
+T12 PROC 155 169 desbridamiento
+T13 DISO 85 92 heridas
+T14 ANAT 66 71 muslo
+T15 PROC 743 796 inmovilización miembro inferior férula cru ro p édica
+T16 PROC 331 353 profilaxis antibiótica
+T17 PROC 401 426 profilaxis anti te tánica
+T18 PROC 443 469 profilaxis antitromb ótica
+T19 PROC 361 381 valoración terciaria
+T20 PROC 153 161 TC axial
+T21 ANAT 101 106 fémur
+T22 DISO 1177 1233 fractura con min uta del tercio distal del fémur derecho
+T23 ANAT 287 300 compartimento
+T24 PROC 714 745 tratamiento quiráºrgico externo
+T25 PROC 841 876 interviene quiráºrgicamente externo
+T26 ANAT 226 235 femorales
+T27 PROC 781 811 anestesia regional intrad ural
+T28 PROC 217 225 sedación
+T29 DISO 1093 1132 incidencias quiráºrgicas o anestés icas
+T30 PROC 349 361 intervención
+T31 DISO 181 187 herido
+T32 PROC 373 385 intervención
+T33 PROC 641 661 ingreso hospitalario
+T34 PROC 397 409 dado de alta
+T35 PROC 1157 1191 seguimiento clínico - radi ológico
+T36 PROC 421 433 intervención
+T37 ANAT 253 260 rodilla
+T38 DISO 297 305 fractura
+T39 PROC 305 313 revisión
+T40 PROC 547 561 estudio por TC
+T41 DISO 321 329 fractura
+T42 DISO 698 715 rigidez articular
+T43 ANAT 295 302 rodilla
+T44 PROC 302 309 reinter
+T45 PROC 265 271 venido
+T46 PROC 1351 1381 anestesia regional intrad ural
+T47 PROC 369 377 sedación
+T48 PROC 283 289 refres
+T49 PROC 193 197 cado
+T50 DISO 393 401 fractura
+T51 PROC 801 817 fijación interna
+T52 PROC 256 261 encla
+T53 PROC 1977 2015 vado endom ed ular femoral retróg rado
+T54 PROC 584 595 tratamiento
+T55 DISO 2053 2091 contractura en extensión de la rodilla
+T56 PROC 276 281 cuadr
+T57 PROC 169 172 ice
+T58 PROC 400 407 plastia
+T59 PROC 581 591 técnica de
+T60 ANAT 414 421 rodilla

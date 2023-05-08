@@ -1,0 +1,63 @@
+T1 PROC 1 9 exéresis
+T2 DISO 33 65 melanoma cutáneo maligno nodular
+T3 ANAT 13 19 hombro
+T4 PROC 22 29 tratada
+T5 CHEM 41 51 interferón
+T6 PROC 46 55 controles
+T7 PROC 43 50 ingresa
+T8 DISO 134 153 oclusión intestinal
+T9 PROC 105 118 TAC abdominal
+T10 DISO 46 51 invag
+T11 DISO 281 309 inación de intestino delgado
+T12 PROC 122 133 Tratamiento
+T13 PROC 385 417 intervención quiráºrgica urgente
+T14 PROC 391 421 resección segmentaria de íleon
+T15 DISO 337 361 tumoración intral uminal
+T16 ANAT 91 97 serosa
+T17 DISO 417 443 tumoraciones poli po ideas
+T18 PROC 86 91 resec
+T19 PROC 199 210 diagnóstico
+T20 PROC 362 381 cirugía de urgencia
+T21 DISO 281 295 complicaciones
+T22 PROC 442 463 Estudio macros cópico
+T23 ANAT 221 231 superficie
+T24 ANAT 139 145 serosa
+T25 ANAT 193 201 pliegues
+T26 DISO 301 313 tumoraciones
+T27 PROC 27 28 M
+T28 PROC 55 57 ic
+T29 ANAT 197 204 células
+T30 ANAT 291 301 citoplasma
+T31 CHEM 241 249 melanina
+T32 ANAT 311 321 citoplasma
+T33 DISO 225 232 mitosis
+T34 DISO 232 239 células
+T35 DISO 171 176 ulcer
+T36 ANAT 211 217 mucosa
+T37 ANAT 577 593 pared intestinal
+T38 ANAT 112 115 mes
+T39 ANAT 267 274 enterio
+T40 ANAT 391 401 vasculares
+T41 ANAT 681 698 células tumorales
+T42 CHEM 1313 1345 anticuerpos monoclonales HM B 45
+T43 CHEM 673 689 proteína S - 100
+T44 PROC 259 265 immuno
+T45 PROC 221 226 histo
+T46 PROC 316 323 química
+T47 DISO 1427 1458 metástasis en intestino delgado
+T48 DISO 753 769 melanoma cutáneo
+T49 PROC 1393 1422 opción quiráºrgica de rescate
+T50 PROC 1422 1451 tránsito de intestino delgado
+T51 DISO 401 409 lesiones
+T52 ANAT 1072 1093 unión yeyuno - ile al
+T53 PROC 157 160 PET
+T54 ANAT 584 595 línea media
+T55 ANAT 487 496 abdominal
+T56 PROC 386 393 reinter
+T57 PROC 337 343 venida
+T58 PROC 1141 1161 resección intestinal
+T59 ANAT 349 355 yeyuno
+T60 ANAT 296 301 íleon
+T61 DISO 601 611 enfermedad
+T62 PROC 1099 1117 estudio patológico
+T63 DISO 435 442 tumores

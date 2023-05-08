@@ -1,0 +1,38 @@
+T1 DISO 1 19 hemorragia macular
+T2 DISO 19 37 traumatismo ocular
+T3 PROC 5 7 AV
+T4 PROC 58 77 presión intraocular
+T5 DISO 41 51 hemorragia
+T6 PROC 46 55 instaurar
+T7 PROC 67 78 tratamiento
+T8 CHEM 78 89 corticoides
+T9 CHEM 41 46 ciclo
+T10 CHEM 37 41 pléj
+T11 CHEM 31 34 ico
+T12 PROC 23 25 AV
+T13 DISO 121 131 hemorragia
+T14 PROC 40 43 vit
+T15 PROC 253 271 rectomía posterior
+T16 DISO 151 161 hemorragia
+T17 CHEM 65 69 perf
+T18 CHEM 35 37 lu
+T19 CHEM 55 58 oro
+T20 CHEM 77 81 prop
+T21 CHEM 61 64 ano
+T22 ANAT 127 133 retina
+T23 CHEM 23 24 r
+T24 CHEM 24 25 t
+T25 CHEM 25 26 -
+T26 CHEM 51 53 PA
+T27 PROC 183 190 rellena
+T28 ANAT 325 337 globo ocular
+T29 CHEM 85 88 gas
+T30 CHEM 59 61 SF
+T31 CHEM 31 32 6
+T32 PROC 1055 1089 posicionamiento en decáºbito prono
+T33 PROC 385 397 intervención
+T34 PROC 67 69 AV
+T35 DISO 613 631 hemorragia macular
+T36 DISO 211 217 sangre
+T37 DISO 1225 1259 rotura coro idea yux ta fo ve olar
+T38 PROC 75 77 AV

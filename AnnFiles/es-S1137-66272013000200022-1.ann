@@ -1,0 +1,83 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 27 53 enfermedad de Crohn ile al
+T3 PROC 23 34 tratamiento
+T4 CHEM 10 13 cla
+T5 CHEM 25 31 versal
+T6 CHEM 56 67 azatioprina
+T7 DISO 43 50 cortico
+T8 DISO 78 89 dependencia
+T9 PROC 89 100 tratamiento
+T10 CHEM 55 61 hierro
+T11 CHEM 131 144 vitamina B 12
+T12 CHEM 133 145 ácido fólico
+T13 PROC 217 235 enzimas colestasis
+T14 CHEM 144 155 azatioprina
+T15 PROC 29 31 Ex
+T16 PROC 31 33 pl
+T17 PROC 225 239 oración física
+T18 PROC 273 289 Tensión arterial
+T19 PROC 487 514 Auscultación cardiopulmonar
+T20 DISO 134 141 Abdomen
+T21 DISO 161 169 doloroso
+T22 DISO 106 111 masas
+T23 DISO 177 185 megalias
+T24 ANAT 530 553 Extremidades inferiores
+T25 DISO 241 251 colestasis
+T26 PROC 226 235 Hemograma
+T27 PROC 287 298 coagulación
+T28 PROC 244 253 Plaquetas
+T29 PROC 421 436 Perfil hepático
+T30 PROC 146 151 Trans
+T31 PROC 181 187 aminas
+T32 PROC 63 65 as
+T33 PROC 65 67 FA
+T34 PROC 100 103 GGT
+T35 PROC 511 526 Perfil fér rico
+T36 PROC 456 469 autoinmunidad
+T37 PROC 109 112 Ser
+T38 PROC 1185 1217 ologías virus de hepatitis B y C
+T39 PROC 115 118 Eco
+T40 PROC 625 641 grafía abdominal
+T41 ANAT 241 247 Hígado
+T42 ANAT 411 421 parénquima
+T43 DISO 925 947 lesiones ocupacionales
+T44 DISO 603 617 esplenomegalia
+T45 ANAT 221 226 porta
+T46 ANAT 496 507 estructuras
+T47 PROC 47 48 Ċ
+T48 PROC 612 625 RMN abdominal
+T49 ANAT 289 295 Hígado
+T50 DISO 393 401 lesiones
+T51 DISO 701 715 esplenomegalia
+T52 ANAT 562 573 estructuras
+T53 PROC 157 160 Gas
+T54 PROC 478 487 troscopia
+T55 ANAT 1405 1431 tercio inferior de esófago
+T56 DISO 1046 1065 cordones varicos os
+T57 PROC 281 286 insuf
+T58 PROC 343 349 lación
+T59 DISO 581 591 colestasis
+T60 CHEM 650 661 azatioprina
+T61 PROC 961 977 biopsia hepática
+T62 ANAT 855 869 espacios porta
+T63 DISO 373 379 puente
+T64 DISO 757 769 o incompleto
+T65 ANAT 193 196 por
+T66 ANAT 131 133 to
+T67 ANAT 397 403 portal
+T68 ANAT 68 69 V
+T69 ANAT 1769 1795 enas centro lobul ill ares
+T70 DISO 691 701 colestasis
+T71 DISO 351 356 hemos
+T72 DISO 285 289 ider
+T73 DISO 289 293 osis
+T74 ANAT 731 741 macrófagos
+T75 PROC 223 226 PAS
+T76 ANAT 1051 1065 espacios porta
+T77 DISO 2281 2311 infiltrado de células redondas
+T78 ANAT 232 235 tra
+T79 ANAT 157 159 bé
+T80 ANAT 396 401 culas
+T81 ANAT 881 892 hepatocitos
+T82 ANAT 568 575 células
+T83 ANAT 1805 1827 estructuras vasculares

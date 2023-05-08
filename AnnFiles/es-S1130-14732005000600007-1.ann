@@ -1,0 +1,43 @@
+T1 PROC 1 8 ingresó
+T2 DISO 8 15 cefalea
+T3 DISO 83 124 estrabismo conver gente del ojo izquierdo
+T4 DISO 25 33 diplopia
+T5 PROC 93 116 exploración neurológica
+T6 DISO 201 241 estrabismo conver gente de ojo izquierdo
+T7 ANAT 37 43 ocular
+T8 DISO 57 65 nistagmo
+T9 PROC 153 172 analítica de sangre
+T10 PROC 91 101 bioquímica
+T11 PROC 201 221 radiografía de tórax
+T12 PROC 34 37 TAC
+T13 PROC 145 157 RM de cráneo
+T14 DISO 53 57 masa
+T15 ANAT 365 391 ventrículo lateral derecho
+T16 ANAT 76 81 atrio
+T17 ANAT 209 222 asta temporal
+T18 DISO 307 325 edema perilesional
+T19 PROC 253 267 administración
+T20 CHEM 172 181 contraste
+T21 PROC 561 589 intervenida abordaje trans -
+T22 ANAT 127 133 circun
+T23 ANAT 485 507 olución temporal media
+T24 PROC 415 433 extirpación macros
+T25 DISO 241 251 tumoración
+T26 PROC 576 599 estudio histopatológico
+T27 DISO 1015 1054 proliferación neoplásica meningo telial
+T28 DISO 190 197 meningo
+T29 DISO 197 204 telioma
+T30 DISO 117 121 toso
+T31 ANAT 211 218 celular
+T32 PROC 94 97 fic
+T33 DISO 161 166 tumor
+T34 DISO 595 613 meningioma atípico
+T35 ANAT 545 561 células prolifer
+T36 CHEM 631 649 anticuerpo Ki - 67
+T37 PROC 901 926 medida de forma aleatoria
+T38 DISO 186 191 tumor
+T39 PROC 951 976 dada de alta hospitalaria
+T40 PROC 937 961 intervención quiráºrgica
+T41 DISO 1521 1559 estrabismo conver gente de ojo derecho
+T42 PROC 1149 1177 tratamientos complementarios
+T43 PROC 1219 1248 estudios de imagen de control

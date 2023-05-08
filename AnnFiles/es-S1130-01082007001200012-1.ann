@@ -1,0 +1,63 @@
+T1 PROC 1 19 consultas externas
+T2 PROC 14 27 transaminasas
+T3 PROC 37 55 análisis de sangre
+T4 PROC 85 113 estudio ecográfico abdominal
+T5 DISO 9 11 LO
+T6 DISO 6 7 E
+T7 ANAT 37 43 hígado
+T8 PROC 78 89 diagnóstico
+T9 DISO 33 37 hepa
+T10 DISO 37 41 toma
+T11 PROC 351 386 tomografía axial computador izada (
+T12 PROC 298 325 TAC ) abdominal multic orte
+T13 DISO 73 79 lesión
+T14 PROC 118 127 inyección
+T15 CHEM 127 136 contraste
+T16 PROC 166 177 diagnóstico
+T17 DISO 241 256 hepatocarcinoma
+T18 DISO 273 289 lesiones focales
+T19 ANAT 451 476 vía biliar intra hepática
+T20 ANAT 286 301 vesícula biliar
+T21 DISO 401 421 imágenes liti ásicas
+T22 PROC 694 727 punción aspiración con aguja fina
+T23 PROC 45 47 PA
+T24 PROC 47 49 AF
+T25 DISO 145 151 lesión
+T26 PROC 451 469 control ecográfico
+T27 DISO 417 433 células malignas
+T28 PROC 136 141 CD 34
+T29 PROC 757 784 estudio inmunohisto químico
+T30 PROC 871 901 análisis sistemático de sangre
+T31 PROC 481 497 función hepática
+T32 PROC 1024 1057 determinación de inmunoglobulinas
+T33 PROC 353 364 anticuerpos
+T34 PROC 661 681 marcadores tumorales
+T35 PROC 613 631 marcadores virales
+T36 PROC 386 397 diagnóstico
+T37 DISO 145 149 hepa
+T38 DISO 149 153 toma
+T39 DISO 761 781 hígado no cirró tico
+T40 PROC 820 841 resección quiráºrgica
+T41 PROC 361 370 resección
+T42 PROC 493 505 laparoscopia
+T43 ANAT 463 474 hipocondrio
+T44 ANAT 474 485 hipocondrio
+T45 PROC 837 856 estudio histológico
+T46 PROC 496 507 diagnosticó
+T47 DISO 1243 1270 proliferación hepatocelular
+T48 DISO 471 481 malignidad
+T49 DISO 289 295 lesión
+T50 PROC 1030 1051 resección quiráºrgica
+T51 PROC 1251 1276 estudio anatomopatológico
+T52 DISO 868 885 formación nodular
+T53 ANAT 781 796 tejido hepático
+T54 ANAT 266 271 capas
+T55 ANAT 487 496 celulares
+T56 ANAT 386 393 grandes
+T57 ANAT 1065 1084 arterias musculares
+T58 ANAT 970 987 estroma conectivo
+T59 ANAT 813 827 espacios porta
+T60 PROC 1712 1741 diagnóstico anatomopatológico
+T61 DISO 1501 1526 hiperplasia nodular focal
+T62 DISO 855 869 complicaciones
+T63 PROC 745 757 dado de alta

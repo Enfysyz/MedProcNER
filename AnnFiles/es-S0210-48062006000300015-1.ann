@@ -1,0 +1,67 @@
+T1 PROC 1 30 fijación en la columna lumbar
+T2 DISO 17 33 hernias discales
+T3 DISO 43 64 litiasis coral iforme
+T4 ANAT 37 49 pelvis renal
+T5 DISO 41 51 dilatación
+T6 ANAT 66 79 pielocalicial
+T7 PROC 7 8 U
+T8 PROC 15 17 IV
+T9 PROC 217 244 tratamiento alcal in izante
+T10 CHEM 154 171 citrato po tásico
+T11 CHEM 11 12 A
+T12 CHEM 34 37 cal
+T13 CHEM 25 27 ka
+T14 PROC 417 449 colocación de un catéter doble J
+T15 PROC 57 61 lito
+T16 PROC 601 641 tricia extracorpórea con ondas de choque
+T17 PROC 17 18 U
+T18 PROC 35 37 IV
+T19 PROC 199 210 tratamiento
+T20 ANAT 229 241 unidad renal
+T21 PROC 581 610 colocación de catéter doble J
+T22 PROC 358 375 valorar funcional
+T23 ANAT 309 323 riá±ón derecho
+T24 PROC 70 73 ren
+T25 PROC 409 426 ograma iso tópico
+T26 PROC 426 443 gammagrafía renal
+T27 ANAT 157 163 riá±ón
+T28 PROC 379 393 administración
+T29 CHEM 253 262 diurético
+T30 PROC 88 91 ren
+T31 PROC 181 187 ograma
+T32 ANAT 156 161 renal
+T33 ANAT 193 199 riá±ón
+T34 PROC 100 103 ure
+T35 PROC 171 176 teros
+T36 PROC 456 469 copia derecha
+T37 PROC 325 334 anestesia
+T38 DISO 75 77 an
+T39 ANAT 191 196 renal
+T40 PROC 508 521 procedimiento
+T41 DISO 1361 1395 estenosis ureteral lumbar e ilíaca
+T42 DISO 329 337 litiasis
+T43 CHEM 127 130 pol
+T44 CHEM 130 133 ite
+T45 CHEM 133 136 tra
+T46 CHEM 271 277 fluoro
+T47 CHEM 47 48 e
+T48 CHEM 283 289 tileno
+T49 ANAT 289 295 riá±ón
+T50 PROC 197 201 dila
+T51 PROC 101 103 ta
+T52 DISO 919 937 estenosis ureteral
+T53 PROC 625 637 dilataciones
+T54 ANAT 637 649 pelvis renal
+T55 PROC 1027 1046 dilatación ureteral
+T56 PROC 1761 1793 colocación de un catéter doble J
+T57 ANAT 113 115 pi
+T58 ANAT 286 291 élico
+T59 PROC 1103 1122 abordaje percutáneo
+T60 PROC 945 961 extracción bucle
+T61 PROC 661 672 nefrectomía
+T62 ANAT 855 869 riá±ón derecho
+T63 DISO 1117 1135 estenosis ureteral
+T64 PROC 1324 1345 medidas conservadoras
+T65 PROC 1217 1236 nefrectomía derecha
+T66 DISO 781 793 asintomático
+T67 PROC 1057 1073 consulta externa

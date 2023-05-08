@@ -1,0 +1,38 @@
+T1 PROC 1 12 intervenida
+T2 PROC 17 33 Cirugía Cardíaca
+T3 DISO 35 52 problema valvular
+T4 DISO 106 141 complicaciones post quiráºrgicas de
+T5 PROC 29 36 ingreso
+T6 DISO 71 85 cuadro séptico
+T7 ANAT 61 71 mediastino
+T8 PROC 148 169 apertura de la herida
+T9 ANAT 57 64 corazón
+T10 PROC 46 51 curas
+T11 CHEM 171 188 suero fisiológico
+T12 PROC 133 145 intervención
+T13 ANAT 85 92 colgajo
+T14 PROC 92 99 reparar
+T15 DISO 99 106 defecto
+T16 PROC 286 305 ingreso de Cuidados
+T17 PROC 49 52 UCI
+T18 PROC 494 523 soporte ventilatorio asistido
+T19 DISO 469 495 coma inducido por fármacos
+T20 DISO 514 541 polineuropatía generalizada
+T21 ANAT 141 148 corazón
+T22 ANAT 127 133 pleura
+T23 ANAT 199 208 hemitórax
+T24 ANAT 346 361 lóbulo pulmonar
+T25 PROC 913 951 reconstrucción colgajo de dorsal ancho
+T26 CHEM 551 573 material alo plás tico
+T27 DISO 183 190 defecto
+T28 DISO 136 141 herni
+T29 DISO 393 407 ación pulmonar
+T30 DISO 204 211 defecto
+T31 ANAT 211 218 colgajo
+T32 DISO 559 577 cuadro neurológico
+T33 PROC 609 628 trasladada a planta
+T34 PROC 463 477 dada de alta a
+T35 PROC 409 421 intervención
+T36 DISO 281 289 falleció
+T37 DISO 289 297 neumonía
+T38 ANAT 519 533 pulmón derecho

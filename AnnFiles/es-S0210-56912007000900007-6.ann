@@ -1,0 +1,51 @@
+T1 PROC 1 11 trasladada
+T2 DISO 18 35 fallo renal agudo
+T3 DISO 15 22 diarrea
+T4 DISO 22 29 vómitos
+T5 DISO 85 106 hipertensión arterial
+T6 DISO 11 13 DM
+T7 PROC 49 57 tratadas
+T8 CHEM 15 17 ir
+T9 CHEM 25 28 bes
+T10 CHEM 46 51 artán
+T11 CHEM 101 111 amlodipino
+T12 CHEM 111 121 metformina
+T13 PROC 133 144 exploración
+T14 DISO 183 197 deshidratación
+T15 DISO 127 136 taquipnea
+T16 DISO 61 65 brad
+T17 DISO 17 18 i
+T18 DISO 120 127 psiquia
+T19 ANAT 127 134 abdomen
+T20 DISO 153 161 doloroso
+T21 PROC 321 337 presión arterial
+T22 PROC 400 419 frecuencia cardíaca
+T23 PROC 243 254 temperatura
+T24 PROC 323 337 amilasa sérica
+T25 CHEM 169 176 fluidos
+T26 PROC 401 417 presión arterial
+T27 PROC 365 379 administración
+T28 CHEM 298 309 bicarbonato
+T29 PROC 57 59 pH
+T30 CHEM 320 331 bicarbonato
+T31 PROC 361 373 hemodiálisis
+T32 PROC 342 353 tratamiento
+T33 CHEM 321 331 metformina
+T34 PROC 232 239 ingreso
+T35 PROC 341 351 creatinina
+T36 PROC 71 73 pH
+T37 PROC 253 260 amilasa
+T38 PROC 482 495 calcio iónico
+T39 PROC 495 508 triglicéridos
+T40 PROC 1327 1361 tomografía computarizada abdominal
+T41 DISO 1681 1723 infiltración de la grasa peri pancre ática
+T42 DISO 944 967 líquido libre abdominal
+T43 DISO 757 775 pancreatitis aguda
+T44 DISO 517 529 pancreatitis
+T45 DISO 881 901 hipertrigliceridemia
+T46 DISO 586 599 hipercalcemia
+T47 DISO 507 518 alcoholismo
+T48 DISO 706 721 litiasis biliar
+T49 DISO 289 295 trauma
+T50 PROC 932 951 trasladada a planta
+T51 PROC 351 358 ingreso

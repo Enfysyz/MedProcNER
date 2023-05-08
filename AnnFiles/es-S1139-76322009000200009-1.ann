@@ -1,0 +1,50 @@
+T1 PROC 1 9 consulta
+T2 DISO 7 13 llanto
+T3 DISO 7 10 tos
+T4 DISO 70 93 dificultad respiratoria
+T5 DISO 29 36 vómitos
+T6 DISO 41 49 rinorrea
+T7 DISO 79 92 broncoespasmo
+T8 DISO 29 33 asma
+T9 PROC 153 172 exploración clínica
+T10 PROC 145 161 presión arterial
+T11 PROC 191 210 frecuencia cardíaca
+T12 PROC 254 277 frecuencia respiratoria
+T13 PROC 253 274 saturación de oxígeno
+T14 DISO 118 127 irritable
+T15 DISO 365 391 respiración entre cor tada
+T16 DISO 466 497 tiraje sub costal e intercostal
+T17 PROC 401 426 auscultación respiratoria
+T18 DISO 426 451 sibilancias espira torias
+T19 DISO 181 191 espiración
+T20 PROC 400 421 auscultación cardíaca
+T21 ANAT 201 211 orofaringe
+T22 DISO 211 221 hiperémica
+T23 ANAT 89 93 moco
+T24 ANAT 70 73 cav
+T25 ANAT 49 51 um
+T26 PROC 26 27 o
+T27 PROC 209 217 toscopia
+T28 DISO 514 533 hiperemia timpánica
+T29 PROC 309 320 exploración
+T30 PROC 610 631 radiografías de tórax
+T31 DISO 541 559 atrapamiento aéreo
+T32 DISO 156 161 signo
+T33 DISO 609 628 enfisema subcutáneo
+T34 ANAT 199 205 cuello
+T35 DISO 137 141 neum
+T36 DISO 246 253 omedias
+T37 DISO 145 149 tino
+T38 DISO 482 495 broncoespasmo
+T39 PROC 381 391 ingresó en
+T40 PROC 1795 1841 tratamiento con oxígeno mediante gafas nasales
+T41 CHEM 401 411 salbutamol
+T42 CHEM 124 127 pre
+T43 CHEM 379 388 dnisolona
+T44 DISO 259 265 signos
+T45 DISO 353 361 síntomas
+T46 DISO 1036 1059 dificultad respiratoria
+T47 PROC 921 941 radiografía de tórax
+T48 ANAT 471 481 mediastino
+T49 PROC 577 589 dada de alta
+T50 PROC 1373 1401 prueba de clor uros en sudor

@@ -1,0 +1,87 @@
+T1 DISO 1 16 hábitos tóxicos
+T2 DISO 9 17 alérgico
+T3 CHEM 45 67 ácido acetilsalicílico
+T4 CHEM 4 5 A
+T5 CHEM 9 11 AS
+T6 CHEM 56 67 diclofenaco
+T7 DISO 175 204 tumefacción de partes blandas
+T8 DISO 120 137 páºrpura palpable
+T9 ANAT 185 208 extremidades inferiores
+T10 PROC 181 201 estudio inmunológico
+T11 DISO 31 34 cri
+T12 DISO 56 61 oglob
+T13 DISO 97 105 ulinemia
+T14 PROC 53 57 crio
+T15 PROC 71 76 crito
+T16 PROC 31 33 Ig
+T17 CHEM 113 120 M kappa
+T18 CHEM 52 55 IgG
+T19 PROC 1297 1369 serologías para virus hepato tropos virus de la inmunodeficiencia humana
+T20 DISO 58 61 VIH
+T21 PROC 641 673 anticuerpos antifosfol ip ídicos
+T22 PROC 379 397 exploración física
+T23 DISO 375 392 páºrpura palpable
+T24 ANAT 530 553 extremidades inferiores
+T25 PROC 625 651 tomografía computarizada (
+T26 PROC 526 547 TC ) toraco abdominal
+T27 DISO 287 298 adenopatías
+T28 DISO 406 421 visceromegalias
+T29 DISO 505 523 vasculitis cutánea
+T30 PROC 320 331 tratamiento
+T31 CHEM 301 311 prednisona
+T32 DISO 249 257 lesiones
+T33 PROC 257 265 consulta
+T34 DISO 364 375 parestesias
+T35 ANAT 783 806 extremidades inferiores
+T36 DISO 316 325 petequias
+T37 DISO 685 704 síndrome nefr ítico
+T38 PROC 334 343 analítica
+T39 DISO 153 157 hipo
+T40 DISO 235 241 comple
+T41 DISO 201 206 mente
+T42 DISO 124 127 mia
+T43 PROC 169 173 crio
+T44 PROC 216 221 crito
+T45 PROC 309 316 protein
+T46 PROC 271 277 ograma
+T47 PROC 277 283 Inmuno
+T48 PROC 330 337 electro
+T49 PROC 673 687 foresis sérica
+T50 CHEM 981 1001 componente movilidad
+T51 CHEM 451 460 IgM kappa
+T52 ANAT 256 261 orina
+T53 ANAT 261 266 renal
+T54 PROC 531 541 creatinina
+T55 PROC 487 496 sedimento
+T56 ANAT 441 449 hematíes
+T57 DISO 617 628 proteinuria
+T58 PROC 742 755 biopsia renal
+T59 DISO 2727 2774 glomerulonefritis con patrón mes angio cap ilar
+T60 PROC 650 661 tratamiento
+T61 CHEM 661 672 azatioprina
+T62 ANAT 306 311 renal
+T63 DISO 435 442 protein
+T64 DISO 64 65 u
+T65 DISO 257 261 rias
+T66 PROC 716 727 seguimiento
+T67 PROC 1123 1140 control analítico
+T68 ANAT 1140 1157 sangre periférica
+T69 DISO 137 139 LL
+T70 DISO 70 71 P
+T71 PROC 1611 1634 aspirado de médula ósea
+T72 DISO 1421 1441 infiltración medular
+T73 DISO 4753 4819 síndrome linfoprolifera tivo crónico de célula pequeá±a de línea B
+T74 DISO 147 149 LL
+T75 DISO 75 76 P
+T76 PROC 2176 2205 tratamiento con quimioterapia
+T77 DISO 837 848 proteinuria
+T78 PROC 1002 1015 biopsia renal
+T79 DISO 2965 3003 glomerulonefritis cri oglob ulin émica
+T80 DISO 2055 2081 infiltración linfoci taria
+T81 DISO 1921 1945 afectación por linfoma B
+T82 DISO 1297 1313 afectación renal
+T83 DISO 575 582 linfoma
+T84 PROC 914 925 tratamiento
+T85 CHEM 757 766 rituximab
+T86 PROC 256 259 rec
+T87 PROC 1377 1393 ambio plasmático

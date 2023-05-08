@@ -1,0 +1,59 @@
+T1 PROC 1 4 PSA
+T2 PROC 24 47 tratamiento antibiótico
+T3 PROC 37 55 biopsia prostática
+T4 DISO 79 105 adenocarcinoma de próstata
+T5 DISO 85 106 enfermedad localizada
+T6 PROC 141 169 resonancia magnética nuclear
+T7 PROC 49 57 cirugías
+T8 PROC 99 113 apendicectomía
+T9 PROC 25 28 her
+T10 PROC 10 11 n
+T11 PROC 31 34 ior
+T12 PROC 155 169 rafia inguinal
+T13 PROC 277 300 tratamiento quiráºrgico
+T14 PROC 287 309 prostatectomía radical
+T15 PROC 169 181 intervención
+T16 DISO 91 97 fiebre
+T17 DISO 225 239 sintomatología
+T18 DISO 273 289 íleo paral ítico
+T19 DISO 109 115 vómito
+T20 PROC 419 441 radiografía de abdomen
+T21 ANAT 241 253 marco cólico
+T22 ANAT 106 111 colon
+T23 DISO 507 530 dolor en flanco derecho
+T24 DISO 438 457 enrojecimiento zona
+T25 DISO 145 151 fiebre
+T26 PROC 351 365 TAC de abdomen
+T27 DISO 443 460 colección líquida
+T28 ANAT 406 421 retroperitoneal
+T29 ANAT 589 610 porciones duoden ales
+T30 DISO 407 421 neumoperitoneo
+T31 DISO 241 249 divertic
+T32 DISO 187 193 ulosis
+T33 ANAT 545 562 colon descendente
+T34 ANAT 166 171 sigma
+T35 DISO 681 701 perforación duodenal
+T36 ANAT 806 829 porción retroperitoneal
+T37 DISO 613 630 cuadro infeccioso
+T38 PROC 852 875 tratamiento conservador
+T39 PROC 267 274 drenaje
+T40 DISO 352 361 colección
+T41 PROC 361 370 ecografía
+T42 PROC 329 337 cultivos
+T43 ANAT 295 302 líquido
+T44 PROC 302 309 ingreso
+T45 PROC 1409 1441 tratamiento antibiótico empírico
+T46 PROC 361 369 cultivos
+T47 PROC 1335 1364 colocó una sonda nasogástrica
+T48 PROC 800 817 alimentación oral
+T49 PROC 529 540 seguimiento
+T50 DISO 442 451 colección
+T51 PROC 451 460 ecografía
+T52 ANAT 511 521 intestinal
+T53 CHEM 469 478 contraste
+T54 PROC 1273 1297 tránsito gastro duodenal
+T55 PROC 379 386 drenaje
+T56 DISO 991 1009 estado ap ir ético
+T57 PROC 617 628 alta médica
+T58 PROC 685 697 intervención
+T59 PROC 175 178 PSA

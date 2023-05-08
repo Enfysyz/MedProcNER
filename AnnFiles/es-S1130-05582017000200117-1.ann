@@ -1,0 +1,69 @@
+T1 DISO 1 15 cáncer de mama
+T2 PROC 8 15 operado
+T3 DISO 27 40 dolor intenso
+T4 ANAT 43 57 labio inferior
+T5 DISO 45 56 tumefacción
+T6 DISO 26 31 edema
+T7 ANAT 31 36 labio
+T8 ANAT 43 49 mentón
+T9 ANAT 153 172 zona sub mandibular
+T10 CHEM 100 111 corticoides
+T11 PROC 91 100 analgesia
+T12 DISO 67 73 lesión
+T13 DISO 73 79 lesión
+T14 DISO 105 113 dolorosa
+T15 DISO 85 91 fiebre
+T16 DISO 121 129 síntomas
+T17 PROC 225 239 interrogatorio
+T18 DISO 443 469 picaduras por la araá±a Lo
+T19 PROC 235 248 diagnosticado
+T20 DISO 172 181 picaduras
+T21 ANAT 381 400 miembros superiores
+T22 ANAT 211 221 inferiores
+T23 PROC 243 254 exploración
+T24 DISO 139 145 lesión
+T25 DISO 121 126 necró
+T26 DISO 101 105 tico
+T27 ANAT 365 379 tercio lateral
+T28 ANAT 109 113 piel
+T29 ANAT 85 88 ber
+T30 ANAT 30 31 m
+T31 ANAT 91 94 ell
+T32 ANAT 63 65 ón
+T33 ANAT 257 265 comisura
+T34 ANAT 133 137 hemi
+T35 ANAT 69 71 la
+T36 ANAT 771 793 bio inferior izquierdo
+T37 DISO 505 519 lesión pál ida
+T38 ANAT 223 229 mucosa
+T39 DISO 229 235 signos
+T40 DISO 313 321 necrosis
+T41 DISO 721 739 exudado fibrin oso
+T42 PROC 124 127 ras
+T43 PROC 169 173 pado
+T44 PROC 947 969 pruebas de laboratorio
+T45 PROC 309 316 biopsia
+T46 PROC 496 507 tratamiento
+T47 CHEM 599 612 amoxicilina /
+T48 CHEM 518 529 clavulánico
+T49 DISO 865 883 picadura de araá±a
+T50 PROC 393 401 consultó
+T51 DISO 1201 1225 enfermedades infecciosas
+T52 PROC 562 573 diagnóstico
+T53 DISO 2029 2068 lesiones cutáneo - muc osas necró ticas
+T54 DISO 478 487 celulitis
+T55 DISO 541 551 vasculitis
+T56 DISO 1046 1065 áºlceras diabéticas
+T57 DISO 1233 1255 insuficiencia vascular
+T58 DISO 1426 1451 reacciones medicamentosas
+T59 DISO 1741 1771 quemaduras térmicas o químicas
+T60 DISO 650 661 infecciosas
+T61 DISO 661 672 traumáticas
+T62 PROC 916 931 anestesia local
+T63 PROC 869 883 desbridamiento
+T64 ANAT 379 385 tejido
+T65 PROC 1217 1236 anatomía patológica
+T66 PROC 716 727 diagnóstico
+T67 PROC 727 738 diagnóstico
+T68 DISO 1274 1293 defecto cicatricial
+T69 PROC 1633 1657 reconstrucción del labio

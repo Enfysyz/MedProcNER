@@ -1,0 +1,72 @@
+T1 DISO 1 8 fumador
+T2 DISO 20 39 alcoholismo crónico
+T3 DISO 41 61 hepatitis alcohólica
+T4 PROC 40 53 diagnosticada
+T5 PROC 33 41 consulta
+T6 DISO 26 31 masas
+T7 ANAT 145 169 región cervical anterior
+T8 ANAT 36 41 zonas
+T9 ANAT 145 163 retro aur iculares
+T10 ANAT 118 131 región antero
+T11 ANAT 51 56 tórax
+T12 DISO 34 37 bul
+T13 DISO 61 66 tomas
+T14 DISO 66 71 dolor
+T15 DISO 85 91 disnea
+T16 DISO 121 129 disfagia
+T17 PROC 177 188 exploración
+T18 DISO 188 199 tumefacción
+T19 ANAT 631 666 región cervical anterior mandibular
+T20 DISO 229 241 tumoraciones
+T21 ANAT 481 505 zonas retro aur iculares
+T22 ANAT 358 375 región delto idea
+T23 DISO 67 70 bul
+T24 DISO 116 121 tomas
+T25 ANAT 385 401 región posterior
+T26 ANAT 151 157 cuello
+T27 ANAT 365 379 zona occipital
+T28 DISO 244 253 dolorosas
+T29 PROC 757 784 auscultación cardiopulmonar
+T30 PROC 552 571 palpación abdominal
+T31 PROC 691 714 exploración neurológica
+T32 PROC 280 289 analítica
+T33 PROC 225 232 asparta
+T34 PROC 496 511 to transfer asa
+T35 PROC 69 71 al
+T36 PROC 631 649 anina transfer asa
+T37 PROC 109 112 GGT
+T38 PROC 593 609 colesterol total
+T39 PROC 115 118 LDL
+T40 PROC 508 521 triglicéridos
+T41 PROC 721 739 hormonas tiroideas
+T42 PROC 329 337 cortisol
+T43 PROC 715 732 pruebas de imagen
+T44 PROC 861 881 radiografía de tórax
+T45 PROC 793 811 ecografía tiroidea
+T46 ANAT 766 783 lóbulos tiroideos
+T47 DISO 185 189 gran
+T48 DISO 1270 1297 masa subcutánea lipoma tosa
+T49 PROC 577 589 TAC cervical
+T50 DISO 1177 1201 acáºmulo de tejido graso
+T51 ANAT 501 511 subcutáneo
+T52 ANAT 817 833 región occipital
+T53 ANAT 521 531 subcutáneo
+T54 ANAT 902 919 espacio carotídeo
+T55 ANAT 649 661 tejido graso
+T56 DISO 331 337 encaps
+T57 DISO 113 115 ul
+T58 DISO 457 465 amientos
+T59 ANAT 697 709 tejido graso
+T60 ANAT 1594 1621 venas yug ulares anteriores
+T61 PROC 421 428 biopsia
+T62 ANAT 855 869 tejido adiposo
+T63 DISO 1241 1261 infiltración tumoral
+T64 PROC 127 129 li
+T65 PROC 1665 1691 pectomía cervical anterior
+T66 ANAT 456 463 esterno
+T67 ANAT 199 202 cle
+T68 ANAT 1006 1021 id omas to ideo
+T69 ANAT 1089 1105 venas yug ulares
+T70 ANAT 2278 2311 estructuras nerviosas principales
+T71 PROC 561 569 derivado
+T72 DISO 1208 1225 hábito alcohólico

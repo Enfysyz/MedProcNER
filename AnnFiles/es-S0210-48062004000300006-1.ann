@@ -1,0 +1,102 @@
+T1 DISO 1 20 síndrome prostático
+T2 PROC 12 23 tratamiento
+T3 CHEM 9 13 alfa
+T4 CHEM 4 5 -
+T5 CHEM 25 31 bloque
+T6 CHEM 21 25 ante
+T7 PROC 175 204 intervenido de cadera derecha
+T8 DISO 71 81 hipoacusia
+T9 DISO 41 46 angor
+T10 DISO 316 351 traumatismo cos tol umbar izquierdo
+T11 DISO 91 100 hematuria
+T12 PROC 122 133 exploración
+T13 ANAT 97 105 próstata
+T14 DISO 66 71 fibro
+T15 DISO 99 106 adenoma
+T16 DISO 76 81 tosas
+T17 DISO 49 52 nod
+T18 DISO 154 163 ulaciones
+T19 PROC 163 172 palpación
+T20 ANAT 172 181 abdominal
+T21 DISO 81 85 masa
+T22 ANAT 232 243 hipocondrio
+T23 ANAT 111 116 vacío
+T24 DISO 185 193 dolorosa
+T25 PROC 217 226 Analítica
+T26 PROC 51 53 Hb
+T27 PROC 27 28 H
+T28 PROC 82 85 cto
+T29 PROC 85 88 VSG
+T30 PROC 291 301 bioquímica
+T31 PROC 91 94 PSA
+T32 PROC 280 289 Rx simple
+T33 DISO 353 364 efecto masa
+T34 ANAT 364 375 hipocondrio
+T35 ANAT 171 176 vacío
+T36 PROC 386 397 diagnóstico
+T37 DISO 145 149 masa
+T38 ANAT 186 191 retro
+T39 ANAT 343 352 peritoneo
+T40 DISO 508 521 calcificación
+T41 DISO 1481 1518 Tumores retro peritoneales primitivos
+T42 DISO 862 883 Tumores suprarrenales
+T43 DISO 631 646 Tumores renales
+T44 DISO 861 881 Tumores metastásicos
+T45 DISO 881 901 Patología infecciosa
+T46 PROC 1171 1197 determinaciones sanguíneas
+T47 PROC 1381 1411 actividad de renina plasmática
+T48 PROC 518 529 aldosterona
+T49 PROC 385 393 cortisol
+T50 PROC 785 801 niveles en orina
+T51 CHEM 101 103 17
+T52 CHEM 52 53 -
+T53 CHEM 105 107 ce
+T54 CHEM 160 163 tos
+T55 CHEM 433 441 teroides
+T56 PROC 881 897 corticosteroides
+T57 PROC 729 742 catecolaminas
+T58 PROC 286 291 metan
+T59 PROC 59 60 e
+T60 PROC 119 121 fr
+T61 PROC 241 245 inas
+T62 PROC 184 187 van
+T63 PROC 125 127 il
+T64 CHEM 190 193 man
+T65 PROC 129 131 to
+T66 DISO 846 859 tumor adrenal
+T67 PROC 199 202 tin
+T68 PROC 3016 3061 ciones para bacilos ácido alcohol resistentes
+T69 ANAT 341 346 orina
+T70 ANAT 415 421 esputo
+T71 PROC 1191 1208 test de Man to ux
+T72 DISO 2202 2233 quiste hida tí dico calcificado
+T73 PROC 649 658 serología
+T74 DISO 2556 2591 traumatismo cos tol umbar izquierdo
+T75 DISO 2073 2101 masa suprarrenal calcificada
+T76 DISO 1501 1521 masa retroperitoneal
+T77 PROC 1825 1849 laparotomía explor adora
+T78 DISO 1541 1561 lesión sobresaliente
+T79 ANAT 859 870 hipocondrio
+T80 DISO 1265 1281 lesiones difusas
+T81 ANAT 721 730 peritoneo
+T82 ANAT 1297 1313 grasa peritoneal
+T83 DISO 411 416 infil
+T84 DISO 2159 2185 tumor maligno mesenqui mal
+T85 PROC 2269 2296 cierre de cavidad abdominal
+T86 DISO 2211 2237 proceso maligno diseminado
+T87 DISO 431 436 lipos
+T88 DISO 1828 1849 arcoma ple om ór fico
+T89 PROC 2553 2582 técnicas inmunohisto químicas
+T90 CHEM 90 91 S
+T91 CHEM 271 274 100
+T92 PROC 92 93 O
+T93 PROC 185 187 il
+T94 CHEM 94 95 v
+T95 CHEM 377 381 imen
+T96 CHEM 381 385 tina
+T97 CHEM 289 292 des
+T98 CHEM 389 393 mina
+T99 PROC 1177 1189 dado de alta
+T100 PROC 1189 1201 intervención
+T101 DISO 501 506 falle
+T102 DISO 607 613 ciendo

@@ -1,0 +1,42 @@
+T1 DISO 1 9 diplopía
+T2 PROC 12 23 diagnóstico
+T3 DISO 99 148 parálisis completa del tercer par craneal derecho
+T4 DISO 31 41 afectación
+T5 ANAT 29 36 pupilar
+T6 DISO 36 43 cefalea
+T7 DISO 139 162 claudicación mandibular
+T8 DISO 288 329 rigidez en el cuello y las articulaciones
+T9 DISO 225 253 hipertensión arterial oftalm
+T10 PROC 307 341 exploración de la motilidad ocular
+T11 ANAT 31 34 ojo
+T12 ANAT 34 37 ojo
+T13 ANAT 25 27 OD
+T14 DISO 209 225 ptosis palpebral
+T15 DISO 351 376 defecto pupilar a ferente
+T16 PROC 541 577 exploración con lámpara de hendidura
+T17 DISO 289 307 catarata bilateral
+T18 PROC 205 217 fondo de ojo
+T19 PROC 91 96 angio
+T20 PROC 20 21 -
+T21 PROC 61 64 res
+T22 PROC 547 573 onancia magnética cerebral
+T23 DISO 199 208 patología
+T24 PROC 507 529 estudio de laboratorio
+T25 PROC 841 876 velocidad de sedimentación globular
+T26 PROC 26 27 V
+T27 PROC 53 55 SG
+T28 PROC 595 617 proteína C - re activa
+T29 PROC 253 262 plaquetas
+T30 PROC 494 511 factor reumatoide
+T31 PROC 781 807 anticuerpos antin ucleares
+T32 PROC 1396 1441 anticuerpos anti cito plasma del neu tró filo
+T33 PROC 1505 1552 anticuerpos anti re ceptores de la acetilcolina
+T34 PROC 595 613 serología lu ética
+T35 PROC 375 386 diagnóstico
+T36 DISO 71 73 AT
+T37 PROC 1081 1111 biopsia de la arteria temporal
+T38 PROC 704 723 anatomía patológica
+T39 DISO 723 742 estenosis de la luz
+T40 ANAT 313 321 arterial
+T41 DISO 761 780 rotura la limitante
+T42 DISO 1313 1345 células inflamatorias y gigantes

@@ -1,0 +1,93 @@
+T1 PROC 1 10 ingresado
+T2 DISO 14 27 MM Ig G Kappa
+T3 DISO 43 64 infiltración hepática
+T4 PROC 25 33 remitido
+T5 DISO 45 56 ojo derecho
+T6 ANAT 11 13 OD
+T7 DISO 145 169 síntoma visual ni ocular
+T8 PROC 99 113 agudeza visual
+T9 ANAT 33 37 ojos
+T10 PROC 181 201 lámpara de hendidura
+T11 DISO 221 243 masa indolora vascular
+T12 ANAT 67 73 subcon
+T13 ANAT 37 40 jun
+T14 ANAT 66 71 tival
+T15 PROC 155 166 exploración
+T16 PROC 181 193 fondo de ojo
+T17 DISO 97 103 lesión
+T18 DISO 86 91 infil
+T19 ANAT 289 305 párpado superior
+T20 DISO 96 101 oftal
+T21 DISO 41 43 mo
+T22 DISO 127 133 plejía
+T23 ANAT 45 47 OD
+T24 PROC 553 577 tomografía computarizada
+T25 PROC 49 51 TC
+T26 DISO 626 651 aumento de partes blandas
+T27 DISO 365 379 lesiones óseas
+T28 PROC 190 197 biopsia
+T29 DISO 169 175 lesión
+T30 DISO 1045 1081 infiltración por células plasmáticas
+T31 PROC 61 63 QT
+T32 CHEM 32 33 V
+T33 CHEM 97 100 inc
+T34 CHEM 232 239 ristina
+T35 CHEM 69 71 Ur
+T36 CHEM 176 181 acilo
+T37 CHEM 181 186 Ciclo
+T38 CHEM 334 343 fosfamida
+T39 CHEM 115 118 Mel
+T40 CHEM 196 201 falán
+T41 CHEM 401 411 Prednisona
+T42 CHEM 42 43 V
+T43 CHEM 127 130 inc
+T44 CHEM 302 309 ristina
+T45 CHEM 89 91 Ur
+T46 CHEM 226 231 acilo
+T47 CHEM 185 189 Adri
+T48 CHEM 330 337 amicina
+T49 CHEM 577 589 Dexametasona
+T50 PROC 344 351 biopsia
+T51 PROC 101 103 RT
+T52 PROC 868 885 tratamiento de QT
+T53 PROC 105 107 RT
+T54 DISO 637 649 infiltración
+T55 ANAT 433 441 párpados
+T56 ANAT 551 561 conjuntiva
+T57 DISO 1737 1768 glaucoma agudo pos tra b ecular
+T58 PROC 1084 1103 presión intraocular
+T59 PROC 59 60 P
+T60 PROC 119 121 IO
+T61 PROC 661 672 tratamiento
+T62 CHEM 306 311 inhib
+T63 CHEM 2171 2206 idores de la an hid rasa carb ónica
+T64 CHEM 1009 1025 beta bloqueantes
+T65 CHEM 961 976 prostaglandinas
+T66 PROC 131 133 RT
+T67 PROC 133 135 QT
+T68 CHEM 336 341 Ciclo
+T69 CHEM 613 622 fosfamida
+T70 CHEM 829 841 Dexametasona
+T71 CHEM 71 72 B
+T72 CHEM 285 289 orte
+T73 CHEM 217 220 zom
+T74 CHEM 147 149 id
+T75 CHEM 297 301 Adri
+T76 CHEM 526 533 amicina
+T77 CHEM 305 309 Meto
+T78 CHEM 540 547 trexate
+T79 CHEM 79 80 C
+T80 CHEM 317 321 itar
+T81 CHEM 401 406 abina
+T82 CHEM 406 411 Metil
+T83 CHEM 247 250 pre
+T84 CHEM 333 337 dnis
+T85 CHEM 169 171 ol
+T86 CHEM 256 259 ana
+T87 PROC 173 175 QT
+T88 DISO 1045 1057 infiltración
+T89 PROC 265 268 PIO
+T90 DISO 535 541 ptosis
+T91 DISO 3061 3095 restricción de la motilidad ocular
+T92 DISO 1184 1197 cuadro ocular
+T93 DISO 737 745 falleció

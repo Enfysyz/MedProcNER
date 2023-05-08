@@ -1,0 +1,50 @@
+T1 DISO 1 12 TCE frontal
+T2 DISO 22 43 pérdida de conciencia
+T3 DISO 11 16 caída
+T4 DISO 52 69 pérdida de visión
+T5 ANAT 13 16 ojo
+T6 ANAT 11 13 OD
+T7 DISO 145 169 diabetes mellitus tipo 2
+T8 PROC 78 89 tratamiento
+T9 CHEM 113 127 antidiabéticos
+T10 DISO 73 81 artrosis
+T11 PROC 111 122 exploración
+T12 DISO 419 457 herida inciso - con tusa inf raci liar
+T13 DISO 421 456 hematoma difuso fronto - orbi tario
+T14 PROC 183 197 agudeza visual
+T15 PROC 29 31 AV
+T16 DISO 376 401 defecto pupilar a ferente
+T17 DISO 33 35 DP
+T18 DISO 35 37 AR
+T19 ANAT 235 248 polo anterior
+T20 PROC 362 381 presión intraocular
+T21 PROC 241 253 fondo de ojo
+T22 PROC 505 529 tomografía computarizada
+T23 PROC 815 852 TC ) de cráneo con cortes orbi tarios
+T24 PROC 645 673 resonancia magnética nuclear
+T25 PROC 73 76 RMN
+T26 ANAT 176 183 líquido
+T27 ANAT 235 244 vaina del
+T28 ANAT 55 57 NO
+T29 DISO 393 407 sintomatología
+T30 PROC 639 661 reconstrucción sagital
+T31 ANAT 361 373 canal óptico
+T32 PROC 404 417 TC helicoidal
+T33 DISO 257 265 fractura
+T34 ANAT 595 613 techo de la órbita
+T35 ANAT 851 876 ala menor del esfeno ides
+T36 PROC 1016 1045 potenciales visuales evocados
+T37 PROC 433 445 estimulación
+T38 ANAT 149 153 ojos
+T39 ANAT 77 79 NO
+T40 PROC 508 521 diagnosticada
+T41 DISO 1121 1149 neuropatía óptica traumática
+T42 DISO 42 43 N
+T43 DISO 85 87 OT
+T44 DISO 1162 1189 traumatismo frontal cerrado
+T45 DISO 265 271 lesión
+T46 ANAT 91 93 NO
+T47 ANAT 1151 1176 ala menor del esfeno ides
+T48 PROC 518 529 tratamiento
+T49 CHEM 529 540 corticoides
+T50 CHEM 834 851 metilprednisolona

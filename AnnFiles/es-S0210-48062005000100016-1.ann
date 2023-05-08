@@ -1,0 +1,88 @@
+T1 DISO 1 10 diabético
+T2 PROC 12 23 tratamiento
+T3 CHEM 29 43 antidiabéticos
+T4 DISO 43 57 litiasis renal
+T5 DISO 77 96 cólicos nefr íticos
+T6 DISO 136 163 neoplasia maligna de cuello
+T7 PROC 115 134 tratada mediante RT
+T8 DISO 211 241 síndrome miccional irri tativo
+T9 DISO 89 100 polaquiuria
+T10 DISO 136 151 tenesmo vesical
+T11 DISO 71 78 disuria
+T12 PROC 144 157 diagnosticado
+T13 DISO 37 40 ITU
+T14 PROC 300 323 tratamiento antibiótico
+T15 CHEM 155 166 Amoxicilina
+T16 CHEM 16 17 -
+T17 CHEM 177 188 clavulánico
+T18 PROC 307 325 exploración física
+T19 PROC 325 343 temperatura axilar
+T20 PROC 210 221 exploración
+T21 PROC 241 253 tacto rectal
+T22 ANAT 169 177 próstata
+T23 DISO 67 70 ind
+T24 DISO 116 121 urada
+T25 DISO 193 201 dolorosa
+T26 PROC 451 469 análisis de sangre
+T27 DISO 313 325 leucocitosis
+T28 DISO 298 309 neutrofilia
+T29 PROC 225 233 glucemia
+T30 PROC 523 541 cifra de plaquetas
+T31 PROC 331 342 fibrinógeno
+T32 PROC 528 545 áįndice de Qu ick
+T33 PROC 577 595 sedimento de orina
+T34 DISO 67 69 pi
+T35 DISO 137 141 uria
+T36 DISO 176 181 micro
+T37 DISO 145 149 hema
+T38 DISO 186 191 turia
+T39 PROC 1483 1522 radiografías simples de tórax y abdomen
+T40 DISO 352 361 patología
+T41 PROC 801 821 ecografía de abdomen
+T42 DISO 370 379 patología
+T43 DISO 127 130 ITU
+T44 PROC 302 309 ingresó
+T45 PROC 1541 1576 tratamiento antibiótico intravenoso
+T46 PROC 91 93 ur
+T47 PROC 139 142 ino
+T48 PROC 330 337 cultivo
+T49 PROC 241 246 pauta
+T50 CHEM 540 551 ceftriaxona
+T51 CHEM 101 103 to
+T52 CHEM 460 469 bramicina
+T53 PROC 365 372 ingreso
+T54 PROC 1379 1405 antibioterapia intravenosa
+T55 CHEM 541 551 cefuroxima
+T56 CHEM 56 57 -
+T57 CHEM 113 115 ax
+T58 CHEM 58 59 e
+T59 CHEM 233 237 tilo
+T60 PROC 709 721 hemocultivos
+T61 PROC 121 123 ur
+T62 PROC 184 187 ino
+T63 PROC 435 442 cultivo
+T64 PROC 442 449 ingreso
+T65 DISO 705 716 pico febril
+T66 ANAT 651 661 leucocitos
+T67 PROC 331 336 reins
+T68 PROC 269 273 taur
+T69 PROC 137 139 ar
+T70 PROC 1795 1821 antibioterapia intravenosa
+T71 PROC 2171 2202 ecografía v ésico - pros tática
+T72 ANAT 569 577 próstata
+T73 DISO 1225 1242 prostatitis aguda
+T74 DISO 220 223 HBP
+T75 PROC 1925 1951 antibioterapia intravenosa
+T76 PROC 301 305 Aden
+T77 PROC 153 155 om
+T78 PROC 1541 1561 ectomía tipo Mill in
+T79 DISO 1405 1423 clínica infecciosa
+T80 PROC 1107 1121 antibioterapia
+T81 DISO 401 406 picos
+T82 DISO 649 657 febriles
+T83 PROC 1641 1661 pauta de tratamiento
+T84 CHEM 1080 1093 levofloxacino
+T85 CHEM 925 936 ceftriaxona
+T86 PROC 2466 2495 cultivo frac cionado de orina
+T87 PROC 1979 2002 tratamiento antibiótico
+T88 DISO 1828 1849 fiebre estado general

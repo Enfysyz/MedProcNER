@@ -1,0 +1,19 @@
+T1 DISO 1 9 alergias
+T2 PROC 9 17 consulta
+T3 PROC 37 55 estudio ecográfico
+T4 DISO 67 89 imagen ne of orma tiva
+T5 DISO 73 91 síntoma u rológico
+T6 PROC 16 19 uro
+T7 PROC 109 127 grafía intravenosa
+T8 PROC 71 81 ecográfico
+T9 DISO 177 199 defecto de repl ección
+T10 PROC 271 301 estudio mediante T . A . C . Ċ
+T11 PROC 31 34 cis
+T12 PROC 89 97 toscopia
+T13 DISO 277 300 alteración de la mucosa
+T14 PROC 300 323 resección trans uretral
+T15 DISO 43 46 lei
+T16 DISO 46 49 omi
+T17 DISO 177 188 oma vesical
+T18 PROC 562 595 seguimiento en consultas externas
+T19 PROC 379 400 estudios endoscópicos

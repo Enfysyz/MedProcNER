@@ -1,0 +1,85 @@
+T1 DISO 1 8 fumador
+T2 DISO 3 5 ex
+T3 DISO 3 4 -
+T4 DISO 10 13 beb
+T5 DISO 17 21 edor
+T6 DISO 31 37 disnea
+T7 DISO 37 43 edemas
+T8 DISO 36 41 mareo
+T9 DISO 57 64 síncope
+T10 DISO 127 141 dolor torácico
+T11 DISO 81 89 ortopnea
+T12 DISO 254 277 endocarditis infecciosa
+T13 ANAT 169 183 válvula mitral
+T14 DISO 261 281 perforación valvular
+T15 DISO 281 301 insuficiencia mitral
+T16 CHEM 181 193 antibióticos
+T17 PROC 929 987 sustitución de la válvula mitral por una prótesis mecánica
+T18 PROC 120 127 esterno
+T19 PROC 91 96 tomía
+T20 PROC 229 241 dado de alta
+T21 PROC 141 148 ingreso
+T22 PROC 232 243 tratamiento
+T23 CHEM 265 277 acenocumarol
+T24 CHEM 231 241 bisoprolol
+T25 CHEM 241 251 furosemida
+T26 CHEM 251 261 amiodarona
+T27 PROC 287 298 exploración
+T28 DISO 541 561 hipotensión arterial
+T29 DISO 589 610 ingurgitación yugular
+T30 DISO 378 391 hepatomegalia
+T31 PROC 271 280 analítica
+T32 PROC 404 417 transaminasas
+T33 PROC 97 100 AST
+T34 PROC 100 103 ALT
+T35 PROC 103 106 LDH
+T36 PROC 386 397 bilirrubina
+T37 DISO 217 223 anemia
+T38 DISO 75 77 Hb
+T39 DISO 1103 1132 deterioro de la función renal
+T40 PROC 79 81 Cr
+T41 PROC 161 165 urea
+T42 PROC 42 43 I
+T43 PROC 421 431 serologías
+T44 DISO 44 45 V
+T45 DISO 89 91 HA
+T46 DISO 136 139 VHB
+T47 DISO 139 142 VHC
+T48 DISO 142 145 VIH
+T49 DISO 145 148 VEB
+T50 DISO 148 151 CMV
+T51 PROC 651 664 autoinmunidad
+T52 CHEM 409 417 fármacos
+T53 PROC 937 955 electrocardiograma
+T54 PROC 478 487 ecografía
+T55 DISO 1405 1431 hepatomegalia ecogenicidad
+T56 DISO 551 561 esteatosis
+T57 PROC 1401 1426 estudio vascular hepático
+T58 ANAT 457 465 cardíaco
+T59 PROC 813 827 ecocardiograma
+T60 DISO 1122 1141 derrame pericárdico
+T61 ANAT 661 672 pared libre
+T62 ANAT 1099 1117 ventrículo derecho
+T63 ANAT 1241 1261 ventrículo izquierdo
+T64 ANAT 1135 1153 ventrículo derecho
+T65 ANAT 1025 1041 arteria pulmonar
+T66 DISO 1886 1915 taponamiento ecocardiográfico
+T67 PROC 1123 1140 trasladado Unidad
+T68 PROC 470 477 pericar
+T69 PROC 137 139 di
+T70 PROC 2416 2451 ocentesis diagnóstica y evacu adora
+T71 ANAT 71 72 3
+T72 ANAT 3054 3097 espacio intercostal para esternal izquierdo
+T73 DISO 1369 1388 líquido hemorrágico
+T74 DISO 512 519 derrame
+T75 ANAT 445 451 apical
+T76 PROC 751 761 bioquímica
+T77 PROC 989 1002 microbiología
+T78 PROC 694 703 citología
+T79 DISO 1249 1265 derrame hemático
+T80 PROC 870 881 hematocrito
+T81 PROC 1761 1783 estudio microbiológico
+T82 PROC 730 739 citología
+T83 PROC 903 914 tratamiento
+T84 CHEM 914 925 corticoides
+T85 PROC 841 851 creatinina

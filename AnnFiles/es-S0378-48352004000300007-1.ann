@@ -1,0 +1,106 @@
+T1 DISO 1 29 crisis de sudoración profusa
+T2 DISO 22 43 pérdida peso corporal
+T3 DISO 53 79 dolor en rodilla izquierda
+T4 DISO 19 25 fiebre
+T5 PROC 33 41 consulta
+T6 DISO 66 79 dolor tamaá±o
+T7 ANAT 31 36 muslo
+T8 PROC 64 73 analítica
+T9 PROC 25 28 LDH
+T10 PROC 118 131 diagnosticado
+T11 DISO 391 430 osteomielitis del tro cán ter izquierdo
+T12 PROC 221 241 radiología de pelvis
+T13 DISO 169 183 lesión lí tica
+T14 ANAT 183 197 cabeza femoral
+T15 PROC 43 46 TAC
+T16 CHEM 31 33 99
+T17 PROC 33 35 Tc
+T18 PROC 35 37 67
+T19 PROC 37 39 Ga
+T20 PROC 210 221 gammagrafía
+T21 PROC 241 253 biopsia ósea
+T22 DISO 736 771 afectación linfoprolifera tiva ósea
+T23 DISO 45 47 LH
+T24 PROC 300 313 examen físico
+T25 DISO 433 451 masa aden op ática
+T26 ANAT 126 131 axila
+T27 DISO 885 919 adenopatías bilaterales inguinales
+T28 DISO 379 393 sintomatología
+T29 DISO 281 291 síntomas B
+T30 PROC 30 31 b
+T31 PROC 451 466 2 Â µ globulina
+T32 PROC 94 97 LDH
+T33 PROC 993 1024 serología de VIH y hepato virus
+T34 PROC 232 239 biopsia
+T35 DISO 375 386 masa axilar
+T36 DISO 71 73 LH
+T37 DISO 649 667 esclerosis nodular
+T38 ANAT 260 267 ganglio
+T39 ANAT 267 274 nódulos
+T40 ANAT 391 401 linfocitos
+T41 ANAT 761 780 células plasmáticas
+T42 ANAT 452 463 neutrófilos
+T43 ANAT 211 216 histi
+T44 ANAT 259 265 ocitos
+T45 ANAT 309 316 células
+T46 PROC 91 93 CD
+T47 PROC 47 48 -
+T48 PROC 95 97 30
+T49 CHEM 97 99 CD
+T50 CHEM 50 51 -
+T51 CHEM 101 103 15
+T52 CHEM 154 157 EMA
+T53 ANAT 885 902 células tumorales
+T54 PROC 107 109 Ki
+T55 PROC 55 56 -
+T56 PROC 111 113 67
+T57 PROC 1233 1255 biopsia de médula ósea
+T58 DISO 457 465 fibrosis
+T59 DISO 1103 1122 infiltración por LH
+T60 PROC 178 181 TAC
+T61 DISO 661 672 adenopatías
+T62 ANAT 306 311 axila
+T63 ANAT 373 379 suprac
+T64 ANAT 190 193 lav
+T65 ANAT 513 521 iculares
+T66 ANAT 651 661 mediastino
+T67 ANAT 331 336 retro
+T68 ANAT 604 613 peritoneo
+T69 ANAT 409 415 pelvis
+T70 ANAT 415 421 ingles
+T71 PROC 141 143 QT
+T72 PROC 853 865 régimen ABVD
+T73 DISO 721 731 síntomas B
+T74 DISO 1680 1703 adenopatías periféricas
+T75 PROC 2147 2176 valores de áŁ 2 Â µ globulina
+T76 PROC 226 229 LDH
+T77 PROC 229 232 TAC
+T78 DISO 771 781 esclerosis
+T79 ANAT 859 870 pala ilíaca
+T80 PROC 1739 1761 biopsia de médula ósea
+T81 DISO 1521 1540 infiltración por LH
+T82 PROC 892 903 gammagrafía
+T83 CHEM 165 167 67
+T84 CHEM 250 253 Gal
+T85 CHEM 169 171 io
+T86 PROC 171 173 QT
+T87 PROC 775 784 régimen M
+T88 PROC 349 353 OP P
+T89 PROC 177 179 RT
+T90 ANAT 1336 1351 fémur izquierdo
+T91 PROC 1081 1093 ímenes de QT
+T92 PROC 1184 1197 tratamiento Ċ
+T93 CHEM 93 94 D
+T94 CHEM 187 189 ox
+T95 CHEM 189 191 or
+T96 CHEM 286 289 ubi
+T97 CHEM 385 389 cina
+T98 CHEM 292 295 Ble
+T99 CHEM 687 694 omicina
+T100 CHEM 298 301 Vin
+T101 CHEM 401 405 blas
+T102 CHEM 405 409 tina
+T103 CHEM 103 104 D
+T104 CHEM 413 417 acar
+T105 CHEM 209 211 ba
+T106 CHEM 421 425 zina

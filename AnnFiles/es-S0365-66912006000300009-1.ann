@@ -1,0 +1,36 @@
+T1 PROC 1 25 tratamiento psiquiátrico
+T2 DISO 20 39 trastorno psicótico
+T3 DISO 47 70 esquizofrenia paranoide
+T4 PROC 25 33 consulta
+T5 DISO 117 146 disminución de agudeza visual
+T6 PROC 46 55 anamnesis
+T7 DISO 151 176 delirio de interpretación
+T8 ANAT 29 33 iris
+T9 ANAT 33 37 ojos
+T10 DISO 55 61 lesion
+T11 ANAT 41 45 ojos
+T12 PROC 67 73 autoin
+T13 PROC 49 53 duce
+T14 DISO 131 141 quemaduras
+T15 ANAT 57 61 piel
+T16 ANAT 61 65 cara
+T17 ANAT 97 103 brazos
+T18 DISO 120 127 quistes
+T19 DISO 145 153 lesiones
+T20 ANAT 77 81 ojos
+T21 DISO 441 463 atrofia masiva de iris
+T22 DISO 526 551 destrucción de la función
+T23 ANAT 177 185 esfínter
+T24 DISO 70 73 mac
+T25 DISO 337 351 ulopatía solar
+T26 DISO 551 573 líquido subre tin iano
+T27 ANAT 313 325 área macular
+T28 DISO 703 729 atrofia cor ior retin iana
+T29 CHEM 225 233 pigmento
+T30 DISO 813 841 lesiones foto coag ula tivas
+T31 DISO 571 590 lesiones mac ulares
+T32 DISO 776 801 pérdida de agudeza visual
+T33 ANAT 97 100 ojo
+T34 ANAT 100 103 ojo
+T35 DISO 579 596 lesiones del iris
+T36 ANAT 211 217 retina

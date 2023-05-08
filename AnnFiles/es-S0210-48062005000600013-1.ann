@@ -1,0 +1,43 @@
+T1 DISO 1 28 insuficiencia renal crónica
+T2 DISO 3 5 IR
+T3 DISO 3 4 C
+T4 DISO 58 77 artritis reumatoide
+T5 DISO 9 11 AR
+T6 PROC 176 211 tratamiento crónico con corticoides
+T7 DISO 127 148 hematuria anemi renal
+T8 PROC 71 81 creatinina
+T9 PROC 233 262 cirugía or tés ica de rodilla
+T10 PROC 172 191 ecografía urológica
+T11 ANAT 81 89 riá±ones
+T12 ANAT 111 121 parénquima
+T13 ANAT 193 209 sistema colector
+T14 DISO 196 211 coágulo vesical
+T15 PROC 253 271 manejo conservador
+T16 CHEM 211 225 suero la vador
+T17 DISO 113 120 enferma
+T18 DISO 120 127 desesta
+T19 DISO 415 438 bilización hemodinámica
+T20 PROC 438 461 exploración endoscópica
+T21 PROC 201 211 extracción
+T22 DISO 148 155 coágulo
+T23 PROC 331 346 cirugía abierta
+T24 PROC 369 385 apertura vesical
+T25 PROC 457 476 extracción coag ulo
+T26 ANAT 351 365 mucosa vesical
+T27 DISO 495 514 sangrado en sá bana
+T28 DISO 487 505 lesiones vesicales
+T29 PROC 113 117 toma
+T30 PROC 668 691 biopsias alea torias de
+T31 ANAT 421 435 mucosa vesical
+T32 DISO 94 97 Ami
+T33 DISO 65 67 lo
+T34 DISO 463 477 idosis vesical
+T35 ANAT 171 176 vasos
+T36 PROC 386 397 tratamiento
+T37 CHEM 397 408 corticoides
+T38 PROC 334 343 perfusión
+T39 CHEM 381 391 colchicina
+T40 PROC 469 481 dada de alta
+T41 DISO 361 370 hematuria
+T42 ANAT 206 211 renal
+T43 PROC 421 431 creatinina

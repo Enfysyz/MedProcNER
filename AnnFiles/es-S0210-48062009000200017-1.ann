@@ -1,0 +1,68 @@
+T1 DISO 1 22 infecciones urinarias
+T2 DISO 5 9 masa
+T3 ANAT 27 40 zona inferior
+T4 ANAT 22 29 abdomen
+T5 DISO 25 31 sangra
+T6 DISO 26 31 dolor
+T7 PROC 109 127 exploración física
+T8 DISO 36 41 placa
+T9 DISO 17 19 ex
+T10 DISO 127 141 trofia vesical
+T11 ANAT 111 122 hipogastrio
+T12 DISO 133 145 pene pá dico
+T13 DISO 253 274 formación ex of ítica
+T14 DISO 66 71 placa
+T15 DISO 85 91 sangra
+T16 DISO 331 353 adenopatías inguinales
+T17 PROC 177 188 exploración
+T18 PROC 307 325 análisis de sangre
+T19 PROC 181 191 creatinina
+T20 PROC 381 401 ingreso hospitalario
+T21 PROC 501 526 ecografía renal bilateral
+T22 DISO 211 221 dilatación
+T23 ANAT 551 576 sistemas pielocal iciales
+T24 PROC 70 73 uro
+T25 PROC 433 451 grafía intravenosa
+T26 ANAT 151 157 riá±ón
+T27 PROC 131 136 biops
+T28 PROC 55 57 ió
+T29 DISO 113 117 masa
+T30 DISO 639 661 adenocarcinoma vesical
+T31 PROC 991 1024 TC toraco - ab dom ino - pélv ico
+T32 PROC 373 385 rastreo óseo
+T33 DISO 321 331 metástasis
+T34 PROC 859 885 intervino quiráºrgicamente
+T35 PROC 103 106 cis
+T36 PROC 106 109 top
+T37 PROC 109 112 ros
+T38 PROC 75 77 ta
+T39 PROC 609 625 tectomía radical
+T40 PROC 586 601 linfadenectomía
+T41 PROC 921 944 derivación tipo Indiana
+T42 PROC 2174 2227 cierre del defecto de pared abdominal con fascia lata
+T43 PROC 1009 1033 análisis histopatológico
+T44 ANAT 732 749 pieza quiráºrgica
+T45 DISO 1321 1351 adenocarcinoma tipo intestinal
+T46 ANAT 1171 1197 células en anillo de sello
+T47 ANAT 231 236 pieza
+T48 DISO 518 529 infiltrados
+T49 ANAT 673 687 partes blandas
+T50 ANAT 442 451 peritoneo
+T51 DISO 1651 1684 adenopatías il íacas infil tradas
+T52 DISO 256 261 tumor
+T53 PROC 1197 1220 tratamiento coadyuvante
+T54 DISO 372 379 enfermo
+T55 PROC 379 386 cirugía
+T56 DISO 1596 1625 adenopatía inguinal izquierda
+T57 DISO 169 172 ind
+T58 DISO 400 407 uración
+T59 DISO 1045 1063 herida quiráºrgica
+T60 DISO 1181 1201 recidiva local tumor
+T61 PROC 421 428 biopsia
+T62 ANAT 245 249 zona
+T63 PROC 745 757 rastreo óseo
+T64 PROC 127 129 TC
+T65 DISO 1025 1041 masa heterogénea
+T66 ANAT 1106 1123 lecho quiráºrgico
+T67 DISO 529 537 falleció
+T68 DISO 1676 1701 sepsis de origen urinario

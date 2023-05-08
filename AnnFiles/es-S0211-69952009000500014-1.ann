@@ -1,0 +1,84 @@
+T1 DISO 1 16 dolor abdominal
+T2 DISO 9 17 diarreas
+T3 DISO 47 70 síndrome constitucional
+T4 PROC 28 37 estudiada
+T5 PROC 53 66 diagnosticada
+T6 DISO 11 13 EC
+T7 PROC 73 85 diagnósticos
+T8 PROC 253 289 anticuerpos anti trans glu tamin asa
+T9 PROC 145 163 biopsia intestinal
+T10 DISO 208 231 atrofia de vellosidades
+T11 ANAT 71 78 duodeno
+T12 DISO 265 289 hiperplasia de cri p tas
+T13 DISO 73 79 poliar
+T14 DISO 456 491 tralgias de medianas articulaciones
+T15 ANAT 43 46 car
+T16 ANAT 46 49 pos
+T17 ANAT 49 52 tar
+T18 ANAT 52 55 sos
+T19 DISO 199 210 parestesias
+T20 DISO 324 341 lesiones cutáneas
+T21 DISO 101 106 micro
+T22 DISO 22 23 p
+T23 DISO 45 47 áp
+T24 DISO 392 409 ulas pruriginosas
+T25 DISO 265 276 proteinuria
+T26 PROC 451 469 exploración física
+T27 PROC 417 433 tensión arterial
+T28 PROC 82 85 IMC
+T29 DISO 169 175 edemas
+T30 ANAT 233 241 miembros
+T31 DISO 211 218 pápulas
+T32 ANAT 156 161 codos
+T33 ANAT 193 199 brazos
+T34 PROC 298 307 analítica
+T35 PROC 307 316 hemograma
+T36 PROC 386 397 coagulación
+T37 PROC 361 371 creatinina
+T38 PROC 593 609 colesterol total
+T39 PROC 495 508 triglicéridos
+T40 PROC 664 681 proteínas totales
+T41 PROC 361 370 albáºmina
+T42 PROC 821 841 estudio inmunológico
+T43 PROC 127 130 ANA
+T44 PROC 431 441 anti - DNA
+T45 PROC 89 91 AN
+T46 PROC 136 139 CAS
+T47 PROC 47 48 C
+T48 PROC 142 145 3 ,
+T49 PROC 49 50 C
+T50 PROC 50 51 4
+T51 PROC 1551 1582 anticuerpos antic ardi olip ina
+T52 PROC 1174 1197 anticoagulante láº pico
+T53 PROC 157 160 cri
+T54 PROC 266 271 oglob
+T55 PROC 325 331 ulinas
+T56 PROC 1101 1121 serología frente VHB
+T57 DISO 169 172 VHC
+T58 DISO 172 175 VIH
+T59 PROC 2785 2833 anticuerpos anti trans glu tamin asa tisular IgA
+T60 ANAT 296 301 orina
+T61 CHEM 541 550 proteínas
+T62 PROC 550 559 sedimento
+T63 ANAT 497 505 hematíes
+T64 PROC 946 961 ecografía renal
+T65 DISO 1409 1431 proteinuria nefr ótica
+T66 PROC 1561 1585 biopsia renal percutánea
+T67 DISO 133 135 NM
+T68 DISO 2480 2517 lesiones vasculares ni intersticiales
+T69 PROC 2177 2209 tratamiento con dieta sin gluten
+T70 PROC 1450 1471 medidas conservadoras
+T71 CHEM 561 569 estatina
+T72 CHEM 569 577 aspirina
+T73 CHEM 649 658 enalapril
+T74 CHEM 220 223 los
+T75 CHEM 371 376 artán
+T76 PROC 826 837 seguimiento
+T77 PROC 2737 2773 anticuerpos anti trans glu tamin asa
+T78 DISO 848 859 proteinuria
+T79 DISO 1561 1581 enfermedad sistémica
+T80 PROC 1107 1121 niveles de TSH
+T81 PROC 81 82 T
+T82 PROC 244 247 4 l
+T83 PROC 2707 2740 anticuerpos anti tiro globulina y
+T84 PROC 1578 1597 antimic ros om ales

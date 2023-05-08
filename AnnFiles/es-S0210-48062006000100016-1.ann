@@ -1,0 +1,28 @@
+T1 DISO 1 14 Recién nacida
+T2 PROC 20 39 exploración clínica
+T3 DISO 21 31 tumoración
+T4 ANAT 16 21 intro
+T5 ANAT 13 16 ito
+T6 ANAT 66 79 meato uretral
+T7 ANAT 31 36 intro
+T8 ANAT 78 89 ito vaginal
+T9 DISO 49 55 lesión
+T10 DISO 73 81 quístico
+T11 PROC 111 122 diagnóstico
+T12 DISO 34 37 Ure
+T13 DISO 49 53 tero
+T14 DISO 53 57 cele
+T15 PROC 127 136 ecografía
+T16 DISO 31 33 du
+T17 DISO 129 137 plicidad
+T18 DISO 324 343 dilatación urinaria
+T19 PROC 325 343 ecografía perineal
+T20 DISO 153 161 quística
+T21 DISO 121 127 lesión
+T22 PROC 232 243 diagnóstico
+T23 DISO 639 668 quiste para uretral de Sk ene
+T24 PROC 415 433 actitud expectante
+T25 PROC 265 276 seguimiento
+T26 DISO 151 157 lesión
+T27 DISO 261 271 tumoración
+T28 DISO 190 197 secuela

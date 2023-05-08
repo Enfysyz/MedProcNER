@@ -1,0 +1,67 @@
+T1 DISO 1 22 traumatismo con tu so
+T2 ANAT 14 27 ojo izquierdo
+T3 ANAT 5 7 OI
+T4 DISO 4 5 a
+T5 DISO 33 41 metropía
+T6 PROC 86 103 corrección óptica
+T7 DISO 145 169 diabetes mellitus tipo 2
+T8 PROC 78 89 tratamiento
+T9 CHEM 113 127 antidiabéticos
+T10 PROC 127 141 agudeza visual
+T11 PROC 21 23 AV
+T12 ANAT 34 37 ojo
+T13 CHEM 25 27 es
+T14 CHEM 53 57 teno
+T15 CHEM 29 31 pe
+T16 CHEM 46 49 ico
+T17 PROC 577 613 exploración con lámpara de hendidura
+T18 DISO 137 145 hematoma
+T19 DISO 91 96 edema
+T20 ANAT 134 141 párpado
+T21 ANAT 201 211 conjuntiva
+T22 DISO 64 67 que
+T23 DISO 111 116 mosis
+T24 ANAT 139 145 córnea
+T25 DISO 49 51 hi
+T26 DISO 51 53 pe
+T27 DISO 53 55 ma
+T28 ANAT 541 561 estructuras oculares
+T29 DISO 253 262 hipotonía
+T30 ANAT 59 61 OI
+T31 PROC 571 590 presión intraocular
+T32 PROC 528 545 pruebas de imagen
+T33 PROC 769 793 tomografía computarizada
+T34 PROC 661 681 resonancia magnética
+T35 DISO 783 806 herida incisa escler al
+T36 ANAT 351 361 cristalino
+T37 ANAT 865 889 espacio subcon jun tival
+T38 DISO 112 115 que
+T39 DISO 647 664 mosis conjuntival
+T40 DISO 196 201 hipos
+T41 DISO 121 124 fag
+T42 DISO 83 85 ma
+T43 DISO 883 904 masa subcon jun tival
+T44 ANAT 431 441 cristalino
+T45 PROC 485 496 intervenida
+T46 PROC 226 231 perit
+T47 PROC 507 518 omía de 360
+T48 PROC 988 1009 extracción cristalino
+T49 PROC 913 932 sutura de la herida
+T50 PROC 3039 3101 tratamiento con antibioterapia intravenosa y tópica refor zada
+T51 PROC 351 358 cirugía
+T52 PROC 409 417 AV manos
+T53 PROC 1041 1061 lámpara de hendidura
+T54 ANAT 319 325 córnea
+T55 DISO 163 166 cor
+T56 DISO 111 113 ec
+T57 DISO 617 628 topia nasal
+T58 DISO 1654 1683 pérdida de tejido i ri di ano
+T59 ANAT 291 296 fondo
+T60 ANAT 355 361 retina
+T61 PROC 961 977 ecografia modo B
+T62 PROC 1038 1055 cirugía combinada
+T63 PROC 187 190 vit
+T64 PROC 1513 1537 rectomía vía par s plana
+T65 PROC 1729 1756 sutura de lente intraocular
+T66 ANAT 196 199 sul
+T67 ANAT 199 202 cus

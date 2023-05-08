@@ -1,0 +1,33 @@
+T1 PROC 1 9 consulta
+T2 DISO 21 41 lesiones hab on osas
+T3 DISO 21 31 angioedema
+T4 DISO 31 41 odinofagia
+T5 PROC 73 91 exploración física
+T6 DISO 196 235 hipertrofia de las amígdalas pala tinas
+T7 PROC 97 113 pruebas cutáneas
+T8 CHEM 36 41 neumo
+T9 CHEM 17 19 al
+T10 CHEM 19 21 ér
+T11 CHEM 51 56 genos
+T12 PROC 188 205 analítica general
+T13 PROC 37 40 bio
+T14 PROC 92 99 química
+T15 PROC 127 136 hemograma
+T16 PROC 526 561 velocidad de sedimentación globular
+T17 PROC 289 307 hormonas tiroideas
+T18 PROC 86 91 orina
+T19 PROC 433 457 inmunoglobulinas séricas
+T20 PROC 58 61 IgA
+T21 PROC 61 64 IgM
+T22 PROC 64 67 IgG
+T23 PROC 199 208 IgE total
+T24 PROC 1105 1153 niveles de anticuerpos anti estre p tol is ina O
+T25 PROC 49 51 AS
+T26 PROC 51 53 LO
+T27 PROC 391 406 examen de heces
+T28 DISO 244 253 parásitos
+T29 PROC 309 320 tratamiento
+T30 CHEM 755 781 penicilina G - ben za tina
+T31 DISO 361 373 asintomática
+T32 PROC 63 65 AS
+T33 PROC 65 67 LO

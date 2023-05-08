@@ -1,0 +1,82 @@
+T1 DISO 1 6 miocl
+T2 DISO 17 33 onias cervicales
+T3 CHEM 3 4 E
+T4 CHEM 28 37 tanercept
+T5 PROC 53 66 diagnosticada
+T6 DISO 96 115 Psoriasis en placas
+T7 PROC 67 78 seguimiento
+T8 PROC 78 89 tratamiento
+T9 CHEM 9 10 E
+T10 CHEM 82 91 tanercept
+T11 DISO 321 353 movimientos cervicales anormales
+T12 PROC 122 133 tratamiento
+T13 CHEM 121 131 etanercept
+T14 DISO 248 267 psoriasis en placas
+T15 PROC 281 301 tratamientos tópicos
+T16 CHEM 46 49 clo
+T17 CHEM 33 35 be
+T18 CHEM 52 55 tas
+T19 CHEM 37 39 ol
+T20 CHEM 96 101 calci
+T21 CHEM 41 43 po
+T22 CHEM 106 111 triol
+T23 CHEM 89 93 beta
+T24 CHEM 47 49 me
+T25 CHEM 145 151 tasona
+T26 CHEM 126 131 calci
+T27 CHEM 53 55 po
+T28 CHEM 136 141 triol
+T29 CHEM 113 117 cicl
+T30 CHEM 59 61 os
+T31 CHEM 181 187 porina
+T32 CHEM 776 801 micofenolato de mofe tilo
+T33 PROC 353 364 tratamiento
+T34 CHEM 232 239 fármaco
+T35 CHEM 341 351 etanercept
+T36 DISO 1296 1333 dermatitis granulomatosa intersticial
+T37 ANAT 433 445 extremidades
+T38 CHEM 371 381 etanercept
+T39 DISO 343 352 psoriasis
+T40 PROC 235 241 valoró
+T41 PROC 361 370 Psoriasis
+T42 CHEM 411 421 etanercept
+T43 PROC 463 474 tratamiento
+T44 PROC 1162 1189 ingresó en Medicina Interna
+T45 DISO 1541 1576 movimientos bruscos , involuntarios
+T46 ANAT 271 277 cabeza
+T47 CHEM 461 471 etanercept
+T48 DISO 800 817 síntoma sistémico
+T49 DISO 193 197 sacu
+T50 ANAT 785 801 miembro superior
+T51 DISO 551 562 hipoestesia
+T52 ANAT 256 261 hemic
+T53 ANAT 157 160 ara
+T54 ANAT 54 55 D
+T55 ANAT 55 56 L
+T56 DISO 1486 1513 alteraciones del movimiento
+T57 DISO 281 286 miocl
+T58 DISO 286 291 onías
+T59 DISO 175 178 dis
+T60 DISO 178 181 ton
+T61 DISO 181 184 ías
+T62 DISO 1404 1427 movimiento involuntario
+T63 PROC 1117 1135 exploración física
+T64 PROC 1450 1473 exploración neurológica
+T65 DISO 1217 1236 hipoestesia ceptiva
+T66 ANAT 326 331 hemic
+T67 ANAT 199 202 ara
+T68 ANAT 403 409 tronco
+T69 ANAT 69 70 L
+T70 ANAT 484 491 espalda
+T71 PROC 1611 1634 pruebas complementarias
+T72 PROC 1421 1441 electroencefalograma
+T73 DISO 1729 1753 movimientos miocl ónicos
+T74 ANAT 585 593 cervical
+T75 ANAT 445 451 hombro
+T76 ANAT 1876 1901 región tempor op ari etal
+T77 ANAT 761 771 hemisferio
+T78 ANAT 617 625 muscular
+T79 DISO 235 238 RAM
+T80 CHEM 80 81 E
+T81 CHEM 721 730 tanercept
+T82 CHEM 568 575 fármaco

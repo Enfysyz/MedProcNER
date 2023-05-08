@@ -1,0 +1,61 @@
+T1 PROC 1 12 diagnóstico
+T2 DISO 3 5 HP
+T3 DISO 3 4 N
+T4 PROC 49 65 evaluación renal
+T5 DISO 49 61 orina oscura
+T6 DISO 61 73 dolor lumbar
+T7 DISO 103 120 anemia hemolítica
+T8 PROC 78 89 hemoglobina
+T9 PROC 17 19 ha
+T10 PROC 28 31 pto
+T11 PROC 71 78 globina
+T12 PROC 34 37 LDH
+T13 PROC 277 300 transfusión de hematíes
+T14 PROC 118 127 ferritina
+T15 PROC 351 376 saturación de transfer an
+T16 ANAT 76 81 renal
+T17 PROC 161 171 creatinina
+T18 DISO 188 199 proteinuria
+T19 DISO 199 210 albuminuria
+T20 DISO 77 81 Hemo
+T21 DISO 81 85 glob
+T22 DISO 43 45 in
+T23 DISO 89 93 uria
+T24 PROC 208 217 sedimento
+T25 DISO 145 151 glucos
+T26 DISO 101 105 uria
+T27 PROC 833 865 excreción frac cional de fosfato
+T28 DISO 514 533 crisis hemol íticas
+T29 DISO 225 233 hemoglob
+T30 DISO 59 61 in
+T31 DISO 121 125 uria
+T32 DISO 869 897 dificultad para concentrarse
+T33 DISO 481 496 dolor de cabeza
+T34 PROC 100 103 IRM
+T35 DISO 137 141 hipo
+T36 DISO 211 217 intens
+T37 DISO 505 519 idad de seá±al
+T38 ANAT 482 495 corteza renal
+T39 PROC 457 469 IRM cerebral
+T40 DISO 1366 1401 lesiones lac unares sub cor ticales
+T41 ANAT 321 329 cerebral
+T42 DISO 83 85 HP
+T43 DISO 43 44 N
+T44 PROC 474 485 tratamiento
+T45 CHEM 45 46 e
+T46 CHEM 136 139 cul
+T47 CHEM 277 283 izumab
+T48 DISO 1223 1249 crisis de hemoglob in uria
+T49 DISO 289 295 anemia
+T50 PROC 148 151 LDH
+T51 PROC 101 103 ha
+T52 PROC 154 157 pto
+T53 PROC 365 372 globina
+T54 PROC 584 595 tratamiento
+T55 PROC 163 166 IRM
+T56 ANAT 716 729 corteza renal
+T57 ANAT 281 286 renal
+T58 DISO 628 639 proteinuria
+T59 DISO 465 473 hemoglob
+T60 DISO 119 121 in
+T61 DISO 241 245 uria

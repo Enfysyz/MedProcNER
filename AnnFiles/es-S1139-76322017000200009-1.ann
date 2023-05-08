@@ -1,0 +1,49 @@
+T1 DISO 1 30 dermatitis atópica infeccioso
+T2 DISO 9 17 varicela
+T3 DISO 29 43 complicaciones
+T4 DISO 19 25 lesión
+T5 DISO 53 66 herpes labial
+T6 PROC 11 13 ul
+T7 PROC 31 36 taron
+T8 DISO 323 369 lesiones cutáneas ves ic ulosas , eritematosas
+T9 DISO 65 73 lesiones
+T10 DISO 235 261 signos impe ti gin ización
+T11 DISO 91 100 celulitis
+T12 DISO 188 205 lesiones cutáneas
+T13 ANAT 97 105 miembros
+T14 ANAT 131 141 superiores
+T15 ANAT 85 91 tronco
+T16 PROC 166 177 exploración
+T17 DISO 97 103 Fiebre
+T18 DISO 239 253 sintomatología
+T19 DISO 163 172 infección
+T20 DISO 666 701 erupción var ic el iforme de Kaposi
+T21 PROC 141 148 ingreso
+T22 PROC 484 507 tratamiento intravenoso
+T23 CHEM 199 208 aciclovir
+T24 PROC 254 265 tratamiento
+T25 CHEM 265 276 amoxicilina
+T26 CHEM 26 27 -
+T27 CHEM 287 298 clavulánico
+T28 PROC 352 365 curas diarias
+T29 CHEM 337 349 clorhexidina
+T30 PROC 204 211 ingreso
+T31 PROC 511 528 estudio analítico
+T32 PROC 280 289 hemograma
+T33 PROC 321 331 bioquímica
+T34 PROC 793 817 reactantes de fase aguda
+T35 PROC 307 316 serología
+T36 DISO 211 217 fiebre
+T37 PROC 253 260 ingreso
+T38 DISO 1370 1407 complicaciones sistémicas ni cutáneas
+T39 DISO 305 313 lesiones
+T40 DISO 781 801 lesiones cos tros as
+T41 PROC 281 288 ingreso
+T42 PROC 657 673 tratamiento oral
+T43 CHEM 379 388 aciclovir
+T44 PROC 302 309 ingreso
+T45 DISO 749 766 lesiones cutáneas
+T46 DISO 811 829 dermatitis atópica
+T47 PROC 415 424 serología
+T48 PROC 142 145 IgM
+T49 DISO 289 295 herpes

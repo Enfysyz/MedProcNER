@@ -1,0 +1,62 @@
+T1 DISO 1 22 cardiopatía isquémica
+T2 DISO 27 53 infarto agudo de miocardio
+T3 DISO 5 7 ex
+T4 DISO 4 5 -
+T5 DISO 29 36 fumador
+T6 DISO 41 49 alergias
+T7 PROC 79 92 diagnosticado
+T8 DISO 141 161 amiloidosis primaria
+T9 DISO 145 163 síndrome nefrótico
+T10 PROC 154 171 alta hospitalaria
+T11 PROC 291 320 recomendaciones nutricionales
+T12 PROC 298 325 dieta baja en sodio y grasa
+T13 CHEM 37 40 sal
+T14 PROC 326 351 tratamiento farmacológico
+T15 CHEM 127 136 omeprazol
+T16 CHEM 46 49 can
+T17 CHEM 49 52 des
+T18 CHEM 86 91 artán
+T19 CHEM 163 172 enalapril
+T20 CHEM 248 261 atorvastatina
+T21 CHEM 441 463 ácido acetilsalicílico
+T22 CHEM 22 23 e
+T23 CHEM 45 47 ze
+T24 CHEM 93 97 timi
+T25 CHEM 49 51 be
+T26 CHEM 251 261 furosemida
+T27 CHEM 79 82 bar
+T28 CHEM 55 57 ni
+T29 CHEM 169 175 dipino
+T30 CHEM 436 451 espironolactona
+T31 PROC 61 63 di
+T32 PROC 94 97 eto
+T33 PROC 225 232 terapia
+T34 PROC 166 171 dieta
+T35 PROC 273 281 consulta
+T36 PROC 281 289 historia
+T37 PROC 1261 1296 valoración antrop ométrica completa
+T38 PROC 371 381 bioquímica
+T39 PROC 837 859 análisis de la ingesta
+T40 PROC 703 721 encuesta dietética
+T41 PROC 1161 1190 recomendaciones nutricionales
+T42 DISO 739 757 síndrome nefrótico
+T43 PROC 1513 1549 dieta restrictiva en proteínas , sal
+T44 PROC 646 661 perfil lipídico
+T45 CHEM 2113 2161 ácidos grasos monoinsa turados y poliinsaturados
+T46 PROC 496 507 exploración
+T47 PROC 277 283 Antrop
+T48 PROC 330 337 ometría
+T49 PROC 145 148 IMC
+T50 PROC 981 1001 composición corporal
+T51 PROC 1201 1225 impedancia bio eléctrica
+T52 ANAT 256 261 magra
+T53 ANAT 261 266 grasa
+T54 DISO 849 865 edemas con fóvea
+T55 ANAT 433 441 rodillas
+T56 PROC 496 505 Analítica
+T57 PROC 561 571 Creatinina
+T58 PROC 172 175 Fil
+T59 PROC 1045 1063 trado Gl omer ular
+T60 PROC 1004 1021 Proteínas Totales
+T61 PROC 541 550 Albáºmina
+T62 PROC 184 187 pre

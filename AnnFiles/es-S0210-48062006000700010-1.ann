@@ -1,0 +1,47 @@
+T1 PROC 1 4 ser
+T2 PROC 7 13 ologia
+T3 DISO 7 10 HIV
+T4 DISO 34 45 Hepatitis B
+T5 DISO 73 91 colecistitis aguda
+T6 PROC 36 43 colecis
+T7 PROC 145 169 tectomia laparos co pica
+T8 PROC 50 57 cirugía
+T9 DISO 25 28 bil
+T10 DISO 37 41 ioma
+T11 PROC 51 56 evacu
+T12 PROC 254 277 ado en forma percutánea
+T13 PROC 205 222 derivación biliar
+T14 PROC 105 113 colangio
+T15 PROC 281 301 grafia endos co pica
+T16 DISO 271 289 pancreatitis aguda
+T17 DISO 465 494 colección peri - pancre ática
+T18 DISO 154 163 colección
+T19 PROC 325 343 drenaje percutáneo
+T20 DISO 476 501 colección retroperitoneal
+T21 PROC 141 148 drenaje
+T22 DISO 127 133 fiebre
+T23 DISO 617 645 deterioro del estado general
+T24 PROC 921 961 tomografía computada de abdomen y pelvis
+T25 DISO 769 801 líquido encaps ulado hidroa éreo
+T26 ANAT 151 157 flanco
+T27 ANAT 391 406 pared abdominal
+T28 PROC 298 309 diagnostico
+T29 DISO 869 900 absceso parie toc ólico derecho
+T30 PROC 204 211 drenaje
+T31 PROC 181 187 lumbos
+T32 PROC 156 161 copia
+T33 DISO 321 331 necro tico
+T34 DISO 298 307 purulento
+T35 PROC 579 596 drenajes silicona
+T36 PROC 526 541 lavado continuo
+T37 CHEM 721 741 solución fisiológica
+T38 PROC 186 191 goteo
+T39 DISO 305 313 febriles
+T40 PROC 274 281 cultivo
+T41 PROC 281 288 tratada
+T42 CHEM 370 379 Meropenem
+T43 PROC 631 646 hospitalización
+T44 PROC 646 661 lavado continuo
+T45 PROC 177 181 dado
+T46 PROC 406 415 controles
+T47 PROC 323 330 drenaje

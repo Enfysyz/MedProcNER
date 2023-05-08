@@ -1,0 +1,77 @@
+T1 DISO 1 26 dolores osteo articulares
+T2 DISO 7 13 fiebre
+T3 DISO 9 13 bruc
+T4 DISO 13 17 bruc
+T5 DISO 25 31 elosis
+T6 PROC 36 43 ingreso
+T7 DISO 91 106 síndrome febril
+T8 DISO 15 17 or
+T9 DISO 25 28 qui
+T10 DISO 28 31 epi
+T11 DISO 41 45 didi
+T12 DISO 144 157 mitis derecha
+T13 PROC 217 235 exploración física
+T14 DISO 66 71 sudor
+T15 DISO 43 46 oso
+T16 ANAT 91 97 cabeza
+T17 ANAT 97 103 cuello
+T18 DISO 188 199 adenopatías
+T19 DISO 91 96 bocio
+T20 DISO 552 581 ingurgitación de vena yugular
+T21 PROC 121 127 pulsos
+T22 ANAT 127 133 carotí
+T23 ANAT 89 93 deos
+T24 PROC 277 289 Auscultación
+T25 ANAT 193 201 cardíaca
+T26 PROC 301 313 Auscultación
+T27 ANAT 209 217 pulmonar
+T28 ANAT 190 197 Abdomen
+T29 DISO 141 146 masas
+T30 DISO 233 241 megalias
+T31 PROC 691 714 exploración neurológica
+T32 DISO 528 545 signos men íngeos
+T33 ANAT 385 397 Extremidades
+T34 DISO 232 239 varices
+T35 DISO 205 211 edemas
+T36 PROC 211 217 Pulsos
+T37 ANAT 397 408 periféricos
+T38 PROC 778 799 exploración urológica
+T39 ANAT 495 508 teste derecho
+T40 DISO 664 681 aumentado tamaá±o
+T41 ANAT 321 329 adherido
+T42 ANAT 165 169 piel
+T43 DISO 463 474 fluctuación
+T44 DISO 990 1013 doloroso a la palpación
+T45 ANAT 1409 1441 límite epid ídi mo - tes ticular
+T46 PROC 226 231 trans
+T47 PROC 93 95 il
+T48 PROC 189 193 umin
+T49 PROC 241 246 ación
+T50 PROC 442 451 Hemograma
+T51 PROC 101 103 Hb
+T52 PROC 460 469 plaquetas
+T53 PROC 157 160 VSG
+T54 PROC 584 595 Coagulación
+T55 PROC 541 551 Bioquímica
+T56 PROC 386 393 Glucosa
+T57 PROC 225 229 urea
+T58 PROC 571 581 creatinina
+T59 PROC 175 178 GOT
+T60 PROC 178 181 GPT
+T61 PROC 181 184 GGT
+T62 PROC 1099 1117 fosfatasa alcalina
+T63 PROC 373 379 calcio
+T64 PROC 316 321 Orina
+T65 PROC 577 586 sedimento
+T66 PROC 456 463 ingreso
+T67 PROC 793 805 Hemocultivos
+T68 PROC 202 205 Ser
+T69 PROC 477 484 ologías
+T70 PROC 1174 1191 Rosa de Ben g ala
+T71 PROC 1121 1137 Test de Co om bs
+T72 PROC 1208 1225 pruebas de imagen
+T73 PROC 577 585 Rx tórax
+T74 PROC 1388 1407 Ecografía abdominal
+T75 PROC 815 826 TAC craneal
+T76 PROC 2101 2129 Ecocardiograma transtorácico
+T77 DISO 685 694 patología

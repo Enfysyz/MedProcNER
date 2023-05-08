@@ -1,0 +1,91 @@
+T1 DISO 1 18 pérdida de visión
+T2 ANAT 4 7 ojo
+T3 ANAT 5 7 OI
+T4 PROC 76 101 exploración oftalmológica
+T5 PROC 121 151 mejor agudeza visual corregida
+T6 PROC 11 13 MA
+T7 PROC 13 15 VC
+T8 ANAT 22 25 ojo
+T9 PROC 153 172 presión intraocular
+T10 PROC 10 11 P
+T11 PROC 21 23 IO
+T12 PROC 45 49 biom
+T13 PROC 25 27 ic
+T14 PROC 40 43 ros
+T15 PROC 71 76 copia
+T16 PROC 16 17 B
+T17 PROC 33 35 MC
+T18 ANAT 69 73 polo
+T19 PROC 217 229 fondo de ojo
+T20 PROC 39 41 FO
+T21 ANAT 101 106 fóvea
+T22 DISO 379 397 estrías angio ides
+T23 DISO 45 47 EA
+T24 DISO 392 409 cuerpos colo ides
+T25 ANAT 97 101 ojos
+T26 ANAT 26 27 A
+T27 ANAT 27 28 O
+T28 ANAT 55 57 OI
+T29 DISO 29 30 d
+T30 DISO 88 91 rus
+T31 DISO 601 621 as del nervio óptico
+T32 DISO 187 193 lesión
+T33 DISO 65 67 EA
+T34 DISO 364 375 hemorragias
+T35 DISO 35 36 N
+T36 DISO 71 73 VC
+T37 PROC 829 852 pruebas complementarias
+T38 PROC 149 153 auto
+T39 PROC 115 118 flu
+T40 PROC 391 401 orescencia
+T41 ANAT 81 83 AO
+T42 DISO 83 85 FA
+T43 DISO 1219 1248 lesiones lineales irregulares
+T44 ANAT 216 221 lecho
+T45 ANAT 89 91 OI
+T46 DISO 46 47 d
+T47 DISO 139 142 rus
+T48 DISO 941 961 as del nervio óptico
+T49 DISO 817 834 cuerpos colo ides
+T50 DISO 99 101 FA
+T51 PROC 251 256 Angio
+T52 PROC 1174 1197 grafía fluores ce ínica
+T53 PROC 105 107 AF
+T54 PROC 54 55 G
+T55 DISO 2539 2586 alteración del epitelio pigment ario retin iano
+T56 DISO 111 113 EP
+T57 DISO 57 58 R
+T58 DISO 343 349 lesión
+T59 ANAT 117 119 OI
+T60 DISO 60 61 N
+T61 DISO 121 123 VC
+T62 PROC 1892 1923 tomografía óptica de coherencia
+T63 PROC 187 190 OCT
+T64 ANAT 2080 2113 banda tiva E PR - cor io cap ilar
+T65 ANAT 129 131 AO
+T66 ANAT 131 133 OI
+T67 DISO 1717 1743 lesión cu pul iforme densa
+T68 DISO 68 69 N
+T69 DISO 137 139 VC
+T70 DISO 2347 2381 desprendimiento de neuro epi telio
+T71 PROC 1751 1776 diagnóstico oftalmológico
+T72 DISO 356 361 seudo
+T73 DISO 217 220 xan
+T74 DISO 950 963 toma elástico
+T75 DISO 741 751 enfermedad
+T76 PROC 826 837 tratamiento
+T77 PROC 1977 2003 inyecciones intraví tre as
+T78 CHEM 232 235 ran
+T79 CHEM 79 80 i
+T80 CHEM 159 161 bi
+T81 CHEM 401 406 zumab
+T82 CHEM 244 247 tis
+T83 ANAT 165 167 OI
+T84 PROC 665 673 medición
+T85 PROC 421 426 MA VC
+T86 PROC 256 259 OCT
+T87 PROC 775 784 inyección
+T88 PROC 175 177 AF
+T89 PROC 1057 1069 G de control
+T90 PROC 980 991 seguimiento
+T91 PROC 271 274 OCT

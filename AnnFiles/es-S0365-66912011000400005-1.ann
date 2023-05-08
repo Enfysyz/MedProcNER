@@ -1,0 +1,69 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 22 43 artritis reumatoide (
+T3 DISO 37 55 AR ) sero positiva
+T4 CHEM 52 69 factor reumatoide
+T5 PROC 45 56 tratamiento
+T6 CHEM 196 235 fármacos modificadores de la enfermedad
+T7 CHEM 7 8 F
+T8 CHEM 22 25 AME
+T9 CHEM 137 154 hidroxicloroquina
+T10 CHEM 28 31 sul
+T11 CHEM 31 34 fas
+T12 CHEM 23 25 al
+T13 CHEM 61 66 acina
+T14 CHEM 157 169 ciclosporina
+T15 CHEM 29 31 le
+T16 CHEM 31 33 fl
+T17 CHEM 113 120 unomida
+T18 PROC 341 361 tratamiento de fondo
+T19 CHEM 91 96 metro
+T20 CHEM 39 41 te
+T21 CHEM 81 85 xato
+T22 CHEM 211 221 prednisona
+T23 CHEM 221 231 infliximab
+T24 DISO 231 241 enfermedad
+T25 DISO 841 876 artritis séptica de tobillo derecho
+T26 PROC 676 703 cultivo de líquido sinovial
+T27 CHEM 261 271 infliximab
+T28 PROC 1135 1177 tratamiento con antibioterapia intravenosa
+T29 PROC 225 233 consulta
+T30 DISO 233 241 ojo rojo
+T31 DISO 871 900 dolor intenso perior bi tario
+T32 DISO 280 289 fotofobia
+T33 DISO 577 595 infiltrado corneal
+T34 ANAT 166 171 semil
+T35 ANAT 103 106 una
+T36 DISO 491 505 adelgazamiento
+T37 ANAT 181 186 estro
+T38 DISO 223 229 escler
+T39 DISO 153 157 itis
+T40 PROC 1093 1121 cultivo del ras pado corneal
+T41 DISO 81 83 QU
+T42 DISO 42 43 P
+T43 PROC 463 474 tratamiento
+T44 CHEM 431 441 prednisona
+T45 CHEM 749 766 metilprednisolona
+T46 PROC 946 967 resección quiráºrgica
+T47 ANAT 829 847 tejido conjuntival
+T48 DISO 95 97 QU
+T49 DISO 49 50 P
+T50 CHEM 1324 1351 adhesivo de ciano acri lato
+T51 DISO 901 919 perforación ocular
+T52 PROC 562 573 tratamiento
+T53 DISO 261 266 dolor
+T54 DISO 319 325 escler
+T55 DISO 217 221 itis
+T56 DISO 991 1009 infiltrado corneal
+T57 DISO 561 571 enfermedad
+T58 PROC 514 523 perfusión
+T59 CHEM 523 532 rituximab
+T60 PROC 591 601 infusiones
+T61 PROC 661 672 tratamiento
+T62 DISO 245 249 leuc
+T63 DISO 683 694 oma corneal
+T64 DISO 379 385 escler
+T65 DISO 257 261 itis
+T66 PROC 716 727 tratamiento
+T67 CHEM 595 604 rituximab
+T68 PROC 336 341 pauta
+T69 DISO 137 139 AR

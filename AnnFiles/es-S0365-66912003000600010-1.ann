@@ -1,0 +1,80 @@
+T1 PROC 1 22 ingresa por urgencias
+T2 DISO 9 17 cefaleas
+T3 DISO 39 58 dolor en epigastrio
+T4 DISO 43 57 visión borrosa
+T5 PROC 65 81 tensión arterial
+T6 PROC 11 13 TA
+T7 PROC 109 127 exploración física
+T8 DISO 36 41 edema
+T9 ANAT 153 172 miembros inferiores
+T10 ANAT 46 51 fóvea
+T11 PROC 131 144 transaminasas
+T12 PROC 122 133 bilirrubina
+T13 PROC 109 118 plaquetas
+T14 PROC 105 113 hematíes
+T15 PROC 155 166 hemoglobina
+T16 PROC 166 177 hematocrito
+T17 DISO 65 69 hemo
+T18 DISO 52 55 con
+T19 DISO 181 191 centración
+T20 PROC 172 181 plaquetas
+T21 PROC 441 463 estudio de coagulación
+T22 PROC 211 221 creatinina
+T23 PROC 155 162 asparta
+T24 PROC 484 505 to amino transfer asa
+T25 PROC 49 51 al
+T26 PROC 601 625 anina amino transfer asa
+T27 PROC 443 460 bilirrubina total
+T28 DISO 298 309 proteinuria
+T29 PROC 281 291 determinar
+T30 PROC 407 421 agudeza visual
+T31 PROC 151 156 oftal
+T32 PROC 94 97 mos
+T33 PROC 161 166 copia
+T34 DISO 166 171 edema
+T35 ANAT 205 211 discos
+T36 DISO 246 253 despren
+T37 DISO 1117 1148 dimientos ser osos de la retina
+T38 ANAT 75 77 má
+T39 ANAT 191 196 culas
+T40 ANAT 118 121 bul
+T41 ANAT 121 124 ojo
+T42 DISO 452 463 hemorragias
+T43 ANAT 589 603 polo posterior
+T44 ANAT 173 177 ojos
+T45 DISO 309 316 estrech
+T46 DISO 361 369 amientos
+T47 ANAT 875 894 arterias retinianas
+T48 PROC 2022 2065 ingresó en la Unidad de Cuidados Intensivos
+T49 PROC 433 442 perfusión
+T50 CHEM 148 151 Lab
+T51 CHEM 201 205 etal
+T52 CHEM 103 105 ol
+T53 CHEM 469 478 Enalapril
+T54 PROC 107 109 TA
+T55 PROC 811 826 cesárea urgente
+T56 ANAT 221 225 feto
+T57 PROC 393 400 cesárea
+T58 DISO 457 465 oliguria
+T59 PROC 755 768 transaminasas
+T60 PROC 650 661 bilirrubina
+T61 PROC 541 550 plaquetas
+T62 PROC 489 497 diuresis
+T63 PROC 993 1009 control de la TA
+T64 PROC 1765 1793 tratamiento antihipertensivo
+T65 PROC 321 326 vista
+T66 ANAT 196 199 ojo
+T67 PROC 1255 1274 presión intraocular
+T68 ANAT 269 273 ojos
+T69 PROC 273 277 biom
+T70 PROC 139 141 ic
+T71 PROC 211 214 ros
+T72 PROC 1705 1729 copia de cámara anterior
+T73 PROC 865 877 fondo de ojo
+T74 DISO 512 519 despren
+T75 DISO 2147 2176 dimientos ser osos mac ulares
+T76 ANAT 301 305 ojos
+T77 DISO 1673 1695 edema del disco óptico
+T78 DISO 3081 3121 desprendimiento exuda tivo peri pap ilar
+T79 ANAT 235 238 ojo
+T80 DISO 1897 1921 desprendimiento bul loso

@@ -1,0 +1,71 @@
+T1 DISO 1 8 fumador
+T2 PROC 9 17 Consulta
+T3 DISO 47 70 infección urinaria baja
+T4 DISO 82 109 cólico nefr ítico izquierdo
+T5 PROC 49 61 tacto rectal
+T6 ANAT 41 49 próstata
+T7 ANAT 43 50 lóbulos
+T8 PROC 64 73 ecografía
+T9 ANAT 81 91 prostático
+T10 ANAT 19 21 pr
+T11 ANAT 21 23 ós
+T12 ANAT 45 49 tata
+T13 PROC 37 40 PSA
+T14 PROC 248 267 biopsia de próstata
+T15 ANAT 127 136 cilindros
+T16 DISO 211 225 adenocarcinoma
+T17 PROC 497 528 gammagrafía ósea de estad ia je
+T18 DISO 239 253 patología ósea
+T19 PROC 523 552 bloqueo andro génico completo
+T20 CHEM 77 81 anti
+T21 CHEM 81 85 andr
+T22 CHEM 127 133 ógenos
+T23 CHEM 353 369 análogos LH - RH
+T24 PROC 254 265 seguimiento
+T25 PROC 73 76 PSA
+T26 DISO 226 235 hematuria
+T27 DISO 469 487 retención de orina
+T28 PROC 406 421 sondaje vesical
+T29 DISO 533 552 clínica obstructiva
+T30 PROC 639 661 estudio flu j ométrico
+T31 DISO 301 311 enfermedad
+T32 PROC 1179 1217 resección trans uretral de la próstata
+T33 PROC 769 793 resección de la próstata
+T34 ANAT 496 511 uretra pene ana
+T35 DISO 885 911 formaciones mam el on adas
+T36 DISO 141 145 poli
+T37 DISO 73 75 po
+T38 DISO 186 191 ideas
+T39 ANAT 229 235 vejiga
+T40 ANAT 274 281 uretral
+T41 DISO 121 124 san
+T42 DISO 165 169 gran
+T43 ANAT 547 560 uretra bulbar
+T44 ANAT 431 441 prostática
+T45 DISO 133 136 des
+T46 DISO 406 415 estructur
+T47 PROC 47 48 R
+T48 PROC 48 49 .
+T49 PROC 337 344 T . U .
+T50 PROC 148 151 PSA
+T51 CHEM 201 205 anti
+T52 CHEM 205 209 andr
+T53 CHEM 313 319 ógenos
+T54 CHEM 425 433 análogos
+T55 CHEM 55 56 A
+T56 CHEM 221 225 tras
+T57 CHEM 281 286 entan
+T58 DISO 1084 1103 clínica obstructiva
+T59 PROC 523 532 resección
+T60 ANAT 178 181 mam
+T61 ANAT 121 123 el
+T62 ANAT 916 931 ones ure trales
+T63 ANAT 497 505 próstata
+T64 ANAT 505 513 muestras
+T65 PROC 961 976 sondaje vesical
+T66 PROC 1496 1519 diagnóstico histológico
+T67 ANAT 925 939 tejido uretral
+T68 DISO 336 341 masas
+T69 DISO 953 967 adenocarcinoma
+T70 ANAT 1174 1191 tejido prostático
+T71 PROC 771 782 diagnóstico

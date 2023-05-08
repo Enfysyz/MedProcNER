@@ -1,0 +1,70 @@
+T1 PROC 1 12 Diagnóstico
+T2 DISO 14 27 Esquizofrenia
+T3 PROC 23 34 seguimiento
+T4 PROC 94 125 tratamiento psicofarmac ológico
+T5 CHEM 17 21 amis
+T6 CHEM 11 13 ul
+T7 CHEM 13 15 pi
+T8 CHEM 8 9 -
+T9 CHEM 17 19 ri
+T10 CHEM 19 21 de
+T11 CHEM 101 111 olanzapina
+T12 CHEM 89 97 diazepam
+T13 CHEM 97 105 tramadol
+T14 CHEM 105 113 cannabis
+T15 CHEM 99 106 alcohol
+T16 CHEM 106 113 cocaína
+T17 DISO 369 392 dificultad en la marcha
+T18 DISO 171 181 politrauma
+T19 DISO 91 96 tismo
+T20 DISO 343 361 episodio psicótico
+T21 DISO 241 253 inconsciente
+T22 DISO 85 89 Auto
+T23 DISO 45 47 in
+T24 DISO 231 241 toxicación
+T25 CHEM 193 201 tramadol
+T26 CHEM 376 391 benzodiacepinas
+T27 CHEM 183 190 alcohol
+T28 CHEM 190 197 cocaína
+T29 PROC 505 523 Abordaje Unidad de
+T30 DISO 407 421 complicaciones
+T31 DISO 211 218 rabdomi
+T32 DISO 187 193 olisis
+T33 DISO 801 826 insuficiencia renal aguda
+T34 DISO 595 613 proceso neum ónico
+T35 PROC 375 386 TAC craneal
+T36 PROC 351 361 bilización
+T37 PROC 289 297 traslado
+T38 PROC 260 267 ingreso
+T39 PROC 153 157 Tras
+T40 PROC 274 281 lado al
+T41 PROC 281 288 ingreso
+T42 PROC 288 295 ingreso
+T43 DISO 1051 1076 descompensación psicótica
+T44 PROC 818 837 Terapia Ocupacional
+T45 DISO 45 46 E
+T46 DISO 91 93 ut
+T47 DISO 47 48 í
+T48 DISO 189 193 mico
+T49 PROC 193 197 alta
+T50 PROC 540 551 seguimiento
+T51 DISO 601 613 asintomático
+T52 DISO 1735 1769 desorientación temp oro - espacial
+T53 DISO 209 213 brad
+T54 DISO 54 55 i
+T55 DISO 379 386 psiquia
+T56 DISO 331 337 ataxia
+T57 DISO 1177 1198 enlentecimiento motor
+T58 DISO 172 175 Fal
+T59 DISO 813 827 los m nés icos
+T60 DISO 355 361 afasia
+T61 DISO 121 123 ap
+T62 DISO 306 311 raxia
+T63 DISO 497 505 angustia
+T64 PROC 1513 1537 tratamiento psiquiátrico
+T65 DISO 961 976 brote psicótico
+T66 DISO 1236 1255 deterioro cognitivo
+T67 ANAT 463 470 sistema
+T68 PROC 202 205 EEG
+T69 PROC 681 691 valoración
+T70 PROC 553 561 traslado

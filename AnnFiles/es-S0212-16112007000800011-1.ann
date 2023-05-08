@@ -1,0 +1,71 @@
+T1 DISO 1 20 enfermedad de Crohn
+T2 PROC 14 27 diagnosticado
+T3 PROC 15 22 ingresa
+T4 DISO 46 61 dolor abdominal
+T5 DISO 29 36 diarrea
+T6 DISO 51 61 enfermedad
+T7 PROC 145 169 tratamiento domiciliario
+T8 CHEM 78 89 corticoides
+T9 CHEM 25 28 mes
+T10 CHEM 28 31 ala
+T11 CHEM 41 45 zina
+T12 PROC 34 37 ile
+T13 PROC 85 92 ostomía
+T14 PROC 66 71 colec
+T15 PROC 211 226 tomía sub total
+T16 ANAT 196 209 muá±ón rectal
+T17 DISO 161 171 enfermedad
+T18 PROC 392 415 operaciones resec tivas
+T19 PROC 199 210 extirpación
+T20 ANAT 96 101 íleon
+T21 ANAT 381 400 válvula ile oc ecal
+T22 ANAT 106 111 ciego
+T23 DISO 507 530 perforación ile oc ecal
+T24 PROC 323 337 intervenciones
+T25 DISO 289 301 fístula anal
+T26 DISO 451 469 absceso en gláºteo
+T27 PROC 183 190 drenaje
+T28 PROC 190 197 ingreso
+T29 DISO 505 523 infección perianal
+T30 PROC 523 541 tratamiento médico
+T31 CHEM 361 373 antibióticos
+T32 PROC 745 769 intervención quiráºrgica
+T33 PROC 929 958 amputación abdomino per ineal
+T34 PROC 166 171 resec
+T35 PROC 205 211 ándole
+T36 ANAT 176 181 recto
+T37 DISO 505 519 complicaciones
+T38 DISO 1518 1559 convulsión tónico - cl ónica generalizada
+T39 DISO 1027 1054 incontinencia de esfínteres
+T40 PROC 703 721 bioquímica general
+T41 PROC 1321 1354 calcio corregido por la albáºmina
+T42 PROC 42 43 K
+T43 PROC 379 388 albáºmina
+T44 PROC 302 309 glucosa
+T45 PROC 221 226 sodio
+T46 PROC 496 507 TAC craneal
+T47 PROC 829 847 electrocardiograma
+T48 PROC 330 337 ingreso
+T49 DISO 1441 1471 convulsión tónico - cl ónica ,
+T50 PROC 393 401 valorado
+T51 PROC 1001 1021 electroencefalograma
+T52 PROC 562 573 tratamiento
+T53 CHEM 209 213 carb
+T54 CHEM 107 109 am
+T55 CHEM 217 221 acep
+T56 CHEM 166 169 ina
+T57 DISO 673 685 convulsiones
+T58 PROC 1027 1045 tratamiento médico
+T59 PROC 1857 1889 registro electroencefal ográfico
+T60 DISO 827 841 deshidratación
+T61 DISO 721 733 desnutrición
+T62 DISO 428 435 astenia
+T63 PROC 807 820 interconsulta
+T64 PROC 820 833 valoración de
+T65 PROC 1217 1236 soporte nutricional
+T66 PROC 911 925 interrogatorio
+T67 DISO 727 738 parestesias
+T68 ANAT 1274 1293 miembros inferiores
+T69 DISO 477 484 prurito
+T70 DISO 967 981 sintomatología
+T71 DISO 1541 1563 episodios convuls ivos

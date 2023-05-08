@@ -1,0 +1,61 @@
+T1 PROC 1 9 consulta
+T2 DISO 12 23 tumefacción
+T3 ANAT 33 49 región posterior
+T4 ANAT 13 17 hemi
+T5 ANAT 13 16 pal
+T6 ANAT 21 25 adar
+T7 PROC 43 50 biopsia
+T8 PROC 106 121 anestesia local
+T9 DISO 17 19 PL
+T10 DISO 19 21 GA
+T11 PROC 201 221 exploración cervical
+T12 DISO 111 121 adenopatía
+T13 ANAT 37 40 sub
+T14 ANAT 131 141 mandibular
+T15 PROC 393 421 tratamiento con radioterapia
+T16 DISO 136 145 patología
+T17 ANAT 401 426 región de cabeza y cuello
+T18 PROC 69 73 orto
+T19 PROC 55 58 pan
+T20 PROC 191 201 tomografía
+T21 PROC 61 64 tom
+T22 PROC 778 815 ografia computer izada cervico facial
+T23 DISO 133 139 lesión
+T24 ANAT 231 241 fosa nasal
+T25 PROC 457 476 punción cit ológica
+T26 DISO 251 261 adenopatía
+T27 DISO 53 55 PL
+T28 DISO 55 57 GA
+T29 PROC 57 59 RM
+T30 DISO 175 181 lesión
+T31 ANAT 301 311 fosa nasal
+T32 ANAT 652 673 región p teri go idea
+T33 PROC 769 793 intervención quiráºrgica
+T34 PROC 562 579 anestesia general
+T35 DISO 171 176 tumor
+T36 PROC 71 73 ma
+T37 PROC 145 149 xilo
+T38 PROC 186 191 tomía
+T39 PROC 2015 2068 vaciamiento cervical ganglionar supra h omo h io ideo
+T40 PROC 664 681 resección tumoral
+T41 PROC 761 780 reposición ósea del
+T42 ANAT 288 295 maxilar
+T43 PROC 799 818 anatomía patológica
+T44 PROC 474 485 diagnóstico
+T45 DISO 89 91 PL
+T46 DISO 91 93 GA
+T47 ANAT 967 988 márgenes quiráºrgicos
+T48 ANAT 1082 1105 área pter ig oma x ilar
+T49 PROC 529 540 vaciamiento
+T50 DISO 1226 1251 adenopatías metastás icas
+T51 PROC 1201 1225 radioterapia coadyuvante
+T52 ANAT 1684 1717 región pter ig oma x ilar derecha
+T53 PROC 989 1008 controles de imagen
+T54 PROC 531 541 resonancia
+T55 DISO 865 881 restos tumorales
+T56 ANAT 221 225 pter
+T57 ANAT 113 115 ig
+T58 ANAT 571 581 oma x ilar
+T59 PROC 1277 1299 reconstrucción defecto
+T60 PROC 1181 1201 controles periódicos
+T61 DISO 601 611 enfermedad

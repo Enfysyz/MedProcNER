@@ -1,0 +1,79 @@
+T1 DISO 1 19 síndrome depresivo
+T2 DISO 7 13 prosta
+T3 DISO 11 16 tismo
+T4 PROC 34 45 diagnostica
+T5 DISO 121 151 carcinoma de colon descendente
+T6 PROC 26 31 colec
+T7 PROC 151 176 tomía sub total izquierda
+T8 PROC 204 233 anastomosis ile os ig mo idea
+T9 PROC 201 226 estudio anatomopatológico
+T10 PROC 46 51 colec
+T11 PROC 51 56 tomía
+T12 DISO 111 121 tumoración
+T13 DISO 277 300 adenocarcinoma de colon
+T14 ANAT 222 239 grasa subs er osa
+T15 DISO 295 316 afectación ganglionar
+T16 PROC 106 113 drenaje
+T17 DISO 465 494 absceso en la pared abdominal
+T18 DISO 239 253 complicaciones
+T19 PROC 163 172 analítica
+T20 PROC 210 221 hematocrito
+T21 PROC 221 232 hemoglobina
+T22 PROC 211 221 creatinina
+T23 PROC 397 415 analítica de orina
+T24 PROC 70 73 PSA
+T25 PROC 97 101 Antí
+T26 PROC 651 677 geno Car cino Embri onario
+T27 PROC 27 28 C
+T28 PROC 55 57 EA
+T29 PROC 85 88 TAC
+T30 DISO 726 751 masa en colon descendente
+T31 DISO 541 559 carcinoma de colon
+T32 DISO 931 961 adenopatías retro peritoneales
+T33 DISO 1249 1288 lesiones crónicas fibro cica tri ciales
+T34 ANAT 166 171 tórax
+T35 PROC 171 176 colec
+T36 PROC 176 181 tomía
+T37 DISO 757 778 masa nodular dolorosa
+T38 ANAT 630 647 testículo derecho
+T39 PROC 761 781 ecografía testicular
+T40 DISO 703 721 lesión heterogénea
+T41 DISO 361 370 quísticas
+T42 ANAT 411 421 cuerpo del
+T43 ANAT 799 818 epid ídi mo derecho
+T44 ANAT 388 397 testículo
+T45 PROC 353 361 consulta
+T46 PROC 496 507 exploración
+T47 DISO 875 894 tumoración dolorosa
+T48 ANAT 189 193 epid
+T49 ANAT 145 148 ídi
+T50 ANAT 491 501 mo derecho
+T51 DISO 501 511 tumoración
+T52 ANAT 1378 1405 cordón esper mático derecho
+T53 PROC 1197 1220 exploración quiráºrgica
+T54 DISO 425 433 lesiones
+T55 PROC 1027 1046 anestesia ra quídea
+T56 PROC 936 953 incisión inguinal
+T57 PROC 1513 1540 extracción de teste derecho
+T58 ANAT 1084 1103 cordón esper mático
+T59 PROC 117 119 cl
+T60 PROC 178 181 amp
+T61 PROC 781 794 aje del mismo
+T62 ANAT 367 373 tercio
+T63 ANAT 249 253 epid
+T64 ANAT 190 193 ídi
+T65 ANAT 641 651 mo derecho
+T66 DISO 911 925 lesión nodular
+T67 ANAT 1123 1140 testículo derecho
+T68 ANAT 604 613 testículo
+T69 DISO 817 829 infiltración
+T70 ANAT 1864 1891 cordón esper mático derecho
+T71 DISO 421 427 lesión
+T72 ANAT 427 433 cordón
+T73 PROC 505 512 biopsia
+T74 DISO 1023 1037 adenocarcinoma
+T75 PROC 1037 1051 consentimiento
+T76 PROC 151 153 or
+T77 PROC 229 232 qui
+T78 PROC 1772 1795 ectomía radical derecha
+T79 ANAT 1483 1502 cordón esper mático

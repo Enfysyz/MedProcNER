@@ -1,0 +1,78 @@
+T1 PROC 1 6 visto
+T2 PROC 9 17 consulta
+T3 DISO 21 31 varicocele
+T4 DISO 28 37 patología
+T5 DISO 17 21 masa
+T6 ANAT 31 37 riá±ón
+T7 ANAT 139 162 estructuras abdominales
+T8 ANAT 141 161 vena renal izquierda
+T9 ANAT 33 37 cava
+T10 DISO 136 151 dolor abdominal
+T11 DISO 71 78 astenia
+T12 DISO 166 181 pérdida de peso
+T13 DISO 109 118 hematuria
+T14 DISO 235 253 síndrome miccional
+T15 PROC 253 271 exploración física
+T16 DISO 211 225 masa abdominal
+T17 PROC 353 375 pruebas de laboratorio
+T18 PROC 511 541 análisis sistemático de sangre
+T19 PROC 559 590 bioquímica de sangre y de orina
+T20 PROC 210 221 coagulación
+T21 PROC 401 421 ecografía testicular
+T22 DISO 211 221 varicocele
+T23 PROC 419 438 ecografía abdominal
+T24 PROC 461 481 resonancia magnética
+T25 PROC 625 651 tomografía computarizada (
+T26 PROC 526 547 TC ) toraco abdominal
+T27 DISO 105 109 masa
+T28 ANAT 163 169 riá±ón
+T29 ANAT 645 668 estructuras abdominales
+T30 ANAT 291 301 vena renal
+T31 ANAT 121 125 cava
+T32 PROC 342 353 exploración
+T33 PROC 513 529 gammagrafía ósea
+T34 DISO 529 545 metástasis óseas
+T35 PROC 239 246 punción
+T36 PROC 36 37 -
+T37 PROC 901 926 aspiración con aguja fina
+T38 DISO 593 609 células atípicas
+T39 DISO 381 391 malignidad
+T40 PROC 508 521 arteriografía
+T41 ANAT 601 616 aorta abdominal
+T42 PROC 780 799 nefrectomía radical
+T43 PROC 505 517 intervención
+T44 PROC 302 309 cirugía
+T45 PROC 837 856 anatomía patológica
+T46 DISO 856 875 masa tumoral encaps
+T47 ANAT 277 283 riá±ón
+T48 DISO 1364 1393 sarcoma fibro mi xo ide renal
+T49 PROC 241 246 guido
+T50 PROC 981 1001 consulta ambulatoria
+T51 PROC 1301 1327 tratamiento complementario
+T52 PROC 1480 1509 exploraciones complementarias
+T53 PROC 625 637 intervención
+T54 PROC 213 217 anal
+T55 PROC 1135 1156 íticas sangre y orina
+T56 PROC 1046 1065 TC toraco abdominal
+T57 PROC 1065 1084 TC toraco abdominal
+T58 DISO 457 465 recidiva
+T59 DISO 233 237 masa
+T60 ANAT 650 661 celda renal
+T61 ANAT 241 245 bazo
+T62 ANAT 489 497 páncreas
+T63 PROC 1427 1450 tratamiento con cirugía
+T64 DISO 631 641 tumoración
+T65 ANAT 257 261 bazo
+T66 ANAT 1041 1057 cola de páncreas
+T67 ANAT 1585 1609 curvatura mayor gástrica
+T68 ANAT 604 613 diafragma
+T69 PROC 613 622 resección
+T70 DISO 691 701 tumoración
+T71 ANAT 631 640 diafragma
+T72 PROC 1492 1513 gastrectomía vertical
+T73 ANAT 937 950 ángulo de His
+T74 PROC 439 445 esplen
+T75 PROC 519 526 ectomía
+T76 PROC 1801 1825 resección de la cola del
+T77 PROC 381 386 colec
+T78 PROC 1233 1249 tomía del ángulo

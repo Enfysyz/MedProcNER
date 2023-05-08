@@ -1,0 +1,62 @@
+T1 DISO 1 12 parestesias
+T2 ANAT 24 47 extremidades superiores
+T3 DISO 23 34 somnolencia
+T4 PROC 22 29 ingreso
+T5 CHEM 65 81 crema anestésica
+T6 CHEM 21 25 lido
+T7 CHEM 31 36 caína
+T8 CHEM 22 25 pri
+T9 CHEM 17 19 lo
+T10 CHEM 46 51 caína
+T11 PROC 161 177 depilación láser
+T12 ANAT 78 85 espalda
+T13 ANAT 277 300 extremidades superiores
+T14 ANAT 131 141 inferiores
+T15 DISO 113 121 cianosis
+T16 PROC 241 257 presión arterial
+T17 PROC 305 324 frecuencia cardiaca
+T18 PROC 52 55 SaO
+T19 PROC 19 20 2
+T20 PROC 267 281 oxigenoterapia
+T21 PROC 221 232 exploración
+T22 PROC 484 507 pruebas complementarias
+T23 PROC 23 24 R
+T24 PROC 231 241 X de tórax
+T25 PROC 433 451 electrocardiograma
+T26 DISO 601 625 alteraciones patológicas
+T27 PROC 235 244 analítica
+T28 PROC 190 197 ingreso
+T29 CHEM 57 59 EM
+T30 CHEM 59 61 LA
+T31 PROC 751 776 nivel de meta hemoglobina
+T32 PROC 404 417 diagnosticado
+T33 DISO 129 133 meta
+T34 DISO 133 137 hemo
+T35 DISO 137 141 glob
+T36 DISO 211 217 inemia
+T37 PROC 757 778 administración tópica
+T38 CHEM 75 77 EM
+T39 CHEM 77 79 LA
+T40 CHEM 157 161 lido
+T41 CHEM 201 206 caína
+T42 CHEM 124 127 pri
+T43 CHEM 85 87 lo
+T44 CHEM 216 221 caína
+T45 PROC 617 631 administración
+T46 CHEM 766 783 azul de metil eno
+T47 PROC 645 659 administración
+T48 CHEM 377 385 antídoto
+T49 PROC 1201 1226 nivel de meta hemoglobina
+T50 DISO 442 451 alcalosis
+T51 PROC 401 409 valorado
+T52 PROC 409 417 traslado
+T53 PROC 2133 2174 oxigenoterapia en mascarilla a alto flujo
+T54 ANAT 372 379 cutáneo
+T55 ANAT 55 56 -
+T56 ANAT 331 337 mucosa
+T57 PROC 169 172 SaO
+T58 CHEM 115 117 EM
+T59 CHEM 117 119 LA
+T60 PROC 1476 1501 nivel de meta hemoglobina
+T61 PROC 481 489 traslado
+T62 PROC 428 435 ingreso

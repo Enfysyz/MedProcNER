@@ -1,0 +1,91 @@
+T1 DISO 1 19 síndrome depresivo
+T2 DISO 27 53 estenosis del canal lumbar
+T3 PROC 21 31 Diagnostic
+T4 PROC 10 13 ada
+T5 DISO 101 126 espondilitis anquilosante
+T6 PROC 56 67 tratamiento
+T7 CHEM 61 71 adalimumab
+T8 PROC 78 89 tratamiento
+T9 PROC 257 289 prueba de la tuberculina cutánea
+T10 PROC 91 101 profilaxis
+T11 CHEM 21 23 is
+T12 CHEM 34 37 oni
+T13 CHEM 61 66 acida
+T14 CHEM 131 141 medicación
+T15 CHEM 449 481 antiinflamatorios no esteroideos
+T16 CHEM 121 129 tramadol
+T17 CHEM 225 239 antidepresivos
+T18 CHEM 596 631 inhibidores de la bomba de protones
+T19 ANAT 91 96 renal
+T20 PROC 153 161 valorada
+T21 DISO 241 253 asintomática
+T22 PROC 379 397 exploración física
+T23 DISO 133 139 edemas
+T24 DISO 1151 1201 adenopatías latero cervicales o retro aur iculares
+T25 PROC 649 676 auscultación cardiopulmonar
+T26 PROC 376 391 ecografía renal
+T27 ANAT 209 217 riá±ones
+T28 ANAT 82 85 cor
+T29 ANAT 85 88 tic
+T30 ANAT 117 121 omed
+T31 ANAT 121 125 ular
+T32 DISO 435 449 litiasis renal
+T33 DISO 769 793 dilatación pielocalicial
+T34 DISO 661 681 lesiones hipoden sas
+T35 ANAT 137 141 bazo
+T36 DISO 806 829 afectación linfoma tosa
+T37 PROC 325 334 ingresada
+T38 PROC 963 989 tomografía computarizada (
+T39 PROC 1407 1444 TC ) tó ra co - ab dom ino - pélv ica
+T40 DISO 703 721 nódulos pulmonares
+T41 ANAT 721 739 lóbulos superiores
+T42 DISO 1026 1051 adenopatías mediastínicas
+T43 DISO 841 861 lesiones espl énicas
+T44 PROC 302 309 biopsia
+T45 DISO 837 856 adenopatía cervical
+T46 DISO 1711 1749 inflamación granulomatosa epitelio ide
+T47 DISO 783 800 necrosis case osa
+T48 PROC 1411 1441 tinción de Z ie hl - N iel sen
+T49 PROC 241 246 fibro
+T50 PROC 197 201 bron
+T51 PROC 401 409 coscopia
+T52 DISO 409 417 lesiones
+T53 ANAT 469 478 vía aérea
+T54 PROC 1167 1189 lavado bronco alveolar
+T55 ANAT 541 551 linfocitos
+T56 PROC 881 897 lavado bronquial
+T57 PROC 505 514 punción -
+T58 PROC 2338 2379 aspiración con aguja fina trans bronquial
+T59 DISO 1335 1358 adenopatía mediastínica
+T60 DISO 591 601 granulomas
+T61 PROC 1081 1099 tinción de Z ie hl
+T62 PROC 306 311 fibro
+T63 PROC 249 253 bron
+T64 PROC 505 513 coscopia
+T65 PROC 2881 2926 ensayo de liberación de interferón gamma para
+T66 DISO 781 793 tuberculosis
+T67 PROC 133 135 qu
+T68 PROC 269 273 anti
+T69 PROC 205 208 FER
+T70 PROC 139 141 ON
+T71 PROC 491 498 pruebas
+T72 PROC 2060 2089 tratamiento antitu bercul oso
+T73 PROC 1441 1461 estudio nef rológico
+T74 PROC 1899 1925 anticuerpos antin ucleares
+T75 PROC 223 226 ANA
+T76 PROC 301 305 anti
+T77 PROC 305 309 cito
+T78 PROC 1618 1639 plasma de neutrófilos
+T79 PROC 313 317 ANCA
+T80 PROC 317 321 anti
+T81 PROC 81 82 -
+T82 PROC 244 247 ADN
+T83 PROC 329 333 anti
+T84 PROC 2076 2101 membrana basal glomerular
+T85 PROC 1261 1276 serología viral
+T86 DISO 3061 3097 virus de la inmunodeficiencia humana
+T87 DISO 2409 2437 virus de las hepatitis B y C
+T88 PROC 958 969 complemento
+T89 PROC 2905 2938 estudio de orina microalbuminuria
+T90 PROC 357 361 crea
+T91 PROC 541 547 tin in

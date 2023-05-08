@@ -1,0 +1,74 @@
+T1 DISO 1 41 infección por el virus de la hepatitis C
+T2 PROC 12 23 carga viral
+T3 DISO 15 22 astenia
+T4 DISO 52 69 lesiones cutáneas
+T5 ANAT 21 26 tórax
+T6 ANAT 21 25 cara
+T7 DISO 19 22 san
+T8 PROC 71 81 compresión
+T9 PROC 145 163 exploración física
+T10 DISO 127 141 esplenomegalia
+T11 DISO 11 12 s
+T12 DISO 23 25 pi
+T13 DISO 49 53 ders
+T14 ANAT 157 169 región nasal
+T15 ANAT 71 76 tórax
+T16 PROC 136 145 analítica
+T17 PROC 49 52 GOT
+T18 PROC 52 55 GPT
+T19 PROC 55 58 GGT
+T20 PROC 343 361 fosfatasa alcalina
+T21 PROC 341 358 bilirrubina total
+T22 PROC 190 199 albáºmina
+T23 PROC 529 553 actividad de protrombina
+T24 PROC 254 265 hemoglobina
+T25 DISO 217 226 plaquetas
+T26 PROC 101 105 Ig G
+T27 PROC 105 109 Ig M
+T28 PROC 82 85 ANA
+T29 PROC 533 552 Ecografía abdominal
+T30 ANAT 175 181 hígado
+T31 DISO 331 342 hipertrofia
+T32 ANAT 466 481 lóbulo ca udado
+T33 ANAT 161 166 Porta
+T34 ANAT 133 137 Bazo
+T35 PROC 681 701 Endoscopia digestiva
+T36 DISO 1086 1117 varices esofágicas ni gástricas
+T37 DISO 217 223 gastro
+T38 DISO 1037 1065 patía de hipertensión portal
+T39 PROC 1255 1288 tratamiento con terapia combinada
+T40 CHEM 40 41 P
+T41 CHEM 81 83 eg
+T42 CHEM 493 505 INF alfa 2 a
+T43 CHEM 421 431 ribavirina
+T44 PROC 474 485 seguimiento
+T45 DISO 309 316 astenia
+T46 DISO 1171 1197 disnea moderados esfuerzos
+T47 DISO 1151 1176 síndrome hepa top ulmonar
+T48 PROC 894 913 gasometría arterial
+T49 PROC 577 589 espirometría
+T50 PROC 148 151 FEV
+T51 PROC 51 52 1
+T52 PROC 154 157 FVC
+T53 PROC 157 160 FEV
+T54 PROC 54 55 1
+T55 PROC 55 56 F
+T56 PROC 111 113 VC
+T57 PROC 2129 2167 ecocardiograma con contraste son icado
+T58 CHEM 286 291 suero
+T59 ANAT 465 473 aurícula
+T60 DISO 473 481 cortocir
+T61 DISO 841 855 cuito cardiaco
+T62 DISO 1526 1551 síndrome hepa top ulmonar
+T63 DISO 497 505 sangrado
+T64 ANAT 316 321 tórax
+T65 PROC 193 196 cau
+T66 PROC 196 199 ter
+T67 PROC 463 470 ización
+T68 PROC 1542 1565 extirpación quiráºrgica
+T69 PROC 749 760 tratamiento
+T70 CHEM 691 701 tamoxifeno
+T71 DISO 561 569 sangrado
+T72 PROC 782 793 tratamiento
+T73 DISO 577 585 sangrado
+T74 DISO 585 593 lesiones

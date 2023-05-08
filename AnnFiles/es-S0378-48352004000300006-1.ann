@@ -1,0 +1,102 @@
+T1 DISO 1 9 drogadic
+T2 DISO 3 5 ta
+T3 DISO 7 10 HIV
+T4 DISO 97 129 infiltrados nodulares pulmonares
+T5 PROC 77 96 diagnóstico clínico
+T6 DISO 31 37 granul
+T7 DISO 49 57 omatosis
+T8 DISO 43 49 fiebre
+T9 DISO 121 136 dolor abdominal
+T10 DISO 190 211 masa ane xial derecha
+T11 PROC 111 122 exploración
+T12 DISO 221 241 masa ovárica derecha
+T13 ANAT 289 313 meso de colon transverso
+T14 PROC 66 71 extir
+T15 PROC 15 16 p
+T16 PROC 61 65 aron
+T17 DISO 161 171 tumoración
+T18 ANAT 86 91 muslo
+T19 ANAT 469 495 tejido celular subcu taneo
+T20 DISO 248 261 tumor ovárico
+T21 DISO 381 400 nódulo mesent érico
+T22 DISO 190 199 quísticas
+T23 ANAT 133 139 ovario
+T24 ANAT 162 169 células
+T25 ANAT 265 276 espacios qu
+T26 ANAT 76 79 fol
+T27 ANAT 53 55 ic
+T28 ANAT 109 113 ulos
+T29 DISO 533 552 nódulo mesent érico
+T30 DISO 233 241 necrosis
+T31 ANAT 511 528 células tumorales
+T32 ANAT 156 161 vasos
+T33 DISO 97 100 per
+T34 DISO 100 103 ite
+T35 DISO 69 71 li
+T36 DISO 106 109 oma
+T37 DISO 145 149 toso
+T38 ANAT 630 647 células tumorales
+T39 PROC 191 196 Inmun
+T40 PROC 79 81 of
+T41 PROC 121 124 eno
+T42 PROC 83 85 tí
+T43 DISO 211 216 tumor
+T44 CHEM 44 45 v
+T45 CHEM 177 181 imen
+T46 CHEM 181 185 tina
+T47 CHEM 47 48 S
+T48 CHEM 48 49 -
+T49 CHEM 145 148 100
+T50 CHEM 99 101 HM
+T51 CHEM 51 52 B
+T52 CHEM 52 53 -
+T53 CHEM 105 107 45
+T54 CHEM 319 325 actina
+T55 PROC 379 386 tinción
+T56 CHEM 56 57 S
+T57 CHEM 57 58 -
+T58 CHEM 172 175 100
+T59 DISO 291 296 tumor
+T60 CHEM 591 601 marcadores
+T61 ANAT 661 672 epiteliales
+T62 CHEM 611 621 marcadores
+T63 CHEM 373 379 CD 117
+T64 CHEM 316 321 CD 68
+T65 CHEM 321 326 CD 99
+T66 CHEM 716 727 colágeno IV
+T67 CHEM 1585 1609 receptores de estrógenos
+T68 CHEM 1743 1769 receptores de progesterona
+T69 CHEM 341 346 inhib
+T70 CHEM 208 211 ina
+T71 DISO 1051 1066 tumor del muslo
+T72 PROC 640 649 extirpado
+T73 ANAT 649 658 epidermis
+T74 DISO 950 963 tumor ovárico
+T75 DISO 1259 1276 nódulos tumorales
+T76 PROC 1951 1977 perfil inmunohisto químico
+T77 PROC 837 848 diagnóstico
+T78 DISO 2157 2185 melanoma maligno metastásico
+T79 DISO 1093 1107 tumor primario
+T80 PROC 475 481 explor
+T81 PROC 241 244 ada
+T82 DISO 1459 1477 lesión pigment ada
+T83 PROC 2051 2076 tratamiento quimioterapia
+T84 CHEM 84 85 C
+T85 CHEM 169 171 is
+T86 CHEM 596 603 platino
+T87 CHEM 431 436 Inter
+T88 CHEM 175 177 le
+T89 CHEM 177 179 uk
+T90 CHEM 535 541 ina II
+T91 CHEM 91 92 D
+T92 CHEM 365 369 acar
+T93 CHEM 93 94 b
+T94 CHEM 466 471 acina
+T95 CHEM 471 476 Inter
+T96 CHEM 951 961 feron alfa
+T97 DISO 769 777 falleció
+T98 DISO 2135 2157 metástasis abdominales
+T99 DISO 2549 2575 masa ovárica contralateral
+T100 DISO 496 501 adeno
+T101 DISO 2501 2526 patias retro peritoneales
+T102 DISO 2324 2347 metástasis subcu taneas

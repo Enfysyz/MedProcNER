@@ -1,0 +1,86 @@
+T1 DISO 1 10 migraá±as
+T2 DISO 8 15 ciática
+T3 PROC 23 34 tratamiento
+T4 DISO 70 93 hernia discal L 5 - S 1
+T5 PROC 97 121 consentimiento informado
+T6 PROC 36 43 estudio
+T7 PROC 31 36 micro
+T8 PROC 22 25 dis
+T9 PROC 9 10 c
+T10 PROC 100 111 ectomía L 5
+T11 PROC 181 199 técnica operatoria
+T12 PROC 122 133 preparación
+T13 PROC 109 118 Anestesia
+T14 PROC 222 239 anestesia general
+T15 PROC 309 331 intubación orotraqueal
+T16 PROC 136 145 inducción
+T17 CHEM 49 52 Pro
+T18 CHEM 86 91 pofol
+T19 PROC 163 172 analgesia
+T20 CHEM 58 61 Ren
+T21 CHEM 41 43 if
+T22 CHEM 169 177 entanilo
+T23 CHEM 89 93 agon
+T24 CHEM 760 793 ista de los receptores m opioides
+T25 CHEM 217 226 fentanilo
+T26 PROC 251 261 relajación
+T27 CHEM 79 82 Bes
+T28 CHEM 514 533 ilato de atra curio
+T29 CHEM 57 59 ag
+T30 CHEM 1886 1951 ente bloque ador neuromuscular , competitivo o no despolar izante
+T31 CHEM 61 63 Se
+T32 CHEM 63 65 vo
+T33 CHEM 161 166 fluor
+T34 CHEM 100 103 ano
+T35 CHEM 647 666 anestésico vol átil
+T36 PROC 421 433 intervención
+T37 CHEM 289 297 Tramadol
+T38 CHEM 149 153 Anal
+T39 CHEM 115 118 gés
+T40 CHEM 820 841 ico de acción central
+T41 CHEM 3001 3076 agonista puro no selectivo de los receptores opioides , Â µ , delta y kappa
+T42 CHEM 1108 1135 Dexketoprofeno tro meta mol
+T43 PROC 379 388 anestesia
+T44 DISO 603 617 complicaciones
+T45 PROC 397 406 intervino
+T46 ANAT 676 691 región pectoral
+T47 ANAT 185 189 cres
+T48 ANAT 565 577 tas il íacas
+T49 ANAT 337 344 abdomen
+T50 ANAT 246 251 mamas
+T51 ANAT 301 307 cabeza
+T52 ANAT 307 313 ocular
+T53 ANAT 209 213 ojos
+T54 CHEM 531 541 lubricante
+T55 ANAT 433 441 oculares
+T56 ANAT 331 337 cabeza
+T57 ANAT 225 229 ojos
+T58 ANAT 1312 1335 extremidades inferiores
+T59 ANAT 465 473 rodillas
+T60 ANAT 296 301 pulso
+T61 ANAT 121 123 pe
+T62 ANAT 184 187 dio
+T63 ANAT 993 1009 tibial posterior
+T64 ANAT 316 321 dorso
+T65 PROC 1217 1236 Técnica quiráºrgica
+T66 PROC 781 793 microcirugía
+T67 PROC 1057 1073 incisión de dedo
+T68 PROC 3083 3129 sección de apone urosis comáºn sacro - lum bar
+T69 PROC 2653 2692 retracción de musculatura paravertebral
+T70 PROC 277 281 flav
+T71 PROC 491 498 ectomía
+T72 PROC 1421 1441 disección de la raíz
+T73 PROC 2449 2483 escisión de hernia discal extraída
+T74 DISO 1169 1185 pérdida hemática
+T75 CHEM 445 451 sangre
+T76 CHEM 1051 1065 agua oxigenada
+T77 CHEM 381 386 hemos
+T78 CHEM 463 469 tático
+T79 PROC 703 712 anestesia
+T80 ANAT 317 321 ojos
+T81 DISO 721 730 patología
+T82 ANAT 487 493 ocular
+T83 PROC 2051 2076 reflejo fo tomo tor y ual
+T84 PROC 914 925 TC cerebral
+T85 ANAT 925 936 circulación
+T86 ANAT 341 345 coro

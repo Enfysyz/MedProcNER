@@ -1,0 +1,45 @@
+T1 DISO 1 19 deformidad craneal
+T2 DISO 8 15 vómitos
+T3 DISO 15 22 cefalea
+T4 DISO 13 17 sono
+T5 DISO 21 26 fobia
+T6 DISO 6 7 f
+T7 DISO 19 22 ono
+T8 DISO 36 41 fobia
+T9 PROC 185 208 exploración neurológica
+T10 PROC 109 121 fondo de ojo
+T11 DISO 51 56 macro
+T12 DISO 78 85 cefalia
+T13 ANAT 97 105 cefálico
+T14 DISO 14 15 Q
+T15 DISO 127 136 A frontal
+T16 PROC 166 177 intervenido
+T17 PROC 337 358 ecografías prenatales
+T18 PROC 86 91 parto
+T19 PROC 127 134 escolar
+T20 PROC 96 101 izado
+T21 DISO 1021 1072 dificultades de aprendizaje de la lec to escri tura
+T22 PROC 211 221 TC craneal
+T23 DISO 23 24 Q
+T24 DISO 24 25 A
+T25 ANAT 433 451 fosa craneal media
+T26 ANAT 51 53 as
+T27 ANAT 443 460 tas ventriculares
+T28 PROC 271 281 RM craneal
+T29 ANAT 897 929 región fron top ari eto temporal
+T30 CHEM 262 271 contraste
+T31 CHEM 271 280 gadolinio
+T32 PROC 218 225 monitor
+T33 PROC 929 958 izan presiones intracraneales
+T34 DISO 1090 1123 hipertensión intracraneal crónica
+T35 PROC 375 386 tratamiento
+T36 PROC 771 793 cisto cis ternos tomía
+T37 DISO 37 38 Q
+T38 DISO 38 39 A
+T39 ANAT 115 118 cis
+T40 ANAT 1015 1041 terna óptico - caro tí dea
+T41 PROC 201 206 ventr
+T42 PROC 83 85 ic
+T43 PROC 169 173 ulos
+T44 PROC 216 221 tomía
+T45 ANAT 133 136 LCR

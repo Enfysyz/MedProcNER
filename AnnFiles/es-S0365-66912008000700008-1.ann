@@ -1,0 +1,60 @@
+T1 PROC 1 9 remitido
+T2 DISO 13 25 visión doble
+T3 DISO 13 19 mareos
+T4 DISO 25 33 síntomas
+T5 DISO 53 66 inestabilidad
+T6 DISO 41 49 diplopía
+T7 PROC 145 169 vacunado contra la gripe
+T8 PROC 99 113 agudeza visual
+T9 ANAT 33 37 ojos
+T10 ANAT 10 11 A
+T11 DISO 191 210 pupilas dilatadas y
+T12 DISO 45 49 arre
+T13 DISO 133 144 fl é x icas
+T14 CHEM 40 43 mid
+T15 CHEM 29 31 ri
+T16 CHEM 91 97 áticos
+T17 ANAT 33 35 AO
+T18 ANAT 52 55 ojo
+T19 ANAT 37 39 OI
+T20 ANAT 39 41 AO
+T21 ANAT 161 169 oculares
+T22 DISO 169 177 diplopia
+T23 PROC 551 576 exploración oftalmológica
+T24 DISO 576 601 síndrome de Miller Fisher
+T25 DISO 385 401 marcha a tá xica
+T26 DISO 126 131 hipor
+T27 DISO 79 82 ref
+T28 DISO 136 141 lexia
+T29 DISO 589 610 debilidad de miembros
+T30 PROC 204 211 ingreso
+T31 PROC 331 342 seguimiento
+T32 PROC 218 225 estudio
+T33 PROC 577 595 análisis de sangre
+T34 PROC 991 1021 tomografía axial computarizada
+T35 PROC 103 106 TAC
+T36 PROC 246 253 ingreso
+T37 DISO 829 852 dificultad respiratoria
+T38 PROC 260 267 oxígeno
+T39 PROC 457 469 fisioterapia
+T40 DISO 820 841 síntomas neurológicos
+T41 DISO 641 657 parálisis facial
+T42 DISO 329 337 disfonía
+T43 DISO 337 345 disfagia
+T44 PROC 302 309 ingreso
+T45 PROC 617 631 punción lumbar
+T46 DISO 496 507 disociación
+T47 CHEM 139 142 alb
+T48 CHEM 95 97 áº
+T49 PROC 1345 1373 resonancia magnética nuclear
+T50 PROC 148 151 RMN
+T51 DISO 1351 1378 lesión ocup ante de espacio
+T52 DISO 460 469 desmielin
+T53 DISO 365 372 ización
+T54 PROC 1379 1405 estudio electromi ográfico
+T55 PROC 1081 1101 estudio inmunológico
+T56 CHEM 1376 1401 anticuerpo anti G Q - 1 b
+T57 DISO 449 457 síntomas
+T58 PROC 400 407 ingreso
+T59 CHEM 929 945 inmunoglobulinas
+T60 DISO 473 481 diplopía

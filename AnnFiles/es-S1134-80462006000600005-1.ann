@@ -1,0 +1,78 @@
+T1 DISO 1 19 quiste tiro g loso
+T2 PROC 12 23 intervenido
+T3 DISO 17 25 obesidad
+T4 PROC 22 29 ingreso
+T5 DISO 29 36 astenia
+T6 DISO 36 43 cefalea
+T7 DISO 49 57 anorexia
+T8 DISO 64 73 epistaxis
+T9 DISO 89 100 taquicardia
+T10 PROC 100 111 exploración
+T11 DISO 241 265 palidez cutáneo - mucosa
+T12 DISO 540 589 adenopatías latero cervicales y sub man dibulares
+T13 DISO 169 183 esplenomegalia
+T14 DISO 170 183 hepatomegalia
+T15 PROC 407 436 exploraciones complementarias
+T16 PROC 46 49 Hto
+T17 PROC 33 35 Hb
+T18 PROC 171 181 leucocitos
+T19 PROC 163 172 plaquetas
+T20 PROC 58 61 VSG
+T21 PROC 61 64 LDH
+T22 PROC 253 265 ácido áºrico
+T23 PROC 199 208 ferritina
+T24 DISO 737 769 proceso neoplás ico hematológico
+T25 PROC 553 576 aspirado de médula ósea
+T26 DISO 176 183 blastos
+T27 DISO 1145 1189 infiltración medular de elementos bl ásticos
+T28 PROC 2107 2185 estudio cito genético , molecular , serológico , microbiológico e inmunológico
+T29 PROC 309 320 diagnóstico
+T30 DISO 813 841 leucemia linfoblástica aguda
+T31 DISO 31 32 L
+T32 DISO 63 65 LA
+T33 PROC 417 430 quimioterapia
+T34 PROC 298 307 protocolo
+T35 PROC 307 316 inducción
+T36 PROC 386 397 tratamiento
+T37 PROC 865 889 terapia de mantenimiento
+T38 PROC 408 419 tratamiento
+T39 DISO 115 118 LLA
+T40 PROC 391 401 protocolos
+T41 PROC 441 452 tratamiento
+T42 DISO 411 421 enfermedad
+T43 PROC 757 775 punciones lumbares
+T44 PROC 603 617 administración
+T45 CHEM 573 586 quimioterapia
+T46 PROC 1441 1473 punciones aspira tivas medulares
+T47 DISO 461 471 enfermedad
+T48 PROC 659 673 consentimiento
+T49 PROC 529 540 tratamiento
+T50 PROC 687 701 punción lumbar
+T51 PROC 1401 1429 aspiración de la médula ósea
+T52 PROC 154 157 pre
+T53 PROC 261 266 medic
+T54 PROC 54 55 ó
+T55 CHEM 487 496 midazolam
+T56 CHEM 56 57 D
+T57 CHEM 169 172 orm
+T58 CHEM 229 233 icum
+T59 CHEM 59 60 O
+T60 CHEM 60 61 T
+T61 CHEM 121 123 FC
+T62 CHEM 2319 2357 citrato de fentanilo oral trans mucosa
+T63 CHEM 125 127 Ac
+T64 CHEM 127 129 ti
+T65 CHEM 65 66 q
+T66 CHEM 521 529 crema EM
+T67 DISO 133 135 LA
+T68 ANAT 470 477 punción
+T69 CHEM 477 484 oxígeno
+T70 PROC 484 491 monitor
+T71 PROC 211 214 izó
+T72 PROC 1279 1297 electrocardiograma
+T73 PROC 217 220 cap
+T74 PROC 74 75 n
+T75 PROC 519 526 ografía
+T76 PROC 301 305 puls
+T77 PROC 761 771 ioximetría
+T78 PROC 1233 1249 presión arterial

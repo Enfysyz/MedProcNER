@@ -1,0 +1,79 @@
+T1 DISO 1 20 enfermedad de Crohn
+T2 PROC 10 19 ingresado
+T3 DISO 45 67 obstrucción intestinal
+T4 PROC 61 81 tratados médicamente
+T5 PROC 29 36 cirugía
+T6 PROC 41 49 admisión
+T7 PROC 43 50 ingreso
+T8 PROC 57 65 consultó
+T9 DISO 49 55 fiebre
+T10 DISO 64 71 diarrea
+T11 DISO 121 133 exacerbación
+T12 DISO 210 229 enfermedad de Crohn
+T13 PROC 277 300 tratamiento corticoides
+T14 DISO 79 85 fiebre
+T15 DISO 155 166 escalofríos
+T16 DISO 106 113 vómitos
+T17 DISO 129 137 anorexia
+T18 DISO 477 505 dolor en hipocondrio derecho
+T19 PROC 199 210 exploración
+T20 DISO 115 121 febril
+T21 DISO 361 379 mal estado general
+T22 DISO 379 397 abdomen distendido
+T23 DISO 177 185 doloroso
+T24 ANAT 254 265 hipocondrio
+T25 DISO 313 326 hepatomegalia
+T26 PROC 651 677 exploración cardiopulmonar
+T27 PROC 235 244 hemograma
+T28 DISO 325 337 leucocitosis
+T29 PROC 309 320 hemoglobina
+T30 PROC 320 331 hematocrito
+T31 PROC 271 280 plaquetas
+T32 PROC 807 833 velocidad de sedimentación
+T33 PROC 545 562 bioquímica sérica
+T34 PROC 430 443 transaminasas
+T35 PROC 613 631 fosfatasa alcalina
+T36 PROC 351 361 creatinina
+T37 PROC 145 149 urea
+T38 PROC 408 419 RX de tórax
+T39 PROC 495 508 TAC abdominal
+T40 DISO 313 321 abscesos
+T41 ANAT 601 616 lóbulo hepático
+T42 DISO 821 841 abscesos abdominales
+T43 DISO 505 517 alteraciones
+T44 ANAT 646 661 vesícula biliar
+T45 ANAT 441 451 vía biliar
+T46 ANAT 361 369 páncreas
+T47 PROC 1473 1505 tratamiento intravenoso empírico
+T48 CHEM 48 49 G
+T49 CHEM 481 491 entamicina
+T50 CHEM 197 201 Clin
+T51 CHEM 401 409 damicina
+T52 PROC 562 573 tratamiento
+T53 DISO 365 372 absceso
+T54 PROC 372 379 estudio
+T55 DISO 865 881 absceso hepático
+T56 PROC 661 673 colonoscopia
+T57 PROC 1233 1255 evaluación radiológica
+T58 ANAT 514 523 intestino
+T59 DISO 523 532 estenosis
+T60 ANAT 355 361 yeyuno
+T61 ANAT 301 306 íleon
+T62 DISO 489 497 fístulas
+T63 DISO 1365 1387 obstrucción intestinal
+T64 DISO 1009 1025 absceso hepático
+T65 PROC 257 261 dren
+T66 PROC 196 199 ado
+T67 PROC 1189 1207 control ecográfico
+T68 PROC 537 545 muestras
+T69 DISO 477 484 absceso
+T70 PROC 484 491 cultivo
+T71 PROC 841 853 hemocultivos
+T72 PROC 1847 1873 antibioterapia intravenosa
+T73 PROC 505 512 drenaje
+T74 PROC 512 519 drenaje
+T75 PROC 889 901 dado de alta
+T76 PROC 1726 1749 tratamiento antibiótico
+T77 PROC 989 1002 TAC abdominal
+T78 ANAT 694 703 cavidades
+T79 DISO 625 633 abscesos

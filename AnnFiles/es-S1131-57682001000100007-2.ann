@@ -1,0 +1,23 @@
+T1 DISO 1 7 fiebre
+T2 DISO 18 35 adenopatía axilar
+T3 PROC 23 34 exploración
+T4 DISO 19 25 araá±a
+T5 DISO 13 16 zos
+T6 ANAT 21 25 mano
+T7 ANAT 61 71 leucocitos
+T8 ANAT 71 81 linfocitos
+T9 ANAT 73 82 monocitos
+T10 ANAT 109 121 granulocitos
+T11 PROC 31 34 VSG
+T12 PROC 34 37 PCR
+T13 PROC 133 144 hemocultivo
+T14 DISO 79 85 fiebre
+T15 DISO 141 151 adenopatía
+T16 DISO 511 545 Enfermedad por Ara á±a zo de Ga to
+T17 PROC 561 596 serología a Barton ella h ens ela e
+T18 PROC 188 199 tratamiento
+T19 CHEM 199 210 rifampicina
+T20 DISO 115 121 fiebre
+T21 PROC 221 232 tratamiento
+T22 PROC 232 243 diagnóstico
+T23 PROC 771 806 serología a Barton ella h ens ela e

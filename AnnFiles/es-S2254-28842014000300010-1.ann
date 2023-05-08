@@ -1,0 +1,65 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 11 21 dislipemia
+T3 DISO 43 64 cardiopatía isquémica
+T4 DISO 106 141 infarto agudo de miocardio inferior
+T5 DISO 93 116 arteriopatía periférica
+T6 PROC 11 13 by
+T7 PROC 7 8 -
+T8 PROC 148 169 pass aorto bi femoral
+T9 DISO 377 424 isquemia aguda de extremidad inferior izquierda
+T10 DISO 190 211 oclusión de by - pass
+T11 PROC 251 276 revascularización urgente
+T12 PROC 56 61 tromb
+T13 PROC 85 92 ectomia
+T14 PROC 157 169 hemodiálisis
+T15 DISO 379 406 Insuficiencia renal crónica
+T16 DISO 76 81 nefro
+T17 DISO 49 52 ang
+T18 DISO 52 55 ios
+T19 DISO 145 153 clerosis
+T20 PROC 590 621 FA VI radio ce fálica izquierda
+T21 PROC 881 925 coloca un catéter temporal yugular izquierdo
+T22 PROC 43 45 FA
+T23 PROC 419 438 VI háºmero cefálica
+T24 PROC 507 529 colocación del catéter
+T25 DISO 433 451 lumbalgia postural
+T26 PROC 501 521 retirada del catéter
+T27 DISO 417 433 malestar general
+T28 DISO 163 169 fiebre
+T29 PROC 981 1016 control bacteri ológico del monitor
+T30 CHEM 320 331 vancomicina
+T31 CHEM 211 218 antitér
+T32 CHEM 125 129 mico
+T33 DISO 385 397 dolor lumbar
+T34 PROC 364 375 exploración
+T35 PROC 375 386 radiografía
+T36 PROC 666 685 ecografía abdominal
+T37 DISO 649 667 lumbalgia mecánica
+T38 DISO 1037 1065 deterioro del estado general
+T39 PROC 723 742 proteína C reactiva
+T40 PROC 1366 1401 velocidad de sedimentación globular
+T41 PROC 281 288 ingresa
+T42 PROC 944 967 tratamiento antibiótico
+T43 CHEM 127 130 clo
+T44 CHEM 345 353 xacilina
+T45 PROC 1233 1261 resonancia nuclear magnética
+T46 PROC 46 47 R
+T47 PROC 93 95 NM
+T48 DISO 424 433 espondilo
+T49 DISO 145 148 dis
+T50 DISO 246 251 citis
+T51 DISO 1051 1072 absceso paravertebral
+T52 DISO 1786 1821 compromiso de estructuras nerviosas
+T53 PROC 1145 1167 tratamiento analgésico
+T54 CHEM 1273 1297 fármacos de primer nivel
+T55 CHEM 433 441 opiáceos
+T56 DISO 276 281 dolor
+T57 PROC 393 400 ingreso
+T58 PROC 1369 1393 reactantes de fase aguda
+T59 PROC 697 709 hemocultivos
+T60 PROC 2066 2101 tratamiento antibiótico intravenoso
+T61 PROC 721 733 terapia oral
+T62 PROC 1038 1055 alta hospitalaria
+T63 DISO 869 883 sintomatología
+T64 PROC 568 577 analgesia
+T65 PROC 897 911 RNM de control

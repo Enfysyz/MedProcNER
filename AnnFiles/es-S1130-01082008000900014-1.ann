@@ -1,0 +1,62 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 15 29 adenocarcinoma
+T3 DISO 73 109 esófago de Barrett de segmento corto
+T4 PROC 31 41 endoscopia
+T5 DISO 153 191 enfermedad por reflujo gastroesofágico
+T6 PROC 141 169 intervenido quiráºrgicamente
+T7 PROC 25 29 esof
+T8 PROC 29 33 ague
+T9 PROC 217 244 ctomía total trans h ia tal
+T10 PROC 181 201 anastomosis cervical
+T11 ANAT 171 188 conducto gástrico
+T12 ANAT 34 37 bul
+T13 PROC 49 53 vago
+T14 PROC 66 71 tomía
+T15 PROC 43 46 pil
+T16 PROC 46 49 oro
+T17 PROC 113 120 plastia
+T18 DISO 307 325 vómitos co pios os
+T19 PROC 415 438 tratamiento conservador
+T20 CHEM 267 281 metoclopramida
+T21 CHEM 241 253 eritromicina
+T22 PROC 316 331 endoscopia oral
+T23 DISO 199 208 retención
+T24 ANAT 392 409 conducto gástrico
+T25 ANAT 73 76 píl
+T26 ANAT 76 79 oro
+T27 DISO 53 55 es
+T28 DISO 136 141 tenos
+T29 PROC 561 581 dilatación pil órica
+T30 PROC 494 511 estudio bar itado
+T31 ANAT 91 94 píl
+T32 ANAT 94 97 oro
+T33 PROC 321 331 dilatación
+T34 PROC 727 749 dilatación del píl oro
+T35 PROC 817 841 consentimiento informado
+T36 PROC 456 469 procedimiento
+T37 PROC 613 630 sedación profunda
+T38 PROC 1333 1369 control endoscópico y fluoros cópico
+T39 ANAT 723 742 duodeno descendente
+T40 ANAT 118 121 píl
+T41 ANAT 121 124 oro
+T42 PROC 452 463 inyecciones
+T43 CHEM 379 388 contraste
+T44 PROC 947 969 control fluoros cópico
+T45 PROC 881 901 control man ométrico
+T46 PROC 586 599 procedimiento
+T47 ANAT 139 142 píl
+T48 ANAT 142 145 oro
+T49 PROC 481 491 dilatación
+T50 PROC 1373 1401 radiología simple de abdomen
+T51 PROC 351 358 monitor
+T52 PROC 256 261 izado
+T53 DISO 885 902 signos y síntomas
+T54 DISO 584 595 perforación
+T55 DISO 433 441 sangrado
+T56 DISO 771 785 complicaciones
+T57 PROC 1065 1084 control radiológico
+T58 CHEM 58 59 b
+T59 CHEM 233 237 ario
+T60 CHEM 532 541 contraste
+T61 ANAT 421 428 duodeno
+T62 PROC 733 745 dado de alta

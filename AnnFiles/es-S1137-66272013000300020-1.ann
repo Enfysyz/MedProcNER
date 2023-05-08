@@ -1,0 +1,60 @@
+T1 PROC 1 30 consulta de Atención Primaria
+T2 DISO 10 19 dispepsia
+T3 DISO 27 40 epigastralgia
+T4 DISO 67 89 pirosis retro esternal
+T5 PROC 37 46 anamnesis
+T6 CHEM 41 49 fármacos
+T7 CHEM 163 190 sustancias gas trol es ivas
+T8 DISO 127 145 síntomas orgánicos
+T9 PROC 145 163 exploración física
+T10 PROC 118 131 diagnosticada
+T11 DISO 91 100 dispepsia
+T12 PROC 474 517 tratamiento medidas higiénico - diet éticas
+T13 CHEM 109 118 omeprazol
+T14 PROC 105 113 revisión
+T15 CHEM 127 136 omeprazol
+T16 CHEM 316 337 fármaco pro cin ético
+T17 PROC 129 137 revisión
+T18 DISO 358 379 disfagia orofar íngea
+T19 PROC 19 20 E
+T20 PROC 39 41 DA
+T21 DISO 341 358 exudado esofágico
+T22 ANAT 22 23 3
+T23 ANAT 221 231 proximales
+T24 PROC 185 193 muestras
+T25 DISO 193 201 lesiones
+T26 PROC 226 235 cepillado
+T27 PROC 651 676 estudio anatomopatológico
+T28 PROC 190 197 cultivo
+T29 PROC 309 320 diagnóstico
+T30 DISO 726 751 esofagitis can didi ásica
+T31 PROC 211 218 tratada
+T32 CHEM 311 321 fluconazol
+T33 CHEM 353 364 pantoprazol
+T34 PROC 364 375 diagnóstico
+T35 DISO 69 71 EC
+T36 DISO 106 109 neu
+T37 DISO 1189 1222 rológicas neoplásicas metabólicas
+T38 DISO 371 381 sistémicas
+T39 DISO 571 586 inmunodepresión
+T40 PROC 352 361 anamnesis
+T41 PROC 721 739 exploración física
+T42 PROC 739 757 analítica completa
+T43 PROC 1471 1506 función tiroidea , hepática y renal
+T44 PROC 689 705 perfil diabético
+T45 PROC 793 811 estudio serológico
+T46 PROC 1396 1427 radiografías de tórax y abdomen
+T47 PROC 1059 1082 pruebas complementarias
+T48 PROC 518 529 tratamiento
+T49 CHEM 1681 1716 inhibidores de la bomba de protones
+T50 CHEM 99 101 IB
+T51 CHEM 51 52 P
+T52 PROC 664 677 diagnosticada
+T53 DISO 105 107 EC
+T54 DISO 107 109 EC
+T55 CHEM 163 166 IBP
+T56 PROC 606 617 tratamiento
+T57 PROC 505 514 suspender
+T58 PROC 628 639 tratamiento
+T59 PROC 59 60 E
+T60 PROC 768 781 DA de control

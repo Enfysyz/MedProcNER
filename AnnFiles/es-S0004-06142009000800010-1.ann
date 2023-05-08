@@ -1,0 +1,97 @@
+T1 DISO 1 8 alergia
+T2 CHEM 12 23 penicilinas
+T3 DISO 43 64 hipertensión arterial
+T4 PROC 55 73 tratamiento médico
+T5 DISO 37 46 psoriasis
+T6 DISO 46 55 hematuria
+T7 PROC 19 22 cit
+T8 PROC 113 129 ologías de orina
+T9 DISO 25 28 ati
+T10 DISO 37 41 pias
+T11 DISO 101 111 malignidad
+T12 PROC 210 229 ecografía abdominal
+T13 DISO 145 157 masa vesical
+T14 DISO 40 43 ure
+T15 DISO 57 61 tero
+T16 DISO 46 49 hid
+T17 DISO 161 171 ronefrosis
+T18 PROC 222 235 RTU de vejiga
+T19 PROC 91 96 resec
+T20 PROC 115 121 ándose
+T21 DISO 321 337 masa infiltrante
+T22 ANAT 85 89 cara
+T23 ANAT 375 392 orificio ureteral
+T24 PROC 254 265 nefrostomía
+T25 PROC 193 201 anatomía
+T26 DISO 101 105 masa
+T27 DISO 1509 1567 carcinoma urotelial indifer enciado inf i trante de vejiga
+T28 PROC 541 561 estudio de extensión
+T29 PROC 561 581 TAC toraco abdominal
+T30 PROC 465 481 gammagrafía ósea
+T31 PROC 151 156 pielo
+T32 PROC 528 545 grafía retrógrada
+T33 DISO 97 100 ure
+T34 DISO 133 137 tero
+T35 DISO 103 106 hid
+T36 DISO 351 361 ronefrosis
+T37 ANAT 217 223 vejiga
+T38 DISO 149 153 masa
+T39 ANAT 115 118 luz
+T40 ANAT 313 321 ureteral
+T41 PROC 801 821 estudio de extensión
+T42 PROC 124 127 cis
+T43 PROC 127 130 top
+T44 PROC 130 133 ros
+T45 PROC 89 91 ta
+T46 PROC 2071 2117 tectomia radical con derivación tipo B ric ker
+T47 PROC 875 894 anatomía patológica
+T48 DISO 1223 1249 carcinoma urotelial sólido
+T49 ANAT 913 932 grasa per ives ical
+T50 ANAT 393 401 próstata
+T51 ANAT 301 307 uretra
+T52 DISO 256 261 tumor
+T53 ANAT 1093 1114 vasos peri tumor ales
+T54 DISO 1008 1027 células neoplásicas
+T55 ANAT 163 166 luz
+T56 ANAT 441 449 vascular
+T57 ANAT 1289 1312 cadena ilio b tura triz
+T58 ANAT 457 465 ganglios
+T59 DISO 639 650 infiltrados
+T60 DISO 1122 1141 carcinoma urotelial
+T61 DISO 361 367 anemia
+T62 DISO 672 683 trombopenia
+T63 PROC 497 505 transfun
+T64 PROC 190 193 dir
+T65 CHEM 513 521 hematíes
+T66 CHEM 586 595 plaquetas
+T67 ANAT 331 336 renal
+T68 DISO 403 409 anemia
+T69 CHEM 749 760 hemoglobina
+T70 DISO 760 771 trombopenia
+T71 ANAT 631 640 plaquetas
+T72 PROC 924 937 TAC abdominal
+T73 DISO 649 658 hematomas
+T74 DISO 585 593 sangrado
+T75 CHEM 815 826 enoxaparina
+T76 DISO 826 837 trombopenia
+T77 PROC 837 848 coagulación
+T78 DISO 463 469 signos
+T79 DISO 625 633 sangrado
+T80 DISO 2845 2881 coagulación intravascular diseminada
+T81 DISO 241 244 CID
+T82 DISO 1459 1477 cuadro hemol ítico
+T83 PROC 903 914 bilirrubina
+T84 PROC 1993 2017 test de Co om bs directo
+T85 DISO 505 511 anemia
+T86 DISO 936 947 trombopenia
+T87 PROC 2753 2785 punción - aspiración esternal de
+T88 ANAT 958 969 médula ósea
+T89 DISO 1057 1069 células icas
+T90 DISO 1692 1711 carcinoma urotelial
+T91 DISO 1081 1093 infiltración
+T92 ANAT 1002 1013 médula ósea
+T93 DISO 1381 1396 tumor de vejiga
+T94 PROC 3442 3479 tratamiento hemo terápico sustitutivo
+T95 PROC 2445 2471 tratamiento quimioterápico
+T96 DISO 476 481 falle
+T97 DISO 577 583 ciendo

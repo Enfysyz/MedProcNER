@@ -1,0 +1,117 @@
+T1 PROC 1 9 remitida
+T2 PROC 21 41 ingreso hospitalario
+T3 DISO 35 52 ascitis qu il osa
+T4 PROC 22 29 ingresa
+T5 DISO 29 36 ascitis
+T6 DISO 161 193 edemas leves miembros inferiores
+T7 PROC 145 169 laparotomía explor adora
+T8 DISO 134 153 neoplasia de ovario
+T9 DISO 137 154 líquido asc ítico
+T10 ANAT 64 71 ovarios
+T11 DISO 91 100 carcinoma
+T12 DISO 177 193 tosis peritoneal
+T13 PROC 13 14 D
+T14 PROC 40 43 ada
+T15 PROC 295 316 tratamiento diurético
+T16 CHEM 226 241 espironolactona
+T17 CHEM 161 171 prednisona
+T18 PROC 86 91 pauta
+T19 PROC 73 77 rein
+T20 PROC 77 81 gres
+T21 PROC 21 22 a
+T22 PROC 22 23 y
+T23 ANAT 155 162 líquido
+T24 PROC 116 121 parac
+T25 PROC 457 476 entesis evacu adora
+T26 PROC 176 183 ingreso
+T27 DISO 365 379 sintomatología
+T28 ANAT 487 505 líquido peritoneal
+T29 PROC 421 436 hospitalización
+T30 PROC 668 691 pruebas complementarias
+T31 PROC 271 280 hemograma
+T32 DISO 373 385 leucocitosis
+T33 PROC 577 595 estudio del hierro
+T34 PROC 562 579 perfil bioquímico
+T35 DISO 137 141 hipo
+T36 DISO 176 181 prote
+T37 DISO 217 223 inemia
+T38 DISO 149 153 hipo
+T39 DISO 419 430 albuminemia
+T40 DISO 469 481 hipocalcemia
+T41 PROC 601 616 determinaciones
+T42 PROC 616 631 perfil celía co
+T43 PROC 85 87 Ag
+T44 PROC 87 89 HB
+T45 PROC 45 46 s
+T46 PROC 271 277 Ac VHC
+T47 PROC 921 941 marcadores tumorales
+T48 PROC 142 145 Man
+T49 PROC 97 99 to
+T50 PROC 99 101 ux
+T51 PROC 801 817 Niveles de AS LO
+T52 PROC 970 989 proteína C reactiva
+T53 PROC 53 54 a
+T54 PROC 1273 1297 - 1 anti tripsina sérica
+T55 PROC 1459 1486 Estudio de función tiroidea
+T56 PROC 386 393 protein
+T57 PROC 841 856 ograma en suero
+T58 PROC 514 523 albáºmina
+T59 PROC 291 296 gamma
+T60 PROC 237 241 glob
+T61 PROC 361 367 ulinas
+T62 DISO 428 435 líquido
+T63 DISO 435 442 exudado
+T64 PROC 442 449 cultivo
+T65 PROC 1281 1301 TAC toraco abdominal
+T66 DISO 456 463 ascitis
+T67 ANAT 1849 1877 compartimentos perit oneales
+T68 DISO 738 749 edemas asas
+T69 PROC 1293 1312 ecografía abdominal
+T70 DISO 1933 1961 líquido asc ítico peritoneal
+T71 ANAT 421 427 hígado
+T72 ANAT 356 361 porta
+T73 ANAT 361 366 vasos
+T74 ANAT 585 593 vesícula
+T75 ANAT 297 301 bazo
+T76 PROC 376 381 fibro
+T77 PROC 229 232 ent
+T78 PROC 309 313 eros
+T79 PROC 391 396 copia
+T80 ANAT 396 401 ciego
+T81 ANAT 401 406 bulbo
+T82 ANAT 487 493 yeyuno
+T83 ANAT 493 499 vellos
+T84 ANAT 499 505 itario
+T85 DISO 1429 1446 edema de pliegues
+T86 DISO 341 345 linf
+T87 DISO 345 349 angi
+T88 DISO 697 705 ectasias
+T89 PROC 265 268 ile
+T90 PROC 179 181 os
+T91 PROC 451 456 copia
+T92 ANAT 1275 1289 íleon terminal
+T93 ANAT 553 559 mucosa
+T94 DISO 1117 1129 placas cinas
+T95 DISO 283 286 fri
+T96 PROC 666 673 toma de
+T97 PROC 769 777 biopsias
+T98 PROC 389 393 caps
+T99 PROC 295 298 ulo
+T100 PROC 991 1001 endoscopia
+T101 DISO 1001 1011 afectación
+T102 ANAT 1718 1735 intestino delgado
+T103 DISO 1123 1134 formaciones
+T104 DISO 825 833 pliegues
+T105 DISO 1249 1261 ede matos os
+T106 DISO 631 637 conges
+T107 DISO 531 536 tivos
+T108 PROC 1820 1837 biopsia de mucosa
+T109 DISO 3241 3271 hiperplasia folicular linfoide
+T110 DISO 437 441 linf
+T111 DISO 441 445 angi
+T112 DISO 1444 1457 ectasia focal
+T113 ANAT 4145 4182 mucosa gástrica , duodenal y yey unal
+T114 PROC 1244 1255 tratamiento
+T115 CHEM 1141 1151 diuréticos
+T116 CHEM 1036 1045 albáºmina
+T117 PROC 1045 1054 dada alta

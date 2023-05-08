@@ -1,0 +1,104 @@
+T1 PROC 1 12 intervenido
+T2 DISO 20 39 neoplasia combinada
+T3 DISO 9 13 aden
+T4 DISO 4 5 o
+T5 DISO 81 101 carcinoma mu ci noso
+T6 DISO 36 43 carcino
+T7 DISO 175 204 ide de células cal ici formes
+T8 ANAT 127 145 pared apendi cular
+T9 ANAT 33 37 meso
+T10 ANAT 82 91 implantes
+T11 ANAT 51 56 perit
+T12 ANAT 78 85 oneales
+T13 ANAT 97 105 ganglios
+T14 PROC 66 71 hemic
+T15 PROC 29 31 ol
+T16 PROC 226 241 ectomía derecha
+T17 PROC 113 120 periton
+T18 PROC 120 127 ectomía
+T19 PROC 343 362 resección implantes
+T20 ANAT 343 361 peritoneo visceral
+T21 PROC 761 799 tratamiento quimioterápico coadyuvante
+T22 CHEM 22 23 m
+T23 CHEM 23 24 F
+T24 CHEM 47 49 OL
+T25 CHEM 25 26 F
+T26 CHEM 51 53 OX
+T27 CHEM 27 28 4
+T28 DISO 190 197 diarrea
+T29 DISO 729 755 reacción hur tic ari forme
+T30 PROC 378 391 quimioterapia
+T31 CHEM 31 32 5
+T32 CHEM 32 33 H
+T33 CHEM 65 67 IA
+T34 CHEM 34 35 A
+T35 ANAT 171 176 orina
+T36 PROC 561 577 rastreo corporal
+T37 CHEM 73 75 In
+T38 CHEM 38 39 .
+T39 CHEM 685 703 111 p entre ó tida
+T40 PROC 196 201 SPECT
+T41 PROC 281 288 cirugía
+T42 DISO 657 673 dolor testicular
+T43 PROC 757 775 exploración física
+T44 ANAT 560 573 teste derecho
+T45 DISO 749 766 aumentado tamaá±o
+T46 ANAT 586 599 polo superior
+T47 DISO 599 612 engrosamiento
+T48 ANAT 894 913 cordón esper mático
+T49 PROC 1345 1373 ecografía doppler testicular
+T50 ANAT 834 851 testículo derecho
+T51 ANAT 1101 1123 estructuras vasculares
+T52 ANAT 205 209 epid
+T53 ANAT 157 160 ídi
+T54 ANAT 107 109 mo
+T55 ANAT 433 441 escrotal
+T56 DISO 276 281 hidro
+T57 DISO 225 229 cele
+T58 DISO 172 175 pio
+T59 DISO 233 237 cele
+T60 DISO 355 361 hemato
+T61 DISO 241 245 cele
+T62 PROC 1404 1427 exploración quiráºrgica
+T63 DISO 373 379 hemato
+T64 DISO 253 257 cele
+T65 DISO 1601 1626 engrosamiento ind uración
+T66 ANAT 131 133 la
+T67 ANAT 1189 1207 vaginal testicular
+T68 PROC 1274 1293 anatomía patológica
+T69 DISO 2857 2899 infiltración por adenocarcinoma mu ci noso
+T70 PROC 139 141 or
+T71 PROC 211 214 qui
+T72 PROC 1634 1657 ectomía radical derecha
+T73 PROC 1369 1388 ligadura del cordón
+T74 ANAT 512 519 escroto
+T75 PROC 1925 1951 análisis anatomopatológico
+T76 DISO 1126 1141 neoplasia de la
+T77 ANAT 1369 1387 vaginal testicular
+T78 ANAT 309 313 moco
+T79 ANAT 1483 1502 células epiteliales
+T80 ANAT 475 481 anillo
+T81 ANAT 321 325 epid
+T82 ANAT 244 247 ídi
+T83 ANAT 165 167 mo
+T84 ANAT 748 757 testículo
+T85 PROC 1513 1531 cirugía testicular
+T86 PROC 1106 1119 quimioterapia
+T87 PROC 259 262 FOL
+T88 PROC 88 89 F
+T89 PROC 177 179 IR
+T90 PROC 90 91 I
+T91 CHEM 181 183 BE
+T92 CHEM 183 185 VA
+T93 CHEM 185 187 CI
+T94 CHEM 94 95 Z
+T95 CHEM 283 286 UMA
+T96 CHEM 96 97 B
+T97 PROC 193 195 or
+T98 PROC 292 295 qui
+T99 PROC 687 694 ectomía
+T100 DISO 5743 5801 progresión hepática , pancreática y aden op ática regional
+T101 DISO 2201 2223 cuadros subo clus ivos
+T102 DISO 506 511 Falle
+T103 DISO 307 310 ció
+T104 PROC 1134 1145 diagnóstico

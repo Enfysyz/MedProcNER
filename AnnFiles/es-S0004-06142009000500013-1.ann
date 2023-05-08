@@ -1,0 +1,44 @@
+T1 DISO 1 10 diabética
+T2 DISO 6 11 obesa
+T3 DISO 63 94 litiasis coral iforme izquierda
+T4 DISO 19 25 fiebre
+T5 DISO 77 96 lumbalgia izquierda
+T6 DISO 61 73 micosis oral
+T7 DISO 169 197 deterioro del estado general
+T8 DISO 85 97 leucocitosis
+T9 DISO 89 100 neutrofilia
+T10 DISO 118 131 hiperglucemia
+T11 DISO 121 133 cetoacidosis
+T12 PROC 45 49 urea
+T13 PROC 121 131 creatinina
+T14 PROC 170 183 examen físico
+T15 ANAT 99 106 abdomen
+T16 DISO 76 81 dolor
+T17 ANAT 97 103 flanco
+T18 PROC 358 379 puá±o percusión renal
+T19 PROC 343 362 ecografía abdominal
+T20 PROC 571 601 radiografía directa de abdomen
+T21 ANAT 401 421 fosa renal izquierda
+T22 PROC 568 595 TAC ab dó mino - pel vi ana
+T23 ANAT 353 369 riá±ón izquierdo
+T24 ANAT 484 505 tejidos perir renales
+T25 ANAT 361 376 pared abdominal
+T26 PROC 951 989 drenaje de fosa renal por lum bo tomía
+T27 ANAT 469 487 cavidad peritoneal
+T28 PROC 109 113 ando
+T29 PROC 85 88 deb
+T30 PROC 30 31 r
+T31 PROC 181 187 idando
+T32 ANAT 373 385 tejido necró
+T33 DISO 417 430 signos sepsis
+T34 PROC 595 613 nefrectomía simple
+T35 DISO 987 1016 sepsis de origen respiratorio
+T36 DISO 666 685 secreción purulenta
+T37 DISO 217 223 herida
+T38 PROC 38 39 "
+T39 PROC 77 79 to
+T40 PROC 118 121 ile
+T41 PROC 121 124 tte
+T42 DISO 288 295 fallece
+T43 DISO 1219 1248 disfunción orgánica máºltiple
+T44 DISO 818 837 neumonía nosocomial

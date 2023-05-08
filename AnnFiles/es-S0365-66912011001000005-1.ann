@@ -1,0 +1,85 @@
+T1 DISO 1 30 disminución de agudeza visual
+T2 DISO 3 5 AV
+T3 ANAT 27 40 ojo izquierdo
+T4 ANAT 7 9 OI
+T5 DISO 25 31 amblio
+T6 DISO 11 13 pe
+T7 DISO 91 106 parto prematuro
+T8 DISO 120 137 enfermedad ocular
+T9 PROC 89 100 exploración
+T10 PROC 109 121 AV corregida
+T11 ANAT 31 34 ojo
+T12 ANAT 23 25 OD
+T13 ANAT 37 40 ojo
+T14 PROC 339 365 estudio biom ic ros cópico
+T15 ANAT 29 31 OI
+T16 DISO 331 353 mancha de Mit ten dorf
+T17 ANAT 513 545 cápsula posterior del cristalino
+T18 DISO 35 37 AH
+T19 ANAT 19 20 P
+T20 ANAT 58 61 ojo
+T21 ANAT 181 190 corneales
+T22 ANAT 85 89 ojos
+T23 PROC 67 70 ton
+T24 PROC 507 529 ometría de aplan ación
+T25 ANAT 49 51 AO
+T26 PROC 126 131 oftal
+T27 PROC 79 82 mos
+T28 PROC 406 421 copia indirecta
+T29 ANAT 57 59 OI
+T30 DISO 668 691 hemorragia intraví trea
+T31 DISO 61 63 AH
+T32 DISO 32 33 P
+T33 ANAT 417 430 nervio óptico
+T34 ANAT 232 239 cristal
+T35 ANAT 511 526 oides posterior
+T36 ANAT 246 253 arteria
+T37 ANAT 289 297 oculares
+T38 ANAT 593 609 vítreo posterior
+T39 DISO 267 274 despren
+T40 DISO 157 161 dido
+T41 ANAT 241 247 retina
+T42 DISO 821 841 anomalías retinianas
+T43 DISO 1219 1248 tracción vit re orre tin iana
+T44 DISO 1076 1101 desprendimiento de retina
+T45 ANAT 397 406 fondo del
+T46 ANAT 91 93 OD
+T47 DISO 461 471 hemorragia
+T48 ANAT 95 97 AH
+T49 ANAT 49 50 P
+T50 PROC 834 851 estudio anatómico
+T51 PROC 1551 1582 tomografía de coherencia óptica
+T52 PROC 52 53 T
+T53 PROC 105 107 CO
+T54 ANAT 1220 1243 papila de Berg me ister
+T55 DISO 109 111 AH
+T56 DISO 56 57 P
+T57 ANAT 561 571 estructura
+T58 ANAT 400 407 tubular
+T59 PROC 1103 1122 ecografía en modo B
+T60 ANAT 355 361 vítreo
+T61 DISO 121 123 AH
+T62 DISO 62 63 P
+T63 DISO 2667 2710 desprendimiento parcial de vítreo posterior
+T64 PROC 190 193 eco
+T65 PROC 65 66 -
+T66 PROC 456 463 doppler
+T67 ANAT 595 604 sanguíneo
+T68 ANAT 1877 1905 arteria central de la retina
+T69 ANAT 2041 2071 arterias cili ares posteriores
+T70 ANAT 622 631 sanguíneo
+T71 DISO 141 143 AH
+T72 ANAT 72 73 P
+T73 PROC 649 658 hemograma
+T74 PROC 2483 2517 pruebas específicas de coagulación
+T75 DISO 297 301 hemo
+T76 DISO 151 153 ví
+T77 DISO 305 309 treo
+T78 DISO 771 781 hemorragia
+T79 DISO 703 712 ambliopía
+T80 DISO 159 161 an
+T81 DISO 161 163 is
+T82 DISO 244 247 ome
+T83 DISO 493 499 tropía
+T84 DISO 665 673 sangrado
+T85 PROC 925 936 seguimiento

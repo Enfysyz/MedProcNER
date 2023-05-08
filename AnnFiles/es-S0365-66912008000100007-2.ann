@@ -1,0 +1,29 @@
+T1 PROC 1 2 C
+T2 PROC 9 17 ariotipo
+T3 PROC 75 112 resonancia magnética nuclear cerebral
+T4 PROC 10 13 RMN
+T5 DISO 105 131 agenesia de cuerpo calloso
+T6 DISO 171 205 anomalías de la migración neuronal
+T7 DISO 55 64 epilepsia
+T8 DISO 85 97 convulsiones
+T9 PROC 273 307 registros electroencefal ográficos
+T10 PROC 28 31 EEG
+T11 DISO 21 23 hi
+T12 DISO 23 25 ps
+T13 DISO 25 27 ar
+T14 DISO 222 239 ritmia asimétrica
+T15 PROC 295 316 examen fund us cópico
+T16 ANAT 91 97 papila
+T17 ANAT 49 52 ojo
+T18 ANAT 375 397 pigmento peri pap ilar
+T19 DISO 811 856 lagunas cor ior retin ianas hipo pigment adas
+T20 ANAT 39 41 ar
+T21 ANAT 541 568 cadas vasculares retinianas
+T22 DISO 379 397 afectación macular
+T23 ANAT 111 116 fondo
+T24 DISO 645 673 disco óptico colo b oma toso
+T25 DISO 1009 1051 áreas hipo pigment adas cor ior re tinales
+T26 DISO 351 365 malformaciones
+T27 ANAT 131 136 renal
+T28 ANAT 244 253 vertebral
+T29 DISO 505 523 retardo psicomotor

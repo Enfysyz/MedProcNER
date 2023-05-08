@@ -1,0 +1,81 @@
+T1 PROC 1 19 remitido urgencias
+T2 DISO 9 17 dolor en
+T3 ANAT 13 19 glande
+T4 DISO 55 73 lesión enroje cida
+T5 DISO 29 36 fibrina
+T6 DISO 26 31 necró
+T7 DISO 25 29 tico
+T8 DISO 29 33 tivo
+T9 DISO 153 172 proceso tromb ótico
+T10 DISO 181 201 insuficiencia venosa
+T11 DISO 221 243 alteraciones tró ficas
+T12 ANAT 254 277 extremidades inferiores
+T13 DISO 85 92 Fumador
+T14 PROC 170 183 diagnosticado
+T15 DISO 421 451 hiperplasia prostática benigna
+T16 PROC 271 289 tratamiento médico
+T17 PROC 177 188 diagnóstico
+T18 DISO 35 37 HP
+T19 DISO 19 20 B
+T20 PROC 39 41 TR
+T21 PROC 401 421 determinación de PSA
+T22 PROC 211 221 ecografías
+T23 PROC 243 254 exploración
+T24 ANAT 139 145 glande
+T25 DISO 169 176 tumefac
+T26 DISO 76 79 tos
+T27 DISO 157 163 endure
+T28 DISO 136 141 cidos
+T29 DISO 281 291 necró tico
+T30 DISO 204 211 exudado
+T31 DISO 211 218 fibrina
+T32 PROC 621 641 estudios u rológicos
+T33 DISO 513 529 proceso mór bido
+T34 PROC 496 511 toma de biopsia
+T35 DISO 511 526 lesión necrosis
+T36 DISO 806 829 infiltrado inflamatorio
+T37 DISO 793 815 trombosis de la dermis
+T38 DISO 593 609 proceso mór bido
+T39 DISO 685 703 proceso necró tico
+T40 PROC 976 1001 tratamientos sintomáticos
+T41 PROC 1041 1067 amputación parcial de pene
+T42 PROC 206 211 extir
+T43 PROC 85 87 pa
+T44 ANAT 259 265 glande
+T45 ANAT 837 856 cuerpos caver nosos
+T46 DISO 1801 1841 trombosis tumoral de cuerpos caver nosos
+T47 DISO 461 471 metástasis
+T48 DISO 988 1009 carcinoma epidermoide
+T49 DISO 721 736 tumor primitivo
+T50 PROC 981 1001 estudio de extensión
+T51 PROC 651 664 TAC abdominal
+T52 ANAT 766 781 retroperitoneal
+T53 DISO 573 584 adenopatías
+T54 ANAT 213 217 para
+T55 ANAT 487 496 aór ticas
+T56 ANAT 276 281 inter
+T57 ANAT 57 58 a
+T58 ANAT 115 117 or
+T59 ANAT 523 532 to - cava
+T60 ANAT 1122 1141 raíz de mes enterio
+T61 PROC 1441 1465 estudios complementarios
+T62 DISO 1160 1179 neoplasia primitiva
+T63 PROC 621 631 valoración
+T64 DISO 946 961 dolor en hombro
+T65 DISO 321 326 dolor
+T66 DISO 1236 1255 fractura patológica
+T67 ANAT 1189 1207 tercio superior de
+T68 ANAT 1006 1021 háºmero derecho
+T69 DISO 1157 1174 lesión radiología
+T70 DISO 1036 1051 metástasis ósea
+T71 PROC 1121 1137 gammagrafía ósea
+T72 PROC 782 793 diagnóstico
+T73 DISO 1081 1096 metástasis ósea
+T74 ANAT 1680 1703 tercio proximal humeral
+T75 DISO 1555 1576 depósitos patológicos
+T76 PROC 751 761 valoración
+T77 PROC 1445 1464 estudio endoscópico
+T78 ANAT 386 391 cardi
+T79 ANAT 157 159 as
+T80 DISO 2371 2401 masa mam el on ada y ulcer ada
+T81 DISO 1681 1702 infiltración gástrica

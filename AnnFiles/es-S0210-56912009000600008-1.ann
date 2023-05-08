@@ -1,0 +1,50 @@
+T1 DISO 1 11 tabaquismo
+T2 DISO 20 39 hipercolesterolemia
+T3 DISO 41 61 enfermedad coronaria
+T4 PROC 34 45 intervenido
+T5 PROC 93 116 bypass aorto cor onario
+T6 PROC 151 181 circulación extra - cor pó rea
+T7 PROC 187 218 ecocardiografía trans esofágica
+T8 PROC 141 161 fracción de eyección
+T9 PROC 33 37 intu
+T10 PROC 37 41 bado
+T11 PROC 201 221 ventilación mecánica
+T12 PROC 111 121 extubación
+T13 PROC 277 300 frecuencia respiratoria
+T14 PROC 521 561 saturación de oxígeno de oxi hemoglobina
+T15 PROC 57 61 rein
+T16 PROC 121 129 tubación
+T17 PROC 81 86 recon
+T18 PROC 477 505 exión al ventilador mecánico
+T19 DISO 109 115 disnea
+T20 DISO 153 161 estridor
+T21 DISO 401 421 trabajo respiratorio
+T22 DISO 190 199 taquipnea
+T23 PROC 661 691 trasladado nuevamente a la UCI
+T24 DISO 185 193 síntomas
+T25 DISO 169 176 obstruc
+T26 DISO 726 755 cion de la vía aérea superior
+T27 PROC 131 136 fibro
+T28 PROC 109 113 bron
+T29 PROC 225 233 coscopia
+T30 DISO 523 541 estenosis traqueal
+T31 PROC 721 745 tomografía computarizada
+T32 PROC 404 417 TC ) cervical
+T33 DISO 577 595 estenosis traqueal
+T34 ANAT 100 103 glo
+T35 ANAT 103 106 tis
+T36 DISO 841 865 fibrosis perit ra que al
+T37 PROC 685 704 broncoscopia rígida
+T38 PROC 1074 1103 colocar una prótesis traqueal
+T39 PROC 723 742 broncoscopia rígida
+T40 PROC 196 201 laser
+T41 PROC 961 985 terapia láser N d - Y AG
+T42 DISO 247 253 lesión
+T43 PROC 1513 1549 resección mecánica con broncos copio
+T44 PROC 216 221 recan
+T45 PROC 1189 1216 alización traqueal silicona
+T46 ANAT 316 323 cuerdas
+T47 ANAT 139 142 car
+T48 ANAT 142 145 ina
+T49 PROC 385 393 revisión
+T50 DISO 932 951 cuadro respiratorio

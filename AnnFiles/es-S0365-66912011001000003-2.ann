@@ -1,0 +1,32 @@
+T1 DISO 1 12 baja visión
+T2 PROC 15 29 agudeza visual
+T3 ANAT 9 13 ojos
+T4 CHEM 16 21 ciclo
+T5 CHEM 25 31 plejia
+T6 PROC 141 169 exploraciones oftalmológicas
+T7 PROC 139 162 pruebas complementarias
+T8 PROC 204 233 potenciales evocados visuales
+T9 PROC 17 19 PE
+T10 PROC 10 11 V
+T11 PROC 61 67 electr
+T12 PROC 45 49 orre
+T13 PROC 37 40 tin
+T14 PROC 79 85 ograma
+T15 PROC 43 46 ERG
+T16 PROC 76 81 angio
+T17 PROC 49 52 flu
+T18 PROC 69 73 ores
+T19 PROC 37 39 ce
+T20 PROC 39 41 in
+T21 PROC 121 127 grafía
+T22 PROC 43 45 AF
+T23 PROC 23 24 G
+T24 PROC 714 745 tomografía axial computer izada
+T25 PROC 73 76 TAC
+T26 PROC 501 521 resonancia magnética
+T27 PROC 53 55 RM
+T28 DISO 217 225 esguince
+T29 PROC 841 871 prueba de confusión con lentes
+T30 PROC 59 61 AV
+T31 PROC 211 218 control
+T32 PROC 342 353 seguimiento

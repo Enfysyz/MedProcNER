@@ -1,0 +1,77 @@
+T1 DISO 1 4 car
+T2 DISO 8 15 pintero
+T3 DISO 5 7 ex
+T4 DISO 22 29 fumador
+T5 DISO 49 61 hipertensión
+T6 DISO 51 61 dislipemia
+T7 DISO 127 148 cardiopatía isquémica
+T8 DISO 183 209 infarto agudo de miocardio
+T9 PROC 177 199 doble bypass coronario
+T10 PROC 100 111 intervenido
+T11 DISO 181 199 neoplasia de colon
+T12 DISO 287 313 adenocarcinoma patológicos
+T13 CHEM 73 79 fluoro
+T14 CHEM 27 29 pi
+T15 CHEM 43 46 rim
+T16 CHEM 31 33 id
+T17 CHEM 65 69 inas
+T18 PROC 613 649 tratamiento quimioterápico adyuvante
+T19 CHEM 55 58 ral
+T20 CHEM 39 41 ti
+T21 CHEM 81 85 trex
+T22 CHEM 43 45 ed
+T23 CHEM 45 47 ox
+T24 CHEM 93 97 alip
+T25 CHEM 49 51 la
+T26 CHEM 101 105 tino
+T27 PROC 599 622 tratamiento antibiótico
+T28 DISO 973 1009 infección respiratoria de vías bajas
+T29 DISO 197 204 astenia
+T30 DISO 987 1021 deterioro leve de la función renal
+T31 CHEM 91 94 ral
+T32 CHEM 63 65 ti
+T33 CHEM 129 133 trex
+T34 CHEM 67 69 ed
+T35 CHEM 69 71 ox
+T36 CHEM 141 145 alip
+T37 CHEM 73 75 la
+T38 CHEM 149 153 tino
+T39 DISO 229 235 fiebre
+T40 DISO 1054 1081 disnea de mínimos esfuerzos
+T41 PROC 761 780 gasometría arterial
+T42 DISO 1313 1345 insuficiencia respiratoria grave
+T43 PROC 841 861 radiografía de tórax
+T44 DISO 1463 1497 infiltrados pulmonares bilaterales
+T45 DISO 529 541 condensación
+T46 ANAT 1036 1059 lóbulo inferior derecho
+T47 PROC 323 330 ingresa
+T48 DISO 659 673 neumonía grave
+T49 PROC 1441 1471 antibioticoterapia empírica de
+T50 PROC 1569 1601 ventilación mecánica no invasiva
+T51 PROC 751 766 ecocardiografía
+T52 DISO 1225 1249 tromboembolismo pulmonar
+T53 DISO 1353 1379 empeoramiento respiratorio
+T54 PROC 2386 2431 trasladado a la Unidad de Cuidados Intensivos
+T55 PROC 1243 1266 intubación endotraqueal
+T56 DISO 1761 1793 insuficiencia respiratoria grave
+T57 DISO 1121 1141 neumonía comunitaria
+T58 DISO 1255 1277 toxicidad pulmonar por
+T59 CHEM 291 296 citos
+T60 CHEM 414 421 táticos
+T61 DISO 2581 2624 síndrome de distrés respiratorio del adulto
+T62 DISO 1709 1737 interacciones con medicación
+T63 PROC 1489 1513 estudios microbiológicos
+T64 ANAT 379 385 sangre
+T65 ANAT 385 391 esputo
+T66 PROC 1691 1717 serologías microorganismos
+T67 PROC 2179 2212 tomografía computarizada de tórax
+T68 DISO 2011 2041 neumonitis intersticial difusa
+T69 PROC 1905 1933 tratamiento cortico terápico
+T70 CHEM 208 211 pre
+T71 CHEM 491 498 dnisona
+T72 DISO 1421 1441 toxicidad pulmonar a
+T73 CHEM 361 366 citos
+T74 CHEM 512 519 táticos
+T75 DISO 223 226 éxi
+T76 DISO 226 229 tus
+T77 PROC 1065 1079 ingreso en UCI

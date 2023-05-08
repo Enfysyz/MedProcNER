@@ -1,0 +1,63 @@
+T1 PROC 1 12 consulta de
+T2 DISO 6 11 dolor
+T3 DISO 17 25 lagrimeo
+T4 DISO 28 37 secreción
+T5 ANAT 53 66 ojo izquierdo
+T6 ANAT 11 13 OI
+T7 DISO 49 57 ojo rojo
+T8 PROC 183 209 diagnosticado clínicamente
+T9 DISO 9 10 P
+T10 DISO 19 21 én
+T11 DISO 191 210 figo Vul gar mucoso
+T12 ANAT 89 97 garganta
+T13 ANAT 49 53 boca
+T14 PROC 92 99 biopsia
+T15 PROC 155 166 tratamiento
+T16 CHEM 151 161 Prednisona
+T17 DISO 305 324 hipercolesterolemia
+T18 CHEM 52 55 tor
+T19 CHEM 163 172 vastatina
+T20 PROC 381 401 examen oftalmológico
+T21 PROC 281 295 agudeza visual
+T22 PROC 43 45 AV
+T23 ANAT 67 70 ojo
+T24 PROC 93 97 biom
+T25 PROC 49 51 ic
+T26 PROC 76 79 ros
+T27 PROC 131 136 copía
+T28 PROC 28 29 B
+T29 PROC 57 59 PA
+T30 DISO 204 211 ampolla
+T31 ANAT 511 528 conjuntiva bulbar
+T32 DISO 280 289 hiperemia
+T33 DISO 225 232 erosión
+T34 PROC 199 205 examen
+T35 ANAT 137 141 ojos
+T36 PROC 666 685 biopsia conjuntival
+T37 PROC 577 593 anestesia tópica
+T38 ANAT 149 153 zona
+T39 PROC 419 430 tratamiento
+T40 CHEM 235 241 pomada
+T41 CHEM 441 452 gentamicina
+T42 CHEM 206 211 fluor
+T43 CHEM 169 173 omet
+T44 CHEM 216 221 olona
+T45 PROC 221 226 histo
+T46 PROC 406 415 patología
+T47 DISO 139 142 bul
+T48 DISO 847 865 la intra epitelial
+T49 PROC 481 491 IF directa
+T50 DISO 589 601 depósitos de
+T51 CHEM 251 256 Inmun
+T52 CHEM 256 261 oglob
+T53 CHEM 365 372 ulina G
+T54 CHEM 107 109 Ig
+T55 CHEM 55 56 G
+T56 ANAT 1321 1345 espacios inter celulares
+T57 ANAT 1121 1141 epitelio conjuntival
+T58 PROC 628 639 diagnóstico
+T59 DISO 59 60 P
+T60 DISO 119 121 én
+T61 DISO 721 733 figo Vul gar
+T62 CHEM 611 621 Prednisona
+T63 DISO 1055 1072 síntomas oculares

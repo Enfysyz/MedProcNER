@@ -1,0 +1,84 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 25 49 enfermedad ósea de Paget
+T3 ANAT 31 46 radio izquierdo
+T4 PROC 22 29 biopsia
+T5 PROC 45 56 gammagrafía
+T6 PROC 36 43 tratado
+T7 CHEM 19 22 ris
+T8 CHEM 8 9 e
+T9 CHEM 57 64 dronato
+T10 DISO 109 121 osteoporosis
+T11 PROC 181 199 niveles del P 1 NP
+T12 PROC 45 49 prop
+T13 PROC 589 638 éptido amino - terminal del pro col á geno tipo 1
+T14 CHEM 40 43 ris
+T15 CHEM 15 16 e
+T16 CHEM 106 113 dronato
+T17 PROC 161 171 controlado
+T18 PROC 256 271 niveles séricos
+T19 PROC 523 552 marcadores de remodelado óseo
+T20 CHEM 58 61 ris
+T21 CHEM 21 22 e
+T22 CHEM 148 155 dronato
+T23 PROC 243 254 gammagrafía
+T24 PROC 254 265 tratamiento
+T25 DISO 265 276 dolor local
+T26 PROC 201 209 consulta
+T27 ANAT 131 136 brazo
+T28 DISO 136 141 caída
+T29 DISO 365 378 dolor intenso
+T30 ANAT 117 121 zona
+T31 ANAT 151 156 carpo
+T32 PROC 559 577 exploración física
+T33 DISO 257 265 hematoma
+T34 ANAT 529 545 dorso de la mano
+T35 ANAT 579 596 tercio distal del
+T36 ANAT 316 325 antebrazo
+T37 DISO 181 186 edema
+T38 ANAT 223 229 surcos
+T39 ANAT 419 430 tendin osos
+T40 ANAT 196 201 dorso
+T41 ANAT 161 165 mano
+T42 DISO 821 841 impotencia funcional
+T43 ANAT 295 302 muá±eca
+T44 DISO 345 353 fractura
+T45 PROC 529 541 radiografías
+T46 PROC 181 185 dado
+T47 DISO 415 424 contusión
+T48 DISO 377 385 fractura
+T49 DISO 1105 1128 lesión hiper os tó tica
+T50 PROC 981 1001 radiografías simples
+T51 DISO 101 103 MO
+T52 PROC 613 625 radiografías
+T53 DISO 417 425 fractura
+T54 PROC 1591 1621 tomografía axial computarizada
+T55 PROC 163 166 TAC
+T56 PROC 1541 1569 resonancia magnética nuclear
+T57 PROC 169 172 RMN
+T58 PROC 400 407 estudio
+T59 DISO 1335 1358 lesión hiper os tó tica
+T60 PROC 178 181 TAC
+T61 DISO 481 489 fractura
+T62 ANAT 977 993 hueso gan ch oso
+T63 ANAT 497 505 trapecio
+T64 PROC 442 449 inmovil
+T65 PROC 257 261 izar
+T66 ANAT 456 463 miembro
+T67 PROC 397 403 férula
+T68 DISO 1207 1225 lesión radiológica
+T69 ANAT 341 346 radio
+T70 DISO 346 351 signo
+T71 ANAT 281 285 cera
+T72 DISO 143 145 me
+T73 DISO 217 220 lor
+T74 DISO 293 297 reos
+T75 DISO 371 376 tosis
+T76 PROC 826 837 diagnóstico
+T77 DISO 1825 1849 enfermedad ósea de Paget
+T78 PROC 386 391 gamma
+T79 PROC 937 949 gráficamente
+T80 PROC 870 881 diagnóstico
+T81 DISO 161 163 me
+T82 DISO 244 247 lor
+T83 DISO 329 333 reos
+T84 DISO 416 421 tosis

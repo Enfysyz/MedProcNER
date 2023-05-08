@@ -1,0 +1,79 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 3 5 OI
+T3 DISO 21 31 enfermedad
+T4 DISO 28 37 fracturas
+T5 DISO 49 61 traumatismos
+T6 ANAT 36 43 háºmero
+T7 DISO 55 64 fracturas
+T8 ANAT 29 33 codo
+T9 ANAT 49 55 hombro
+T10 PROC 271 301 tratadas de forma conservadora
+T11 PROC 111 122 tratamiento
+T12 CHEM 67 73 calcio
+T13 DISO 109 118 esguinces
+T14 DISO 235 253 roturas musculares
+T15 PROC 141 151 Diagnostic
+T16 PROC 46 49 ado
+T17 DISO 49 52 oto
+T18 DISO 171 181 esclerosis
+T19 PROC 505 533 intervenido quiráºrgicamente
+T20 PROC 77 81 esta
+T21 PROC 41 43 pe
+T22 PROC 43 45 de
+T23 PROC 463 484 ctomía de ambos oídos
+T24 DISO 277 289 osteoporosis
+T25 PROC 433 451 densitometría ósea
+T26 PROC 26 27 D
+T27 PROC 53 55 XA
+T28 ANAT 379 393 columna lumbar
+T29 ANAT 393 407 cuello femoral
+T30 ANAT 320 331 fémur total
+T31 DISO 361 373 asintomático
+T32 PROC 559 577 exploración física
+T33 ANAT 129 133 escl
+T34 ANAT 133 137 eras
+T35 DISO 103 106 den
+T36 DISO 106 109 tin
+T37 DISO 685 704 ogénesis imperfecta
+T38 DISO 815 837 deformidades torácicas
+T39 ANAT 761 781 columna dorsol umbar
+T40 ANAT 313 321 miembros
+T41 ANAT 481 493 codo derecho
+T42 DISO 165 169 frac
+T43 DISO 169 173 tura
+T44 DISO 216 221 hiper
+T45 DISO 89 91 la
+T46 DISO 226 231 xitud
+T47 PROC 1887 1928 estudio del metabolismo calcio - f ósforo
+T48 PROC 283 289 calcio
+T49 PROC 337 344 fósforo
+T50 PROC 246 251 calci
+T51 PROC 201 205 uria
+T52 PROC 205 209 para
+T53 PROC 105 107 th
+T54 PROC 160 163 orm
+T55 PROC 163 166 ona
+T56 PROC 111 113 PT
+T57 PROC 113 115 Hi
+T58 PROC 1939 1973 niveles de 25 hidro x iv itamina D
+T59 PROC 117 119 25
+T60 PROC 60 61 O
+T61 PROC 121 123 HC
+T62 PROC 62 63 C
+T63 PROC 1799 1828 marcadores de remodelado óseo
+T64 DISO 757 769 osteoporosis
+T65 PROC 577 586 protocolo
+T66 DISO 131 133 OI
+T67 PROC 2047 2078 radiografía de columna cervical
+T68 DISO 604 613 impresión
+T69 PROC 1361 1381 radiografía de tórax
+T70 DISO 1657 1681 cambios degenerativos en
+T71 ANAT 491 498 columna
+T72 PROC 995 1009 ecocardiograma
+T73 DISO 2377 2410 dilatación de la aorta ascendente
+T74 PROC 2264 2295 pruebas de función respiratoria
+T75 PROC 1481 1501 ecografía de abdomen
+T76 DISO 1051 1065 litiasis renal
+T77 PROC 4181 4236 estudio genético mediante secuenciación masiva por N GS
+T78 DISO 617 625 deleción
+T79 CHEM 1639 1660 proteína del colágeno

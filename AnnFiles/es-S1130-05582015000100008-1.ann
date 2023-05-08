@@ -1,0 +1,85 @@
+T1 PROC 1 19 serología reactiva
+T2 DISO 4 7 VIH
+T3 PROC 55 82 tratamiento antirretroviral
+T4 PROC 55 73 controles clínicos
+T5 DISO 21 26 dolor
+T6 ANAT 116 139 región maxilar inferior
+T7 PROC 49 57 consulta
+T8 DISO 78 89 tumefacción
+T9 ANAT 185 208 región maxilar inferior
+T10 ANAT 190 211 tercer molar inferior
+T11 PROC 111 122 tratamiento
+T12 CHEM 133 145 antibióticos
+T13 CHEM 385 417 antiinflamatorios no esteroideos
+T14 PROC 105 113 consulta
+T15 DISO 197 211 sintomatología
+T16 DISO 76 81 dolor
+T17 DISO 177 188 tumefacción
+T18 DISO 52 55 fle
+T19 DISO 217 229 món dentario
+T20 CHEM 248 261 amoxicilina /
+T21 CHEM 341 358 ácido clavulánico
+T22 CHEM 232 243 corticoides
+T23 PROC 243 254 internación
+T24 DISO 231 241 tumoración
+T25 PROC 457 476 drenaje quiráºrgico
+T26 DISO 201 209 hemático
+T27 CHEM 287 298 analgésicos
+T28 PROC 514 533 esquema antibiótico
+T29 PROC 365 378 procedimiento
+T30 PROC 175 181 intern
+T31 PROC 91 94 ada
+T32 DISO 497 513 adicción cocaína
+T33 CHEM 289 298 marihuana
+T34 DISO 331 341 tabaquismo
+T35 PROC 239 246 ingreso
+T36 PROC 456 469 examen físico
+T37 DISO 613 630 formación tumoral
+T38 ANAT 852 875 región maxilar inferior
+T39 ANAT 799 820 área sub ment on iana
+T40 DISO 118 121 ind
+T41 DISO 201 206 urada
+T42 DISO 862 883 dolorosa a la presión
+T43 ANAT 211 216 encía
+T44 ANAT 689 705 piezas dentarias
+T45 ANAT 1277 1306 tejidos blandos perib uc ales
+T46 ANAT 721 737 maxilar inferior
+T47 DISO 185 189 aden
+T48 DISO 1270 1297 omegalias sub man dibulares
+T49 DISO 145 148 ind
+T50 DISO 99 101 ur
+T51 DISO 201 205 adas
+T52 DISO 358 365 indolor
+T53 ANAT 209 213 piel
+T54 ANAT 849 865 planos profundos
+T55 PROC 703 716 examen físico
+T56 PROC 606 617 Rx de tórax
+T57 PROC 617 628 laboratorio
+T58 PROC 172 175 Hto
+T59 PROC 117 119 GB
+T60 PROC 178 181 VSG
+T61 PROC 61 62 T
+T62 PROC 123 125 GO
+T63 PROC 125 127 TG
+T64 PROC 64 65 P
+T65 PROC 193 196 FAL
+T66 PROC 521 529 glucemia
+T67 PROC 265 269 urea
+T68 PROC 671 681 creatinina
+T69 PROC 137 139 Na
+T70 PROC 70 71 +
+T71 PROC 71 72 K
+T72 PROC 72 73 +
+T73 PROC 2017 2045 concentración de protrombina
+T74 PROC 74 75 K
+T75 PROC 149 151 PT
+T76 PROC 76 77 T
+T77 PROC 1217 1233 test de embarazo
+T78 PROC 78 79 V
+T79 PROC 157 159 RD
+T80 PROC 80 81 L
+T81 PROC 2481 2512 serologías para Chagas virus de
+T82 DISO 1054 1067 toxoplasmosis
+T83 PROC 247 250 IgM
+T84 PROC 250 253 IgG
+T85 PROC 1849 1871 recuento de linfocitos

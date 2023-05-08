@@ -1,0 +1,53 @@
+T1 DISO 1 4 HTA
+T2 DISO 4 7 IRC
+T3 DISO 29 43 hipotiroidismo
+T4 PROC 19 25 Ingres
+T5 PROC 65 81 ada en Geriatría
+T6 DISO 96 115 deterioro cognitivo
+T7 DISO 79 92 abdomen agudo
+T8 DISO 92 105 shock séptico
+T9 PROC 113 127 TC - abdominal
+T10 DISO 118 131 líquido libre
+T11 DISO 131 144 engrosamiento
+T12 ANAT 56 61 pared
+T13 ANAT 97 105 colónica
+T14 PROC 274 295 Intervenida urgencias
+T15 PROC 71 76 colec
+T16 PROC 541 577 tomía total con ile ostomía terminal
+T17 DISO 273 290 colitis isquémica
+T18 PROC 103 109 esplen
+T19 PROC 127 134 ectomía
+T20 DISO 153 161 sangrado
+T21 DISO 101 106 shock
+T22 PROC 358 375 nutrición enteral
+T23 PROC 45 47 NE
+T24 ANAT 70 73 ile
+T25 ANAT 169 176 ostomía
+T26 DISO 401 417 drenaje hemático
+T27 ANAT 235 244 abdominal
+T28 PROC 55 57 TC
+T29 DISO 729 755 hematoma lecho quiráºrgico
+T30 PROC 59 61 TG
+T31 ANAT 181 187 sangre
+T32 PROC 63 65 TG
+T33 PROC 289 298 albáºmina
+T34 PROC 232 239 glucosa
+T35 PROC 307 316 proteínas
+T36 PROC 246 253 amilasa
+T37 ANAT 253 260 células
+T38 PROC 852 875 cultivo bacteri ológico
+T39 PROC 115 118 NPT
+T40 CHEM 508 521 somatostatina
+T41 PROC 281 288 drenaje
+T42 PROC 83 85 TG
+T43 PROC 379 388 proteínas
+T44 PROC 173 177 linf
+T45 PROC 89 91 og
+T46 PROC 181 185 amma
+T47 PROC 277 283 grafía
+T48 PROC 95 97 NE
+T49 CHEM 289 295 grasas
+T50 CHEM 1422 1451 ácidos grasos de cadena media
+T51 CHEM 101 103 AG
+T52 CHEM 103 105 CM
+T53 CHEM 261 266 prote

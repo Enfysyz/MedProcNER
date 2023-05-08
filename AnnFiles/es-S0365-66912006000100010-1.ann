@@ -1,0 +1,70 @@
+T1 DISO 1 29 traumatismo craneoencefálico
+T2 DISO 21 41 accidente de tráfico
+T3 PROC 15 22 ingreso
+T4 PROC 79 105 escala del coma de Glasgow
+T5 DISO 145 181 traumatismo grave torácico y pélvico
+T6 PROC 111 133 intubación orotraqueal
+T7 PROC 97 113 drenaje torácico
+T8 PROC 78 89 TAC craneal
+T9 DISO 201 226 sangrado intraventricular
+T10 DISO 262 291 hemorragia subaracnoidea etal
+T11 DISO 31 34 hig
+T12 DISO 23 25 ro
+T13 DISO 181 196 mas subd urales
+T14 DISO 378 407 lesiones en la fosa posterior
+T15 PROC 141 151 TAC facial
+T16 DISO 271 289 fractura máºltiple
+T17 ANAT 65 69 maci
+T18 ANAT 154 163 zo facial
+T19 ANAT 91 96 techo
+T20 ANAT 229 241 pared medial
+T21 ANAT 121 127 órbita
+T22 PROC 442 463 estudio oftalmológico
+T23 ANAT 89 93 ojos
+T24 PROC 93 97 biom
+T25 PROC 49 51 ic
+T26 PROC 76 79 ros
+T27 PROC 131 136 copía
+T28 DISO 82 85 fac
+T29 DISO 29 30 o
+T30 DISO 291 301 esclerosis
+T31 PROC 121 125 fund
+T32 PROC 63 65 us
+T33 PROC 161 166 copía
+T34 ANAT 529 545 fibras nerviosas
+T35 ANAT 137 141 ojos
+T36 ANAT 246 253 papilas
+T37 DISO 757 778 alteraciones del polo
+T38 DISO 741 761 lesiones periféricas
+T39 PROC 1141 1171 estudio de la motilidad ocular
+T40 DISO 79 81 an
+T41 DISO 81 83 is
+T42 DISO 83 85 oc
+T43 DISO 169 173 oria
+T44 DISO 388 397 midriasis
+T45 ANAT 133 136 ojo
+T46 DISO 406 415 parálisis
+T47 ANAT 875 894 nervios ab ductores
+T48 ANAT 894 913 motor ocular comáºn
+T49 DISO 289 295 ptosis
+T50 DISO 148 151 tor
+T51 DISO 351 358 tícolis
+T52 DISO 409 417 diplopía
+T53 DISO 417 425 lesiones
+T54 PROC 1220 1243 tratamiento quiráºrgico
+T55 PROC 541 551 RM craneal
+T56 PROC 606 617 exploración
+T57 DISO 1401 1426 petequias sub cor ticales
+T58 DISO 913 929 lesiones focales
+T59 ANAT 813 827 cuerpo calloso
+T60 PROC 650 661 diagnóstico
+T61 DISO 1141 1160 daá±o axonal difuso
+T62 DISO 1343 1365 lesiones estructurales
+T63 ANAT 1179 1198 tronco del encéfalo
+T64 DISO 1198 1217 parálisis combinada
+T65 PROC 1601 1626 procedimiento terapéutico
+T66 PROC 586 595 inyección
+T67 CHEM 1123 1140 toxina botulínica
+T68 CHEM 336 341 Botox
+T69 ANAT 885 898 rectos medios
+T70 DISO 553 561 síntomas

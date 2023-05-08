@@ -1,0 +1,61 @@
+T1 DISO 1 45 sintomatología del aparato urinario inferior
+T2 DISO 22 43 hipertensión arterial
+T3 PROC 23 34 tratamiento
+T4 CHEM 163 217 inhibidores de la enzima de conversión de angiotensina
+T5 PROC 97 121 intervención quiráºrgica
+T6 DISO 11 13 ul
+T7 DISO 73 85 cus duodenal
+T8 PROC 106 121 colecistectomía
+T9 PROC 233 262 ecografía abdomino pel vi ana
+T10 PROC 100 111 diagnostica
+T11 DISO 411 452 aneurisma de aorta abdominal infrar renal
+T12 PROC 23 25 TC
+T13 ANAT 133 144 bifurcación
+T14 ANAT 105 113 il íacas
+T15 PROC 155 166 exploración
+T16 ANAT 121 129 riá±ones
+T17 ANAT 129 137 riá±ones
+T18 ANAT 35 37 mo
+T19 ANAT 505 533 aorta abdominal infrar renal
+T20 DISO 172 181 aneurisma
+T21 ANAT 561 589 arterias renales principales
+T22 ANAT 106 111 mitad
+T23 ANAT 111 116 renal
+T24 ANAT 162 169 arteria
+T25 ANAT 73 76 ist
+T26 ANAT 51 53 mo
+T27 ANAT 183 190 aórtico
+T28 PROC 298 309 TC vascular
+T29 PROC 645 668 tratamiento quiráºrgico
+T30 DISO 262 271 aneurisma
+T31 PROC 541 559 exploración física
+T32 ANAT 187 193 pulsos
+T33 DISO 513 529 latido abdominal
+T34 PROC 364 375 exploración
+T35 PROC 307 316 protocolo
+T36 DISO 351 361 aneurismas
+T37 PROC 505 519 ecocardiograma
+T38 PROC 1148 1179 pruebas de función respiratoria
+T39 PROC 343 352 resección
+T40 DISO 1327 1361 aneurisma de la aorta infrar renal
+T41 PROC 841 862 bypass aorto aór tico
+T42 DISO 1313 1345 complicaciones intraopera torias
+T43 ANAT 1051 1076 arterias lumbares polares
+T44 DISO 603 617 complicaciones
+T45 PROC 573 586 procedimiento
+T46 ANAT 226 231 renal
+T47 DISO 875 894 alteración vascular
+T48 ANAT 1082 1105 extremidades inferiores
+T49 ANAT 241 246 renal
+T50 PROC 246 251 angio
+T51 PROC 51 52 -
+T52 PROC 103 105 TC
+T53 PROC 625 637 intervención
+T54 PROC 1114 1135 bypass aorto aór tico
+T55 DISO 271 276 fugas
+T56 DISO 1376 1401 dilatación aneuris mática
+T57 PROC 169 172 uro
+T58 PROC 1027 1045 grafía intravenosa
+T59 ANAT 465 473 riá±ones
+T60 ANAT 1181 1201 unión pielo ureteral
+T61 ANAT 1201 1221 sistemas colec tores

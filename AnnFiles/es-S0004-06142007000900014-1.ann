@@ -1,0 +1,65 @@
+T1 DISO 1 29 dolor en hipocondrio derecho
+T2 DISO 33 65 alteración del hábito intestinal
+T3 DISO 33 49 síndrome general
+T4 DISO 52 69 clínica urológica
+T5 PROC 73 91 exploración física
+T6 DISO 41 49 obesidad
+T7 DISO 127 148 hábito c ush ingo ide
+T8 DISO 57 65 estigmas
+T9 DISO 113 127 vi ril ización
+T10 PROC 163 181 cifras tensionales
+T11 PROC 271 298 auscultación cardiopulmonar
+T12 ANAT 78 85 abdomen
+T13 DISO 61 66 masas
+T14 DISO 66 71 organ
+T15 DISO 127 136 omegalias
+T16 DISO 406 433 dolor a la presión profunda
+T17 ANAT 177 188 hipocondrio
+T18 DISO 86 91 signo
+T19 PROC 523 552 exploraciones complementarias
+T20 PROC 837 881 análisis rutinario bioquímico y hematológico
+T21 PROC 601 631 pruebas de función suprarrenal
+T22 PROC 190 199 ecografía
+T23 DISO 221 231 tumoración
+T24 ANAT 369 385 área suprarrenal
+T25 DISO 481 501 metástasis hepáticas
+T26 PROC 76 79 TAC
+T27 DISO 105 109 masa
+T28 ANAT 217 225 pared de
+T29 ANAT 505 523 vena cava inferior
+T30 DISO 349 361 infiltración
+T31 DISO 1111 1148 afectación ganglionar retroperitoneal
+T32 DISO 311 321 metástasis
+T33 DISO 545 562 trombosis tumoral
+T34 PROC 100 103 RMN
+T35 DISO 987 1016 afectación de tejidos vecinos
+T36 PROC 106 109 TAC
+T37 DISO 757 778 infiltración parietal
+T38 DISO 593 609 masa suprarrenal
+T39 PROC 457 469 intervención
+T40 PROC 1717 1761 incisión sub costal derecha trans peritoneal
+T41 ANAT 1041 1067 región suprarrenal derecha
+T42 DISO 411 421 tumoración
+T43 PROC 379 388 disección
+T44 ANAT 560 573 pared lateral
+T45 ANAT 397 406 vena cava
+T46 PROC 361 369 exéresis
+T47 PROC 645 659 control venoso
+T48 DISO 189 193 masa
+T49 PROC 289 295 sutura
+T50 CHEM 197 201 poli
+T51 CHEM 301 307 propil
+T52 CHEM 154 157 eno
+T53 ANAT 261 266 pared
+T54 ANAT 955 973 vena cava inferior
+T55 DISO 757 771 complicaciones
+T56 PROC 1816 1849 estudio histológico macros cópico
+T57 ANAT 281 286 pieza
+T58 ANAT 1027 1045 tejido suprarrenal
+T59 PROC 639 650 microscopía
+T60 ANAT 1122 1141 elementos celulares
+T61 ANAT 301 306 estro
+T62 ANAT 184 187 mal
+T63 ANAT 435 442 células
+T64 PROC 1009 1025 índice mit ótico
+T65 DISO 1473 1496 necrosis intra tu moral

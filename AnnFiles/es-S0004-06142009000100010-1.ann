@@ -1,0 +1,66 @@
+T1 PROC 1 8 ingresa
+T2 DISO 23 45 hematuria macroscópica
+T3 DISO 9 13 hemi
+T4 DISO 16 21 hiper
+T5 DISO 53 66 trofia facial
+T6 DISO 16 19 tor
+T7 DISO 103 120 tícolis congénito
+T8 DISO 57 65 varicela
+T9 DISO 193 217 mononucleosis infecciosa
+T10 DISO 19 21 en
+T11 DISO 21 23 áº
+T12 DISO 56 61 resis
+T13 DISO 97 105 neumonía
+T14 DISO 300 323 traumatismo en cóc ci x
+T15 PROC 29 31 Ex
+T16 PROC 31 33 pl
+T17 PROC 225 239 oración física
+T18 DISO 256 271 palidez cutánea
+T19 PROC 37 39 Ex
+T20 PROC 419 441 ámenes complementarios
+T21 PROC 181 190 hemograma
+T22 PROC 211 221 bioquímica
+T23 PROC 243 254 coagulación
+T24 PROC 231 241 urocultivo
+T25 PROC 313 326 función renal
+T26 PROC 51 53 en
+T27 PROC 53 55 ol
+T28 PROC 82 85 asa
+T29 PROC 505 523 alfa feto proteína
+T30 PROC 581 601 radiografía de tórax
+T31 PROC 91 94 ECG
+T32 PROC 63 65 Se
+T33 PROC 513 529 dimento urinario
+T34 DISO 727 749 hematuria macroscópica
+T35 PROC 103 106 Eco
+T36 PROC 561 577 grafía abdominal
+T37 DISO 145 149 masa
+T38 ANAT 593 609 riá±ón izquierdo
+T39 DISO 191 196 áreas
+T40 DISO 352 361 quísticas
+T41 DISO 121 124 nec
+T42 DISO 206 211 rosis
+T43 PROC 547 560 interconsulta
+T44 PROC 431 441 ecográfico
+T45 PROC 1145 1171 TC abdominal con contraste
+T46 DISO 181 185 masa
+T47 ANAT 737 753 riá±ón izquierdo
+T48 ANAT 189 193 cara
+T49 DISO 289 295 engros
+T50 DISO 981 1001 amientos irregulares
+T51 DISO 201 205 aden
+T52 DISO 1684 1717 omegalias inter - ca vo aór ticas
+T53 ANAT 261 266 peria
+T54 ANAT 107 109 ór
+T55 DISO 217 221 masa
+T56 DISO 826 841 tumor de Wil ms
+T57 DISO 281 286 adeno
+T58 DISO 58 59 -
+T59 DISO 523 532 carcinoma
+T60 PROC 1240 1261 nefrectomía izquierda
+T61 DISO 241 245 masa
+T62 PROC 1770 1799 diagnóstico anatomopatológico
+T63 DISO 311 316 nefro
+T64 DISO 1765 1793 ma meso - bl ástico quístico
+T65 DISO 129 131 qu
+T66 DISO 1626 1651 iste renal multi lo cular

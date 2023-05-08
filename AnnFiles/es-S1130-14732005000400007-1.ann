@@ -1,0 +1,62 @@
+T1 PROC 1 9 consultó
+T2 DISO 38 75 cefalea hemic raneal derecha pulsátil
+T3 DISO 15 22 cefalea
+T4 PROC 73 97 tratamiento convencional
+T5 CHEM 17 21 anti
+T6 CHEM 141 169 inflamatorios no esteroideos
+T7 CHEM 25 29 trip
+T8 CHEM 36 41 tanos
+T9 DISO 113 127 visión borrosa
+T10 ANAT 28 31 ojo
+T11 DISO 81 89 diplopia
+T12 DISO 177 193 ptosis palpebral
+T13 PROC 277 300 exploración neurológica
+T14 DISO 326 351 defecto pupilar a ferente
+T15 ANAT 43 46 ojo
+T16 ANAT 226 241 pares craneales
+T17 PROC 257 273 estudio hormonal
+T18 PROC 443 469 tomografía computarizada (
+T19 PROC 217 229 TC ) craneal
+T20 DISO 286 301 lesión quística
+T21 ANAT 321 337 seno esfeno idal
+T22 ANAT 253 265 silla tur ca
+T23 PROC 441 461 resonancia magnética
+T24 PROC 300 313 RM ) cerebral
+T25 DISO 241 251 tumoración
+T26 ANAT 426 443 seno es fero idal
+T27 ANAT 183 190 paredes
+T28 ANAT 109 113 seno
+T29 ANAT 57 59 cl
+T30 ANAT 59 61 iv
+T31 ANAT 61 63 us
+T32 DISO 187 193 lesión
+T33 DISO 321 331 compresión
+T34 ANAT 694 715 glándula hipofis aria
+T35 ANAT 103 106 qui
+T36 ANAT 141 145 asma
+T37 DISO 361 371 esclerosis
+T38 ANAT 630 647 hueso esfeno idal
+T39 PROC 647 664 anestesia general
+T40 PROC 196 201 resec
+T41 PROC 241 247 ándose
+T42 DISO 247 253 lesión
+T43 PROC 253 259 descom
+T44 PROC 130 133 pri
+T45 PROC 133 136 mir
+T46 ANAT 136 139 qui
+T47 ANAT 507 518 asma óptico
+T48 PROC 1223 1249 análisis anatomopatológico
+T49 ANAT 289 295 tejido
+T50 ANAT 246 251 osteo
+T51 ANAT 351 358 blastos
+T52 ANAT 256 261 lagos
+T53 ANAT 365 372 venosos
+T54 DISO 1379 1405 quiste óseo aneuris mático
+T55 PROC 109 111 RM
+T56 PROC 716 729 descompresión
+T57 ANAT 169 172 qui
+T58 ANAT 628 639 asma óptico
+T59 DISO 349 355 lesión
+T60 ANAT 473 481 regiones
+T61 ANAT 1141 1160 celdas et mo idales
+T62 PROC 1953 1985 exploración neuro f talm ológica

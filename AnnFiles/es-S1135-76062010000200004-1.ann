@@ -1,0 +1,61 @@
+T1 DISO 1 8 síncope
+T2 PROC 11 21 consultado
+T3 DISO 7 10 mal
+T4 DISO 67 89 pierde el conocimiento
+T5 DISO 29 36 fallece
+T6 DISO 76 91 sión accidental
+T7 PROC 49 57 autopsia
+T8 DISO 113 129 signos violencia
+T9 DISO 153 172 hábito mar fano ide
+T10 ANAT 145 161 cavidad torácica
+T11 DISO 41 45 hemo
+T12 DISO 166 181 tórax izquierdo
+T13 DISO 73 79 rotura
+T14 DISO 235 253 aneurisma sac ular
+T15 ANAT 169 181 arco aórtico
+T16 ANAT 406 433 arteria subclavia izquierda
+T17 DISO 145 154 aneurisma
+T18 ANAT 86 91 pared
+T19 DISO 109 115 rotura
+T20 ANAT 362 381 saco aneuris mático
+T21 ANAT 141 148 corazón
+T22 ANAT 85 89 endo
+T23 ANAT 419 438 cardio suba ór tico
+T24 DISO 139 145 engros
+T25 ANAT 1057 1101 válvulas auriculo ventriculares semil unares
+T26 ANAT 476 495 arterias coronarias
+T27 PROC 573 595 examen histopatológico
+T28 ANAT 136 141 pared
+T29 DISO 253 262 aneurisma
+T30 ANAT 146 151 pared
+T31 ANAT 151 156 aorta
+T32 DISO 187 193 rotura
+T33 ANAT 513 529 fibras elásticas
+T34 ANAT 496 511 tejido muscular
+T35 ANAT 545 561 matriz basó fila
+T36 ANAT 106 109 fib
+T37 ANAT 73 75 ri
+T38 ANAT 112 115 lar
+T39 DISO 153 157 cola
+T40 DISO 157 161 geno
+T41 DISO 201 206 patía
+T42 PROC 739 757 screening genético
+T43 DISO 757 775 Síndrome de Marfan
+T44 DISO 388 397 fallecida
+T45 PROC 705 721 consejo genético
+T46 PROC 1441 1473 investigación genética molecular
+T47 CHEM 369 377 marcador
+T48 CHEM 48 49 F
+T49 CHEM 97 99 BN
+T50 CHEM 50 51 1
+T51 PROC 601 613 protocolo de
+T52 PROC 154 157 PCR
+T53 PROC 365 372 electro
+T54 PROC 160 163 fer
+T55 PROC 379 386 ogramas
+T56 PROC 386 393 electro
+T57 PROC 841 856 foresis capilar
+T58 PROC 172 175 tam
+T59 PROC 349 355 izaron
+T60 DISO 709 721 enfermedades
+T61 CHEM 1201 1221 marcadores genéticos

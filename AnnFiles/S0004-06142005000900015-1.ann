@@ -1,0 +1,45 @@
+T1 PROC 1 10 estudiado
+T2 PROC 26 51 consulta medicina interna
+T3 DISO 117 175 masa ingu ino esc ro tal izquierda dolorosa a la palpación
+T4 DISO 46 61 pérdida de peso
+T5 DISO 73 91 síndrome miccional
+T6 PROC 56 67 exploración
+T7 ANAT 19 22 tes
+T8 ANAT 22 25 tes
+T9 ANAT 153 172 cordón esper mático
+T10 DISO 73 81 doloroso
+T11 PROC 201 221 ecografía testicular
+T12 PROC 254 277 CT de abdomen - pel vis
+T13 DISO 49 53 masa
+T14 ANAT 248 267 cordón esper mático
+T15 DISO 365 391 afectación retroperitoneal
+T16 PROC 166 177 diagnóstico
+T17 DISO 513 545 tumor para tes ticular izquierdo
+T18 PROC 188 199 intervenido
+T19 DISO 127 134 masa en
+T20 ANAT 362 381 cordón esper mático
+T21 PROC 141 148 biopsia
+T22 DISO 1492 1563 proliferación neoplásica de aspecto mio fibro bl ástico no linfoma tosa
+T23 PROC 45 47 or
+T24 PROC 70 73 qui
+T25 PROC 361 376 ectomía radical
+T26 PROC 476 495 anatomía patológica
+T27 DISO 157 163 rabdom
+T28 DISO 649 673 iosarcoma ple om ór fico
+T29 ANAT 533 552 cordón esper mático
+T30 ANAT 146 151 teste
+T31 ANAT 121 125 epid
+T32 ANAT 94 97 ídi
+T33 ANAT 65 67 mo
+T34 PROC 298 307 resección
+T35 PROC 443 456 quimioterapia
+T36 CHEM 71 73 ad
+T37 CHEM 73 75 ri
+T38 CHEM 260 267 amicina
+T39 CHEM 39 40 i
+T40 CHEM 352 361 fosfamida
+T41 CHEM 121 124 MES
+T42 CHEM 83 85 NA
+T43 PROC 715 732 pruebas de imagen
+T44 PROC 302 309 cirugía
+T45 DISO 837 856 recidivas tumorales

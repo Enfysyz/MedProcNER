@@ -1,0 +1,77 @@
+T1 PROC 1 9 trasplan
+T2 PROC 17 33 tada bi pulmonar
+T3 DISO 37 55 fibrosis quis tica
+T4 PROC 55 73 serología para CMV
+T5 PROC 41 51 trasplante
+T6 PROC 51 61 profilaxis
+T7 CHEM 19 22 gan
+T8 CHEM 57 65 ciclovir
+T9 CHEM 25 28 val
+T10 CHEM 28 31 gan
+T11 CHEM 81 89 ciclovir
+T12 PROC 232 253 controles carga viral
+T13 PROC 121 131 profilaxis
+T14 PROC 131 141 trasplante
+T15 PROC 141 151 profilaxis
+T16 PROC 166 177 carga viral
+T17 PROC 113 120 ingresó
+T18 PROC 392 415 tratamiento intravenoso
+T19 CHEM 55 58 gan
+T20 CHEM 153 161 ciclovir
+T21 PROC 381 400 terapia intravenosa
+T22 PROC 232 243 carga viral
+T23 PROC 507 530 estudio de resistencias
+T24 CHEM 70 73 gan
+T25 CHEM 193 201 ciclovir
+T26 CHEM 76 79 fos
+T27 CHEM 79 82 car
+T28 CHEM 82 85 net
+T29 CHEM 197 204 fármaco
+T30 PROC 320 331 carga viral
+T31 DISO 481 497 efectos adversos
+T32 DISO 94 97 hip
+T33 DISO 353 364 omagnesemia
+T34 PROC 859 885 tratamiento inmunosupresor
+T35 CHEM 409 421 ciclosporina
+T36 CHEM 141 145 ever
+T37 CHEM 217 223 olimus
+T38 PROC 408 419 carga viral
+T39 CHEM 115 118 fos
+T40 CHEM 118 121 car
+T41 CHEM 121 124 net
+T42 PROC 452 463 tratamiento
+T43 PROC 379 388 controles
+T44 PROC 474 485 tratamiento
+T45 PROC 485 496 carga viral
+T46 PROC 586 599 uso compasivo
+T47 CHEM 185 189 mari
+T48 CHEM 95 97 ba
+T49 CHEM 145 148 vir
+T50 PROC 589 601 terapia oral
+T51 CHEM 201 205 mari
+T52 CHEM 103 105 ba
+T53 CHEM 157 160 vir
+T54 PROC 584 595 tratamiento
+T55 CHEM 163 166 val
+T56 CHEM 166 169 gan
+T57 CHEM 449 457 ciclovir
+T58 CHEM 229 233 mari
+T59 CHEM 117 119 ba
+T60 CHEM 178 181 vir
+T61 CHEM 121 123 le
+T62 CHEM 123 125 fl
+T63 CHEM 435 442 unomida
+T64 CHEM 127 129 le
+T65 CHEM 129 131 fl
+T66 CHEM 456 463 unomida
+T67 CHEM 133 135 le
+T68 CHEM 135 137 fl
+T69 CHEM 477 484 unomida
+T70 PROC 760 771 tratamiento
+T71 CHEM 211 214 val
+T72 CHEM 214 217 gan
+T73 CHEM 577 585 ciclovir
+T74 PROC 804 815 carga viral
+T75 PROC 371 376 pauta
+T76 PROC 826 837 tratamiento
+T77 PROC 837 848 carga viral

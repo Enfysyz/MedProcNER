@@ -1,0 +1,105 @@
+T1 DISO 1 37 insuficiencia renal crónica terminal
+T2 DISO 25 49 enfermedad poliqu ística
+T3 PROC 47 70 trasplantado de donante
+T4 PROC 64 85 manejo inmunosupresor
+T5 CHEM 41 51 prednisona
+T6 CHEM 51 61 tacrolimus
+T7 CHEM 133 155 micofenolato mofe tilo
+T8 PROC 92 105 biopsia renal
+T9 DISO 169 190 rechazo celular agudo
+T10 PROC 100 111 tratamiento
+T11 CHEM 171 188 metilprednisolona
+T12 CHEM 111 121 prednisona
+T13 CHEM 145 157 micofenolato
+T14 CHEM 131 141 tacrolimus
+T15 DISO 85 91 fiebre
+T16 DISO 496 529 cefalea frontal y retro - o cular
+T17 DISO 481 511 disminución de la sensibilidad
+T18 ANAT 86 91 hemic
+T19 ANAT 55 58 ara
+T20 PROC 153 161 evaluado
+T21 PROC 261 274 diagnosticado
+T22 DISO 316 331 sinusitis aguda
+T23 PROC 243 254 tratamiento
+T24 CHEM 254 265 amoxicilina
+T25 DISO 97 101 prop
+T26 DISO 301 313 tosis ocular
+T27 DISO 859 892 edema de maxilar superior derecho
+T28 DISO 217 225 rinorrea
+T29 DISO 225 233 diplopía
+T30 DISO 88 91 epí
+T31 DISO 121 125 fora
+T32 DISO 559 577 áºlcera en paladar
+T33 DISO 385 397 convulsiones
+T34 CHEM 100 103 azo
+T35 CHEM 137 141 ados
+T36 PROC 281 289 remitido
+T37 PROC 253 260 ingreso
+T38 DISO 223 229 febril
+T39 DISO 989 1015 edema en hemic ara derecha
+T40 DISO 1327 1361 áºlcera extensa en el paladar duro
+T41 DISO 161 165 prop
+T42 DISO 493 505 tosis ocular
+T43 DISO 211 216 oftal
+T44 DISO 87 89 mo
+T45 DISO 265 271 plejia
+T46 DISO 901 921 pérdida de la visión
+T47 ANAT 139 142 ojo
+T48 DISO 612 625 función renal
+T49 PROC 1393 1422 resonancia magnética cerebral
+T50 ANAT 834 851 senos paranasales
+T51 ANAT 301 307 órbita
+T52 ANAT 715 729 lóbulo frontal
+T53 ANAT 885 902 senos caver nosos
+T54 ANAT 849 865 ganglios basales
+T55 ANAT 811 826 área del tálamo
+T56 PROC 606 617 diagnóstico
+T57 DISO 113 115 MR
+T58 DISO 115 117 OC
+T59 CHEM 1451 1476 anfotericina B lipos omal
+T60 PROC 886 901 inmunosupresión
+T61 PROC 901 916 cirugía radical
+T62 PROC 428 435 drenaje
+T63 DISO 559 568 sinusitis
+T64 PROC 1135 1153 drenaje de absceso
+T65 PROC 1089 1106 resección extensa
+T66 ANAT 976 991 tejidos blandos
+T67 ANAT 331 336 óseos
+T68 ANAT 336 341 hemic
+T69 ANAT 205 208 ara
+T70 PROC 139 141 en
+T71 PROC 281 285 ucle
+T72 PROC 356 361 ación
+T73 PROC 937 950 traqueostomía
+T74 PROC 877 889 gastrostomía
+T75 PROC 593 601 cultivos
+T76 PROC 676 685 patología
+T77 DISO 1521 1541 infección por Muc or
+T78 CHEM 155 157 Î²
+T79 CHEM 79 80 -
+T80 CHEM 396 401 lacta
+T81 CHEM 2081 2107 masa de espectro extendido
+T82 PROC 3484 3527 control de imágenes de resonancia magnética
+T83 DISO 821 831 enfermedad
+T84 ANAT 582 589 cerebro
+T85 DISO 673 681 secuelas
+T86 PROC 1616 1635 cirugía más radical
+T87 PROC 1119 1132 manejo médico
+T88 PROC 958 969 tratamiento
+T89 PROC 1321 1336 cirugía radical
+T90 CHEM 2226 2251 anfotericina B lipos omal
+T91 CHEM 811 820 meropenem
+T92 CHEM 820 829 linezolid
+T93 CHEM 277 280 pos
+T94 CHEM 187 189 ac
+T95 CHEM 565 571 onazol
+T96 CHEM 286 289 pos
+T97 CHEM 193 195 ac
+T98 CHEM 583 589 onazol
+T99 CHEM 1177 1189 ciclosporina
+T100 CHEM 991 1001 prednisona
+T101 PROC 2601 2627 nutrición por gastrostomía
+T102 DISO 1920 1939 signos de infección
+T103 ANAT 1327 1340 injerto renal
+T104 PROC 1031 1041 creatinina
+T105 PROC 2705 2731 reconstrucción quiráºrgica

@@ -1,0 +1,39 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 19 37 enfermedad de VH L
+T3 PROC 45 67 revisión oftalmológica
+T4 DISO 64 85 hemangiomas capilares
+T5 ANAT 17 21 ojos
+T6 DISO 6 7 A
+T7 DISO 7 8 O
+T8 DISO 71 81 enfermedad
+T9 DISO 161 181 afectación sistémica
+T10 DISO 91 101 enfermedad
+T11 DISO 151 166 quistes renales
+T12 ANAT 122 133 ojo derecho
+T13 ANAT 25 27 OD
+T14 DISO 326 351 desprendimiento de retina
+T15 DISO 57 61 DR )
+T16 ANAT 46 49 ojo
+T17 PROC 225 239 agudeza visual
+T18 PROC 35 37 AV
+T19 DISO 649 685 hemangiomas foto coag ulados nasales
+T20 DISO 476 501 membrana ep ir retin iana
+T21 ANAT 281 295 polo posterior
+T22 ANAT 148 155 macular
+T23 PROC 683 714 tomografía de coherencia óptica
+T24 PROC 70 73 OCT
+T25 DISO 193 201 membrana
+T26 PROC 76 79 vit
+T27 PROC 209 217 rectomía
+T28 DISO 487 505 hemorragia ví trea
+T29 DISO 57 59 DR
+T30 PROC 88 91 vit
+T31 PROC 241 249 rectomía
+T32 DISO 559 577 hemorragia ví trea
+T33 PROC 705 727 inyección intraví trea
+T34 CHEM 133 137 anti
+T35 CHEM 35 36 -
+T36 CHEM 36 37 V
+T37 CHEM 109 112 EGF
+T38 CHEM 38 39 b
+T39 CHEM 381 391 evacizumab

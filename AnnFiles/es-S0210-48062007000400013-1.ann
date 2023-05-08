@@ -1,0 +1,75 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 28 55 carcinoma papilar urotelial
+T3 PROC 15 22 tratado
+T4 PROC 34 45 RTU vesical
+T5 PROC 13 16 RTU
+T6 DISO 136 163 tejido inflamatorio crónico
+T7 PROC 157 183 tratamiento complementario
+T8 PROC 22 25 ins
+T9 PROC 25 28 til
+T10 PROC 64 71 aciones
+T11 CHEM 31 34 BCG
+T12 DISO 232 253 cuadro constitucional
+T13 DISO 337 365 deterioro del estado general
+T14 DISO 92 99 astenia
+T15 DISO 85 91 fiebre
+T16 DISO 286 305 dolores articulares
+T17 ANAT 49 52 pie
+T18 ANAT 52 55 pie
+T19 ANAT 145 153 tobillos
+T20 ANAT 153 161 muá±ecas
+T21 ANAT 101 106 manos
+T22 ANAT 379 397 dedos de las manos
+T23 DISO 287 300 conjuntivitis
+T24 DISO 484 505 enrojecimiento ocular
+T25 DISO 457 476 secreción purulenta
+T26 DISO 126 131 aftas
+T27 DISO 729 757 lesiones orales ni genitales
+T28 DISO 379 393 sintomatología
+T29 DISO 757 784 signos localidad infecciosa
+T30 PROC 262 271 analítica
+T31 DISO 361 373 leucocitosis
+T32 PROC 94 97 VSG
+T33 PROC 97 100 PCR
+T34 DISO 1024 1055 alteración de enzimas hepáticas
+T35 PROC 103 106 Ser
+T36 PROC 211 217 ología
+T37 DISO 325 334 hepatitis
+T38 PROC 445 457 hemocultivos
+T39 PROC 115 118 uro
+T40 PROC 313 321 cultivos
+T41 PROC 481 493 coprocultivo
+T42 PROC 1026 1051 Cultivo de bacilo de Koch
+T43 ANAT 211 216 orina
+T44 PROC 861 881 tinción de Kin yo un
+T45 PROC 353 361 HLA B 27
+T46 PROC 91 93 FR
+T47 PROC 231 236 artro
+T48 PROC 377 385 centesis
+T49 ANAT 337 344 tobillo
+T50 DISO 344 351 líquido
+T51 DISO 651 664 inflamatorias
+T52 PROC 358 365 Cultivo
+T53 CHEM 469 478 cristales
+T54 PROC 372 379 pruebas
+T55 PROC 271 276 artro
+T56 PROC 441 449 centesis
+T57 DISO 337 343 poliar
+T58 DISO 343 349 tritis
+T59 PROC 175 178 ins
+T60 PROC 178 181 til
+T61 PROC 421 428 aciones
+T62 CHEM 184 187 BCG
+T63 PROC 683 694 tratamiento
+T64 CHEM 190 193 ind
+T65 CHEM 257 261 omet
+T66 CHEM 326 331 acina
+T67 CHEM 727 738 corticoides
+T68 CHEM 336 341 metil
+T69 CHEM 817 829 prednisolona
+T70 PROC 760 771 tratamiento
+T71 CHEM 211 214 ind
+T72 CHEM 285 289 omet
+T73 CHEM 361 366 acina
+T74 PROC 585 593 revisión
+T75 DISO 593 601 dolencia

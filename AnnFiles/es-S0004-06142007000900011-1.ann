@@ -1,0 +1,76 @@
+T1 DISO 1 26 hemorragia digestiva alta
+T2 CHEM 9 17 aspirina
+T3 DISO 63 94 accidente isquémico transitorio
+T4 PROC 58 77 tratamiento crónico
+T5 CHEM 13 16 tri
+T6 CHEM 6 7 f
+T7 CHEM 25 29 usal
+T8 DISO 211 241 dolor en hemiabdomen izquierdo
+T9 DISO 145 163 cortejo vegetativo
+T10 PROC 100 111 exploración
+T11 PROC 161 177 tensión arterial
+T12 PROC 210 229 frecuencia cardíaca
+T13 DISO 361 391 dolor en fosa ilíaca izquierda
+T14 PROC 118 127 hemograma
+T15 PROC 155 166 hemoglobina
+T16 PROC 136 145 plaquetas
+T17 PROC 353 375 estudio de coagulación
+T18 PROC 511 541 bioquímica elemental de sangre
+T19 PROC 361 381 sistemático de orina
+T20 PROC 343 361 electrocardiograma
+T21 PROC 541 568 radiografía simple de tórax
+T22 PROC 736 771 tomografía computarizada de abdomen
+T23 DISO 177 185 hematoma
+T24 ANAT 484 505 celda renal izquierda
+T25 ANAT 169 176 líquido
+T26 ANAT 526 547 suprarrenal izquierda
+T27 DISO 79 82 HTA
+T28 PROC 298 309 tratamiento
+T29 CHEM 309 320 analgésicos
+T30 CHEM 668 691 antagonistas del calcio
+T31 CHEM 1771 1830 inhibidores de la enzima convertidora de la angiotensina II
+T32 PROC 559 577 cifras tensionales
+T33 PROC 737 760 tratamiento intravenoso
+T34 CHEM 166 171 nitro
+T35 CHEM 69 71 pr
+T36 CHEM 141 145 usia
+T37 CHEM 73 75 to
+T38 CHEM 112 115 lab
+T39 CHEM 153 157 etal
+T40 CHEM 79 81 ol
+T41 PROC 121 124 yug
+T42 DISO 780 799 crisis hipertensiva
+T43 PROC 463 474 hemoglobina
+T44 PROC 474 485 hematocrito
+T45 DISO 881 901 rotura no traumática
+T46 DISO 631 645 feocromocitoma
+T47 PROC 231 236 metan
+T48 PROC 48 49 e
+T49 PROC 97 99 fr
+T50 PROC 785 801 inas plasmáticas
+T51 PROC 651 664 catecolaminas
+T52 PROC 256 261 metan
+T53 PROC 53 54 e
+T54 PROC 107 109 fr
+T55 PROC 757 771 inas urinarias
+T56 ANAT 276 281 orina
+T57 PROC 393 400 ingreso
+T58 CHEM 571 581 adrenalina
+T59 CHEM 755 768 noradrenalina
+T60 CHEM 296 301 metan
+T61 CHEM 61 62 e
+T62 CHEM 306 311 frina
+T63 CHEM 63 64 n
+T64 CHEM 253 257 orme
+T65 CHEM 257 261 tane
+T66 CHEM 326 331 frina
+T67 PROC 595 604 ingresado
+T68 ANAT 604 613 urinarias
+T69 DISO 545 553 hematoma
+T70 DISO 1588 1611 imagen pseudo qu ística
+T71 ANAT 1821 1847 zona suprarrenal izquierda
+T72 PROC 782 793 suprarrenal
+T73 PROC 1297 1315 ectomía unilateral
+T74 PROC 1388 1407 estudio histológico
+T75 DISO 297 301 masa
+T76 DISO 1501 1521 necrosis hemorrágica

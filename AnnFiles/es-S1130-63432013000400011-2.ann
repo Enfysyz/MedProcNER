@@ -1,0 +1,41 @@
+T1 DISO 1 25 diabetes mellitus tipo 2
+T2 DISO 33 65 pancreatitis crónica calcificada
+T3 DISO 27 40 hipoglucemias
+T4 PROC 43 57 administración
+T5 CHEM 33 41 insulina
+T6 PROC 41 49 ingresos
+T7 DISO 175 204 cuadros infecciosos urinarios
+T8 DISO 134 153 deterioro funcional
+T9 PROC 57 64 ingreso
+T10 DISO 109 121 malnutrición
+T11 DISO 271 298 insuficiencia renal crónica
+T12 DISO 243 265 cetoacidosis diabética
+T13 DISO 157 170 áºlcera sacra
+T14 PROC 287 309 cultivo del exudado de
+T15 DISO 99 106 áºlcera
+T16 CHEM 151 161 meticilina
+T17 CHEM 17 18 M
+T18 PROC 205 217 antibiograma
+T19 PROC 19 20 R
+T20 CHEM 96 101 colis
+T21 CHEM 81 85 tina
+T22 CHEM 190 199 amikacina
+T23 CHEM 265 277 cotrimoxazol
+T24 CHEM 277 289 clindamicina
+T25 PROC 265 276 tratamiento
+T26 CHEM 126 131 crema
+T27 CHEM 131 136 colis
+T28 CHEM 109 113 tina
+T29 PROC 113 117 cura
+T30 CHEM 349 361 cotrimoxazol
+T31 PROC 331 342 tratamiento
+T32 DISO 125 129 SARM
+T33 PROC 353 364 tratamiento
+T34 DISO 232 239 áºlcera
+T35 ANAT 715 736 tejido de granulación
+T36 PROC 631 649 tratamiento tópico
+T37 DISO 289 297 falleció
+T38 DISO 1407 1445 insuficiencia renal crónica agudi zada
+T39 DISO 571 586 sepsis urinaria
+T40 PROC 274 281 cultivo
+T41 PROC 441 452 tratamiento

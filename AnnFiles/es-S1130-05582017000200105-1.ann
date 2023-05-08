@@ -1,0 +1,79 @@
+T1 DISO 1 12 tumefacción
+T2 ANAT 8 15 mejilla
+T3 DISO 29 43 sintomatología
+T4 DISO 49 65 pérdida ponderal
+T5 PROC 73 91 exploración física
+T6 DISO 56 67 masa sólida
+T7 ANAT 37 43 cuerpo
+T8 ANAT 78 89 hueso malar
+T9 ANAT 105 118 hueso maxilar
+T10 DISO 55 61 lesión
+T11 ANAT 81 89 máºsculo
+T12 ANAT 45 49 piel
+T13 PROC 265 287 exploración intra oral
+T14 DISO 131 141 masa firme
+T15 ANAT 71 76 encía
+T16 ANAT 286 305 fondo del vestíbulo
+T17 ANAT 65 69 hemi
+T18 ANAT 52 55 arc
+T19 ANAT 217 229 ada superior
+T20 PROC 685 721 exploración de la cabeza y el cuello
+T21 PROC 481 505 biopsia con acceso intra
+T22 DISO 85 89 masa
+T23 ANAT 375 392 células pequeá±as
+T24 ANAT 162 169 células
+T25 ANAT 169 176 estroma
+T26 ANAT 351 365 tejido fibroso
+T27 PROC 729 757 análisis inmunohisto químico
+T28 CHEM 55 57 CD
+T29 CHEM 29 30 -
+T30 CHEM 59 61 99
+T31 PROC 601 621 resonancia magnética
+T32 PROC 63 65 RM
+T33 DISO 545 562 tumoración sólida
+T34 ANAT 397 409 seno maxilar
+T35 ANAT 783 806 musculatura cig omática
+T36 DISO 211 217 lesión
+T37 DISO 973 1000 infiltración de estructuras
+T38 CHEM 334 343 gadolinio
+T39 PROC 533 547 administración
+T40 DISO 274 281 celular
+T41 DISO 241 247 lesión
+T42 DISO 739 757 alteraciones óseas
+T43 DISO 127 130 cre
+T44 DISO 1033 1057 cimientos aden op áticos
+T45 PROC 485 496 tratamiento
+T46 DISO 991 1013 metástasis a distancia
+T47 PROC 323 330 biopsia
+T48 PROC 1176 1201 aspiración de médula ósea
+T49 PROC 145 148 PET
+T50 PROC 50 51 -
+T51 PROC 1051 1072 TC de cuerpo completo
+T52 PROC 562 573 tratamiento
+T53 DISO 105 107 SE
+T54 DISO 54 55 E
+T55 PROC 487 496 protocolo
+T56 PROC 716 729 RM de control
+T57 DISO 337 343 lesión
+T58 ANAT 1027 1045 musculatura facial
+T59 ANAT 175 178 ver
+T60 ANAT 119 121 ti
+T61 ANAT 2221 2258 ente inferior del or b icular del ojo
+T62 ANAT 1709 1737 elev ador del labio superior
+T63 PROC 869 883 administración
+T64 CHEM 568 577 contraste
+T65 PROC 1473 1496 tratamiento quiráºrgico
+T66 DISO 391 397 lesión
+T67 PROC 595 604 resección
+T68 ANAT 1207 1225 musculatura facial
+T69 ANAT 885 898 tejido blando
+T70 ANAT 898 911 hueso maxilar
+T71 PROC 351 356 resec
+T72 PROC 427 433 cionar
+T73 DISO 1441 1461 infiltración tumoral
+T74 PROC 877 889 dado de alta
+T75 DISO 2221 2251 complicaciones postoperatorias
+T76 PROC 1501 1521 análisis histológico
+T77 ANAT 305 309 espé
+T78 ANAT 155 157 ci
+T79 ANAT 1171 1186 men quiráºrgico

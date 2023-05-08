@@ -1,0 +1,94 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 57 113 linfoma de Hodgkin clásico , variedad celular idad mixta
+T3 DISO 41 61 afectación medular ,
+T4 ANAT 25 33 hepática
+T5 ANAT 37 46 esplénica
+T6 PROC 146 175 tratamiento con quimioterapia
+T7 PROC 13 15 BE
+T8 PROC 15 17 AC
+T9 PROC 17 19 OP
+T10 PROC 10 11 P
+T11 PROC 91 100 inducción
+T12 PROC 144 157 quimioterapia
+T13 DISO 73 79 fiebre
+T14 DISO 144 155 escalofríos
+T15 DISO 99 106 melenas
+T16 PROC 136 145 analítica
+T17 DISO 177 188 neutropenia
+T18 ANAT 171 181 leucocitos
+T19 DISO 235 248 plaquetopenia
+T20 PROC 324 341 Ingresa en la UCI
+T21 DISO 641 673 insuficiencia respiratoria aguda
+T22 PROC 148 155 ingreso
+T23 DISO 551 576 hemorragia digestiva baja
+T24 DISO 438 457 shock hipovol émico
+T25 PROC 241 251 intubación
+T26 PROC 701 729 transfusión de hemoderivados
+T27 PROC 391 406 endoscopia alta
+T28 ANAT 406 421 yeyuno proximal
+T29 DISO 281 291 ulceración
+T30 DISO 146 151 necró
+T31 DISO 121 125 tico
+T32 DISO 249 257 sangrado
+T33 PROC 801 826 estudio anatomopatológico
+T34 PROC 232 239 biopsia
+T35 DISO 239 246 áºlcera
+T36 ANAT 316 325 mucosa de
+T37 ANAT 613 630 intestino delgado
+T38 DISO 186 191 ulcer
+T39 DISO 153 157 ados
+T40 DISO 1132 1161 infiltrado inflamatorio mixto
+T41 DISO 1281 1313 células gigantes cuerpo extraá±o
+T42 ANAT 411 421 citoplasma
+T43 DISO 421 431 infiltrado
+T44 ANAT 87 89 hi
+T45 ANAT 133 136 fas
+T46 DISO 136 139 muc
+T47 DISO 139 142 orm
+T48 DISO 283 289 icosis
+T49 PROC 97 99 TC
+T50 DISO 638 651 engrosamiento
+T51 ANAT 251 256 pared
+T52 ANAT 511 521 intestinal
+T53 ANAT 313 319 yeyuno
+T54 DISO 1061 1081 lesiones hipoden sas
+T55 ANAT 919 936 lóbulos hepáticos
+T56 DISO 991 1009 afectación lí tica
+T57 ANAT 1065 1084 cuerpos vertebrales
+T58 ANAT 343 349 dorsal
+T59 ANAT 349 355 lumbar
+T60 PROC 650 661 tratamiento
+T61 CHEM 841 855 anfotericina B
+T62 PROC 1343 1365 control de la glucemia
+T63 PROC 1303 1324 cirugía erradic adora
+T64 PROC 1765 1793 intervenido quiráºrgicamente
+T65 DISO 257 261 plas
+T66 DISO 261 265 trón
+T67 ANAT 397 403 yeyuno
+T68 ANAT 202 205 mes
+T69 ANAT 273 277 ocol
+T70 ANAT 898 911 on transverso
+T71 DISO 771 782 perforación
+T72 ANAT 427 433 yeyuno
+T73 PROC 1801 1826 estudio anatomopatológico
+T74 ANAT 366 371 pieza
+T75 PROC 667 676 resección
+T76 ANAT 451 457 yeyuno
+T77 ANAT 381 386 íleon
+T78 DISO 771 781 ulceración
+T79 DISO 2107 2134 inflamación aguda y crónica
+T80 DISO 870 881 perforación
+T81 ANAT 321 325 asas
+T82 DISO 2026 2051 infección por Z ig om ice
+T83 DISO 1723 1744 necrosis fib rino ide
+T84 ANAT 416 421 vasos
+T85 ANAT 1429 1446 grasa subs er osa
+T86 ANAT 171 173 hi
+T87 ANAT 259 262 fas
+T88 ANAT 175 177 hi
+T89 PROC 265 268 PAS
+T90 CHEM 1514 1531 plata metan amina
+T91 DISO 1261 1275 complicaciones
+T92 PROC 638 645 cirugía
+T93 PROC 1013 1024 seguimiento
+T94 DISO 652 659 linfoma

@@ -1,0 +1,112 @@
+T1 DISO 1 13 dolor ocular
+T2 DISO 18 35 fotofobia agudeza
+T3 PROC 5 7 AV
+T4 PROC 40 53 diagnosticado
+T5 DISO 29 36 querato
+T6 DISO 211 253 conjuntivitis probablemente adeno v ír ica
+T7 PROC 67 78 tratamiento
+T8 CHEM 57 65 colirios
+T9 CHEM 17 19 to
+T10 CHEM 82 91 bramicina
+T11 CHEM 21 23 To
+T12 CHEM 34 37 bre
+T13 CHEM 13 14 x
+T14 CHEM 66 71 ciclo
+T15 CHEM 15 16 p
+T16 CHEM 46 49 ent
+T17 CHEM 273 290 olato clorhidrato
+T18 DISO 120 127 escozor
+T19 DISO 163 172 fotofobia
+T20 DISO 267 281 enrojecimiento
+T21 DISO 141 148 astenia
+T22 DISO 43 45 ca
+T23 DISO 133 139 quexia
+T24 DISO 714 745 pancreatitis crónica alcohólica
+T25 DISO 985 1026 diabetes mellitus no insulino dependiente
+T26 DISO 401 417 hábito tabáquico
+T27 PROC 183 190 colecis
+T28 PROC 82 85 tos
+T29 PROC 869 900 tomía con derivación percutánea
+T30 PROC 59 61 ex
+T31 PROC 631 652 cisión de pter ig ión
+T32 PROC 125 129 beta
+T33 PROC 225 232 terapia
+T34 PROC 1156 1191 injerto la mel ar esclero cor ne al
+T35 DISO 375 386 traumatismo
+T36 PROC 386 397 exploración
+T37 PROC 73 75 AV
+T38 DISO 667 685 inyección vascular
+T39 DISO 1179 1210 edema epitelial micro qu ístico
+T40 DISO 1288 1321 queratitis ulcera tiva periférica
+T41 DISO 81 83 QU
+T42 DISO 42 43 P
+T43 DISO 43 44 t
+T44 DISO 259 265 yndall
+T45 DISO 177 181 sine
+T46 DISO 631 645 quia posterior
+T47 PROC 875 894 presión intraocular
+T48 PROC 48 49 P
+T49 PROC 97 99 IO
+T50 PROC 589 601 fondo de ojo
+T51 PROC 101 103 FO
+T52 DISO 460 469 inyección
+T53 ANAT 781 796 vascularización
+T54 ANAT 584 595 conjuntival
+T55 ANAT 325 331 ciliar
+T56 ANAT 166 169 epi
+T57 ANAT 337 343 escler
+T58 ANAT 115 117 al
+T59 DISO 175 178 pan
+T60 DISO 60 61 n
+T61 DISO 121 123 us
+T62 DISO 245 249 pter
+T63 DISO 125 127 ig
+T64 DISO 190 193 ión
+T65 DISO 961 976 áºlcera corneal
+T66 DISO 1171 1189 necrosis estro mal
+T67 DISO 133 135 hi
+T68 DISO 135 137 fe
+T69 DISO 137 139 ma
+T70 ANAT 1036 1051 cámara anterior
+T71 ANAT 141 143 CA
+T72 DISO 285 289 sine
+T73 DISO 1225 1242 quias posteriores
+T74 PROC 220 223 PIO
+T75 PROC 149 151 FO
+T76 ANAT 526 533 corneal
+T77 ANAT 305 309 ojos
+T78 PROC 540 547 ingresa
+T79 PROC 859 870 tratamiento
+T80 CHEM 791 801 prednisona
+T81 CHEM 81 82 D
+T82 CHEM 325 329 acor
+T83 CHEM 247 250 tin
+T84 CHEM 914 925 doxiciclina
+T85 CHEM 85 86 V
+T86 CHEM 171 173 ib
+T87 CHEM 87 88 r
+T88 CHEM 436 441 acina
+T89 CHEM 705 713 atropina
+T90 CHEM 90 91 A
+T91 CHEM 631 638 tropina
+T92 CHEM 183 185 to
+T93 CHEM 829 838 bramicina
+T94 CHEM 1117 1129 dexametasona
+T95 CHEM 189 191 To
+T96 CHEM 286 289 bra
+T97 CHEM 289 292 dex
+T98 CHEM 292 295 car
+T99 CHEM 295 298 mel
+T100 CHEM 991 1001 osa sódica
+T101 DISO 201 203 hi
+T102 DISO 203 205 fe
+T103 DISO 205 207 ma
+T104 DISO 413 417 hipo
+T105 DISO 105 106 p
+T106 DISO 316 319 ión
+T107 ANAT 213 215 OI
+T108 CHEM 857 865 colirios
+T109 CHEM 1189 1200 vancomicina
+T110 CHEM 328 331 Dia
+T111 CHEM 551 556 traci
+T112 CHEM 112 113 n

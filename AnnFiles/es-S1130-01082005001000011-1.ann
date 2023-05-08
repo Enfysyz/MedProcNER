@@ -1,0 +1,40 @@
+T1 DISO 1 19 malestar abdominal
+T2 PROC 12 23 Intervenida
+T3 DISO 35 52 carcinoma de mama
+T4 PROC 28 37 ecografía
+T5 PROC 61 76 TAC abdominales
+T6 DISO 161 193 masa multi qu ística pancreática
+T7 PROC 157 183 punción aspiración biopsia
+T8 DISO 50 57 células
+T9 DISO 65 73 malignas
+T10 DISO 190 211 dolor abdominal sordo
+T11 PROC 181 199 exploración física
+T12 PROC 100 109 analítica
+T13 PROC 361 391 Marcadores tumorales en sangre
+T14 PROC 14 15 C
+T15 PROC 29 31 EA
+T16 PROC 91 97 Ca 125
+T17 PROC 145 154 Ca 19 . 9
+T18 PROC 324 343 Ecografía abdominal
+T19 DISO 379 400 formaciones quísticas
+T20 ANAT 324 341 celda pancreática
+T21 DISO 101 106 micro
+T22 DISO 106 111 calci
+T23 DISO 221 231 ficaciones
+T24 DISO 116 121 cisto
+T25 DISO 649 676 adenoma pancreático gigante
+T26 PROC 326 339 TAC abdominal
+T27 PROC 443 460 RMN con contraste
+T28 PROC 892 925 punción aspiración con aguja fina
+T29 DISO 197 204 quistes
+T30 DISO 204 211 células
+T31 PROC 601 621 marcadores tumorales
+T32 ANAT 497 513 líquido quístico
+T33 PROC 193 199 Ca 125
+T34 PROC 298 307 Ca 19 . 9
+T35 PROC 103 106 CEA
+T36 PROC 386 397 diagnostica
+T37 DISO 181 186 cisto
+T38 DISO 1333 1369 adenoma gigante de páncreas , seroso
+T39 PROC 647 664 estudio de imagen
+T40 PROC 898 921 tratamiento quiráºrgico

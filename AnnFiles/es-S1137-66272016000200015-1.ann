@@ -1,0 +1,66 @@
+T1 DISO 1 19 anemia ferropénica
+T2 PROC 3 5 Hb
+T3 PROC 7 10 VCM
+T4 PROC 13 17 Urea
+T5 PROC 17 21 Crea
+T6 PROC 21 25 tina
+T7 PROC 37 43 Hierro
+T8 PROC 64 73 Ferritina
+T9 CHEM 209 235 fármacos gastro - les ivos
+T10 DISO 73 81 sangrado
+T11 PROC 231 254 exploración endoscópica
+T12 PROC 34 37 gas
+T13 PROC 109 118 troscopia
+T14 PROC 14 15 i
+T15 PROC 43 46 leo
+T16 PROC 16 17 -
+T17 PROC 49 52 col
+T18 PROC 154 163 onoscopia
+T19 PROC 37 39 EC
+T20 PROC 20 21 E
+T21 PROC 461 484 tratamiento sintomático
+T22 CHEM 232 243 suplementos
+T23 CHEM 133 139 hierro
+T24 DISO 162 169 astenia
+T25 DISO 169 176 melenas
+T26 PROC 451 469 exploración física
+T27 DISO 157 163 pálido
+T28 DISO 136 141 sudor
+T29 DISO 85 88 oso
+T30 PROC 465 481 tensión arterial
+T31 PROC 571 590 frecuencia cardíaca
+T32 PROC 559 577 exploración rectal
+T33 DISO 513 529 heces mel énicas
+T34 PROC 298 307 analítica
+T35 PROC 69 71 Hb
+T36 PROC 106 109 VCM
+T37 PROC 145 149 Urea
+T38 PROC 149 153 Crea
+T39 PROC 153 157 tina
+T40 DISO 703 721 sangrado digestivo
+T41 PROC 281 288 ingreso
+T42 PROC 452 463 observación
+T43 PROC 253 259 fluido
+T44 PROC 302 309 terapia
+T45 PROC 177 181 tras
+T46 PROC 136 139 fun
+T47 PROC 277 283 dieron
+T48 CHEM 1129 1153 concentrados de hematíes
+T49 PROC 529 540 hemoglobina
+T50 DISO 1226 1251 hemorragia digestiva alta
+T51 PROC 601 613 gastroscopia
+T52 PROC 103 105 EC
+T53 PROC 53 54 E
+T54 PROC 584 595 exploración
+T55 DISO 433 441 sangrado
+T56 DISO 826 841 lesión gástrica
+T57 DISO 281 286 ulcer
+T58 DISO 172 175 ada
+T59 ANAT 1045 1063 pliegues gástricos
+T60 PROC 709 721 gastroscopia
+T61 DISO 1321 1343 enfermedad metastásica
+T62 PROC 550 559 resección
+T63 PROC 1427 1450 estudio histopatológico
+T64 DISO 379 385 lesión
+T65 DISO 65 66 G
+T66 DISO 781 793 IST gástrico

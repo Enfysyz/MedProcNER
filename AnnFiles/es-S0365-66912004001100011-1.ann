@@ -1,0 +1,80 @@
+T1 DISO 1 25 diabetes mellitus tipo 2
+T2 DISO 30 59 ulceración corneal her pética
+T3 ANAT 7 10 ojo
+T4 DISO 37 49 dolor ocular
+T5 DISO 73 91 inflamación ocular
+T6 DISO 91 109 dermatitis frontal
+T7 DISO 79 92 herpes zoster
+T8 PROC 99 113 agudeza visual
+T9 ANAT 25 28 ojo
+T10 ANAT 28 31 ojo
+T11 DISO 81 89 catarata
+T12 PROC 34 37 ton
+T13 PROC 85 92 ometría
+T14 PROC 157 169 fondo de ojo
+T15 ANAT 57 61 ojos
+T16 ANAT 46 49 ojo
+T17 DISO 289 307 ulceración corneal
+T18 DISO 188 199 infiltrados
+T19 DISO 379 400 reacción inflamatoria
+T20 ANAT 286 301 cámara anterior
+T21 DISO 41 43 ty
+T22 DISO 85 89 dall
+T23 PROC 353 369 toma de muestras
+T24 PROC 507 529 cultivo microbiológico
+T25 PROC 73 76 ras
+T26 PROC 301 313 pado corneal
+T27 CHEM 287 298 itraconazol
+T28 PROC 487 505 tratamiento tópico
+T29 CHEM 393 407 anfotericina B
+T30 CHEM 59 61 ce
+T31 CHEM 61 63 fa
+T32 CHEM 187 193 zolina
+T33 CHEM 65 67 to
+T34 CHEM 298 307 bramicina
+T35 DISO 647 666 queratitis fáºngica
+T36 PROC 246 253 cultivo
+T37 PROC 397 408 tratamiento
+T38 DISO 371 381 queratitis
+T39 DISO 723 742 perforación corneal
+T40 DISO 196 201 dolor
+T41 DISO 361 370 hiperemia
+T42 DISO 1026 1051 defecto epitelial corneal
+T43 DISO 1177 1205 infiltración estro mal densa
+T44 DISO 130 133 nec
+T45 DISO 221 226 rosis
+T46 DISO 181 185 hipo
+T47 DISO 185 189 pion
+T48 DISO 894 913 hipertensión ocular
+T49 PROC 1825 1863 trasplante de membrana amnió tica capa
+T50 PROC 785 801 toma de muestras
+T51 PROC 801 817 ras pado corneal
+T52 PROC 1123 1145 cultivo microbiológico
+T53 PROC 365 372 cultivo
+T54 PROC 955 973 tratamiento médico
+T55 PROC 757 771 administración
+T56 CHEM 606 617 voriconazol
+T57 CHEM 113 115 ac
+T58 CHEM 115 117 ec
+T59 CHEM 117 119 lo
+T60 CHEM 355 361 fenaco
+T61 CHEM 1261 1282 lágrimas artificiales
+T62 CHEM 733 745 conservantes
+T63 CHEM 187 190 bri
+T64 CHEM 190 193 mon
+T65 CHEM 321 326 idina
+T66 PROC 1691 1717 administración intravenosa
+T67 CHEM 727 738 voriconazol
+T68 PROC 738 749 tratamiento
+T69 DISO 1361 1381 signos inflamatorios
+T70 DISO 967 981 visión borrosa
+T71 PROC 771 782 tratamiento
+T72 PROC 711 721 LDH sangre
+T73 DISO 1369 1388 efectos secundarios
+T74 PROC 2191 2221 injerto de membrana amnió tica
+T75 PROC 519 526 querato
+T76 PROC 1351 1369 plastia penetrante
+T77 DISO 1597 1618 cicatrización corneal
+T78 DISO 155 157 le
+T79 DISO 157 159 uc
+T80 DISO 1107 1121 oma adher ente

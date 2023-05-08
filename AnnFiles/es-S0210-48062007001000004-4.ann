@@ -1,0 +1,99 @@
+T1 PROC 1 26 estudio ultrason ográfico
+T2 DISO 18 35 masa hipo eco ica
+T3 DISO 19 28 neoplasia
+T4 ANAT 46 61 teste izquierdo
+T5 PROC 33 41 consultó
+T6 ANAT 96 115 testículo izquierdo
+T7 ANAT 103 120 testículo derecho
+T8 DISO 71 81 meningitis
+T9 DISO 153 172 déficit neurológico
+T10 DISO 163 181 crisis com iciales
+T11 PROC 141 155 apendicectomía
+T12 PROC 34 37 ten
+T13 PROC 13 14 o
+T14 PROC 183 197 tomía aquí lea
+T15 PROC 127 136 ecografía
+T16 PROC 301 321 marcadores tumorales
+T17 PROC 321 341 estudio de extensión
+T18 PROC 562 595 Tomografía A xial Compu ter izada
+T19 PROC 73 77 beta
+T20 PROC 20 21 -
+T21 PROC 41 43 HC
+T22 PROC 22 23 G
+T23 PROC 485 507 lactato deshidrogenasa
+T24 PROC 93 97 alfa
+T25 PROC 49 51 fe
+T26 PROC 51 53 to
+T27 PROC 209 217 proteína
+T28 PROC 244 253 ecografía
+T29 DISO 113 117 masa
+T30 ANAT 436 451 teste izquierdo
+T31 DISO 631 652 nódulos hipo eco icos
+T32 DISO 497 513 tumor testicular
+T33 DISO 161 166 micro
+T34 DISO 166 171 calci
+T35 DISO 341 351 ficaciones
+T36 ANAT 596 613 testículo derecho
+T37 DISO 397 408 adenopatías
+T38 DISO 371 381 metástasis
+T39 PROC 1293 1327 TAC toraco - ab dom ino - pélv ico
+T40 PROC 352 361 intervino
+T41 PROC 81 83 or
+T42 PROC 124 127 qui
+T43 PROC 1051 1076 ectomía radical izquierda
+T44 DISO 216 221 Semin
+T45 DISO 485 496 oma clásico
+T46 ANAT 91 93 al
+T47 ANAT 93 95 bu
+T48 ANAT 48 49 g
+T49 ANAT 193 197 ínea
+T50 ANAT 295 301 cordón
+T51 DISO 1451 1480 invasión vascular o linfática
+T52 PROC 562 573 diagnóstico
+T53 DISO 261 266 Semin
+T54 DISO 584 595 oma clásico
+T55 PROC 1243 1266 tratamiento conservador
+T56 PROC 1981 2017 estudio ultrason ográfico de control
+T57 DISO 1065 1084 nódulo hipo eco ico
+T58 ANAT 970 987 testículo derecho
+T59 DISO 523 532 neoplasia
+T60 PROC 1063 1081 exploración física
+T61 PROC 1201 1221 marcadores tumorales
+T62 PROC 123 125 or
+T63 PROC 187 190 qui
+T64 PROC 1450 1473 ectomía radical derecha
+T65 DISO 321 326 Semin
+T66 DISO 1236 1255 oma de tipo clásico
+T67 DISO 3103 3150 Neoplasia Intra tu bular de Células Ger minales
+T68 ANAT 269 273 Trac
+T69 ANAT 205 208 tos
+T70 ANAT 691 701 vasculares
+T71 ANAT 141 143 al
+T72 ANAT 143 145 bu
+T73 ANAT 73 74 g
+T74 ANAT 293 297 ínea
+T75 ANAT 1407 1426 cordón esper mático
+T76 DISO 376 381 tumor
+T77 PROC 2433 2465 tratamiento hormonal sustitutivo
+T78 PROC 309 313 beta
+T79 PROC 79 80 -
+T80 PROC 159 161 HC
+T81 PROC 81 82 G
+T82 PROC 1621 1641 marcadores tumorales
+T83 PROC 2789 2823 TAC toraco - ab dom ino - pélv ico
+T84 DISO 1661 1681 masa retroperitoneal
+T85 ANAT 337 341 para
+T86 ANAT 256 259 aór
+T87 ANAT 345 349 tica
+T88 ANAT 2002 2025 arteria renal izquierda
+T89 ANAT 1585 1603 bifurcación ilíaca
+T90 DISO 535 541 imagen
+T91 CHEM 811 820 contraste
+T92 PROC 1002 1013 diagnóstico
+T93 DISO 2853 2884 recaída aden op ática abdominal
+T94 DISO 466 471 semin
+T95 DISO 1035 1046 oma clásico
+T96 PROC 1046 1057 tratamiento
+T97 CHEM 97 98 E
+T98 CHEM 292 295 top
+T99 CHEM 491 496 ósido

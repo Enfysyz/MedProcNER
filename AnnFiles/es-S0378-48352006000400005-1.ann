@@ -1,0 +1,104 @@
+T1 PROC 1 12 diagnóstico
+T2 PROC 8 15 cesárea
+T3 DISO 43 64 hipertensión arterial
+T4 DISO 34 45 taquicardia
+T5 PROC 45 56 tratamiento
+T6 CHEM 21 25 Aten
+T7 CHEM 25 29 olol
+T8 DISO 127 145 dolor sordo flanco
+T9 DISO 41 46 micro
+T10 DISO 37 41 hema
+T11 DISO 51 56 turia
+T12 PROC 100 109 ecografía
+T13 PROC 373 404 tomografía axial computer izada
+T14 PROC 352 379 TAC ) ab dó mino - pélv ica
+T15 DISO 155 166 masa sólida
+T16 ANAT 151 161 polo renal
+T17 DISO 257 273 trombosis venosa
+T18 DISO 477 505 adenopatías para - aór ticas
+T19 DISO 379 400 tumor renal izquierdo
+T20 PROC 381 401 estudio de extensión
+T21 PROC 341 358 analítica general
+T22 DISO 652 683 anemia microc ítica ferropénica
+T23 DISO 287 300 hiperuricemia
+T24 PROC 461 481 radiografía de tórax
+T25 PROC 385 401 gammagrafía ósea
+T26 CHEM 76 79 tra
+T27 CHEM 131 136 zador
+T28 ANAT 379 393 partes blandas
+T29 ANAT 309 320 hipocondrio
+T30 ANAT 146 151 vacío
+T31 CHEM 91 94 tra
+T32 CHEM 156 161 zador
+T33 ANAT 673 694 pala iliaca izquierda
+T34 ANAT 133 137 hemi
+T35 ANAT 35 36 v
+T36 ANAT 71 73 ér
+T37 ANAT 73 75 te
+T38 ANAT 556 571 bras izquierdas
+T39 ANAT 153 157 hemi
+T40 ANAT 79 81 ér
+T41 ANAT 81 83 te
+T42 ANAT 452 463 bra derecha
+T43 DISO 631 646 afectación ósea
+T44 DISO 474 485 metastásico
+T45 PROC 1321 1351 resonancia magnética abdominal
+T46 PROC 136 139 TAC
+T47 PROC 507 518 diagnóstico
+T48 DISO 1317 1345 carcinoma de células renales
+T49 DISO 1441 1471 adenopatías retro peritoneales
+T50 PROC 932 951 nefrectomía radical
+T51 PROC 551 562 extirpación
+T52 ANAT 868 885 grasa parar renal
+T53 ANAT 1041 1061 glándula suprarrenal
+T54 PROC 2651 2701 linfadenectomía para aór tica e inter a or to cava
+T55 ANAT 703 716 arteria renal
+T56 ANAT 111 113 la
+T57 ANAT 729 742 iliaca comáºn
+T58 PROC 628 639 extirpación
+T59 DISO 233 237 masa
+T60 DISO 709 721 infiltración
+T61 ANAT 181 184 mes
+T62 ANAT 245 249 ocol
+T63 ANAT 807 820 on transverso
+T64 ANAT 1009 1025 cola de páncreas
+T65 ANAT 193 196 mes
+T66 ANAT 261 265 ocol
+T67 ANAT 133 135 on
+T68 DISO 1542 1565 Tumor renal de colisión
+T69 DISO 137 139 Le
+T70 DISO 70 71 i
+T71 DISO 141 143 om
+T72 DISO 640 649 iosarcoma
+T73 DISO 2017 2045 Carcinoma renal tipo papilar
+T74 ANAT 366 371 pieza
+T75 DISO 741 751 tumoración
+T76 ANAT 1276 1293 borde quiráºrgico
+T77 ANAT 1217 1233 parénquima renal
+T78 DISO 1541 1561 infiltración tumoral
+T79 ANAT 1405 1423 fragmento ureteral
+T80 ANAT 870 881 hilio renal
+T81 DISO 1601 1621 infiltración tumoral
+T82 PROC 2107 2133 perfil inmunof eno tí pico
+T83 DISO 411 416 tumor
+T84 CHEM 167 169 Ac
+T85 CHEM 337 341 tina
+T86 CHEM 256 259 Des
+T87 CHEM 345 349 mina
+T88 CHEM 88 89 S
+T89 CHEM 89 90 -
+T90 CHEM 268 271 100
+T91 CHEM 361 365 Sina
+T92 CHEM 274 277 pto
+T93 CHEM 277 280 fus
+T94 CHEM 280 283 ina
+T95 PROC 471 476 CD 56
+T96 PROC 96 97 c
+T97 PROC 97 98 -
+T98 PROC 98 99 k
+T99 PROC 197 199 it
+T100 CHEM 199 201 Ac
+T101 CHEM 401 405 tina
+T102 DISO 708 715 sarcoma
+T103 DISO 409 413 tosa
+T104 DISO 619 625 cóctel

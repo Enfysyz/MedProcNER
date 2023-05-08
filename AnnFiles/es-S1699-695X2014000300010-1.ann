@@ -1,0 +1,74 @@
+T1 DISO 1 35 carcinoma ductal de mama izquierda
+T2 PROC 14 27 diagnosticado
+T3 DISO 89 133 carcinoma ductal " in situ " de mama derecha
+T4 DISO 19 25 fumado
+T5 DISO 29 36 fumador
+T6 DISO 46 55 fumadores
+T7 DISO 43 50 fumador
+T8 DISO 57 65 fumadora
+T9 DISO 73 82 hematuria
+T10 DISO 109 121 dolor lumbar
+T11 PROC 181 199 exploración física
+T12 DISO 45 49 masa
+T13 ANAT 157 170 fosas renales
+T14 PROC 131 141 urocultivo
+T15 PROC 127 136 ecografía
+T16 PROC 136 145 analítica
+T17 PROC 33 35 he
+T18 PROC 154 163 matología
+T19 PROC 181 191 bioquímica
+T20 PROC 172 181 analítica
+T21 DISO 221 232 proteinuria
+T22 PROC 211 221 urocultivo
+T23 PROC 199 208 ecografía
+T24 DISO 162 169 ectasia
+T25 ANAT 769 801 grupo cal icial superior derecho
+T26 DISO 226 235 hematuria
+T27 DISO 287 298 proteinuria
+T28 PROC 136 141 orina
+T29 PROC 197 204 estudio
+T30 PROC 320 331 seguimiento
+T31 PROC 271 280 ecografía
+T32 PROC 94 97 uro
+T33 PROC 577 595 grafía intravenosa
+T34 DISO 793 817 dilatación pielocalicial
+T35 ANAT 205 211 uréter
+T36 PROC 911 937 Tomografía Compu ter izada
+T37 PROC 73 75 TC
+T38 PROC 334 343 ecografía
+T39 ANAT 799 820 sistema pielocalicial
+T40 ANAT 547 561 riá±ón derecho
+T41 PROC 81 83 TC
+T42 DISO 1518 1555 imagen con densidad de partes blandas
+T43 ANAT 127 130 inf
+T44 ANAT 130 133 und
+T45 ANAT 617 631 íbulo superior
+T46 ANAT 541 553 pelvis renal
+T47 ANAT 231 236 renal
+T48 ANAT 142 145 cál
+T49 ANAT 529 540 iz superior
+T50 DISO 295 301 lesión
+T51 DISO 1851 1888 carcinoma de células trans ici onales
+T52 ANAT 1225 1249 sistema colector derecho
+T53 ANAT 157 160 inf
+T54 ANAT 160 163 und
+T55 ANAT 757 771 íbulo superior
+T56 ANAT 661 673 pelvis renal
+T57 PROC 169 172 cit
+T58 PROC 913 929 ologías de orina
+T59 PROC 639 650 nefrectomía
+T60 PROC 178 181 ure
+T61 PROC 1921 1953 terectomía laparoscópica derecha
+T62 PROC 1160 1179 anatomía patológica
+T63 DISO 2481 2521 carcinoma de células trans ici onales de
+T64 ANAT 757 769 pelvis renal
+T65 DISO 1281 1301 carcinoma mu ci noso
+T66 ANAT 391 397 pelvis
+T67 ANAT 661 671 parénquima
+T68 ANAT 403 409 bordes
+T69 ANAT 205 208 ure
+T70 ANAT 484 491 terales
+T71 PROC 771 782 TC torácico
+T72 DISO 2344 2377 lesiones ocup antes de espacio en
+T73 ANAT 433 439 hígado
+T74 DISO 1461 1481 metástasis hepáticas

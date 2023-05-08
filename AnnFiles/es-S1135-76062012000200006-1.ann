@@ -1,0 +1,91 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 13 25 fibromialgia
+T3 DISO 33 49 miastenia gravis
+T4 PROC 40 53 diagnosticada
+T5 PROC 145 181 tratamiento crónico antihipertensivo
+T6 CHEM 51 61 amlodipino
+T7 CHEM 61 71 furosemida
+T8 CHEM 22 25 los
+T9 CHEM 81 91 artán post
+T10 CHEM 37 41 ansi
+T11 CHEM 71 78 olítico
+T12 CHEM 144 157 antidepresivo
+T13 CHEM 13 14 d
+T14 CHEM 118 127 uloxetina
+T15 CHEM 43 46 hid
+T16 CHEM 31 33 or
+T17 CHEM 417 443 cloruro de am y triptilina
+T18 PROC 188 199 tratamiento
+T19 DISO 217 229 osteoporosis
+T20 CHEM 96 101 calci
+T21 CHEM 41 43 fe
+T22 CHEM 85 89 diol
+T23 PROC 419 438 protección gástrica
+T24 CHEM 208 217 omeprazol
+T25 DISO 313 326 fallecimiento
+T26 PROC 201 209 consultó
+T27 DISO 391 406 cuadro catarral
+T28 PROC 136 141 trató
+T29 CHEM 393 407 ciprofloxacino
+T30 CHEM 117 121 carb
+T31 CHEM 91 94 oci
+T32 CHEM 187 193 steína
+T33 DISO 609 628 cuadro respiratorio
+T34 PROC 265 273 consultó
+T35 DISO 579 596 debilidad general
+T36 PROC 806 829 tratamiento antibiótico
+T37 DISO 685 704 síntomas de cefalea
+T38 DISO 1222 1255 síntomas de focalidad neurológica
+T39 DISO 191 196 murió
+T40 DISO 235 241 disnea
+T41 DISO 281 288 síntoma
+T42 DISO 247 253 muerte
+T43 PROC 337 345 autopsia
+T44 PROC 1033 1057 áįndice de Masa Corporal
+T45 DISO 705 721 obesidad tipo II
+T46 PROC 631 645 examen externo
+T47 DISO 231 236 hirsu
+T48 DISO 236 241 tismo
+T49 DISO 385 393 cicatriz
+T50 PROC 295 301 toraco
+T51 PROC 251 256 tomía
+T52 PROC 154 157 tim
+T53 PROC 365 372 ectomía
+T54 PROC 584 595 tratamiento
+T55 DISO 865 881 miastenia gravis
+T56 DISO 1761 1793 edema de extremidades inferiores
+T57 DISO 337 343 signos
+T58 DISO 1369 1393 hematoma gláºteo derecho
+T59 DISO 291 296 caída
+T60 ANAT 414 421 cadáver
+T61 PROC 841 855 examen interno
+T62 DISO 245 249 hemo
+T63 DISO 187 190 per
+T64 DISO 253 257 icar
+T65 DISO 897 911 dio coag ulado
+T66 ANAT 456 463 corazón
+T67 DISO 397 403 rotura
+T68 ANAT 1341 1361 ventrículo izquierdo
+T69 DISO 1293 1312 infarto trans mural
+T70 DISO 1519 1541 ateromatosis coronaria
+T71 ANAT 351 356 vasos
+T72 ANAT 853 865 tercio medio
+T73 ANAT 1441 1461 descendente anterior
+T74 ANAT 220 223 luz
+T75 ANAT 593 601 vascular
+T76 ANAT 451 457 cráneo
+T77 DISO 381 386 hiper
+T78 DISO 155 157 os
+T79 DISO 1015 1028 tosis frontal
+T80 ANAT 317 321 zona
+T81 ANAT 641 649 parietal
+T82 ANAT 163 165 dí
+T83 ANAT 247 250 plo
+T84 ANAT 84 85 e
+T85 DISO 421 426 hiper
+T86 DISO 171 173 os
+T87 DISO 431 436 tosis
+T88 DISO 523 529 mening
+T89 DISO 89 90 i
+T90 DISO 1603 1621 omas calcific ados
+T91 ANAT 1531 1548 seno longitudinal

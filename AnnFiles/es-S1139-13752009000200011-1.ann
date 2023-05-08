@@ -1,0 +1,58 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 39 77 síndrome de Laur ence - Mo on - Bi ell
+T3 DISO 15 22 hipogon
+T4 DISO 19 25 adismo
+T5 DISO 33 41 obesidad
+T6 DISO 71 85 retraso mental
+T7 DISO 19 22 pol
+T8 DISO 15 17 id
+T9 DISO 57 64 actilia
+T10 DISO 46 51 retin
+T11 DISO 161 177 itis pigmentaria
+T12 DISO 210 229 insuficiencia renal
+T13 PROC 205 222 tratamiento de HD
+T14 PROC 209 225 trasplante renal
+T15 DISO 225 241 trombosis venosa
+T16 PROC 31 33 HD
+T17 PROC 161 171 trasplante
+T18 PROC 103 109 ctomía
+T19 ANAT 145 153 vascular
+T20 PROC 39 41 DP
+T21 DISO 221 232 peritonitis
+T22 DISO 400 419 hiperparatiroidismo
+T23 ANAT 419 438 membrana peritoneal
+T24 PROC 185 193 programa
+T25 PROC 49 51 DP
+T26 DISO 451 469 mal estado general
+T27 DISO 287 298 peritonitis
+T28 DISO 1081 1121 infección de táºnel por el estafilo coco
+T29 PROC 309 320 exploración
+T30 DISO 175 181 efecto
+T31 ANAT 121 125 zona
+T32 ANAT 528 545 táºnel subcutáneo
+T33 DISO 641 661 signos inflamatorios
+T34 DISO 67 69 ev
+T35 DISO 137 141 entr
+T36 DISO 561 577 ación peritoneal
+T37 PROC 757 778 imágenes radiológicas
+T38 DISO 371 381 esclerosis
+T39 DISO 495 508 calcificación
+T40 ANAT 742 761 membrana peritoneal
+T41 ANAT 1361 1395 estructuras viscerales abdominales
+T42 PROC 944 967 tratamiento antibiótico
+T43 PROC 799 818 retirada de catéter
+T44 PROC 87 89 DP
+T45 PROC 89 91 HD
+T46 DISO 1171 1197 dificultad para la ingesta
+T47 DISO 323 330 vómitos
+T48 PROC 95 97 HD
+T49 DISO 337 344 ascitis
+T50 DISO 1569 1601 peritonitis por E cherichia coli
+T51 PROC 1651 1684 evacuación mediante parac entesis
+T52 DISO 2143 2185 isquemia aguda en miembro inferior derecho
+T53 DISO 1509 1538 obstrucción femoro po plí tea
+T54 PROC 1220 1243 tratamiento quiráºrgico
+T55 DISO 1297 1321 calcificación peritoneal
+T56 PROC 1211 1233 amputación del miembro
+T57 DISO 281 286 falle
+T58 DISO 343 349 ciendo

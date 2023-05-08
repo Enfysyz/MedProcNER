@@ -1,0 +1,28 @@
+T1 PROC 1 9 consultó
+T2 DISO 8 15 diarrea
+T3 DISO 33 49 síndrome general
+T4 PROC 55 73 exploración física
+T5 DISO 53 66 masa palpable
+T6 ANAT 96 115 fosa iliaca derecha
+T7 PROC 175 204 radiografía simple de abdomen
+T8 PROC 239 273 tomografía computarizada abdominal
+T9 DISO 33 37 gran
+T10 DISO 118 131 masa hepática
+T11 ANAT 191 210 fosa iliaca derecha
+T12 DISO 166 181 hepatocarcinoma
+T13 ANAT 97 105 páncreas
+T14 ANAT 53 57 bazo
+T15 ANAT 113 121 riá±ones
+T16 ANAT 91 97 áºtero
+T17 ANAT 113 120 ovarios
+T18 PROC 562 595 serologías de virus hepato tropos
+T19 PROC 685 723 niveles séricos de alfa fe to proteína
+T20 PROC 666 701 punción - aspiración con aguja fina
+T21 DISO 121 127 lesión
+T22 PROC 400 419 estudio histológico
+T23 DISO 331 346 hepatocarcinoma
+T24 PROC 484 505 resección quiráºrgica
+T25 DISO 169 176 tumoral
+T26 DISO 426 443 invasión vascular
+T27 PROC 937 973 tratamiento con quimio embol ización
+T28 PROC 298 309 seguimiento

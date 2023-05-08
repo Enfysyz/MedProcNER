@@ -1,0 +1,67 @@
+T1 DISO 1 33 enfermedad de Crohn ile oc ólica
+T2 DISO 15 29 complicaciones
+T3 PROC 63 94 cirugía de resección intestinal
+T4 PROC 10 13 ile
+T5 PROC 65 81 ostomía terminal
+T6 PROC 6 7 N
+T7 PROC 13 15 PD
+T8 PROC 78 89 tratamiento
+T9 CHEM 25 28 Inf
+T10 CHEM 64 71 liximab
+T11 CHEM 111 122 corticoides
+T12 PROC 78 85 ingresa
+T13 DISO 181 196 síndrome febril
+T14 DISO 196 211 dolor abdominal
+T15 DISO 141 151 enfermedad
+T16 PROC 181 193 hemocultivos
+T17 ANAT 97 103 tejido
+T18 ANAT 307 325 vena cava superior
+T19 DISO 109 115 fiebre
+T20 DISO 286 301 dolor abdominal
+T21 DISO 261 274 shock séptico
+T22 PROC 295 309 ingresa en UCI
+T23 PROC 441 461 radiografía de tórax
+T24 ANAT 415 433 vena cava superior
+T25 ANAT 433 451 ventrículo derecho
+T26 PROC 351 365 ecocardiograma
+T27 DISO 79 82 veg
+T28 DISO 55 57 et
+T29 DISO 197 204 aciones
+T30 ANAT 233 241 aurícula
+T31 ANAT 301 311 ventrículo
+T32 DISO 807 833 endocarditis sobre catéter
+T33 PROC 737 760 tratamiento antibiótico
+T34 CHEM 67 69 Da
+T35 CHEM 307 316 ptomicina
+T36 CHEM 36 37 R
+T37 CHEM 73 75 if
+T38 CHEM 297 305 ampicina
+T39 PROC 609 625 cirugía cardiaca
+T40 DISO 976 1001 disfunción multiorg ánica
+T41 DISO 561 575 cuadro séptico
+T42 PROC 944 967 tratamiento antibiótico
+T43 PROC 1303 1334 TC craneal y toraco - abdominal
+T44 DISO 388 397 infección
+T45 DISO 1057 1081 hemorragia subaracnoidea
+T46 DISO 1126 1151 condensaciones parcheadas
+T47 ANAT 277 283 pulmón
+T48 DISO 941 961 infartos espl énicos
+T49 DISO 145 148 émb
+T50 DISO 687 701 olos s épticos
+T51 ANAT 851 868 pieza quiráºrgica
+T52 DISO 511 521 vegetación
+T53 PROC 1197 1220 tratamiento antibiótico
+T54 CHEM 160 163 Lin
+T55 CHEM 325 331 ezolid
+T56 CHEM 56 57 I
+T57 CHEM 113 115 mi
+T58 CHEM 286 291 penem
+T59 CHEM 175 178 Cas
+T60 CHEM 119 121 po
+T61 CHEM 421 428 fungina
+T62 DISO 855 869 cuadro séptico
+T63 DISO 435 442 enfermo
+T64 PROC 1261 1281 ventilación mecánica
+T65 PROC 833 846 traqueostomía
+T66 DISO 4486 4555 neumonía asociada a ventilación mecánica por Acinetobacter bauman nii
+T67 DISO 2311 2346 polineuropatía del paciente crítico

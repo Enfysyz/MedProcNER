@@ -1,0 +1,31 @@
+T1 DISO 1 15 dolor torácico
+T2 PROC 12 23 diagnosticó
+T3 DISO 105 157 síndrome coronario agudo con ascenso del segmento ST
+T4 ANAT 13 17 cara
+T5 PROC 105 131 coronariografía percutánea
+T6 DISO 31 37 lesión
+T7 ANAT 229 267 arteria coronaria descendente anterior
+T8 PROC 85 97 angioplastia
+T9 PROC 121 136 colocó un stent
+T10 DISO 127 141 complicaciones
+T11 CHEM 221 243 ácido acetilsalicílico
+T12 CHEM 122 133 clopidogrel
+T13 CHEM 181 196 heparina sódica
+T14 PROC 170 183 procedimiento
+T15 DISO 57 61 hema
+T16 DISO 31 33 te
+T17 DISO 81 86 mesis
+T18 PROC 443 469 saturación arterial de O 2
+T19 PROC 361 381 endoscopia digestiva
+T20 PROC 552 581 soporte respiratorio con CPAP
+T21 PROC 181 190 protocolo
+T22 DISO 505 529 lesión de Mall ory Weiss
+T23 PROC 243 254 hemoglobina
+T24 PROC 254 265 hematocrito
+T25 PROC 313 326 procedimiento
+T26 PROC 101 105 CPAP
+T27 PROC 495 514 gasometría arterial
+T28 DISO 217 225 sangrado
+T29 PROC 393 407 administración
+T30 CHEM 436 451 anticoagulantes
+T31 CHEM 421 435 antiagregantes

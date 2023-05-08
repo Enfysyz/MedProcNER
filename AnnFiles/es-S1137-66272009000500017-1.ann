@@ -1,0 +1,27 @@
+T1 PROC 1 8 ingresó
+T2 DISO 44 87 crisis generalizada tónico - cl ónica breve
+T3 DISO 37 55 proceso infeccioso
+T4 DISO 19 25 fiebre
+T5 PROC 37 46 ingresada
+T6 DISO 31 37 crisis
+T7 PROC 109 127 constantes vitales
+T8 PROC 211 241 exploración física neurológica
+T9 PROC 241 271 revisiones periódicas de salud
+T10 PROC 64 71 ingreso
+T11 PROC 91 100 hemograma
+T12 PROC 386 421 pruebas de función renal , hepática
+T13 PROC 289 313 reactantes de fase aguda
+T14 PROC 235 253 ecografía cerebral
+T15 PROC 281 301 electroencefalograma
+T16 PROC 436 465 báºsqueda de tóxicos en orina
+T17 CHEM 113 120 cocaína
+T18 PROC 171 181 muestra de
+T19 CHEM 397 419 metabolitos de cocaína
+T20 ANAT 96 101 orina
+T21 PROC 141 148 ingreso
+T22 DISO 148 155 fumador
+T23 CHEM 177 185 cannabis
+T24 CHEM 162 169 cocaína
+T25 DISO 145 151 crisis
+T26 PROC 251 261 vigilancia
+T27 DISO 157 163 crisis

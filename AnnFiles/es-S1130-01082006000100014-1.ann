@@ -1,0 +1,93 @@
+T1 DISO 1 32 enfermedad de Crohn patológicos
+T2 DISO 16 31 hábitos tóxicos
+T3 DISO 31 46 dolor abdominal
+T4 ANAT 10 13 FID
+T5 DISO 61 76 pérdida de peso
+T6 PROC 36 43 estudió
+T7 PROC 67 78 diagnóstico
+T8 DISO 134 153 enfermedad de Crohn
+T9 ANAT 25 28 ile
+T10 ANAT 19 21 al
+T11 ANAT 191 210 válvula ile oc ecal
+T12 PROC 133 145 endoscópicos
+T13 PROC 133 144 tratamiento
+T14 CHEM 40 43 mes
+T15 CHEM 43 46 ala
+T16 CHEM 61 65 zina
+T17 CHEM 161 171 esteroides
+T18 PROC 188 199 tratamiento
+T19 CHEM 199 210 azatioprina
+T20 CHEM 191 201 esteroides
+T21 DISO 281 295 sintomatología
+T22 PROC 295 309 administración
+T23 CHEM 221 231 infliximab
+T24 PROC 599 625 anticuerpos antin ucleares
+T25 PROC 481 501 radiografía de tórax
+T26 PROC 376 391 serología viral
+T27 PROC 183 190 ingresó
+T28 DISO 163 169 fiebre
+T29 DISO 141 146 dolor
+T30 DISO 1016 1051 dificultad para movilizar el cuello
+T31 DISO 871 900 afectación del estado general
+T32 DISO 187 193 fiebre
+T33 PROC 737 760 tratamiento ambulatorio
+T34 CHEM 397 409 azitromicina
+T35 PROC 613 631 exploración física
+T36 DISO 106 109 del
+T37 DISO 181 186 gadez
+T38 PROC 408 419 temperatura
+T39 PROC 609 625 tensión arterial
+T40 PROC 898 921 exploración neurológica
+T41 DISO 81 83 mu
+T42 DISO 124 127 gue
+T43 DISO 253 259 t oral
+T44 PROC 1850 1893 exploración cardiorrespiratoria y abdominal
+T45 PROC 309 316 pruebas
+T46 DISO 856 875 anemia normo cítica
+T47 ANAT 93 95 Hb
+T48 PROC 424 433 plaquetas
+T49 PROC 1249 1275 velocidad de sedimentación
+T50 PROC 1079 1101 parámetros bioquímicos
+T51 ANAT 301 307 sangre
+T52 PROC 154 157 GOT
+T53 PROC 157 160 GPT
+T54 PROC 266 271 gamma
+T55 PROC 55 56 -
+T56 PROC 111 113 GT
+T57 PROC 953 970 proteínas totales
+T58 PROC 514 523 albáºmina
+T59 PROC 1045 1063 elemental de orina
+T60 PROC 532 541 sedimento
+T61 PROC 1741 1770 radiografías de tórax abdomen
+T62 PROC 428 435 ingreso
+T63 PROC 869 883 punción lumbar
+T64 PROC 1135 1153 examen del líquido
+T65 PROC 257 261 gluc
+T66 PROC 261 265 orra
+T67 PROC 265 269 quia
+T68 PROC 470 477 protein
+T69 PROC 273 277 orra
+T70 PROC 277 281 quia
+T71 ANAT 491 498 células
+T72 PROC 1066 1081 tinción de Gram
+T73 PROC 505 512 cultivo
+T74 PROC 804 815 diagnóstico
+T75 DISO 1703 1726 meningitis por Listeria
+T76 PROC 1726 1749 tratamiento antibiótico
+T77 CHEM 2053 2080 medicación inmunosupres ora
+T78 PROC 1156 1171 hospitalización
+T79 DISO 1015 1028 abdomen agudo
+T80 DISO 1739 1761 peritonitis intestinal
+T81 DISO 1601 1621 perforación de íleon
+T82 ANAT 649 657 terminal
+T83 DISO 1313 1329 estenosis ile al
+T84 ANAT 1412 1429 intestino delgado
+T85 ANAT 421 426 colon
+T86 PROC 1956 1979 resección íleo - c ecal
+T87 PROC 259 262 ile
+T88 PROC 1393 1409 ostomía terminal
+T89 DISO 1233 1247 fístula mucosa
+T90 ANAT 1425 1441 colon ascendente
+T91 PROC 1711 1730 anatomía patológica
+T92 DISO 2276 2301 inflamación granulomatosa
+T93 DISO 1749 1768 enfermedad de Crohn

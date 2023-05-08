@@ -1,0 +1,73 @@
+T1 DISO 1 26 espondilitis anquilosante
+T2 ANAT 8 15 columna
+T3 ANAT 17 25 cervical
+T4 DISO 28 37 hematuria
+T5 PROC 129 161 estudio uro gráfico y ecográfico
+T6 PROC 56 67 diagnóstico
+T7 DISO 13 15 ne
+T8 DISO 15 17 of
+T9 DISO 65 73 ormación
+T10 ANAT 64 71 papilar
+T11 ANAT 221 243 cara lateral izquierda
+T12 ANAT 78 85 vesical
+T13 PROC 253 274 resección endoscópica
+T14 DISO 27 29 ne
+T15 DISO 29 31 of
+T16 DISO 121 129 ormación
+T17 PROC 177 188 diagnóstico
+T18 DISO 477 505 carcinoma trans icional p Ta
+T19 PROC 415 438 seguimiento ambulatorio
+T20 PROC 381 401 estudios ecográficos
+T21 PROC 61 64 cit
+T22 PROC 358 375 ologías urinarias
+T23 PROC 67 70 cis
+T24 PROC 438 457 toscopia de control
+T25 DISO 289 301 asintomático
+T26 DISO 601 625 recidiva tumoral papilar
+T27 ANAT 339 352 suelo vesical
+T28 PROC 190 197 estudio
+T29 PROC 449 465 determinación de
+T30 ANAT 146 151 orina
+T31 PROC 271 280 sedimento
+T32 DISO 249 257 hematíes
+T33 DISO 321 331 leucocitos
+T34 PROC 364 375 pH urinario
+T35 PROC 239 246 cultivo
+T36 PROC 736 757 resección endoscópica
+T37 DISO 1009 1037 carcinoma trans icional p Ta
+T38 DISO 260 267 tumoral
+T39 PROC 419 430 tratamiento
+T40 PROC 118 121 ins
+T41 PROC 881 903 tilación intra vesical
+T42 CHEM 124 127 Mit
+T43 CHEM 379 388 omicina C
+T44 PROC 130 133 ins
+T45 PROC 353 361 tilación
+T46 CHEM 136 139 Mit
+T47 CHEM 415 424 omicina C
+T48 PROC 142 145 ins
+T49 PROC 385 393 tilación
+T50 PROC 344 351 cirugía
+T51 PROC 151 154 ins
+T52 PROC 154 157 til
+T53 PROC 365 372 aciones
+T54 DISO 637 649 asintomático
+T55 PROC 271 276 visto
+T56 PROC 441 449 revisión
+T57 PROC 169 172 cit
+T58 PROC 400 407 ologías
+T59 DISO 581 591 malignidad
+T60 PROC 591 601 ecográfico
+T61 ANAT 1321 1343 pared vesical anterior
+T62 DISO 184 187 ces
+T63 DISO 497 505 cistitis
+T64 PROC 1072 1089 resección tumoral
+T65 DISO 1345 1366 área hiper ec ogénica
+T66 DISO 1236 1255 recurrencia tumoral
+T67 PROC 1057 1073 cultivo de orina
+T68 PROC 738 749 pH urinario
+T69 PROC 613 622 sedimento
+T70 DISO 553 561 hematíes
+T71 PROC 1401 1421 revisión endoscópica
+T72 PROC 1208 1225 anestesia general
+T73 ANAT 433 439 Vejiga

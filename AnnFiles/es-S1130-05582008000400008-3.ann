@@ -1,0 +1,24 @@
+T1 PROC 1 10 ingresado
+T2 DISO 14 27 trauma facial
+T3 PROC 41 61 estudio radiográfico
+T4 DISO 67 89 lesión radi ol áº cida
+T5 DISO 121 151 fractura del ángulo desplazada
+T6 PROC 11 13 en
+T7 PROC 25 29 ucle
+T8 PROC 36 41 ación
+T9 DISO 49 55 lesión
+T10 PROC 307 341 extracción de las raíces dentarias
+T11 PROC 91 100 reducción
+T12 PROC 12 13 -
+T13 PROC 25 27 os
+T14 PROC 53 57 teos
+T15 PROC 99 106 íntesis
+T16 DISO 121 129 fractura
+T17 PROC 305 324 estudio histológico
+T18 PROC 35 37 en
+T19 PROC 73 77 ucle
+T20 PROC 58 61 ado
+T21 DISO 581 610 quiste radicular inflamatorio
+T22 ANAT 85 89 ósea
+T23 PROC 111 116 radio
+T24 PROC 277 289 gráficamente

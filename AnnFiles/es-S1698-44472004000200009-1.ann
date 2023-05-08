@@ -1,0 +1,69 @@
+T1 DISO 1 25 antecedentes patológicos
+T2 DISO 8 15 fumador
+T3 PROC 39 58 rehabilitación fija
+T4 PROC 10 13 cem
+T5 PROC 25 31 entada
+T6 PROC 36 43 control
+T7 DISO 85 99 sintomatología
+T8 PROC 99 113 examen clínico
+T9 DISO 113 127 enrojecimiento
+T10 ANAT 55 61 mucosa
+T11 ANAT 231 254 bolsa peri implan taria
+T12 DISO 67 73 sangra
+T13 DISO 73 79 miento
+T14 PROC 92 99 sondaje
+T15 PROC 309 331 radiografía panorámica
+T16 ANAT 211 225 hueso marginal
+T17 PROC 49 52 tal
+T18 PROC 222 235 lado oclus al
+T19 ANAT 451 476 colgajo muc oper i óstico
+T20 ANAT 248 261 tejido blando
+T21 ANAT 141 148 fibroso
+T22 DISO 631 661 defecto óseo peri implan tario
+T23 PROC 155 162 retirar
+T24 ANAT 392 409 tejido patológico
+T25 PROC 97 101 cure
+T26 PROC 76 79 tas
+T27 PROC 651 676 estudio anatomopatológico
+T28 ANAT 217 225 implante
+T29 PROC 169 175 descon
+T30 CHEM 552 571 gel de clorhexidina
+T31 PROC 301 311 irrigación
+T32 CHEM 156 161 suero
+T33 ANAT 225 232 colgajo
+T34 ANAT 100 103 tor
+T35 ANAT 817 841 us mandibular lingual de
+T36 ANAT 106 109 pre
+T37 ANAT 109 112 mol
+T38 ANAT 149 153 ares
+T39 PROC 229 235 partic
+T40 PROC 118 121 uló
+T41 PROC 161 165 auto
+T42 PROC 288 295 injerto
+T43 ANAT 295 302 colgajo
+T44 PROC 216 221 repos
+T45 PROC 221 226 icion
+T46 PROC 136 139 ado
+T47 PROC 93 95 su
+T48 PROC 142 145 tur
+T49 PROC 289 295 ó seda
+T50 PROC 246 251 reins
+T51 PROC 101 103 tr
+T52 PROC 205 209 uido
+T53 PROC 625 637 higiene oral
+T54 CHEM 531 541 ibuprofeno
+T55 CHEM 217 221 colu
+T56 CHEM 331 337 torios
+T57 CHEM 169 172 dig
+T58 CHEM 172 175 luc
+T59 CHEM 1219 1240 onato de clorhexidina
+T60 PROC 1417 1441 análisis histopatológico
+T61 ANAT 1681 1709 tejido epitelio - con ectivo
+T62 DISO 2136 2171 infiltrado linfo - plas mo ci tario
+T63 ANAT 993 1009 tejido fibro con
+T64 ANAT 1324 1345 células inflamatorias
+T65 PROC 1473 1496 tratamiento quiráºrgico
+T66 PROC 716 727 radiografía
+T67 ANAT 265 269 ósea
+T68 ANAT 537 545 marginal
+T69 DISO 953 967 sintomatología

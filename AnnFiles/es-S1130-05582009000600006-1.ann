@@ -1,0 +1,74 @@
+T1 DISO 1 18 sangrado gingival
+T2 ANAT 30 59 dientes postero - super iores
+T3 DISO 27 40 dolor dientes
+T4 DISO 67 89 signos de fiebre o pus
+T5 PROC 97 121 examen general sistémico
+T6 PROC 86 103 exploración local
+T7 DISO 67 78 inflamación
+T8 ANAT 29 33 alvé
+T9 ANAT 25 28 olo
+T10 ANAT 163 181 molares superiores
+T11 DISO 91 100 hinchazón
+T12 ANAT 166 181 cara vestibular
+T13 DISO 61 66 rugos
+T14 DISO 144 155 eritematosa
+T15 DISO 155 166 pulsaciones
+T16 DISO 91 97 lesión
+T17 ANAT 113 120 dientes
+T18 ANAT 120 127 paladar
+T19 PROC 163 172 palpación
+T20 DISO 172 181 hinchazón
+T21 ANAT 141 148 dientes
+T22 ANAT 106 111 pulpa
+T23 PROC 89 93 orto
+T24 PROC 70 73 pan
+T25 PROC 241 251 tomografía
+T26 PROC 626 651 tomografía computer izada
+T27 PROC 495 514 TAC ) con contraste
+T28 DISO 568 589 masa de tejido blando
+T29 ANAT 421 436 alveolo maxilar
+T30 DISO 349 361 erosión ósea
+T31 PROC 781 807 exploraciones radiológicas
+T32 PROC 683 705 exámenes hematológicos
+T33 PROC 705 727 pruebas de coagulación
+T34 PROC 100 103 TAC
+T35 PROC 375 386 diagnóstico
+T36 DISO 911 937 lesión de células gigantes
+T37 PROC 685 704 biopsia incis ional
+T38 ANAT 593 609 encía vestibular
+T39 DISO 305 313 sangrado
+T40 DISO 430 441 inflamación
+T41 PROC 281 288 informe
+T42 ANAT 288 295 muestra
+T43 ANAT 253 259 tejido
+T44 ANAT 388 397 capilares
+T45 ANAT 45 46 v
+T46 ANAT 91 93 én
+T47 ANAT 783 800 ulas endoteliales
+T48 DISO 95 97 MA
+T49 DISO 49 50 V
+T50 PROC 442 451 resección
+T51 DISO 301 307 lesión
+T52 PROC 868 885 anestesia general
+T53 ANAT 1405 1432 encía vestibular y palatina
+T54 ANAT 213 217 alvé
+T55 ANAT 217 221 olos
+T56 ANAT 386 393 dientes
+T57 PROC 561 571 hemostasia
+T58 DISO 400 407 defecto
+T59 ANAT 407 414 paladar
+T60 ANAT 709 721 mucosa bucal
+T61 PROC 1561 1587 análisis anatomopatológico
+T62 ANAT 428 435 muestra
+T63 PROC 1179 1198 biopsia incis ional
+T64 ANAT 379 385 arteri
+T65 ANAT 257 261 olas
+T66 ANAT 66 67 v
+T67 ANAT 133 135 én
+T68 ANAT 269 273 ulas
+T69 ANAT 205 208 tra
+T70 ANAT 139 141 bé
+T71 ANAT 771 782 culas óseas
+T72 ANAT 356 361 encía
+T73 DISO 2089 2118 malformación arterio - venosa
+T74 PROC 804 815 seguimiento

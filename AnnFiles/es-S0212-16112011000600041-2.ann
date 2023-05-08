@@ -1,0 +1,44 @@
+T1 DISO 1 22 tuberculosis pulmonar
+T2 PROC 8 15 tratada
+T3 DISO 67 100 edemas en extremidades inferiores
+T4 DISO 43 57 sintomatología
+T5 PROC 37 46 analítica
+T6 PROC 56 67 coagulación
+T7 PROC 127 148 tiempo de protrombina
+T8 PROC 71 81 creatinina
+T9 PROC 81 91 colesterol
+T10 PROC 82 91 albáºmina
+T11 PROC 191 210 ecografía abdominal
+T12 PROC 122 133 diagnóstico
+T13 DISO 229 248 esteatosis hepática
+T14 DISO 248 267 hipertensión portal
+T15 DISO 379 406 ascitis bebidas alcohólicas
+T16 PROC 286 305 estudio vi rológico
+T17 DISO 145 154 hepatitis
+T18 PROC 205 217 gastroscopia
+T19 DISO 325 343 varices esofágicas
+T20 DISO 153 161 pequeá±a
+T21 DISO 301 316 hernia de hiato
+T22 DISO 127 133 gastro
+T23 DISO 837 875 patía secundaria a hipertensión portal
+T24 DISO 622 649 enfermedad pierde proteínas
+T25 PROC 289 301 aclaramiento
+T26 CHEM 26 27 A
+T27 CHEM 27 28 1
+T28 CHEM 55 57 AT
+T29 PROC 29 30 A
+T30 PROC 30 31 1
+T31 PROC 61 63 AT
+T32 ANAT 187 193 sangre
+T33 PROC 33 34 A
+T34 PROC 34 35 1
+T35 PROC 69 71 AT
+T36 ANAT 176 181 heces
+T37 ANAT 181 186 heces
+T38 PROC 482 495 diagnosticado
+T39 DISO 723 742 hipertensión portal
+T40 PROC 1054 1081 tratado abstinencia alcohol
+T41 CHEM 1721 1764 complementos nutricionales hiper prote icos
+T42 CHEM 411 421 diuréticos
+T43 PROC 505 517 dado de alta
+T44 PROC 1248 1277 control en consultas externas

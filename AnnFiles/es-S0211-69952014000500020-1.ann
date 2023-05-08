@@ -1,0 +1,51 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 26 51 espondilitis anquilosante
+T3 PROC 7 10 HLA
+T4 PROC 58 77 ecografía abdominal
+T5 DISO 109 136 quistes hepáticos y renales
+T6 ANAT 31 37 Riá±ón
+T7 DISO 133 155 enfermedades quísticas
+T8 PROC 78 89 diagnostica
+T9 DISO 193 217 enfermedad poliqu ística
+T10 DISO 73 81 mutación
+T11 PROC 111 122 tratamiento
+T12 CHEM 111 121 adalimumab
+T13 CHEM 13 14 H
+T14 CHEM 40 43 umi
+T15 CHEM 29 31 ra
+T16 PROC 166 177 hemoglobina
+T17 PROC 33 35 Hb
+T18 PROC 171 181 creatinina
+T19 PROC 37 39 Cr
+T20 PROC 533 561 filtrado glomerular estimado
+T21 PROC 41 43 FG
+T22 PROC 22 23 e
+T23 PROC 89 93 MDRD
+T24 PROC 47 49 Mo
+T25 PROC 145 151 difica
+T26 PROC 651 677 tion of Diet Renal Disease
+T27 DISO 287 298 proteinuria
+T28 PROC 55 57 Cr
+T29 PROC 57 59 FG
+T30 PROC 175 181 e MDRD
+T31 DISO 331 342 proteinuria
+T32 PROC 342 353 tratamiento
+T33 DISO 449 463 polineuropatía
+T34 DISO 265 273 páºrpura
+T35 PROC 953 981 resonancia magnética nuclear
+T36 PROC 106 109 RMN
+T37 ANAT 505 519 riá±ón derecho
+T38 ANAT 223 229 riá±ón
+T39 CHEM 115 118 Gol
+T40 CHEM 235 241 imumab
+T41 CHEM 41 42 S
+T42 CHEM 124 127 imp
+T43 CHEM 127 130 oni
+T44 ANAT 388 397 abdominal
+T45 DISO 705 721 hernia umbilical
+T46 PROC 631 645 administración
+T47 CHEM 323 330 fármaco
+T48 PROC 142 145 RMN
+T49 ANAT 673 687 riá±ón derecho
+T50 ANAT 295 301 riá±ón
+T51 DISO 851 868 quistes hepáticos

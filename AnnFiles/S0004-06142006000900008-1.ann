@@ -1,0 +1,67 @@
+T1 PROC 1 9 consulta
+T2 DISO 19 37 síndrome miccional
+T3 DISO 43 64 infecciones urinarias
+T4 DISO 43 57 hipotiroidismo
+T5 DISO 85 106 hipertensión arterial
+T6 PROC 56 67 tratamiento
+T7 CHEM 49 57 atenolol
+T8 CHEM 64 73 enalapril
+T9 DISO 65 73 fumadora
+T10 PROC 100 111 intervenida
+T11 PROC 151 166 colecistectomía
+T12 PROC 199 217 exploración física
+T13 PROC 301 326 ecografía renal y vesical
+T14 DISO 300 323 engrosamiento irregular
+T15 ANAT 71 76 pared
+T16 ANAT 91 97 vejiga
+T17 PROC 49 52 cis
+T18 PROC 137 145 toscopia
+T19 ANAT 109 115 vejiga
+T20 DISO 39 41 ne
+T21 DISO 41 43 of
+T22 DISO 169 177 ormación
+T23 ANAT 89 93 cara
+T24 DISO 277 289 inflamatorio
+T25 PROC 553 576 TAC abdomino - pélv ico
+T26 ANAT 151 157 vejiga
+T27 ANAT 131 136 pared
+T28 PROC 379 393 administración
+T29 CHEM 253 262 contraste
+T30 ANAT 378 391 pared vesical
+T31 ANAT 451 466 mucosa parietal
+T32 DISO 125 129 aden
+T33 DISO 737 760 omegalias mesent éricas
+T34 ANAT 166 171 retro
+T35 PROC 613 631 Citología de orina
+T36 ANAT 596 613 células tumorales
+T37 PROC 829 852 resección trans uretral
+T38 DISO 75 77 ne
+T39 DISO 77 79 of
+T40 DISO 625 641 ormación vesical
+T41 PROC 1241 1272 toma de biopsias vesicales alea
+T42 ANAT 329 337 muestras
+T43 PROC 1219 1248 análisis anatomo - patológico
+T44 DISO 861 881 proliferación difusa
+T45 ANAT 485 496 células fus
+T46 ANAT 586 599 lámina propia
+T47 DISO 93 95 ne
+T48 DISO 95 97 of
+T49 DISO 385 393 ormación
+T50 ANAT 393 401 vascular
+T51 ANAT 551 562 estructuras
+T52 ANAT 460 469 nodulares
+T53 ANAT 313 319 fibras
+T54 ANAT 902 919 cuerpos de Wagner
+T55 ANAT 1135 1156 estructuras nerviosas
+T56 PROC 991 1009 inmunohistoquímica
+T57 ANAT 1065 1084 células fus iformes
+T58 ANAT 1711 1741 cuerpos de Wagner - Me iss ner
+T59 CHEM 291 296 antis
+T60 CHEM 709 721 uero S - 100
+T61 PROC 661 672 diagnóstico
+T62 DISO 1465 1489 neurofibromatosis difusa
+T63 ANAT 807 820 pared vesical
+T64 DISO 2269 2305 manifestaciones de neurofibromatosis
+T65 ANAT 449 456 órganos
+T66 DISO 196 199 neo
+T67 DISO 727 738 formaciones

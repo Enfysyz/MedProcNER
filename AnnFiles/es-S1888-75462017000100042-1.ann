@@ -1,0 +1,52 @@
+T1 PROC 1 9 consultó
+T2 DISO 6 11 dolor
+T3 DISO 23 34 parestesias
+T4 ANAT 40 53 borde cubital
+T5 ANAT 17 21 mano
+T6 ANAT 151 181 dedos cuarto y quinto derechos
+T7 DISO 73 85 edema difuso
+T8 ANAT 71 81 cara volar
+T9 ANAT 97 109 zona cubital
+T10 ANAT 64 71 muá±eca
+T11 ANAT 41 45 mano
+T12 PROC 34 37 Tin
+T13 PROC 37 40 nel
+T14 PROC 131 141 radiología
+T15 PROC 127 136 ecografía
+T16 PROC 76 81 infil
+T17 PROC 65 69 trar
+T18 CHEM 171 181 corticoide
+T19 CHEM 289 305 anestésico local
+T20 PROC 134 141 inmovil
+T21 PROC 681 715 izado con muá± e quera en posición
+T22 PROC 526 551 estudio neurofisi ológico
+T23 DISO 903 944 neuropatía compres iva del nervio cubital
+T24 ANAT 346 361 canal de Guy on
+T25 PROC 553 576 tratamiento sintomático
+T26 PROC 276 287 crioterapia
+T27 PROC 183 190 ortesis
+T28 CHEM 298 309 analgésicos
+T29 CHEM 617 639 complejo vita mínico B
+T30 PROC 349 361 fisioterapia
+T31 PROC 991 1024 Tomografía A xial Compu ter izada
+T32 PROC 497 513 TAC ) de muá±eca
+T33 DISO 161 166 dolor
+T34 DISO 199 205 pseudo
+T35 DISO 273 281 artrosis
+T36 ANAT 1226 1261 apófisis un ci forme del gan ch oso
+T37 PROC 973 1000 intervenido abordaje palmar
+T38 PROC 445 457 disección de
+T39 ANAT 1103 1132 paquete neurovascular cubital
+T40 ANAT 196 201 lecho
+T41 DISO 241 247 pseudo
+T42 DISO 329 337 artrosis
+T43 PROC 967 990 osteosíntesis tornillos
+T44 ANAT 216 221 dedos
+T45 PROC 529 541 fisioterapia
+T46 PROC 316 323 cirugía
+T47 DISO 369 377 síntomas
+T48 DISO 518 529 hipoestesia
+T49 ANAT 529 540 cuarto dedo
+T50 PROC 148 151 TAC
+T51 PROC 551 562 radiografía
+T52 PROC 154 157 TAC

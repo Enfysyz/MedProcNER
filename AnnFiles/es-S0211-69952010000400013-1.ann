@@ -1,0 +1,119 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 3 5 SS
+T3 DISO 3 4 p
+T4 DISO 40 53 síndrome seco
+T5 DISO 29 36 astenia
+T6 DISO 31 37 poliar
+T7 DISO 37 43 tritis
+T8 PROC 78 89 tratamiento
+T9 CHEM 257 289 antiinflamatorios no esteroideos
+T10 CHEM 37 41 AINE
+T11 CHEM 101 111 esteroides
+T12 CHEM 56 61 metro
+T13 CHEM 25 27 te
+T14 CHEM 53 57 xato
+T15 DISO 113 121 síntomas
+T16 PROC 706 753 tratamiento odontológico con implantes dentales
+T17 PROC 113 120 ingresa
+T18 DISO 205 217 edema facial
+T19 DISO 271 286 síndrome febril
+T20 PROC 343 361 exploración física
+T21 DISO 561 589 deterioro del estado general
+T22 PROC 337 353 tensión arterial
+T23 PROC 45 47 TA
+T24 DISO 139 145 fiebre
+T25 DISO 121 126 edema
+T26 DISO 576 599 tización sub mandibular
+T27 DISO 417 433 infección activa
+T28 ANAT 649 673 arcada dentaria inferior
+T29 DISO 421 436 edemas distales
+T30 DISO 494 511 lesiones cutáneas
+T31 PROC 511 528 estudio analítico
+T32 PROC 63 65 Hb
+T33 PROC 321 331 creatinina
+T34 PROC 133 137 urea
+T35 PROC 885 911 perfil hepático , lipídico
+T36 PROC 141 145 ANCA
+T37 PROC 577 593 inmunoglobulinas
+T38 PROC 112 115 ANA
+T39 PROC 153 157 anti
+T40 PROC 40 41 -
+T41 PROC 121 124 ADN
+T42 PROC 42 43 C
+T43 PROC 43 44 3
+T44 PROC 44 45 C
+T45 PROC 45 46 4
+T46 PROC 586 599 Serología VHB
+T47 DISO 139 142 VHC
+T48 PROC 142 145 VIH
+T49 PROC 577 589 Hemocultivos
+T50 PROC 148 151 ANA
+T51 PROC 1051 1072 anticuerpos anti - Ro
+T52 PROC 205 209 anti
+T53 PROC 209 213 - LA
+T54 PROC 902 919 factor reumatoide
+T55 PROC 109 111 FR
+T56 PROC 716 729 diagnosticado
+T57 DISO 113 115 SS
+T58 DISO 58 59 p
+T59 DISO 233 237 hipo
+T60 DISO 355 361 comple
+T61 DISO 301 306 mente
+T62 DISO 184 187 mia
+T63 ANAT 311 316 orina
+T64 DISO 694 705 proteinuria
+T65 DISO 321 326 micro
+T66 DISO 261 265 hema
+T67 DISO 331 336 turia
+T68 PROC 1006 1021 ecografía renal
+T69 DISO 613 622 febrícula
+T70 PROC 967 981 antibioterapia
+T71 DISO 561 569 oliguria
+T72 PROC 1705 1729 tratamiento con diálisis
+T73 DISO 2161 2191 glomerulonefritis ( GN ) aguda
+T74 DISO 2118 2147 proceso infeccioso mandibular
+T75 DISO 297 301 hipo
+T76 DISO 451 457 comple
+T77 DISO 381 386 mente
+T78 DISO 232 235 mia
+T79 PROC 1015 1028 biopsia renal
+T80 ANAT 633 641 cilindro
+T81 PROC 1441 1459 microscopia óptica
+T82 ANAT 487 493 glomér
+T83 ANAT 329 333 ulos
+T84 DISO 1329 1345 oclusión capilar
+T85 DISO 589 596 trombos
+T86 PROC 256 259 PAS
+T87 ANAT 517 523 glomér
+T88 ANAT 349 353 ulos
+T89 DISO 4313 4362 infiltración segmentaria de células inflamatorias
+T90 ANAT 713 721 intersti
+T91 ANAT 271 274 cio
+T92 DISO 3095 3129 inflamación linfo plas mo ci taria
+T93 ANAT 737 745 arterias
+T94 PROC 3535 3573 estudio de inmunofluorescencia directa
+T95 PROC 189 191 IF
+T96 PROC 96 97 d
+T97 CHEM 289 292 IgG
+T98 CHEM 292 295 IgM
+T99 CHEM 491 496 kappa
+T100 CHEM 397 401 lamb
+T101 CHEM 201 203 da
+T102 CHEM 102 103 C
+T103 CHEM 103 104 3
+T104 CHEM 310 313 IgA
+T105 CHEM 105 106 C
+T106 CHEM 106 107 1
+T107 CHEM 107 108 q
+T108 PROC 1178 1189 fibrinógeno
+T109 PROC 2809 2835 estudio ultra estruc tural
+T110 PROC 2835 2861 gnóstico anatomopatológico
+T111 ANAT 111 112 G
+T112 ANAT 112 113 l
+T113 ANAT 449 453 omér
+T114 ANAT 453 457 ulos
+T115 DISO 2851 2876 trombos intra ca pil ares
+T116 CHEM 1841 1857 inmunoglobulinas
+T117 DISO 697 703 glomer
+T118 DISO 3394 3423 ulopatía cri oglob ulin émica
+T119 DISO 237 239 SS

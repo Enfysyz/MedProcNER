@@ -1,0 +1,71 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 40 79 enfermedad pulmonar obstructiva crónica
+T3 DISO 5 7 ex
+T4 DISO 22 29 fumador
+T5 PROC 53 66 diagnosticado
+T6 DISO 186 223 carcinoma papilar urotelial de vejiga
+T7 PROC 199 232 resección trans uretral del tumor
+T8 PROC 78 89 tratamiento
+T9 PROC 25 28 ins
+T10 PROC 28 31 til
+T11 PROC 231 254 aciones endo ves icales
+T12 CHEM 34 37 BCG
+T13 DISO 193 209 malestar general
+T14 DISO 79 85 fiebre
+T15 DISO 253 271 síndrome miccional
+T16 DISO 211 225 sintomatología
+T17 PROC 289 307 exploración física
+T18 PROC 358 379 auscultación pulmonar
+T19 PROC 559 590 puá±o percusión renal bilateral
+T20 DISO 153 161 próstata
+T21 DISO 161 169 dolorosa
+T22 DISO 211 221 congestiva
+T23 DISO 155 162 adenoma
+T24 DISO 93 97 tosa
+T25 PROC 217 226 hemograma
+T26 DISO 301 313 leucocitosis
+T27 DISO 287 298 neutrofilia
+T28 PROC 55 57 le
+T29 DISO 225 233 ucocitos
+T30 ANAT 320 331 neutrófilos
+T31 PROC 91 94 Uro
+T32 PROC 249 257 cultivos
+T33 PROC 385 397 hemocultivos
+T34 ANAT 166 171 orina
+T35 PROC 681 701 radiografía de tórax
+T36 DISO 701 721 afectación bilateral
+T37 DISO 253 260 nódulos
+T38 DISO 408 419 adenopatías
+T39 DISO 419 430 TBC mil iar
+T40 PROC 1210 1241 tomografía axial computer izada
+T41 PROC 121 124 TAC
+T42 DISO 985 1009 adenopatías calcificadas
+T43 ANAT 211 216 hilio
+T44 ANAT 775 793 ligamento pulmonar
+T45 DISO 309 316 nódulos
+T46 ANAT 766 783 campos pulmonares
+T47 PROC 323 330 ingresó
+T48 PROC 518 529 tratamiento
+T49 CHEM 289 295 isonia
+T50 CHEM 197 201 zida
+T51 CHEM 551 562 rifampicina
+T52 CHEM 154 157 eta
+T53 CHEM 105 107 mb
+T54 CHEM 107 109 ut
+T55 CHEM 109 111 ol
+T56 PROC 661 673 dado de alta
+T57 PROC 1401 1426 seguido ambula toriamente
+T58 PROC 628 639 seguimiento
+T59 DISO 1915 1948 efectos adversos de la medicación
+T60 DISO 1063 1081 episodios febriles
+T61 DISO 841 855 sintomatología
+T62 PROC 1770 1799 tratamiento antitu bercul oso
+T63 PROC 187 190 ins
+T64 PROC 190 193 til
+T65 PROC 449 456 aciones
+T66 CHEM 196 199 BCG
+T67 PROC 925 939 TAC de control
+T68 DISO 738 749 adenopatías
+T69 DISO 477 484 nódulos
+T70 ANAT 622 631 segmentos
+T71 ANAT 701 711 pulmonares

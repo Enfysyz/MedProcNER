@@ -1,0 +1,101 @@
+T1 DISO 1 28 pérdida de visión bilateral
+T2 ANAT 14 27 ojo izquierdo
+T3 ANAT 5 7 OI
+T4 ANAT 10 13 ojo
+T5 ANAT 9 11 OD
+T6 DISO 36 43 fumador
+T7 DISO 79 92 fallecimiento
+T8 ANAT 50 57 hermano
+T9 DISO 145 163 neoplasia pulmonar
+T10 PROC 226 251 exploración oftalmológica
+T11 PROC 241 265 agudeza visual corregida
+T12 ANAT 56 61 manos
+T13 PROC 337 365 presión intraocular anterior
+T14 PROC 53 57 fund
+T15 PROC 29 31 us
+T16 PROC 76 81 copia
+T17 DISO 49 52 vit
+T18 DISO 86 91 ritis
+T19 ANAT 73 77 ojos
+T20 DISO 286 301 hiperemia de la
+T21 ANAT 121 127 papila
+T22 DISO 316 331 palidez papilar
+T23 PROC 155 162 ingreso
+T24 DISO 116 121 papil
+T25 DISO 97 101 itis
+T26 DISO 76 79 vit
+T27 DISO 131 136 ritis
+T28 PROC 622 645 exploración neurológica
+T29 PROC 253 262 hemograma
+T30 PROC 291 301 bioquímica
+T31 PROC 601 621 radiografía de tórax
+T32 ANAT 435 449 hilio pulmonar
+T33 PROC 353 364 TAC craneal
+T34 PROC 463 477 punción lumbar
+T35 CHEM 307 316 proteínas
+T36 PROC 386 397 tratamiento
+T37 CHEM 397 408 corticoides
+T38 PROC 519 533 antiagregación
+T39 PROC 191 196 angio
+T40 PROC 118 121 flu
+T41 PROC 161 165 ores
+T42 PROC 83 85 ce
+T43 PROC 85 87 in
+T44 PROC 259 265 grafía
+T45 DISO 353 361 hipercap
+T46 DISO 271 277 tación
+T47 ANAT 277 283 papila
+T48 DISO 471 481 vasculitis
+T49 PROC 961 981 potenciales evocados
+T50 DISO 834 851 neuropatía axonal
+T51 ANAT 101 103 OI
+T52 PROC 307 313 electr
+T53 PROC 209 213 orre
+T54 PROC 160 163 tin
+T55 PROC 325 331 ograma
+T56 PROC 1596 1625 resonancia magnética cerebral
+T57 PROC 505 514 serología
+T58 PROC 628 639 inmunología
+T59 PROC 1161 1181 marcadores tumorales
+T60 DISO 591 601 infecciosa
+T61 DISO 481 489 vascular
+T62 DISO 306 311 desmi
+T63 DISO 125 127 el
+T64 DISO 379 385 izante
+T65 DISO 513 521 infiltra
+T66 DISO 261 265 tiva
+T67 DISO 1585 1609 síndrome paraneoplás ico
+T68 PROC 1609 1633 TAC tó ra co - abdominal
+T69 ANAT 885 898 hilio derecho
+T70 DISO 691 701 adenopatía
+T71 PROC 841 853 broncoscopia
+T72 ANAT 214 217 car
+T73 ANAT 217 220 ina
+T74 PROC 658 667 citología
+T75 DISO 741 751 malignidad
+T76 PROC 826 837 estudio PET
+T77 DISO 761 771 adenopatía
+T78 PROC 1233 1249 Cirugía Torácica
+T79 PROC 469 475 medias
+T80 PROC 396 401 tinos
+T81 PROC 401 406 copia
+T82 PROC 4456 4511 muestras de líquido cefalorraquídeo plasma humor acuoso
+T83 PROC 3691 3736 estudiar el auto an ticuerpo CR MP - 5 - Ig G
+T84 CHEM 167 169 CR
+T85 CHEM 169 171 MP
+T86 CHEM 86 87 -
+T87 CHEM 87 88 5
+T88 CHEM 88 89 -
+T89 CHEM 177 179 Ig
+T90 CHEM 90 91 G
+T91 DISO 721 729 neuritis
+T92 DISO 2822 2853 carcinoma microcítico de pulmón
+T93 PROC 1013 1024 estudio PET
+T94 PROC 559 565 medias
+T95 PROC 471 476 tinos
+T96 PROC 476 481 copia
+T97 DISO 2977 3008 carcinoma microcítico de pulmón
+T98 DISO 2038 2059 carcinoma microcítico
+T99 PROC 2157 2179 tratamiento con quimio
+T100 PROC 1189 1201 radioterapia
+T101 PROC 2401 2425 tratamiento cortico ideo

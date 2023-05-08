@@ -1,0 +1,32 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 22 43 cardiopatía isquémica
+T3 DISO 71 106 molestias abdominales inespecíficas
+T4 DISO 19 25 anemia
+T5 PROC 49 61 colonoscopia
+T6 PROC 111 133 preparación intestinal
+T7 CHEM 169 197 solución evacu ante de Bo hn
+T8 PROC 92 105 procedimiento
+T9 DISO 177 199 perforación intestinal
+T10 ANAT 136 151 colon sig moide
+T11 PROC 321 353 intervención quiráºrgica urgente
+T12 DISO 122 133 perforación
+T13 PROC 25 27 su
+T14 PROC 79 85 turada
+T15 PROC 183 196 sutura simple
+T16 PROC 736 785 trasladado a la Unidad de Cuidados Intensivos UCI
+T17 PROC 225 239 administración
+T18 CHEM 205 217 antibióticos
+T19 PROC 451 476 muestras microbi ológicas
+T20 PROC 438 461 pruebas complementarias
+T21 PROC 61 64 PCT
+T22 PROC 400 419 proteína C reactiva
+T23 PROC 67 70 PCR
+T24 PROC 70 73 PCR
+T25 PROC 73 76 PCT
+T26 PROC 351 365 ingreso en UCI
+T27 PROC 79 82 PCT
+T28 PROC 82 85 PCR
+T29 PROC 813 842 cultivo del drenaje abdominal
+T30 PROC 494 511 pauta antibiótica
+T31 PROC 121 125 dado
+T32 PROC 528 545 ingreso en la UCI

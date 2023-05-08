@@ -1,0 +1,80 @@
+T1 DISO 1 9 alergias
+T2 DISO 11 21 dislipemia
+T3 DISO 43 64 hipertensión arterial
+T4 DISO 79 105 infarto agudo de miocardio
+T5 PROC 25 31 triple
+T6 PROC 146 175 derivación aorto - cor onaria
+T7 DISO 151 176 enfermedad de los 3 vasos
+T8 PROC 22 25 RTU
+T9 DISO 361 406 hiperplasia lei omio adenoma tosa de próstata
+T10 DISO 199 221 traumatismo testicular
+T11 DISO 121 133 tuberculosis
+T12 DISO 45 49 bruc
+T13 DISO 73 79 elosis
+T14 PROC 105 113 consulta
+T15 DISO 323 346 molestias tes ticulares
+T16 DISO 76 81 dolor
+T17 PROC 177 188 exploración
+T18 DISO 392 415 nódulo duro e irregular
+T19 ANAT 307 324 testículo derecho
+T20 DISO 96 101 dolor
+T21 PROC 181 190 palpación
+T22 PROC 232 243 ecográficos
+T23 DISO 1145 1197 lesión focal nodular , lob ulada y baja ecogenicidad
+T24 ANAT 300 313 polo inferior
+T25 ANAT 409 426 testículo derecho
+T26 DISO 51 53 ne
+T27 DISO 53 55 of
+T28 DISO 217 225 ormación
+T29 ANAT 85 88 Tes
+T30 ANAT 465 481 tículo izquierdo
+T31 DISO 271 280 hallazgos
+T32 PROC 993 1025 TAC ab dó mino pélvico contraste
+T33 DISO 961 991 adenopatías retro peritoneales
+T34 PROC 595 613 análisis sanguíneo
+T35 PROC 137 141 alfa
+T36 PROC 36 37 -
+T37 PROC 73 75 fe
+T38 PROC 408 419 to proteína
+T39 PROC 77 79 HC
+T40 PROC 40 41 G
+T41 PROC 121 124 LDH
+T42 PROC 83 85 HC
+T43 PROC 43 44 G
+T44 PROC 173 177 Alfa
+T45 PROC 45 46 -
+T46 PROC 91 93 fe
+T47 PROC 507 518 to proteína
+T48 PROC 142 145 LDH
+T49 PROC 97 99 or
+T50 PROC 148 151 qui
+T51 PROC 1201 1225 ectomía inguinal derecha
+T52 PROC 1276 1301 estudio anatomopatológico
+T53 ANAT 729 743 bolsa escrotal
+T54 DISO 266 271 hidro
+T55 DISO 217 221 cele
+T56 ANAT 1321 1345 conducto epi didi m ario
+T57 ANAT 505 514 testículo
+T58 ANAT 400 407 fibrosa
+T59 DISO 465 473 lesiones
+T60 DISO 532 541 neoplasia
+T61 PROC 1201 1221 estudio microscópico
+T62 ANAT 1282 1303 parénquima testicular
+T63 DISO 2171 2206 degeneración vacu ol ada de células
+T64 ANAT 442 449 náºcleo
+T65 ANAT 577 586 vesicular
+T66 ANAT 1366 1387 táºbulos semin íferos
+T67 DISO 2377 2413 infiltrado inflamatorio mononucle ar
+T68 ANAT 671 681 linfocitos
+T69 ANAT 1293 1312 células plasmáticas
+T70 DISO 1864 1891 formaciones granuloma tosas
+T71 ANAT 491 498 células
+T72 ANAT 498 505 estroma
+T73 ANAT 1513 1534 táºbulos semin íferos
+T74 DISO 512 519 celular
+T75 DISO 1111 1126 idad neoplásica
+T76 PROC 226 229 tin
+T77 PROC 2357 2388 ciones de PAS Z ie hl Ni el sen
+T78 PROC 848 859 diagnóstico
+T79 DISO 157 159 or
+T80 DISO 2450 2481 quitis idiopática granulomatosa

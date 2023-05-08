@@ -1,0 +1,89 @@
+T1 DISO 1 11 odinofagia
+T2 DISO 7 13 fiebre
+T3 CHEM 23 34 paracetamol
+T4 DISO 49 65 malestar general
+T5 DISO 45 56 escalofríos
+T6 DISO 86 103 crisis sudor ales
+T7 DISO 49 57 ganglios
+T8 ANAT 162 185 zonas latero cervicales
+T9 PROC 89 100 tratamiento
+T10 CHEM 100 111 amoxicilina
+T11 PROC 181 199 exploración física
+T12 DISO 122 133 adenopatías
+T13 ANAT 301 326 cadenas latero cervicales
+T14 DISO 144 155 adenopatías
+T15 DISO 71 76 organ
+T16 DISO 136 145 omegalias
+T17 DISO 81 86 bocio
+T18 DISO 307 325 dolor a la presión
+T19 ANAT 271 286 región tiroidea
+T20 PROC 324 341 estudio analítico
+T21 DISO 741 778 leucocitosis predominio linf oc ítico
+T22 PROC 64 67 VSG
+T23 ANAT 177 185 hepática
+T24 DISO 116 121 hiper
+T25 DISO 121 126 gamma
+T26 DISO 301 313 globulinemia
+T27 PROC 131 136 manto
+T28 PROC 55 57 ux
+T29 PROC 561 581 radiografía de tórax
+T30 PROC 436 451 serología virus
+T31 PROC 121 125 anti
+T32 CHEM 32 33 -
+T33 DISO 65 67 EB
+T34 DISO 34 35 V
+T35 DISO 103 106 CMV
+T36 DISO 106 109 VIH
+T37 CHEM 109 112 láº
+T38 DISO 75 77 es
+T39 PROC 761 781 estudio inmunológico
+T40 PROC 118 121 ANA
+T41 CHEM 161 165 anti
+T42 CHEM 124 127 DNA
+T43 CHEM 169 173 anti
+T44 CHEM 130 133 RNA
+T45 PROC 89 91 EN
+T46 PROC 46 47 A
+T47 PROC 47 48 -
+T48 PROC 48 49 R
+T49 PROC 97 99 NP
+T50 PROC 246 251 antic
+T51 PROC 201 205 ardi
+T52 PROC 205 209 olip
+T53 PROC 157 160 ina
+T54 PROC 1220 1243 valoró función tiroidea
+T55 PROC 55 56 T
+T56 PROC 56 57 3
+T57 PROC 57 58 T
+T58 PROC 58 59 4
+T59 PROC 175 178 TSH
+T60 PROC 119 121 TG
+T61 PROC 61 62 B
+T62 PROC 245 249 anti
+T63 PROC 249 253 tiro
+T64 PROC 568 577 globulina
+T65 PROC 65 66 T
+T66 PROC 131 133 PO
+T67 PROC 265 269 anti
+T68 PROC 202 205 per
+T69 PROC 477 484 oxidasa
+T70 PROC 1381 1401 gammagrafía tiroidea
+T71 DISO 421 427 fiebre
+T72 DISO 782 793 adenopatías
+T73 PROC 505 512 biopsia
+T74 ANAT 585 593 ganglios
+T75 ANAT 2369 2401 cadena latero - cervical derecha
+T76 PROC 1351 1369 examen histológico
+T77 DISO 305 309 Linf
+T78 DISO 309 313 aden
+T79 DISO 3745 3793 itis necrotizante histi oci taria no linfocítica
+T80 DISO 2845 2881 Enfermedad de K ik uchi - Fu jimo to
+T81 PROC 561 568 control
+T82 ANAT 649 657 tiroidea
+T83 PROC 2215 2242 anticuerpos anti tiro ideos
+T84 PROC 167 169 TG
+T85 PROC 85 86 B
+T86 PROC 86 87 T
+T87 PROC 173 175 PO
+T88 PROC 1567 1585 hormonas tiroideas
+T89 PROC 265 268 TSH

@@ -1,0 +1,78 @@
+T1 DISO 1 25 cardiopatía hipertensiva
+T2 DISO 20 39 hipercolesterolemia
+T3 DISO 33 49 diabetes tipo II
+T4 PROC 40 53 histerectomía
+T5 DISO 65 81 prolapso uterino
+T6 PROC 51 61 corrección
+T7 DISO 31 36 cisto
+T8 DISO 29 33 cele
+T9 DISO 185 208 hipotiroidismo primario
+T10 DISO 208 231 neuralgia del trigémino
+T11 DISO 141 155 asma bronquial
+T12 DISO 100 109 depresión
+T13 DISO 85 92 arterio
+T14 DISO 131 141 esclerosis
+T15 PROC 211 226 colecistectomía
+T16 DISO 61 65 aden
+T17 DISO 49 52 omi
+T18 DISO 256 271 oma de vesícula
+T19 DISO 451 476 insuficiencia suprarrenal
+T20 PROC 400 421 nefrectomía bilateral
+T21 DISO 121 127 pseudo
+T22 DISO 64 67 tum
+T23 DISO 155 162 oración
+T24 DISO 530 553 hematoma ab ces ificado
+T25 PROC 793 826 tratamiento renal sustitutivo con
+T26 PROC 1201 1249 diálisis peritoneal continua ambulatoria ( DP CA
+T27 PROC 339 352 entrenamiento
+T28 PROC 244 253 consultas
+T29 DISO 225 233 síntomas
+T30 DISO 407 421 neumoperitoneo
+T31 DISO 451 466 dolor abdominal
+T32 DISO 218 225 diarrea
+T33 DISO 609 628 nauseas sin vómitos
+T34 DISO 364 375 escalofríos
+T35 DISO 205 211 fiebre
+T36 PROC 631 649 exploración física
+T37 DISO 1045 1074 dolor a la palpación profunda
+T38 ANAT 149 153 fosa
+T39 DISO 571 586 palidez cutánea
+T40 ANAT 469 481 extremidades
+T41 DISO 241 247 edemas
+T42 PROC 124 127 Sat
+T43 PROC 379 388 analítica
+T44 PROC 173 177 Hemo
+T45 PROC 221 226 grama
+T46 PROC 451 461 bioquímica
+T47 PROC 783 800 gasometría venosa
+T48 PROC 941 961 radiografía de tórax
+T49 PROC 1297 1324 abdomen diálisis peritoneal
+T50 DISO 687 701 neumoperitoneo
+T51 PROC 651 664 TAC contraste
+T52 DISO 1429 1457 neumoperitoneo del contraste
+T53 DISO 1717 1750 perforación de una vís cera hueca
+T54 PROC 955 973 valoración inicial
+T55 PROC 541 551 entrevista
+T56 PROC 1871 1905 intercambio de diálisis peritoneal
+T57 PROC 505 514 protocolo
+T58 DISO 1141 1161 infección peritoneal
+T59 DISO 929 945 signos infección
+T60 ANAT 60 61 L
+T61 ANAT 181 184 íqu
+T62 ANAT 855 869 ido peritoneal
+T63 PROC 1117 1135 muestra de líquido
+T64 PROC 442 449 cultivo
+T65 ANAT 641 651 leucocitos
+T66 DISO 1301 1321 infección peritoneal
+T67 PROC 463 470 ingreso
+T68 PROC 738 749 observación
+T69 PROC 953 967 dieta absoluta
+T70 PROC 829 841 sueroterapia
+T71 DISO 981 995 neumoperitoneo
+T72 PROC 2131 2161 técnica de diálisis peritoneal
+T73 PROC 2521 2556 intercambios de diálisis peritoneal
+T74 PROC 366 371 pauta
+T75 PROC 1999 2026 drenaje de Tren dele mb urg
+T76 ANAT 751 761 peritoneal
+T77 PROC 1597 1618 estudios radiológicos
+T78 DISO 1079 1093 neumoperitoneo

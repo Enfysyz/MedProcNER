@@ -1,0 +1,59 @@
+T1 PROC 1 30 mastectomía radical izquierda
+T2 PROC 23 45 linfadenectomía axilar
+T3 DISO 57 85 carcinoma ductal infiltrante
+T4 ANAT 88 117 cuadrante sáº pero - ex terno
+T5 CHEM 85 106 receptores hormonales
+T6 DISO 156 187 metástasis ganglionar linfática
+T7 ANAT 49 57 ganglios
+T8 PROC 113 129 acto quiráºrgico
+T9 PROC 193 217 reconstrucción inmediata
+T10 CHEM 136 151 gel de silicona
+T11 PROC 71 78 cirugía
+T12 PROC 287 313 tratamiento complementario
+T13 PROC 157 170 quimioterapia
+T14 CHEM 27 29 ad
+T15 CHEM 57 61 riam
+T16 CHEM 61 65 icin
+T17 CHEM 49 52 aci
+T18 CHEM 52 55 clo
+T19 CHEM 163 172 fosfamida
+T20 CHEM 58 61 tax
+T21 CHEM 61 64 ano
+T22 CHEM 232 243 trastuzumab
+T23 PROC 771 806 tratamiento hormonal complementario
+T24 CHEM 47 49 le
+T25 CHEM 145 151 trozol
+T26 PROC 351 365 reconstrucción
+T27 ANAT 183 190 mamario
+T28 ANAT 136 141 toral
+T29 PROC 925 958 controles clínicos de seguimiento
+T30 ANAT 349 361 borde medial
+T31 ANAT 241 249 cicatriz
+T32 PROC 342 353 mastectomía
+T33 PROC 417 430 injerto graso
+T34 ANAT 463 477 tejido adiposo
+T35 ANAT 477 491 zona abdominal
+T36 PROC 666 685 técnica de Cole man
+T37 PROC 433 445 infiltración
+T38 ANAT 297 305 cicatriz
+T39 CHEM 609 625 anestésico local
+T40 CHEM 157 161 lido
+T41 CHEM 201 206 caína
+T42 CHEM 411 421 adrenalina
+T43 PROC 211 216 infil
+T44 PROC 345 353 trándose
+T45 ANAT 529 541 tejido graso
+T46 DISO 316 323 defecto
+T47 PROC 507 518 seguimiento
+T48 PROC 1317 1345 pruebas de imagen de control
+T49 PROC 529 540 diagnóstico
+T50 PROC 540 551 tratamiento
+T51 DISO 801 817 tumores malignos
+T52 PROC 562 573 mamografías
+T53 PROC 989 1008 ecografías mamarias
+T54 PROC 902 919 ecografía mamaria
+T55 PROC 109 111 RM
+T56 DISO 771 785 imagen nodular
+T57 ANAT 1513 1540 inter cu ad rantes internos
+T58 DISO 1141 1161 signos inflamatorios
+T59 DISO 929 945 rotura protésica

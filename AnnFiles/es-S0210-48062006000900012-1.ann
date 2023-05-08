@@ -1,0 +1,40 @@
+T1 PROC 1 3 ne
+T2 PROC 2 3 -
+T3 PROC 7 10 fro
+T4 PROC 10 13 ure
+T5 PROC 73 91 terectomía derecha
+T6 DISO 186 223 carcinoma de células trans ici onales
+T7 PROC 19 22 cis
+T8 PROC 22 25 top
+T9 PROC 25 28 ros
+T10 PROC 19 21 ta
+T11 PROC 161 177 tectomía radical
+T12 PROC 375 409 derivación urinaria tipo B ric ker
+T13 DISO 301 326 carcinoma in situ vesical
+T14 CHEM 40 43 BCG
+T15 PROC 267 286 derivación urinaria
+T16 DISO 286 305 prolapso del estoma
+T17 PROC 353 375 TAC toraco - abdominal
+T18 PROC 528 559 estudio de re - estad ificación
+T19 DISO 307 324 actividad tumoral
+T20 PROC 191 201 creatinina
+T21 PROC 501 526 laparoscopia explor adora
+T22 PROC 652 683 disección completa de la pelvis
+T23 ANAT 309 323 muá±ón uretral
+T24 PROC 70 73 Res
+T25 PROC 49 51 ec
+T26 PROC 101 105 amos
+T27 ANAT 365 379 muá±ón uretral
+T28 PROC 190 197 biopsia
+T29 DISO 561 581 infiltración tumoral
+T30 ANAT 59 61 ve
+T31 ANAT 121 125 jiga
+T32 ANAT 435 449 íleon terminal
+T33 ANAT 193 199 estoma
+T34 PROC 1519 1565 anastomosis uretra - neo ve jiga laparoscópica
+T35 DISO 273 281 sangrado
+T36 PROC 421 433 dado de alta
+T37 DISO 505 519 complicaciones
+T38 DISO 889 913 alteraciones metabólicas
+T39 DISO 229 235 signos
+T40 DISO 391 401 enfermedad

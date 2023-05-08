@@ -1,0 +1,40 @@
+T1 DISO 1 22 tuberculosis pulmonar
+T2 DISO 18 35 carcinoma vesical
+T3 PROC 23 34 intervenido
+T4 PROC 22 29 tratado
+T5 PROC 13 16 ins
+T6 PROC 71 85 tilación local
+T7 CHEM 19 22 mit
+T8 CHEM 50 57 omicina
+T9 DISO 137 154 diabetes mellitus
+T10 DISO 190 211 hipertensión arterial
+T11 DISO 131 144 hiperuricemia
+T12 PROC 122 133 tratamiento
+T13 CHEM 121 131 alopurinol
+T14 DISO 209 225 crisis de disnea
+T15 DISO 225 241 erupción cutánea
+T16 PROC 106 113 tratada
+T17 CHEM 177 188 corticoides
+T18 CHEM 273 289 antihistamínicos
+T19 PROC 127 134 aerosol
+T20 PROC 134 141 terapia
+T21 PROC 41 43 In
+T22 PROC 85 89 gres
+T23 PROC 177 185 ó en UCI
+T24 DISO 24 25 N
+T25 DISO 49 51 ET
+T26 DISO 1276 1327 erupción eritematosa maculo pa pul osa y ampol losa
+T27 ANAT 495 514 superficie corporal
+T28 PROC 433 449 signo Nik ols ky
+T29 DISO 925 958 insuficiencia respiratoria tipo I
+T30 DISO 697 721 insuficiencia renal leve
+T31 DISO 331 342 hipotensión
+T32 PROC 683 705 tratamiento de soporte
+T33 CHEM 449 463 ciclosporina A
+T34 PROC 67 69 re
+T35 PROC 103 106 epi
+T36 PROC 106 109 tel
+T37 PROC 181 186 izado
+T38 DISO 630 647 lesiones cutáneas
+T39 PROC 533 547 ingreso en UCI
+T40 PROC 157 161 alta

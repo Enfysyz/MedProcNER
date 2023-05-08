@@ -1,0 +1,68 @@
+T1 DISO 1 11 sudoración
+T2 DISO 7 13 fiebre
+T3 DISO 45 67 dolor lumbar izquierdo
+T4 DISO 43 57 pesadez flanco
+T5 DISO 29 36 disuria
+T6 DISO 46 55 patología
+T7 DISO 13 15 DM
+T8 DISO 22 25 HTA
+T9 DISO 65 73 alergias
+T10 DISO 19 21 Ex
+T11 DISO 71 78 fumador
+T12 DISO 100 109 hematuria
+T13 DISO 85 92 cólicos
+T14 DISO 40 43 ITU
+T15 DISO 15 16 s
+T16 DISO 136 145 febrícula
+T17 DISO 161 171 sudoración
+T18 DISO 460 487 pesadez en flanco izquierdo
+T19 DISO 217 229 dolor lumbar
+T20 DISO 324 341 clínica miccional
+T21 DISO 161 169 urgencia
+T22 PROC 379 397 exploración física
+T23 ANAT 199 208 abdominal
+T24 DISO 254 265 efecto masa
+T25 ANAT 145 151 flanco
+T26 PROC 226 235 palpación
+T27 PROC 339 352 Tacto Rec tal
+T28 ANAT 217 225 próstata
+T29 DISO 561 581 lesiones sospechosas
+T30 PROC 668 691 pruebas complementarias
+T31 PROC 271 280 Hemograma
+T32 DISO 187 193 Eosino
+T33 DISO 161 166 filia
+T34 PROC 331 341 Bioquímica
+T35 PROC 613 631 analítica de orina
+T36 PROC 71 73 Rx
+T37 ANAT 253 260 aparato
+T38 DISO 408 419 efecto masa
+T39 ANAT 229 235 flanco
+T40 ANAT 196 201 psoas
+T41 PROC 601 616 Ecografía renal
+T42 DISO 288 295 quistes
+T43 ANAT 253 259 riá±ón
+T44 PROC 861 881 TC abdomino pélv ico
+T45 DISO 1497 1531 lesiones quísticas vesículas hijas
+T46 DISO 1306 1335 enfermedad hida tí dica renal
+T47 PROC 2117 2163 serología Anticuerpos Ech ino coccus / H ema g
+T48 PROC 142 145 RMN
+T49 ANAT 529 540 estructuras
+T50 PROC 344 351 cirugía
+T51 ANAT 601 613 unidad renal
+T52 PROC 817 833 acto quiráºrgico
+T53 PROC 1041 1061 cirugía conservadora
+T54 PROC 266 271 nefro
+T55 PROC 163 166 ure
+T56 PROC 1596 1625 terectomía izquierda completa
+T57 DISO 113 115 qu
+T58 DISO 115 117 ís
+T59 DISO 871 886 te hida tí dico
+T60 PROC 1358 1381 tratamiento quiráºrgico
+T61 CHEM 181 184 Alb
+T62 CHEM 245 249 enda
+T63 CHEM 187 190 zol
+T64 PROC 442 449 cirugía
+T65 PROC 705 716 tratamiento
+T66 PROC 1626 1651 titulación de anticuerpos
+T67 PROC 859 872 procedimiento
+T68 DISO 671 681 enfermedad

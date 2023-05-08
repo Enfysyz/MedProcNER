@@ -1,0 +1,81 @@
+T1 DISO 1 16 dolor de cabeza
+T2 PROC 8 15 escáner
+T3 DISO 29 43 lesión lí tica
+T4 ANAT 10 13 cal
+T5 ANAT 49 61 ota temporal
+T6 ANAT 26 31 masto
+T7 ANAT 25 29 ides
+T8 PROC 36 41 termo
+T9 PROC 89 100 coagulación
+T10 DISO 127 141 lesión cutánea
+T11 ANAT 61 67 región
+T12 DISO 232 253 afectación de la piel
+T13 PROC 529 573 estudio de extensión ósea de cuerpo completo
+T14 PROC 339 365 tomografía computarizada (
+T15 PROC 421 451 TC ) de tórax , abdomen pelvis
+T16 PROC 346 369 extirpación quiráºrgica
+T17 DISO 97 103 lesión
+T18 DISO 103 109 lesión
+T19 PROC 91 96 extir
+T20 PROC 39 41 pó
+T21 PROC 81 85 cran
+T22 PROC 22 23 i
+T23 PROC 749 783 ectomía circun ferencial en bloque
+T24 ANAT 392 409 máºsculo temporal
+T25 ANAT 145 151 fascia
+T26 ANAT 101 105 dura
+T27 ANAT 131 136 madre
+T28 DISO 325 337 infiltración
+T29 PROC 533 552 plas tia ac rí lica
+T30 DISO 349 361 defecto óseo
+T31 PROC 1021 1055 cierre directo del cuero cabelludo
+T32 DISO 125 129 masa
+T33 PROC 161 166 extir
+T34 PROC 133 137 pada
+T35 ANAT 443 456 tabla externa
+T36 ANAT 491 505 hueso temporal
+T37 PROC 901 926 estudio anatomopatológico
+T38 DISO 334 343 neoplasia
+T39 ANAT 533 547 tejido fibroso
+T40 ANAT 313 321 epitelio
+T41 DISO 281 288 mitosis
+T42 DISO 534 547 tumor maligno
+T43 ANAT 673 689 folículo pil oso
+T44 DISO 1162 1189 carcinoma tr ico fol icular
+T45 DISO 221 226 tumor
+T46 DISO 631 645 lesión cutánea
+T47 PROC 415 424 extirpado
+T48 ANAT 706 721 cuero cabelludo
+T49 PROC 577 589 intervención
+T50 PROC 344 351 cirugía
+T51 PROC 901 919 revisión del lecho
+T52 PROC 1021 1041 resección de isla de
+T53 ANAT 781 796 cuero cabelludo
+T54 PROC 637 649 intervención
+T55 PROC 487 496 operación
+T56 PROC 386 393 ingresó
+T57 DISO 561 571 hemoptisis
+T58 PROC 286 291 fibro
+T59 PROC 233 237 bron
+T60 PROC 473 481 coscopia
+T61 PROC 121 123 TC
+T62 DISO 1282 1303 engrosamiento pleural
+T63 PROC 1055 1072 control evolutivo
+T64 PROC 1324 1345 TC craneal de control
+T65 DISO 897 911 recidiva local
+T66 DISO 1496 1519 diseminación ganglionar
+T67 PROC 793 805 intervención
+T68 PROC 738 749 intervenida
+T69 PROC 1293 1312 resección amplia de
+T70 ANAT 346 351 cuero
+T71 ANAT 1191 1208 lecho quiráºrgico
+T72 DISO 427 433 lesión
+T73 PROC 289 293 cran
+T74 PROC 74 75 i
+T75 PROC 519 526 ectomía
+T76 ANAT 976 989 tabla externa
+T77 ANAT 989 1002 tabla interna
+T78 DISO 1464 1483 infiltración dur al
+T79 PROC 313 317 Reti
+T80 PROC 2213 2241 ramos la plas tia ac rí lica
+T81 PROC 321 325 amos

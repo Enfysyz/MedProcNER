@@ -1,0 +1,78 @@
+T1 PROC 1 23 ingresos hospitalarios
+T2 DISO 14 27 epigastralgia
+T3 PROC 15 22 amilasa
+T4 PROC 40 53 diagnosticado
+T5 DISO 73 91 adenoma prostático
+T6 DISO 86 103 dolor epigástrico
+T7 DISO 121 141 distensión abdominal
+T8 PROC 50 57 amilasa
+T9 PROC 89 100 diagnóstico
+T10 PROC 289 321 ecografía abdominal tran cutánea
+T11 PROC 121 133 gastroscopia
+T12 PROC 133 145 colonoscopia
+T13 PROC 145 157 TC abdominal
+T14 PROC 105 113 colangio
+T15 PROC 85 91 pancre
+T16 PROC 46 49 ato
+T17 PROC 497 528 grafía por resonancia magnética
+T18 PROC 18 19 C
+T19 PROC 37 39 PR
+T20 PROC 20 21 M
+T21 ANAT 161 169 colédoco
+T22 ANAT 22 23 W
+T23 ANAT 67 70 irs
+T24 ANAT 70 73 ung
+T25 ANAT 337 351 pared duodenal
+T26 DISO 201 209 síntomas
+T27 DISO 339 352 epigastralgia
+T28 PROC 217 225 colangio
+T29 PROC 169 175 pancre
+T30 PROC 88 91 ato
+T31 PROC 871 900 grafía retrógrada endoscópica
+T32 PROC 32 33 C
+T33 PROC 97 100 PRE
+T34 DISO 232 239 alergia
+T35 CHEM 647 666 contrastes yo dados
+T36 PROC 351 361 profilaxis
+T37 CHEM 577 593 glucocorticoides
+T38 PROC 223 229 imagen
+T39 PROC 419 430 endoscópica
+T40 ANAT 235 241 papila
+T41 DISO 81 83 fl
+T42 DISO 83 85 ác
+T43 DISO 169 173 cido
+T44 PROC 130 133 can
+T45 PROC 133 136 uló
+T46 ANAT 451 461 vía biliar
+T47 ANAT 369 377 colédoco
+T48 CHEM 424 433 contraste
+T49 PROC 385 393 colangio
+T50 PROC 295 301 pancre
+T51 PROC 151 154 ato
+T52 PROC 307 313 grafía
+T53 ANAT 833 849 orificio papilar
+T54 PROC 478 487 inyección
+T55 ANAT 325 331 papila
+T56 PROC 991 1009 imagen endoscópica
+T57 DISO 449 457 quística
+T58 PROC 457 465 colangio
+T59 PROC 349 355 grafía
+T60 ANAT 60 61 W
+T61 ANAT 181 184 irs
+T62 ANAT 184 187 ung
+T63 PROC 559 568 inyección
+T64 CHEM 568 577 contraste
+T65 PROC 769 781 radiografías
+T66 PROC 716 727 diagnóstico
+T67 DISO 265 269 cole
+T68 DISO 269 273 doco
+T69 DISO 273 277 cele
+T70 PROC 208 211 sec
+T71 PROC 631 640 cionar lo
+T72 PROC 214 217 esf
+T73 PROC 361 366 inero
+T74 PROC 877 889 tomía biliar
+T75 DISO 1037 1051 complicaciones
+T76 PROC 1801 1825 intervención endoscópica
+T77 DISO 381 386 dolor
+T78 PROC 848 859 seguimiento

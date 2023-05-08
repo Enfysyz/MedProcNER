@@ -1,0 +1,97 @@
+T1 PROC 1 16 RTU de próstata
+T2 DISO 32 63 hiperplasia benigna de próstata
+T3 PROC 37 55 estudio patológico
+T4 DISO 43 57 adenocarcinoma
+T5 PROC 13 16 PSA
+T6 PROC 161 193 tratado con radioterapia radical
+T7 DISO 61 71 enfermedad
+T8 DISO 36 41 dolor
+T9 ANAT 41 46 ingle
+T10 PROC 91 101 Diagnostic
+T11 PROC 31 34 ado
+T12 DISO 254 277 hernia inguinal derecha
+T13 PROC 37 40 her
+T14 PROC 14 15 n
+T15 PROC 43 46 ior
+T16 PROC 211 225 rafia inguinal
+T17 PROC 161 171 corrección
+T18 DISO 86 91 hidro
+T19 DISO 73 77 cele
+T20 DISO 362 381 tumoración carn osa
+T21 ANAT 261 274 polo superior
+T22 ANAT 190 199 testículo
+T23 PROC 45 47 or
+T24 PROC 70 73 qui
+T25 PROC 553 576 ectomía radical derecha
+T26 PROC 201 209 exéresis
+T27 ANAT 495 514 cordón esper mático
+T28 ANAT 622 645 anillo inguinal interno
+T29 DISO 309 320 adenopatías
+T30 PROC 726 751 estudio anatomopatológico
+T31 DISO 91 94 lei
+T32 DISO 63 65 om
+T33 DISO 289 298 iosarcoma
+T34 PROC 892 919 estudio inmunohisto químico
+T35 CHEM 69 71 Ac
+T36 CHEM 141 145 tina
+T37 CHEM 37 38 V
+T38 CHEM 149 153 imen
+T39 CHEM 153 157 tina
+T40 CHEM 157 161 Antí
+T41 CHEM 161 165 geno
+T42 PROC 821 841 estudio de extensión
+T43 PROC 1135 1162 radioterapia complementaria
+T44 DISO 818 837 lesión exc rec ente
+T45 ANAT 353 361 cicatriz
+T46 PROC 136 139 her
+T47 PROC 47 48 n
+T48 PROC 142 145 ior
+T49 PROC 241 246 rafia
+T50 PROC 295 301 reseca
+T51 DISO 151 154 lei
+T52 DISO 103 105 om
+T53 DISO 469 478 iosarcoma
+T54 CHEM 160 163 mit
+T55 CHEM 271 276 ótica
+T56 PROC 1046 1065 actividad adyuvante
+T57 DISO 785 799 lesión nodular
+T58 ANAT 799 813 flanco derecho
+T59 DISO 349 355 nódulo
+T60 ANAT 945 961 grasa subcutánea
+T61 ANAT 1201 1221 máºsculo ilio pso as
+T62 PROC 367 373 reseca
+T63 DISO 621 631 tumoración
+T64 ANAT 1576 1601 fibras del oblic uo menor
+T65 ANAT 1217 1236 máºsculo transverso
+T66 ANAT 1301 1321 máºsculo ilio pso as
+T67 DISO 2179 2212 infiltración por lei om iosarcoma
+T68 PROC 1140 1157 terapia adyuvante
+T69 CHEM 137 139 ad
+T70 CHEM 139 141 ri
+T71 CHEM 491 498 amicina
+T72 CHEM 72 73 i
+T73 CHEM 649 658 fosfamida
+T74 PROC 731 741 interviene
+T75 ANAT 1925 1951 vasos arteriales y venosos
+T76 ANAT 976 989 zona inguinal
+T77 DISO 229 232 lei
+T78 DISO 155 157 om
+T79 DISO 703 712 iosarcoma
+T80 PROC 2213 2241 resonancia nuclear magnética
+T81 DISO 2161 2188 masa aden op ática inguinal
+T82 DISO 2431 2461 adenopatías retro peritoneales
+T83 PROC 1559 1578 tratamiento radical
+T84 PROC 2491 2521 quimioterapia de segunda línea
+T85 CHEM 757 766 docetaxel
+T86 CHEM 256 259 gem
+T87 CHEM 689 697 citabina
+T88 DISO 871 881 enfermedad
+T89 DISO 353 357 masa
+T90 ANAT 1336 1351 región inguinal
+T91 DISO 1891 1912 metástasis pulmonares
+T92 PROC 1912 1933 tratamiento paliativo
+T93 CHEM 185 187 ad
+T94 CHEM 187 189 ri
+T95 CHEM 659 666 amicina
+T96 DISO 856 865 hematuria
+T97 PROC 865 874 ecografía

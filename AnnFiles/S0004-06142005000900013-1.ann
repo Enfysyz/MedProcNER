@@ -1,0 +1,51 @@
+T1 PROC 1 27 estudio ecográfico pélvico
+T2 PROC 42 83 ligadura de trompas por vía laparoscópica
+T3 DISO 21 31 tumoración
+T4 ANAT 37 49 cara lateral
+T5 ANAT 25 31 vejiga
+T6 DISO 121 145 sintomatología miccional
+T7 PROC 85 99 interrogatorio
+T8 PROC 22 25 uro
+T9 PROC 145 163 grafía intravenosa
+T10 DISO 361 401 alteración del aparato urinario superior
+T11 PROC 51 56 cisto
+T12 PROC 56 61 grama
+T13 DISO 241 261 defecto de repleción
+T14 ANAT 170 183 pared vesical
+T15 PROC 393 421 analíticas de sangre y orina
+T16 PROC 46 49 cis
+T17 PROC 129 137 toscopia
+T18 DISO 171 181 tumoración
+T19 ANAT 109 115 mucosa
+T20 ANAT 115 121 vejiga
+T21 ANAT 281 295 meato ureteral
+T22 PROC 232 243 diagnóstico
+T23 DISO 67 70 lei
+T24 DISO 70 73 omi
+T25 DISO 265 276 oma vesical
+T26 PROC 576 599 resección trans uretral
+T27 DISO 261 271 tumoración
+T28 DISO 487 505 adenoma prostático
+T29 DISO 225 233 sangrado
+T30 PROC 668 691 resección trans uretral
+T31 ANAT 571 590 células fus iformes
+T32 ANAT 311 321 citoplasma
+T33 DISO 225 232 mitosis
+T34 DISO 100 103 ati
+T35 DISO 137 141 pias
+T36 PROC 946 973 estudio inmunohisto químico
+T37 CHEM 937 963 actina máºsculo específica
+T38 CHEM 75 77 DA
+T39 CHEM 77 79 KO
+T40 ANAT 859 881 células prolifer antes
+T41 PROC 921 944 resección trans uretral
+T42 PROC 124 127 cis
+T43 PROC 799 818 toscopia de control
+T44 DISO 646 661 placa calc área
+T45 PROC 397 406 resección
+T46 DISO 226 231 cisto
+T47 DISO 829 847 patía incrus tante
+T48 PROC 1082 1105 resección trans uretral
+T49 DISO 1153 1177 restos lei omi oma tosos
+T50 DISO 148 151 aci
+T51 DISO 951 970 dificación urinaria

@@ -1,0 +1,32 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 4 7 pan
+T3 DISO 33 49 colitis ulcerosa
+T4 DISO 22 29 cortico
+T5 DISO 133 166 actividad inflamatoria intestinal
+T6 DISO 91 109 diarrea sin sangre
+T7 DISO 241 281 afectación importante del estado general
+T8 DISO 106 121 pérdida de peso
+T9 DISO 177 199 intolerancia digestiva
+T10 PROC 100 111 tratamiento
+T11 CHEM 111 122 azatioprina
+T12 CHEM 12 13 I
+T13 CHEM 13 14 m
+T14 CHEM 53 57 urel
+T15 PROC 113 121 ingresos
+T16 DISO 106 113 diarrea
+T17 DISO 97 103 sangre
+T18 DISO 273 289 colitis ulcerosa
+T19 PROC 451 476 tratamiento farmacológico
+T20 PROC 77 81 cito
+T21 PROC 21 22 a
+T22 PROC 148 155 féresis
+T23 ANAT 485 507 venas ante cu bi tales
+T24 ANAT 139 145 brazos
+T25 DISO 337 351 complicaciones
+T26 DISO 476 495 reacciones adversas
+T27 PROC 417 433 tratamiento oral
+T28 CHEM 325 337 micofenolato
+T29 CHEM 29 30 -
+T30 CHEM 59 61 mo
+T31 CHEM 61 63 fe
+T32 CHEM 94 97 til

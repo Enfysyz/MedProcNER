@@ -1,0 +1,56 @@
+T1 DISO 1 10 lumbalgia
+T2 DISO 22 43 pérdida peso corporal
+T3 DISO 17 25 síntomas
+T4 DISO 19 25 signos
+T5 DISO 101 126 hiper función suprarrenal
+T6 PROC 106 127 exploración abdominal
+T7 DISO 91 106 tumoración dura
+T8 ANAT 148 169 hipocondrio izquierdo
+T9 ANAT 89 100 mesogastrio
+T10 ANAT 190 211 fosa iliaca izquierda
+T11 PROC 241 265 estudios imagen ológicos
+T12 PROC 232 253 ultrasonido abdominal
+T13 PROC 241 261 radiografía de tórax
+T14 PROC 40 43 uro
+T15 PROC 239 256 grama descendente
+T16 PROC 451 481 tomografía axial computarizada
+T17 PROC 321 341 radiografía de tórax
+T18 DISO 171 181 metástasis
+T19 PROC 433 457 estudios imagen ológicos
+T20 DISO 77 81 masa
+T21 DISO 641 673 áreas hemorrágicas y necró ticas
+T22 ANAT 232 243 estructuras
+T23 DISO 265 277 infiltración
+T24 DISO 277 289 infiltración
+T25 ANAT 145 151 hígado
+T26 ANAT 451 469 vena cava inferior
+T27 PROC 287 298 tratamiento
+T28 PROC 1243 1289 cirugía de exéresis por vía toraco - abdominal
+T29 PROC 57 59 cl
+T30 PROC 88 91 amp
+T31 PROC 721 745 aje de la aorta torácica
+T32 DISO 311 321 hemorragia
+T33 PROC 609 628 resección del tumor
+T34 PROC 694 715 nefrectomía izquierda
+T35 PROC 205 211 esplen
+T36 PROC 596 613 ectomía en bloque
+T37 DISO 721 741 adenopatías hiliares
+T38 DISO 371 381 tumoración
+T39 PROC 191 196 extir
+T40 PROC 157 161 pada
+T41 PROC 841 862 estudio macros cópico
+T42 DISO 452 463 masa sólida
+T43 DISO 757 775 áreas hemorrágicas
+T44 DISO 216 221 tumor
+T45 ANAT 309 316 cápsula
+T46 ANAT 766 783 grasa perir renal
+T47 ANAT 599 612 polo superior
+T48 ANAT 753 769 riá±ón izquierdo
+T49 ANAT 193 197 bazo
+T50 PROC 99 101 es
+T51 PROC 51 52 u
+T52 PROC 766 781 dio histológico
+T53 PROC 573 584 diagnóstico
+T54 DISO 1909 1945 carcinoma de la glándula suprarrenal
+T55 PROC 649 661 intervención
+T56 DISO 551 561 enfermedad

@@ -1,0 +1,36 @@
+T1 PROC 1 15 reconocimiento
+T2 DISO 8 15 fumador
+T3 DISO 31 46 hábitos tóxicos
+T4 CHEM 34 45 medicamento
+T5 DISO 57 71 muerte sáºbita
+T6 DISO 41 49 síncopes
+T7 DISO 25 29 lipo
+T8 DISO 29 33 timi
+T9 DISO 17 19 as
+T10 DISO 109 121 convulsiones
+T11 DISO 291 320 respiración nocturna ag ónica
+T12 DISO 144 157 palpitaciones
+T13 PROC 253 274 reconocimiento médico
+T14 PROC 170 183 examen físico
+T15 PROC 407 436 exploraciones complementarias
+T16 PROC 46 49 ECG
+T17 DISO 305 324 síndrome de Brugada
+T18 PROC 715 757 valoración clínica y electrocardi ográfica
+T19 PROC 127 134 test de
+T20 CHEM 20 21 f
+T21 CHEM 181 190 lecainida
+T22 PROC 232 243 diagnóstico
+T23 DISO 45 47 SB
+T24 PROC 599 625 estratificación del riesgo
+T25 PROC 649 676 estudio electrofisi ológico
+T26 PROC 926 963 protocolo de estimulación ventricular
+T27 DISO 911 946 arritmias ventriculares sosten idas
+T28 DISO 55 57 SB
+T29 DISO 477 494 riesgo arrít mico
+T30 CHEM 233 241 fármacos
+T31 CHEM 181 187 drogas
+T32 PROC 652 673 tratamiento en érgico
+T33 DISO 417 430 cuadro febril
+T34 DISO 199 205 fiebre
+T35 DISO 783 806 arritmias ventriculares
+T36 PROC 561 577 estudio genético

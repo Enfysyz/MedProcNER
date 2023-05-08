@@ -1,0 +1,90 @@
+T1 DISO 1 5 etil
+T2 DISO 13 25 ismo crónico
+T3 DISO 45 67 hepatopatía alcohólica
+T4 PROC 22 29 ingreso
+T5 DISO 105 131 cuadro manía co alcohólica
+T6 PROC 36 43 Ingresa
+T7 PROC 13 15 bi
+T8 PROC 15 17 pe
+T9 PROC 17 19 TA
+T10 DISO 37 41 taqu
+T11 DISO 81 89 icárdico
+T12 DISO 122 133 taquipneico
+T13 DISO 25 27 ic
+T14 DISO 79 85 térico
+T15 PROC 379 406 auscultación cardiopulmonar
+T16 DISO 166 177 somnolencia
+T17 DISO 145 154 midriasis
+T18 DISO 273 289 debilidad facial
+T19 ANAT 91 96 pares
+T20 ANAT 172 181 craneales
+T21 DISO 361 379 debilidad muscular
+T22 ANAT 253 265 extremidades
+T23 DISO 111 116 hipor
+T24 DISO 70 73 ref
+T25 DISO 121 126 lexia
+T26 DISO 176 183 temblor
+T27 DISO 235 244 agitación
+T28 PROC 244 253 analítica
+T29 DISO 225 233 glucemia
+T30 PROC 378 391 función renal
+T31 DISO 391 404 hipopotasemia
+T32 DISO 590 609 acidosis metabólica
+T33 PROC 225 232 lactato
+T34 DISO 727 749 alcalosis respiratoria
+T35 PROC 69 71 pH
+T36 PROC 386 397 bicarbonato
+T37 PROC 217 223 exceso
+T38 PROC 75 77 pO
+T39 PROC 39 40 2
+T40 PROC 118 121 pCO
+T41 PROC 41 42 2
+T42 PROC 288 295 Lactato
+T43 PROC 463 474 tratamiento
+T44 PROC 990 1013 hidratación intravenosa
+T45 CHEM 133 136 dex
+T46 CHEM 226 231 trosa
+T47 CHEM 277 283 salino
+T48 PROC 471 481 reposición
+T49 CHEM 337 344 potasio
+T50 CHEM 50 51 K
+T51 PROC 701 715 administración
+T52 CHEM 358 365 tiamina
+T53 PROC 1873 1909 medidas anti encefal opatía hepática
+T54 PROC 796 811 hospitalización
+T55 PROC 919 936 control analítico
+T56 DISO 716 729 hipopotasemia
+T57 DISO 225 229 hipo
+T58 DISO 58 59 -
+T59 DISO 291 296 fosfa
+T60 DISO 296 301 temia
+T61 DISO 181 184 hip
+T62 DISO 672 683 omagnesemia
+T63 DISO 311 316 hiper
+T64 DISO 505 513 natremia
+T65 DISO 2561 2601 alteraciones del equilibrio ácido - base
+T66 CHEM 326 331 metil
+T67 CHEM 133 135 ce
+T68 CHEM 269 273 tona
+T69 ANAT 341 346 orina
+T70 PROC 1036 1051 cifras de cloro
+T71 PROC 631 640 anión GAP
+T72 PROC 1776 1801 cuerpos ce tónicos sangre
+T73 PROC 1297 1315 electrocardiograma
+T74 DISO 1753 1777 déficits electrol íticos
+T75 PROC 963 976 interconsulta
+T76 PROC 826 837 hidratación
+T77 CHEM 229 232 dex
+T78 CHEM 386 391 trosa
+T79 CHEM 937 949 suero salino
+T80 PROC 1107 1121 administración
+T81 CHEM 561 568 tiamina
+T82 PROC 811 821 reposición
+T83 DISO 657 665 déficits
+T84 CHEM 1827 1849 fosfato mono po tásico
+T85 PROC 757 766 perfusión
+T86 CHEM 766 775 glucosado
+T87 CHEM 1463 1480 cloruro po tásico
+T88 CHEM 88 89 K
+T89 CHEM 177 179 Mg
+T90 CHEM 1692 1711 sulfato de magnesio

@@ -1,0 +1,124 @@
+T1 DISO 1 33 disminución de la agudeza visual
+T2 DISO 3 5 AV
+T3 ANAT 7 10 ojo
+T4 ANAT 7 9 OI
+T5 DISO 33 41 ojo rojo
+T6 PROC 66 79 diagnosticado
+T7 DISO 79 92 conjuntivitis
+T8 PROC 50 57 tratado
+T9 CHEM 97 109 dexametasona
+T10 CHEM 19 21 to
+T11 CHEM 91 100 bramicina
+T12 PROC 23 25 AV
+T13 PROC 37 40 PIO
+T14 ANAT 53 57 ojos
+T15 DISO 239 256 diabetes mellitus
+T16 DISO 316 337 hipertensión arterial
+T17 DISO 129 137 obesidad
+T18 DISO 324 343 esteatosis hepática
+T19 DISO 271 286 hipertiroidismo
+T20 DISO 400 421 cardiopatía isquémica
+T21 PROC 321 337 trasplante renal
+T22 DISO 568 595 insuficiencia renal crónica
+T23 DISO 463 484 pielonefritis crónica
+T24 PROC 645 673 tratamiento médico sistémico
+T25 CHEM 241 251 prednisona
+T26 CHEM 26 27 P
+T27 CHEM 79 82 red
+T28 CHEM 82 85 nis
+T29 CHEM 85 88 ona
+T30 CHEM 291 301 tacrolimus
+T31 CHEM 91 94 Pro
+T32 CHEM 125 129 graf
+T33 CHEM 705 727 micofenolato mofe tilo
+T34 CHEM 34 35 C
+T35 CHEM 103 106 ell
+T36 CHEM 141 145 cept
+T37 PROC 397 408 exploración
+T38 PROC 75 77 AV
+T39 ANAT 419 430 ojo derecho
+T40 PROC 157 161 biom
+T41 PROC 81 83 ic
+T42 PROC 124 127 ros
+T43 PROC 211 216 copia
+T44 DISO 904 925 inyección conjuntival
+T45 DISO 837 856 córnea deslus trada
+T46 DISO 226 231 edema
+T47 PROC 323 330 tinción
+T48 CHEM 330 337 fluores
+T49 CHEM 97 99 ce
+T50 CHEM 148 151 ína
+T51 DISO 351 358 Tyndall
+T52 DISO 205 209 sine
+T53 DISO 261 266 quias
+T54 DISO 425 433 precipit
+T55 DISO 865 881 ados quer áticos
+T56 DISO 496 505 secreción
+T57 PROC 169 172 PIO
+T58 PROC 685 697 fondo de ojo
+T59 DISO 755 768 edema corneal
+T60 ANAT 355 361 papila
+T61 ANAT 361 367 mácula
+T62 ANAT 916 931 retina aplicada
+T63 DISO 1241 1261 lesiones periféricas
+T64 PROC 190 193 gon
+T65 PROC 193 196 ios
+T66 PROC 326 331 copia
+T67 ANAT 397 403 ángulo
+T68 DISO 269 273 sine
+T69 DISO 341 346 quias
+T70 DISO 208 211 neo
+T71 DISO 211 214 vas
+T72 DISO 143 145 os
+T73 PROC 793 804 exploración
+T74 DISO 804 815 somnolencia
+T75 DISO 1703 1726 dificultad respiratoria
+T76 DISO 976 989 baja estatura
+T77 DISO 609 617 obesidad
+T78 DISO 925 937 cuello corto
+T79 PROC 859 870 diagnóstico
+T80 DISO 1502 1521 hipertensión ocular
+T81 PROC 881 892 tratamiento
+T82 CHEM 244 247 bri
+T83 CHEM 247 250 mon
+T84 CHEM 416 421 idina
+T85 CHEM 253 256 mal
+T86 CHEM 171 173 ea
+T87 CHEM 1291 1306 to de ti mol ol
+T88 CHEM 262 265 Com
+T89 CHEM 265 268 gan
+T90 DISO 713 721 glaucoma
+T91 PROC 991 1002 diagnosticó
+T92 DISO 3186 3221 síndrome de apnea - hipo pnea grave
+T93 PROC 185 187 AV
+T94 DISO 1954 1975 hiperemia conjuntival
+T95 DISO 1223 1236 edema corneal
+T96 DISO 3136 3169 queratitis pun c tata superficial
+T97 PROC 289 292 PIO
+T98 PROC 195 197 pa
+T99 PROC 295 298 qui
+T100 PROC 595 601 metría
+T101 DISO 1301 1314 edema corneal
+T102 DISO 3132 3163 fístula caró tido - ca vern osa
+T103 DISO 2755 2782 síndrome del ápex orbitario
+T104 PROC 3091 3121 tomografía axial computarizada
+T105 PROC 313 316 TAC
+T106 PROC 1156 1167 tratamiento
+T107 CHEM 425 429 brin
+T108 CHEM 322 325 zol
+T109 CHEM 541 546 amida
+T110 CHEM 110 111 A
+T111 CHEM 221 223 zo
+T112 CHEM 223 225 pt
+T113 CHEM 225 227 ta
+T114 CHEM 340 343 flu
+T115 CHEM 457 461 pros
+T116 CHEM 116 117 t
+T117 CHEM 233 235 Sa
+T118 CHEM 352 355 flu
+T119 CHEM 355 358 tan
+T120 CHEM 2143 2161 diclofenaco sódico
+T121 CHEM 121 122 D
+T122 CHEM 243 245 ic
+T123 CHEM 245 247 lo
+T124 CHEM 1846 1861 fenaco - le por

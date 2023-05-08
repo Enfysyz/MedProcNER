@@ -1,0 +1,51 @@
+T1 DISO 1 4 des
+T2 DISO 3 5 or
+T3 DISO 37 55 denes intestinales
+T4 PROC 40 53 examen físico
+T5 PROC 73 91 rutina laboratorio
+T6 PROC 96 115 ecografía abdominal
+T7 DISO 67 78 masa sólida
+T8 ANAT 113 129 riá±ón izquierdo
+T9 PROC 161 181 tomografía computada
+T10 DISO 37 41 masa
+T11 ANAT 161 177 riá±ón izquierdo
+T12 PROC 155 169 administración
+T13 CHEM 109 118 contraste
+T14 ANAT 209 225 riá±ón izquierdo
+T15 DISO 57 61 masa
+T16 PROC 331 353 punción con aguja fina
+T17 PROC 161 171 histología
+T18 DISO 494 523 tumor mesenqui mático benigno
+T19 PROC 595 628 exploración por vía laparoscópica
+T20 PROC 343 361 écnica quiráºrgica
+T21 PROC 341 358 anestesia general
+T22 PROC 904 947 colocación de sonda or ogas trica y vesical
+T23 CHEM 111 116 cefal
+T24 CHEM 24 25 o
+T25 CHEM 97 101 tina
+T26 ANAT 151 157 pneumo
+T27 ANAT 235 244 peritoneo
+T28 ANAT 136 141 colon
+T29 ANAT 113 117 bazo
+T30 ANAT 523 541 fascia de G ero ta
+T31 DISO 121 125 masa
+T32 ANAT 187 193 riá±ón
+T33 ANAT 417 430 cápsula renal
+T34 ANAT 430 443 cápsula renal
+T35 PROC 307 316 resección
+T36 PROC 106 109 ful
+T37 PROC 109 112 gur
+T38 PROC 186 191 ación
+T39 ANAT 191 196 lecho
+T40 CHEM 469 481 láser de arg
+T41 ANAT 681 698 pieza quiráºrgica
+T42 ANAT 247 253 flanco
+T43 PROC 295 302 drenaje
+T44 DISO 345 353 sangrado
+T45 PROC 529 541 dada de alta
+T46 PROC 856 875 análisis patológico
+T47 DISO 139 142 lei
+T48 DISO 95 97 om
+T49 DISO 433 442 iosarcoma
+T50 PROC 540 551 seguimiento
+T51 DISO 501 511 enfermedad

@@ -1,0 +1,77 @@
+T1 DISO 1 8 bebedor
+T2 DISO 10 19 febrícula
+T3 DISO 19 28 ictericia
+T4 DISO 115 153 dolor abdominal en hipocondrio derecho
+T5 DISO 81 101 distensión abdominal
+T6 PROC 91 109 exploración física
+T7 DISO 145 169 ictericia muco - cutánea
+T8 DISO 92 105 encefalopatía
+T9 DISO 57 64 ascitis
+T10 ANAT 55 61 hígado
+T11 ANAT 41 45 bazo
+T12 PROC 353 385 auscultación cardiorrespiratoria
+T13 PROC 109 118 analítica
+T14 PROC 92 99 ingreso
+T15 ANAT 141 151 leucocitos
+T16 PROC 361 385 actividad de protrombina
+T17 PROC 337 358 creatinina plasmática
+T18 PROC 69 73 urea
+T19 PROC 307 324 bilirrubina total
+T20 PROC 58 61 AST
+T21 PROC 61 64 ALT
+T22 PROC 64 67 GGT
+T23 PROC 617 645 Marcadores virales hepáticos
+T24 PROC 461 481 radiografía de tórax
+T25 DISO 793 826 infiltrado alveolar basal derecho
+T26 PROC 476 495 ecografía abdominal
+T27 ANAT 157 163 hígado
+T28 ANAT 271 281 vía biliar
+T29 ANAT 281 291 vena porta
+T30 DISO 407 421 esplenomegalia
+T31 DISO 211 218 ascitis
+T32 PROC 931 961 tomografía axial computarizada
+T33 PROC 513 529 TAC ) de abdomen
+T34 ANAT 199 205 hígado
+T35 DISO 885 911 hepatitis alcohólica aguda
+T36 DISO 666 685 hepatopatía crónica
+T37 PROC 253 260 ingresa
+T38 PROC 852 875 tratamiento corticoides
+T39 PROC 647 664 nutrición enteral
+T40 PROC 898 921 antibioterapia empírica
+T41 DISO 881 903 encefalopatía hepática
+T42 DISO 780 799 fracaso renal agudo
+T43 DISO 1261 1291 síndrome hepa tor renal tipo I
+T44 PROC 388 397 analítica
+T45 PROC 925 946 creatinina plasmática
+T46 PROC 181 185 urea
+T47 PROC 783 800 bilirrubina total
+T48 PROC 612 625 transaminasas
+T49 CHEM 145 148 pro
+T50 CHEM 148 151 tro
+T51 CHEM 201 205 mina
+T52 PROC 562 573 tratamiento
+T53 CHEM 53 54 p
+T54 CHEM 213 217 ento
+T55 CHEM 109 111 xi
+T56 CHEM 331 337 filina
+T57 PROC 1009 1027 terapia anti - TNF
+T58 CHEM 172 175 ter
+T59 CHEM 117 119 li
+T60 CHEM 414 421 presina
+T61 CHEM 541 550 albáºmina
+T62 PROC 672 683 tratamiento
+T63 DISO 63 64 S
+T64 DISO 568 577 HR tipo I
+T65 PROC 1537 1561 consentimiento informado
+T66 PROC 1301 1321 ingreso en la Unidad
+T67 ANAT 397 403 venoso
+T68 ANAT 470 477 femoral
+T69 PROC 137 139 HD
+T70 PROC 1657 1681 F veno - venosa continua
+T71 PROC 1051 1066 anticoagulación
+T72 CHEM 214 217 epo
+T73 CHEM 289 293 pros
+T74 CHEM 220 223 ten
+T75 CHEM 667 676 ol sódico
+T76 CHEM 826 837 heparina Na
+T77 DISO 533 540 enfermo

@@ -1,0 +1,68 @@
+T1 PROC 1 9 derivado
+T2 PROC 12 23 diagnóstico
+T3 PROC 21 31 evaluación
+T4 DISO 55 73 aumento de volumen
+T5 ANAT 61 76 zona mandibular
+T6 DISO 61 73 asintomático
+T7 PROC 61 71 derivación
+T8 DISO 36 41 dolor
+T9 DISO 241 271 impotencia funcional mór bidos
+T10 PROC 154 171 examen extra oral
+T11 DISO 181 199 aumento de volumen
+T12 ANAT 67 73 cuerpo
+T13 ANAT 181 196 rama mandibular
+T14 DISO 235 253 compromiso de piel
+T15 DISO 155 166 adenopatías
+T16 DISO 301 321 compromiso sensitivo
+T17 PROC 433 460 examen funcional mandibular
+T18 PROC 290 307 examen intra oral
+T19 ANAT 163 172 dentición
+T20 DISO 343 361 aumento de volumen
+T21 ANAT 121 127 cuerpo
+T22 ANAT 85 89 rama
+T23 ANAT 133 139 mucosa
+T24 DISO 185 193 indoloro
+T25 PROC 409 426 visión panorámica
+T26 DISO 551 573 lesión radi ol áº cida
+T27 ANAT 547 568 estructuras dentarias
+T28 ANAT 298 309 raíz distal
+T29 ANAT 617 639 segundo molar temporal
+T30 ANAT 436 451 rama mandibular
+T31 DISO 181 187 lesión
+T32 ANAT 404 417 borde basilar
+T33 ANAT 193 199 germen
+T34 ANAT 760 783 primer molar permanente
+T35 ANAT 817 841 segundo molar permanente
+T36 ANAT 491 505 borde anterior
+T37 ANAT 145 149 rama
+T38 ANAT 593 609 reborde alveolar
+T39 ANAT 495 508 borde basilar
+T40 PROC 508 521 corte coronal
+T41 ANAT 841 862 tabla ósea vestibular
+T42 ANAT 1067 1093 conducto dentario inferior
+T43 PROC 799 818 biopsia incis ional
+T44 DISO 259 265 lesión
+T45 PROC 2641 2701 examen histopatológico teá± ido con hemato xil ina - eos ina
+T46 ANAT 1126 1151 tejido conjuntivo fibroso
+T47 ANAT 691 706 tejido dentario
+T48 ANAT 330 337 dentina
+T49 ANAT 913 932 tejido den tino ide
+T50 ANAT 1079 1101 epitelio odonto génico
+T51 ANAT 751 766 papila dentaria
+T52 ANAT 460 469 epitelial
+T53 ANAT 53 54 a
+T54 ANAT 213 217 melo
+T55 ANAT 379 386 blastos
+T56 ANAT 331 337 tejido
+T57 ANAT 1121 1141 retículo estrell ado
+T58 PROC 1540 1567 diagnóstico histopatológico
+T59 PROC 639 650 diagnóstico
+T60 PROC 1063 1081 cirugía definitiva
+T61 PROC 1021 1038 anestesia general
+T62 ANAT 916 931 rama mandibular
+T63 ANAT 249 253 ósea
+T64 ANAT 2017 2049 tabla ósea vestibular mandibular
+T65 PROC 641 651 osteotomía
+T66 PROC 131 133 en
+T67 PROC 265 269 ucle
+T68 PROC 336 341 ación

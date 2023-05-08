@@ -1,0 +1,43 @@
+T1 PROC 1 11 trasladada
+T2 DISO 14 27 shock séptico
+T3 CHEM 7 10 nor
+T4 CHEM 31 41 adrenalina
+T5 PROC 81 101 ventilación mecánica
+T6 DISO 16 19 CID
+T7 PROC 7 8 D
+T8 PROC 15 17 PA
+T9 PROC 57 64 ingreso
+T10 DISO 19 21 an
+T11 DISO 41 45 uria
+T12 PROC 111 121 creatinina
+T13 PROC 13 14 D
+T14 PROC 27 29 PA
+T15 PROC 57 61 urea
+T16 PROC 151 161 creatinina
+T17 PROC 17 18 D
+T18 PROC 18 19 t
+T19 CHEM 127 134 glucosa
+T20 PROC 96 101 ultra
+T21 PROC 201 211 filtración
+T22 CHEM 148 155 líquido
+T23 PROC 177 185 diálisis
+T24 PROC 599 625 aclaramiento de sustancias
+T25 PROC 97 101 urea
+T26 PROC 251 261 creatinina
+T27 PROC 27 28 D
+T28 CHEM 190 197 glucosa
+T29 PROC 281 291 creatinina
+T30 PROC 59 61 di
+T31 PROC 211 218 alizado
+T32 CHEM 280 289 proteínas
+T33 CHEM 257 265 solución
+T34 PROC 199 205 coci D
+T35 PROC 137 141 P de
+T36 PROC 141 145 urea
+T37 PROC 361 371 creatinina
+T38 PROC 38 39 D
+T39 PROC 39 40 t
+T40 CHEM 274 281 glucosa
+T41 PROC 641 657 creatinina renal
+T42 PROC 1436 1471 aclaramiento urinario de creatinina
+T43 PROC 295 302 fórmula

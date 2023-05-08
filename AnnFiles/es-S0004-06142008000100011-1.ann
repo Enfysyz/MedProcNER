@@ -1,0 +1,93 @@
+T1 DISO 1 5 bruc
+T2 DISO 7 13 elosis
+T3 DISO 27 40 hiperuricemia
+T4 DISO 58 77 hipercolesterolemia
+T5 PROC 29 36 ingresa
+T6 PROC 36 43 cirugía
+T7 DISO 181 211 hiperplasia prostática benigna
+T8 PROC 134 153 estudio diagnóstico
+T9 PROC 97 109 tacto rectal
+T10 DISO 73 81 próstata
+T11 DISO 71 78 adenoma
+T12 DISO 56 61 tosas
+T13 PROC 49 53 aden
+T14 PROC 27 29 om
+T15 PROC 323 346 ectomía re trop áº bica
+T16 PROC 331 353 técnica de T . Mill in
+T17 PROC 33 35 en
+T18 PROC 69 73 ucle
+T19 PROC 109 115 ándose
+T20 DISO 134 141 adenoma
+T21 PROC 81 85 dado
+T22 PROC 253 265 intervención
+T23 PROC 89 93 rein
+T24 PROC 93 97 gres
+T25 PROC 25 26 a
+T26 DISO 776 807 dolor abdominal ( hipo gástrico
+T27 DISO 131 136 dolor
+T28 ANAT 244 253 testículo
+T29 ANAT 365 378 raíz de muslo
+T30 DISO 523 541 mal estado general
+T31 PROC 211 218 drenaje
+T32 PROC 125 129 aden
+T33 PROC 65 67 om
+T34 PROC 232 239 ectomía
+T35 DISO 613 631 Herida quiráºrgica
+T36 PROC 246 253 Ingresa
+T37 PROC 397 408 diagnóstico
+T38 DISO 1111 1141 infección de herida operatoria
+T39 PROC 1217 1249 tratamiento antibiótico empírico
+T40 PROC 1210 1241 exploración general y urológica
+T41 DISO 81 83 or
+T42 DISO 124 127 qui
+T43 DISO 127 130 epi
+T44 DISO 173 177 didi
+T45 DISO 221 226 mitis
+T46 DISO 541 553 leucocitosis
+T47 PROC 1289 1317 tratado de forma sintomática
+T48 DISO 236 241 dolor
+T49 ANAT 625 638 zona pu biana
+T50 PROC 785 801 gammagrafía ósea
+T51 DISO 401 409 hipercap
+T52 DISO 307 313 tación
+T53 CHEM 261 266 radio
+T54 CHEM 160 163 tra
+T55 CHEM 271 276 zador
+T56 ANAT 826 841 tercio superior
+T57 ANAT 281 286 pubis
+T58 DISO 1084 1103 osteopatía páº bica
+T59 PROC 697 709 tratamientos
+T60 PROC 1358 1381 antibioterapia empírica
+T61 PROC 541 550 analgesia
+T62 DISO 306 311 dolor
+T63 ANAT 807 820 raíz de muslo
+T64 DISO 379 385 anemia
+T65 PROC 193 196 VSG
+T66 PROC 716 727 fibrinógeno
+T67 PROC 199 202 PCR
+T68 PROC 738 749 exploración
+T69 ANAT 341 346 muslo
+T70 DISO 2140 2171 dolor inespecífico a la presión
+T71 ANAT 841 853 cara interna
+T72 DISO 356 361 dolor
+T73 DISO 1585 1607 afectación neurológica
+T74 PROC 804 815 exploración
+T75 DISO 371 376 dolor
+T76 ANAT 976 989 zona inguinal
+T77 ANAT 1293 1310 testículo derecho
+T78 PROC 848 859 diagnóstico
+T79 DISO 1171 1186 absceso pélvico
+T80 DISO 1107 1121 cuadro séptico
+T81 PROC 1041 1054 TAC abdominal
+T82 ANAT 1540 1559 órganos abdominales
+T83 ANAT 247 250 sín
+T84 ANAT 1163 1177 fisis pu biana
+T85 ANAT 1093 1106 muslo derecho
+T86 DISO 596 603 absceso
+T87 ANAT 1721 1741 máºsculos a ductores
+T88 ANAT 1045 1057 cara interna
+T89 ANAT 441 446 muslo
+T90 DISO 535 541 enroje
+T91 DISO 361 365 cida
+T92 DISO 638 645 tumefac
+T93 DISO 185 187 ta

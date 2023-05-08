@@ -1,0 +1,56 @@
+T1 PROC 1 9 consultó
+T2 DISO 27 53 tumoración malar izquierda
+T3 DISO 17 25 dolorosa
+T4 DISO 52 69 traumatismo local
+T5 PROC 45 56 exploración
+T6 DISO 136 163 lesión de consistencia dura
+T7 ANAT 145 169 reborde infer o ex terno
+T8 ANAT 43 49 órbita
+T9 PROC 137 154 ecografía Doppler
+T10 DISO 208 231 lesión malar expans iva
+T11 DISO 131 144 calcificación
+T12 ANAT 89 97 vascular
+T13 PROC 289 313 tomografía computarizada
+T14 PROC 183 197 TC ) orbitaria
+T15 DISO 197 211 lesión medular
+T16 ANAT 121 129 cortical
+T17 DISO 193 205 infiltración
+T18 DISO 341 361 reacción peri óstica
+T19 PROC 361 381 resonancia magnética
+T20 PROC 39 41 RM
+T21 DISO 721 757 lesión oste olítica malar expans iva
+T22 DISO 841 881 infiltración de partes blandas contraste
+T23 PROC 243 254 diagnóstico
+T24 DISO 668 697 lesión vascular de bajo flujo
+T25 DISO 145 151 lesión
+T26 PROC 276 287 extirpación
+T27 DISO 157 163 lesión
+T28 PROC 460 477 anestesia general
+T29 ANAT 113 117 cola
+T30 ANAT 146 151 malar
+T31 PROC 601 621 disección por planos
+T32 DISO 187 193 lesión
+T33 PROC 577 595 osteotomía en caja
+T34 DISO 232 239 defecto
+T35 PROC 273 281 reconstr
+T36 PROC 106 109 uyó
+T37 PROC 613 630 injerto de mentón
+T38 CHEM 963 989 placa de titanio arque ada
+T39 ANAT 609 625 hueso espon joso
+T40 ANAT 469 481 zona donante
+T41 PROC 881 903 controles radiológicos
+T42 ANAT 165 169 ósea
+T43 PROC 1051 1076 estudio anatomopatológico
+T44 ANAT 818 837 espacios vasculares
+T45 ANAT 397 406 endotelio
+T46 DISO 91 93 he
+T47 DISO 231 236 mangi
+T48 DISO 706 721 oma intra ó seo
+T49 PROC 1297 1324 estudio inmunohisto químico
+T50 CHEM 99 101 GL
+T51 CHEM 101 103 UT
+T52 CHEM 52 53 -
+T53 CHEM 53 54 1
+T54 PROC 584 595 diagnóstico
+T55 DISO 1675 1706 malformación venosa intra ó sea
+T56 PROC 606 617 seguimiento

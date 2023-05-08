@@ -1,0 +1,30 @@
+T1 DISO 1 8 fumador
+T2 PROC 20 39 estudio endoscópico
+T3 DISO 17 25 disfagia
+T4 DISO 31 41 odinofagia
+T5 DISO 61 76 pérdida de peso
+T6 DISO 46 55 hiporexia
+T7 DISO 37 43 fiebre
+T8 PROC 85 97 gastroscopia
+T9 ANAT 161 181 región supra cardial
+T10 ANAT 55 61 mucosa
+T11 DISO 51 56 áreas
+T12 DISO 144 157 eros ion adas
+T13 DISO 61 66 ulcer
+T14 DISO 53 57 adas
+T15 DISO 99 106 fibrina
+T16 DISO 136 145 estenosis
+T17 ANAT 49 52 luz
+T18 ANAT 154 163 esofágica
+T19 DISO 343 362 carcinoma esofágico
+T20 PROC 210 221 exploración
+T21 PROC 161 169 biopsias
+T22 DISO 127 133 lesión
+T23 ANAT 177 185 muestras
+T24 ANAT 1036 1081 epitelio plano pol ies tra tificado esofágico
+T25 ANAT 217 226 conectivo
+T26 ANAT 251 261 vasculares
+T27 DISO 495 514 edema leucoci taria
+T28 DISO 1189 1233 masas e osin ó fil as fib rino - nec ró tico
+T29 ANAT 281 291 células bi
+T30 DISO 436 451 infección viral

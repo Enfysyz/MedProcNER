@@ -1,0 +1,92 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 20 39 hipercolesterolemia
+T3 DISO 41 61 hipertrigliceridemia
+T4 DISO 76 101 tumor vesical infiltrante
+T5 DISO 13 16 Car
+T6 DISO 171 205 cinoma de células trans ici onales
+T7 DISO 103 120 Carcinoma in situ
+T8 ANAT 50 57 muestra
+T9 PROC 137 154 biopsia máºltiple
+T10 PROC 28 31 cis
+T11 PROC 161 177 tectomía radical
+T12 PROC 386 421 reconstrucción vesical tipo Stu der
+T13 DISO 37 40 Car
+T14 DISO 209 225 cinoma urotelial
+T15 ANAT 113 121 ganglios
+T16 DISO 376 401 sepsis de origen urinario
+T17 PROC 97 103 ingres
+T18 PROC 545 577 ando en unidad de semic r íticos
+T19 PROC 415 438 tratamiento antibiótico
+T20 CHEM 172 181 diurético
+T21 PROC 141 148 ingreso
+T22 DISO 190 199 acáºfenos
+T23 DISO 221 231 hipoacusia
+T24 DISO 921 961 clínica verti ginosa ni de inestabilidad
+T25 DISO 169 176 otalgia
+T26 DISO 76 79 oto
+T27 DISO 79 82 din
+T28 DISO 55 57 ia
+T29 DISO 785 813 sensación de plenitud ó tica
+T30 ANAT 175 181 facial
+T31 PROC 541 559 exploración física
+T32 PROC 125 129 audi
+T33 PROC 225 232 ometría
+T34 DISO 628 647 hipoacusia profunda
+T35 ANAT 137 141 oído
+T36 DISO 71 73 co
+T37 DISO 37 38 f
+T38 DISO 149 153 osis
+T39 ANAT 153 157 oído
+T40 PROC 196 201 imped
+T41 PROC 161 165 anci
+T42 PROC 288 295 ometría
+T43 DISO 421 431 hipoacusia
+T44 PROC 1334 1365 revisión de la historia clínica
+T45 PROC 397 406 anamnesis
+T46 PROC 811 829 estudio etiológico
+T47 DISO 1059 1082 enfermedades sistémicas
+T48 DISO 1223 1249 infecciones intracraneales
+T49 DISO 577 589 traumatismos
+T50 DISO 491 501 hipoacusia
+T51 PROC 701 715 administración
+T52 CHEM 511 521 furosemida
+T53 DISO 677 690 shock séptico
+T54 PROC 743 757 administración
+T55 CHEM 541 551 furosemida
+T56 CHEM 1101 1121 fármacos oto tóxicos
+T57 PROC 505 514 protocolo
+T58 DISO 229 233 hipo
+T59 DISO 117 119 ac
+T60 DISO 178 181 áºs
+T61 DISO 601 611 ia sáºbita
+T62 PROC 672 683 tratamiento
+T63 CHEM 683 694 corticoides
+T64 CHEM 127 129 Me
+T65 CHEM 193 196 til
+T66 CHEM 781 793 prednisolona
+T67 CHEM 67 68 p
+T68 CHEM 269 273 ento
+T69 CHEM 137 139 xi
+T70 CHEM 415 421 filina
+T71 PROC 1541 1563 tratamiento parenteral
+T72 PROC 1705 1729 tratamiento cortico ideo
+T73 PROC 361 366 pauta
+T74 CHEM 74 75 P
+T75 CHEM 223 226 red
+T76 CHEM 226 229 nis
+T77 CHEM 229 232 ona
+T78 CHEM 78 79 p
+T79 CHEM 313 317 ento
+T80 CHEM 159 161 xi
+T81 CHEM 481 487 filina
+T82 PROC 325 329 audi
+T83 PROC 575 582 ometría
+T84 PROC 914 925 tratamiento
+T85 ANAT 337 341 oído
+T86 ANAT 341 345 oído
+T87 PROC 947 958 tratamiento
+T88 ANAT 349 353 oído
+T89 ANAT 1233 1247 oído izquierdo
+T90 PROC 802 811 controles
+T91 ANAT 361 365 oído
+T92 PROC 4005 4049 tratamiento complementario con quimioterapia

@@ -1,0 +1,27 @@
+T1 DISO 1 16 dolor abdominal
+T2 ANAT 12 23 hipocondrio
+T3 PROC 37 55 exploración física
+T4 PROC 70 93 exámenes de laboratorio
+T5 PROC 61 76 perfil hepático
+T6 PROC 96 115 ecografía abdominal
+T7 DISO 145 169 lesión quística hepática
+T8 ANAT 64 73 hepáticos
+T9 ANAT 113 127 hilio hepático
+T10 DISO 91 101 malignidad
+T11 PROC 231 254 tratamiento quiráºrgico
+T12 PROC 122 133 intervenida
+T13 DISO 181 196 lesión quística
+T14 ANAT 183 197 hilio hepático
+T15 ANAT 253 271 bifurcación portal
+T16 ANAT 376 401 vena supra hepática media
+T17 PROC 65 69 quis
+T18 PROC 35 37 to
+T19 PROC 55 58 per
+T20 PROC 20 21 i
+T21 PROC 41 43 qu
+T22 PROC 85 89 iste
+T23 PROC 133 139 ctomía
+T24 PROC 369 385 control vascular
+T25 PROC 289 301 dada de alta
+T26 PROC 576 599 diagnóstico histológico
+T27 DISO 625 649 quiste hepático cili ado

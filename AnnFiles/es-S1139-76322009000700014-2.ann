@@ -1,0 +1,78 @@
+T1 PROC 1 9 consulta
+T2 DISO 10 19 cansancio
+T3 DISO 13 19 fatiga
+T4 DISO 55 73 temblor de piernas
+T5 DISO 25 31 fiebre
+T6 DISO 46 55 calambres
+T7 ANAT 73 85 extremidades
+T8 PROC 50 57 Vacunas
+T9 DISO 185 208 alergias medicamentosas
+T10 DISO 109 121 enfermedades
+T11 DISO 211 232 enfermedad de Ber ger
+T12 PROC 177 193 trasplante renal
+T13 PROC 25 27 Ex
+T14 PROC 27 29 pl
+T15 PROC 197 211 oración física
+T16 PROC 286 305 frecuencia cardíaca
+T17 PROC 289 307 temperatura axilar
+T18 DISO 426 451 palidez de piel y mucosas
+T19 DISO 37 39 ru
+T20 DISO 58 61 bia
+T21 DISO 341 358 lesiones cutáneas
+T22 DISO 610 639 Adenopatías sub man dibulares
+T23 PROC 507 530 Exploración neurológica
+T24 ANAT 162 169 abdomen
+T25 DISO 361 376 visceromegalias
+T26 PROC 551 573 puá±o percusión lumbar
+T27 PROC 287 298 Hemoglobina
+T28 PROC 298 309 hematocrito
+T29 PROC 589 610 fórmula leucoci taria
+T30 ANAT 291 301 leucocitos
+T31 ANAT 271 280 monocitos
+T32 ANAT 342 353 eosinófilos
+T33 PROC 289 298 plaquetas
+T34 PROC 265 273 Glucemia
+T35 PROC 783 806 hemoglobina glicosilada
+T36 PROC 351 361 creatinina
+T37 PROC 577 593 colesterol total
+T38 PROC 334 343 ferritina
+T39 PROC 77 79 si
+T40 PROC 157 161 dere
+T41 PROC 121 124 mia
+T42 PROC 452 463 bilirrubina
+T43 PROC 85 87 al
+T44 PROC 302 309 anina -
+T45 PROC 221 226 amino
+T46 PROC 496 507 transferasa
+T47 PROC 323 330 asparta
+T48 PROC 95 97 to
+T49 PROC 49 50 -
+T50 PROC 246 251 amino
+T51 PROC 551 562 transferasa
+T52 PROC 256 261 gamma
+T53 PROC 53 54 -
+T54 PROC 160 163 glu
+T55 PROC 109 111 ta
+T56 PROC 166 169 mil
+T57 PROC 617 628 transferasa
+T58 PROC 742 755 triglicéridos
+T59 PROC 175 178 TSH
+T60 DISO 1122 1141 insuficiencia renal
+T61 PROC 421 428 ingresa
+T62 PROC 916 931 Ecografía renal
+T63 ANAT 497 505 riá±ones
+T64 DISO 631 641 dilatación
+T65 ANAT 1281 1301 sistemas colec tores
+T66 PROC 456 463 Doppler
+T67 PROC 859 872 Balance renal
+T68 PROC 135 137 FG
+T69 PROC 137 139 FG
+T70 DISO 484 491 Protein
+T71 DISO 281 285 uria
+T72 DISO 1350 1369 insuficiencia renal
+T73 DISO 793 804 proteinuria
+T74 DISO 658 667 hematuria
+T75 PROC 815 826 Diagnóstico
+T76 DISO 2251 2281 nefritis tub ulo intersti cial
+T77 DISO 1445 1464 daá±o tubular agudo
+T78 DISO 1387 1405 proceso infeccioso

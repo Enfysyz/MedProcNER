@@ -1,0 +1,107 @@
+T1 DISO 1 12 parestesias
+T2 ANAT 12 23 dedo pulgar
+T3 ANAT 9 13 mano
+T4 DISO 28 37 debilidad
+T5 DISO 29 36 paresia
+T6 ANAT 16 19 pie
+T7 DISO 127 148 parestesias dolorosas
+T8 ANAT 36 41 dorso
+T9 PROC 73 82 ingresada
+T10 DISO 64 71 paresia
+T11 ANAT 41 45 opon
+T12 ANAT 45 49 ente
+T13 ANAT 25 27 ab
+T14 ANAT 300 323 ductor corto del pulgar
+T15 ANAT 29 31 AC
+T16 ANAT 16 17 P
+T17 DISO 33 35 RC
+T18 ANAT 154 163 máºsculos
+T19 ANAT 451 476 ciático poplí teo externo
+T20 ANAT 20 21 C
+T21 ANAT 41 43 PE
+T22 DISO 610 639 hipoestesia táctil y dolorosa
+T23 ANAT 133 139 primer
+T24 ANAT 162 169 segundo
+T25 ANAT 121 126 dedos
+T26 ANAT 101 105 mano
+T27 ANAT 235 244 dorso del
+T28 ANAT 82 85 pie
+T29 DISO 169 175 fiebre
+T30 DISO 494 511 lesiones cutáneas
+T31 DISO 331 342 adenopatías
+T32 PROC 218 225 ingreso
+T33 DISO 801 826 alteraciones neurológicas
+T34 DISO 232 239 paresia
+T35 ANAT 171 176 delto
+T36 ANAT 141 145 ides
+T37 ANAT 109 112 trí
+T38 ANAT 482 495 ceps braquial
+T39 DISO 419 430 parestesias
+T40 ANAT 469 481 cara externa
+T41 ANAT 201 206 brazo
+T42 ANAT 247 253 pantor
+T43 ANAT 253 259 rillas
+T44 PROC 1033 1057 estudios complementarios
+T45 PROC 1541 1576 velocidad de sedimentación globular
+T46 PROC 46 47 V
+T47 PROC 93 95 SG
+T48 PROC 424 433 hemograma
+T49 PROC 1825 1863 bioquímica elemental de sangre y orina
+T50 PROC 1667 1701 estudio de liquido cefalorraquídeo
+T51 PROC 151 154 LCR
+T52 PROC 1123 1145 estudio de coagulación
+T53 PROC 469 478 plaquetas
+T54 PROC 1273 1297 volumen plaque tar medio
+T55 PROC 1135 1156 tiempo de protrombina
+T56 PROC 111 113 Ra
+T57 PROC 1681 1711 tio Internacional Norm alizada
+T58 PROC 172 175 INR
+T59 PROC 639 650 fibrinógeno
+T60 PROC 414 421 protein
+T61 PROC 361 367 ograma
+T62 PROC 977 993 inmunoglobulinas
+T63 PROC 2233 2269 fracciones C 3 y C 4 del complemento
+T64 PROC 190 193 cri
+T65 PROC 321 326 oglob
+T66 PROC 391 397 ulinas
+T67 PROC 1717 1743 anticuerpos antin ucleares
+T68 PROC 202 205 ANA
+T69 PROC 2993 3037 anticuerpos anti citoplasma del neu tró filo
+T70 PROC 277 281 ANCA
+T71 PROC 2451 2486 anticuerpos antic ardi olip ina IgG
+T72 PROC 214 217 IgM
+T73 PROC 289 293 anti
+T74 CHEM 220 223 gan
+T75 CHEM 223 226 gli
+T76 PROC 1276 1293 factor reumatoide
+T77 PROC 1369 1387 serología a láº es
+T78 PROC 78 79 R
+T79 PROC 2185 2213 PR Borre lia bur g dor fer i
+T80 DISO 1028 1041 hepatitis B C
+T81 PROC 241 244 Man
+T82 PROC 163 165 to
+T83 PROC 165 167 ux
+T84 PROC 1495 1513 electrocardiograma
+T85 PROC 253 256 ECG
+T86 PROC 1701 1721 radiografía de tórax
+T87 PROC 1807 1828 resonancia magne tica
+T88 PROC 2785 2817 RM ) cerebral torácica abdominal
+T89 PROC 1145 1158 exploraciones
+T90 PROC 624 631 ingreso
+T91 PROC 2431 2458 estudios neurofisi ológicos
+T92 DISO 729 737 síntomas
+T93 ANAT 93 94 C
+T94 ANAT 187 189 PE
+T95 ANAT 659 666 mediano
+T96 ANAT 666 673 muá±eca
+T97 ANAT 385 389 codo
+T98 ANAT 486 491 axila
+T99 PROC 1863 1882 estimulación palmar
+T100 PROC 892 901 electromi
+T101 PROC 801 809 ograma (
+T102 PROC 203 205 EM
+T103 PROC 103 104 G
+T104 ANAT 310 313 ACP
+T105 PROC 2913 2941 potenciales de unidad motora
+T106 ANAT 1576 1591 tibial anterior
+T107 ANAT 213 215 TA

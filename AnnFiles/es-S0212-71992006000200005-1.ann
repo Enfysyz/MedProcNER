@@ -1,0 +1,70 @@
+T1 PROC 1 9 consulta
+T2 DISO 7 13 fiebre
+T3 DISO 91 136 dolor intenso de características pleur íticas
+T4 ANAT 28 37 hemitórax
+T5 DISO 69 86 tos expectoración
+T6 DISO 36 43 fumador
+T7 PROC 109 127 exploración física
+T8 PROC 148 169 auscultación pulmonar
+T9 ANAT 73 82 vesicular
+T10 DISO 28 31 ego
+T11 DISO 51 56 fonía
+T12 PROC 210 229 estudios analíticos
+T13 PROC 109 118 hemograma
+T14 PROC 235 253 bioquímica general
+T15 PROC 267 286 gasometría arterial
+T16 PROC 391 417 aclaramiento de creatinina
+T17 PROC 81 86 calci
+T18 PROC 69 73 uria
+T19 PROC 127 134 protein
+T20 PROC 115 121 ograma
+T21 PROC 921 967 dosificación de inmunoglobulinas y complemento
+T22 PROC 400 419 proteína C reactiva
+T23 PROC 375 392 factor reumatoide
+T24 PROC 1266 1321 determinación de la enzima convertidora de angiotensina
+T25 PROC 505 526 marcadores biológicos
+T26 PROC 301 313 espirometría
+T27 PROC 651 676 test de difusión pulmonar
+T28 PROC 730 757 radiografía simple de tórax
+T29 DISO 813 842 patrón intersticial bilateral
+T30 PROC 320 331 TC torácica
+T31 DISO 871 900 lesiones quísticas pulmonares
+T32 ANAT 249 257 pulmones
+T33 ANAT 865 892 lóbulos superiores y medios
+T34 DISO 463 477 lesión lí tica
+T35 ANAT 953 981 cuarto arco costal izquierdo
+T36 PROC 841 865 biopsia pulmonar abierta
+T37 ANAT 289 297 muestras
+T38 ANAT 1000 1027 lóbulos superior e inferior
+T39 ANAT 229 235 pulmón
+T40 PROC 898 921 estudio histopatológico
+T41 ANAT 761 780 parénquima pulmonar
+T42 DISO 1149 1177 infiltración por eosinófilos
+T43 ANAT 883 904 células mononucleares
+T44 ANAT 947 969 células de Langer hans
+T45 PROC 133 136 tin
+T46 PROC 1216 1243 ciones inmunohisto químicas
+T47 CHEM 47 48 S
+T48 CHEM 48 49 -
+T49 CHEM 145 148 100
+T50 CHEM 99 101 CD
+T51 CHEM 51 52 1
+T52 CHEM 52 53 a
+T53 PROC 1769 1803 estudio de microscopía electrónica
+T54 ANAT 902 919 células de Langer
+T55 ANAT 487 496 membranas
+T56 ANAT 111 113 gr
+T57 ANAT 113 115 án
+T58 ANAT 172 175 ulo
+T59 PROC 639 650 diagnóstico
+T60 DISO 119 121 HP
+T61 DISO 121 123 CL
+T62 PROC 1770 1799 abandono del hábito tabáquico
+T63 PROC 683 694 TC torácico
+T64 DISO 1135 1153 lesiones quísticas
+T65 DISO 1345 1366 imagen lí tica costal
+T66 DISO 781 793 asintomático
+T67 DISO 793 805 dolor costal
+T68 ANAT 604 613 hemitórax
+T69 DISO 749 760 lesión ósea
+T70 PROC 139 141 TC

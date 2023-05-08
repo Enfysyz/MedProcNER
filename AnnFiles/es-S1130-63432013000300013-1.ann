@@ -1,0 +1,83 @@
+T1 DISO 1 8 fumador
+T2 DISO 20 39 hepatitis crónica C
+T3 PROC 23 34 carga viral
+T4 DISO 25 33 fibrosis
+T5 PROC 5 6 F
+T6 PROC 11 13 ib
+T7 PROC 19 22 ros
+T8 PROC 22 25 can
+T9 PROC 89 100 tratamiento
+T10 DISO 100 111 hepatitis C
+T11 CHEM 21 23 RB
+T12 CHEM 12 13 V
+T13 CHEM 13 14 P
+T14 CHEM 14 15 -
+T15 CHEM 113 121 INF alfa
+T16 CHEM 16 17 T
+T17 CHEM 49 52 ela
+T18 CHEM 103 109 previr
+T19 PROC 199 210 tratamiento
+T20 PROC 210 221 hemoglobina
+T21 PROC 41 43 Hb
+T22 PROC 484 507 recuento de neutrófilos
+T23 PROC 199 208 plaquetas
+T24 PROC 392 409 enzimas hepáticas
+T25 PROC 73 76 GPT
+T26 PROC 101 105 ALAT
+T27 PROC 105 109 ASAT
+T28 PROC 298 309 carga viral
+T29 PROC 57 59 Hb
+T30 PROC 668 691 recuento de neutrófilos
+T31 PROC 271 280 plaquetas
+T32 DISO 714 737 molestias anor ec tales
+T33 DISO 353 364 hemorroides
+T34 DISO 397 409 prurito anal
+T35 DISO 273 281 ansiedad
+T36 CHEM 316 325 Lorazepam
+T37 DISO 757 778 prurito por el cuerpo
+T38 CHEM 667 685 cremas emol ientes
+T39 PROC 419 430 tratamiento
+T40 PROC 274 281 ingresó
+T41 DISO 681 698 dolor epigástrico
+T42 ANAT 329 337 hipocond
+T43 ANAT 169 173 rios
+T44 DISO 259 265 fiebre
+T45 DISO 485 496 escalofríos
+T46 DISO 316 323 náuseas
+T47 DISO 323 330 vómitos
+T48 DISO 142 145 col
+T49 DISO 193 197 uria
+T50 PROC 442 451 analítica
+T51 PROC 351 358 amilasa
+T52 PROC 103 105 Hb
+T53 PROC 1197 1220 recuento de neutrófilos
+T54 PROC 478 487 plaquetas
+T55 PROC 757 771 dieta absoluta
+T56 CHEM 56 57 T
+T57 CHEM 169 172 ela
+T58 CHEM 343 349 previr
+T59 PROC 2031 2066 medidas analgésicas y antiem éticas
+T60 PROC 414 421 ingreso
+T61 PROC 421 428 amilasa
+T62 PROC 428 435 ingresó
+T63 DISO 1551 1576 dolor epigástrico intenso
+T64 ANAT 505 513 hipocond
+T65 ANAT 257 261 rios
+T66 PROC 456 463 amilasa
+T67 PROC 727 738 diagnosticó
+T68 DISO 1207 1225 pancreatitis aguda
+T69 PROC 545 553 ingresos
+T70 CHEM 70 71 T
+T71 CHEM 211 214 ela
+T72 CHEM 427 433 previr
+T73 PROC 793 804 tratamiento
+T74 CHEM 147 149 RB
+T75 CHEM 75 76 V
+T76 CHEM 76 77 P
+T77 CHEM 77 78 -
+T78 CHEM 232 235 INF
+T79 PROC 547 554 amilasa
+T80 PROC 870 881 tratamiento
+T81 PROC 881 892 carga viral
+T82 PROC 163 165 Hb
+T83 PROC 1887 1910 recuento de neutrófilos

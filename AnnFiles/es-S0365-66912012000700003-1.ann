@@ -1,0 +1,72 @@
+T1 DISO 1 19 neoplasia de colon
+T2 DISO 58 115 metástasis hepáticas , retro peritoneales y mediastínicas
+T3 DISO 33 49 colitis ulcerosa
+T4 PROC 34 45 diagnóstico
+T5 PROC 37 46 ingresado
+T6 PROC 121 145 intervención quiráºrgica
+T7 PROC 151 176 resección parcial tumoral
+T8 PROC 183 209 tratamiento quimioterápico
+T9 CHEM 17 19 ox
+T10 CHEM 37 41 alip
+T11 CHEM 21 23 la
+T12 CHEM 45 49 tino
+T13 CHEM 181 196 acido fol ínico
+T14 CHEM 66 71 fluor
+T15 CHEM 71 76 acilo
+T16 CHEM 31 33 ca
+T17 CHEM 161 171 pecitabina
+T18 CHEM 35 37 ox
+T19 CHEM 73 77 alip
+T20 CHEM 39 41 la
+T21 CHEM 81 85 tino
+T22 CHEM 43 45 ca
+T23 CHEM 221 231 pecitabina
+T24 CHEM 47 49 ir
+T25 CHEM 73 76 ino
+T26 CHEM 76 79 tec
+T27 CHEM 53 55 án
+T28 PROC 784 813 determinación del gen K - ras
+T29 PROC 309 320 tratamiento
+T30 CHEM 59 61 ce
+T31 CHEM 211 218 tuximab
+T32 CHEM 94 97 pan
+T33 CHEM 33 34 i
+T34 CHEM 232 239 tumumab
+T35 PROC 375 386 tratamiento
+T36 CHEM 386 397 bevacizumab
+T37 PROC 289 297 drenajes
+T38 ANAT 260 267 cavidad
+T39 PROC 913 937 intervención quiráºrgica
+T40 DISO 859 881 dolor ocular izquierdo
+T41 PROC 321 329 consulta
+T42 PROC 1026 1051 exploración oftalmológica
+T43 DISO 631 646 edema palpebral
+T44 DISO 130 133 que
+T45 DISO 749 766 mosis conjuntival
+T46 DISO 91 93 ex
+T47 DISO 93 95 of
+T48 DISO 142 145 tal
+T49 DISO 145 148 mos
+T50 DISO 295 301 ptosis
+T51 ANAT 151 154 ojo
+T52 ANAT 307 313 ocular
+T53 PROC 1457 1485 resonancia magnética nuclear
+T54 PROC 796 811 RMN ) craneal y
+T55 ANAT 487 496 orbitaria
+T56 PROC 2806 2857 imágenes potenci adas en T 1 y en difusión y FLA IR
+T57 DISO 1009 1027 lesiones nodulares
+T58 ANAT 343 349 órbita
+T59 ANAT 349 355 región
+T60 ANAT 1417 1441 máºsculos recto superior
+T61 ANAT 1261 1282 elev ador del párpado
+T62 ANAT 245 249 ápex
+T63 ANAT 807 820 recto externo
+T64 DISO 1765 1793 metástasis de la musculatura
+T65 DISO 193 196 mal
+T66 PROC 1431 1453 radioterapia paliativa
+T67 CHEM 1123 1140 metilprednisolona
+T68 DISO 336 341 dolor
+T69 CHEM 953 967 corticoterapia
+T70 DISO 1657 1681 dolor abdominal y ocular
+T71 PROC 1261 1279 sedación paliativa
+T72 DISO 924 937 fallecimiento

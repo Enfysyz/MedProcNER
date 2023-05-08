@@ -1,0 +1,80 @@
+T1 PROC 1 21 ingresa en urgencias
+T2 DISO 23 45 dolor lumbar izquierdo
+T3 DISO 31 46 náuseas vómitos
+T4 DISO 67 89 hematuria macroscópica
+T5 DISO 161 201 molestias en el tracto urinario inferior
+T6 DISO 81 97 dolor precordial
+T7 DISO 73 85 Hipertensión
+T8 CHEM 29 33 vera
+T9 CHEM 49 55 pamilo
+T10 DISO 280 311 accidente isquémico transitorio
+T11 DISO 171 188 arritmia cardíaca
+T12 DISO 133 145 valvulopatía
+T13 DISO 301 326 episodios tromboembólicos
+T14 DISO 222 239 litiasis urinaria
+T15 DISO 603 646 molestias osteo articulares o respiratorias
+T16 DISO 241 257 abuso de cocaína
+T17 DISO 241 256 hepatitis B o C
+T18 PROC 86 91 Medic
+T19 PROC 55 58 ado
+T20 CHEM 77 81 vera
+T21 CHEM 121 127 pamilo
+T22 PROC 274 287 examen físico
+T23 DISO 155 162 Abdomen
+T24 DISO 461 481 doloroso a palpación
+T25 ANAT 265 276 fosa ilíaca
+T26 ANAT 151 157 flanco
+T27 DISO 183 190 defensa
+T28 DISO 568 589 irritación peritoneal
+T29 DISO 505 523 soplos abdominales
+T30 ANAT 146 151 renal
+T31 PROC 181 187 pulsos
+T32 ANAT 311 321 arteriales
+T33 DISO 641 661 déficit de perfusión
+T34 ANAT 397 409 extremidades
+T35 PROC 613 631 Examen neurológico
+T36 PROC 526 541 ecografía renal
+T37 DISO 1081 1111 dilatación del tracto urinario
+T38 DISO 75 77 Hb
+T39 DISO 153 157 Leuc
+T40 DISO 79 81 Ne
+T41 DISO 81 83 ut
+T42 PROC 206 211 Creat
+T43 PROC 43 44 T
+T44 PROC 87 89 GO
+T45 PROC 89 91 TG
+T46 PROC 46 47 P
+T47 PROC 139 142 LDH
+T48 PROC 1176 1201 parámetros de coagulación
+T49 PROC 145 148 ECG
+T50 DISO 1226 1251 isquemia miocárdica aguda
+T51 PROC 1151 1174 TAC abdominal y pélvico
+T52 CHEM 460 469 contraste
+T53 ANAT 833 849 riá±ón izquierdo
+T54 DISO 425 433 isquemia
+T55 DISO 487 496 embol ica
+T56 DISO 991 1009 dilatación aórtica
+T57 DISO 1457 1483 aneurisma de arteria renal
+T58 DISO 1882 1915 alteraciones intra - peritoneales
+T59 DISO 987 1004 proceso isquémico
+T60 DISO 532 541 molestias
+T61 PROC 1141 1160 maniobras invasivas
+T62 DISO 428 435 enfermo
+T63 PROC 249 253 hipo
+T64 PROC 64 65 -
+T65 PROC 1345 1366 coagulación sistémica
+T66 CHEM 521 529 heparina
+T67 DISO 1321 1341 episodios emb ólicos
+T68 PROC 604 613 analgesia
+T69 PROC 885 898 exploraciones
+T70 PROC 1036 1051 ecocardiografía
+T71 DISO 2731 2770 patología del aparato valvular cardiaco
+T72 DISO 214 217 veg
+T73 DISO 145 147 et
+T74 DISO 1315 1333 aciones valvulares
+T75 DISO 223 226 dis
+T76 DISO 1351 1369 cinesia miocárdica
+T77 PROC 989 1002 arteriografía
+T78 DISO 1541 1561 déficit de perfusión
+T79 ANAT 1015 1028 polo inferior
+T80 ANAT 1265 1281 riá±ón izquierdo

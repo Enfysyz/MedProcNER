@@ -1,0 +1,75 @@
+T1 PROC 1 8 ingresó
+T2 DISO 15 29 deshidratación
+T3 DISO 43 64 gastroenteritis aguda
+T4 DISO 73 97 recién nacido pretérmino
+T5 DISO 65 81 síndrome de Down
+T6 PROC 66 79 diagnosticado
+T7 DISO 13 15 TF
+T8 PROC 50 57 ingreso
+T9 DISO 129 145 crisis hipó xica
+T10 PROC 82 91 ecografía
+T11 PROC 171 188 saturación de O 2
+T12 CHEM 12 13 O
+T13 CHEM 13 14 2
+T14 PROC 287 309 tensión arterial media
+T15 PROC 43 46 TAM
+T16 DISO 286 305 shock hipovol émico
+T17 DISO 113 120 diarrea
+T18 PROC 341 361 expansión de volumen
+T19 PROC 181 191 intubación
+T20 PROC 381 401 ventilación mecánica
+T21 PROC 41 43 VM
+T22 PROC 43 45 ex
+T23 PROC 45 47 tu
+T24 PROC 47 49 bó
+T25 DISO 145 151 disnea
+T26 DISO 201 209 cianosis
+T27 DISO 599 622 crepitantes bilaterales
+T28 DISO 298 309 sibilancias
+T29 PROC 113 117 rein
+T30 PROC 233 241 tubación
+T31 PROC 61 63 VM
+T32 PROC 1086 1121 determinación de virus respiratorio
+T33 PROC 33 34 V
+T34 PROC 67 69 RS
+T35 ANAT 341 351 moco nasal
+T36 DISO 176 181 oligo
+T37 DISO 73 75 an
+T38 DISO 149 153 uria
+T39 DISO 685 703 edema generalizado
+T40 CHEM 274 281 oxígeno
+T41 PROC 81 83 Fi
+T42 PROC 42 43 O
+T43 PROC 43 44 2
+T44 ANAT 345 353 pulmonar
+T45 DISO 397 406 hipoxemia
+T46 PROC 91 93 sa
+T47 PROC 369 377 turación
+T48 PROC 142 145 TAM
+T49 DISO 433 442 gradiente
+T50 DISO 589 601 coagulopatía
+T51 PROC 601 613 auscultación
+T52 DISO 715 729 soplo cardíaco
+T53 DISO 53 54 H
+T54 DISO 319 325 PP sup
+T55 PROC 1081 1101 ventilación en prono
+T56 PROC 1156 1177 índice de oxigenación
+T57 PROC 113 115 IO
+T58 PROC 913 929 presión positiva
+T59 PROC 117 119 PE
+T60 PROC 119 121 EP
+T61 DISO 241 245 desa
+T62 DISO 489 497 turación
+T63 DISO 1303 1324 hipotensión sistémica
+T64 PROC 190 193 eco
+T65 DISO 1345 1366 espasmo infun dibular
+T66 DISO 66 67 H
+T67 DISO 133 135 PP
+T68 DISO 2547 2585 shunt la comunicación interventricular
+T69 DISO 137 139 CI
+T70 PROC 70 71 V
+T71 PROC 771 782 tratamiento
+T72 CHEM 143 145 ON
+T73 CHEM 73 74 I
+T74 PROC 512 519 monitor
+T75 PROC 223 226 izó

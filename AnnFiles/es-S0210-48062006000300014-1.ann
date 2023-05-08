@@ -1,0 +1,94 @@
+T1 DISO 1 17 hábito tabáquico
+T2 DISO 10 19 hematuria
+T3 DISO 61 91 síndrome miccional irri tativo
+T4 PROC 7 9 ur
+T5 PROC 13 16 ino
+T6 PROC 41 49 cultivos
+T7 PROC 55 64 ecografía
+T8 PROC 22 25 uro
+T9 PROC 145 163 grafía intravenosa
+T10 DISO 91 101 tumoración
+T11 ANAT 21 23 tr
+T12 ANAT 23 25 íg
+T13 ANAT 133 144 ono vesical
+T14 DISO 209 225 ectasia ureteral
+T15 ANAT 71 76 renal
+T16 PROC 61 65 Crea
+T17 PROC 97 103 tinina
+T18 PROC 256 271 Urea plasmática
+T19 PROC 217 229 tacto rectal
+T20 ANAT 191 201 prostática
+T21 ANAT 261 274 suelo vesical
+T22 PROC 232 243 diagnóstico
+T23 DISO 287 300 tumor vesical
+T24 PROC 530 553 resección trans uretral
+T25 PROC 73 76 cis
+T26 PROC 201 209 toscopia
+T27 DISO 443 460 neoplasia vesical
+T28 DISO 82 85 bul
+T29 DISO 113 117 losa
+T30 DISO 146 151 ulcer
+T31 DISO 91 94 ada
+T32 ANAT 435 449 área trig onal
+T33 DISO 673 694 neoplasia constituida
+T34 ANAT 232 239 células
+T35 DISO 783 806 carcinoma trans icional
+T36 PROC 106 109 PSA
+T37 DISO 181 186 tumor
+T38 DISO 445 457 infiltración
+T39 ANAT 343 352 submucosa
+T40 ANAT 313 321 muscular
+T41 ANAT 161 165 base
+T42 ANAT 370 379 resección
+T43 DISO 211 216 tumor
+T44 PROC 302 309 anatomo
+T45 PROC 485 496 patológicos
+T46 PROC 946 967 estudios de extensión
+T47 PROC 139 142 cis
+T48 PROC 377 385 tectomía
+T49 PROC 433 442 resección
+T50 PROC 344 351 ingresó
+T51 DISO 1151 1174 síndrome constitucional
+T52 DISO 766 781 perdida de peso
+T53 DISO 261 266 dolor
+T54 ANAT 690 703 fosas renales
+T55 DISO 1243 1266 hidronefrosis bilateral
+T56 DISO 1156 1177 atrapamiento ureteral
+T57 DISO 1737 1768 insuficiencia renal obstructiva
+T58 PROC 229 233 Crea
+T59 PROC 349 355 tinina
+T60 PROC 237 241 Urea
+T61 CHEM 61 62 K
+T62 PROC 62 63 +
+T63 PROC 1675 1702 derivación urinaria urgente
+T64 PROC 1387 1409 nefrostomía percutánea
+T65 ANAT 321 326 renal
+T66 PROC 456 463 ingreso
+T67 DISO 1453 1475 hematuria macroscópica
+T68 PROC 202 205 cis
+T69 PROC 545 553 toscopia
+T70 DISO 691 701 tumoración
+T71 ANAT 841 853 base vesical
+T72 DISO 853 865 infiltración
+T73 ANAT 145 147 me
+T74 ANAT 74 75 a
+T75 ANAT 1111 1126 tos ure terales
+T76 PROC 1126 1141 tacto bi manual
+T77 DISO 229 232 ind
+T78 DISO 540 547 uración
+T79 ANAT 1015 1028 suelo vesical
+T80 ANAT 633 641 próstata
+T81 PROC 1601 1621 estudio de extensión
+T82 PROC 1459 1477 Rx simple de tórax
+T83 PROC 247 250 TAC
+T84 ANAT 665 673 abdomino
+T85 ANAT 337 341 pélv
+T86 PROC 1106 1119 rastreo os eo
+T87 DISO 1893 1915 enfermedad metastásica
+T88 DISO 1132 1145 engrosamiento
+T89 ANAT 1145 1158 suelo vesical
+T90 DISO 4273 4321 ectasia ur é tero - p ielo - cal icial bilateral
+T91 DISO 991 1002 adenopatías
+T92 PROC 274 277 cis
+T93 PROC 277 280 top
+T94 PROC 280 283 ros

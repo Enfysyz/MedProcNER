@@ -1,0 +1,65 @@
+T1 DISO 1 22 cardiopatía isquémica
+T2 DISO 28 55 insuficiencia renal crónica
+T3 DISO 11 16 nefro
+T4 DISO 16 21 angio
+T5 DISO 41 51 esclerosis
+T6 PROC 101 121 técnicas dial íticas
+T7 PROC 13 15 DP
+T8 PROC 169 193 tratamiento domiciliario
+T9 PROC 153 172 implantó un catéter
+T10 PROC 19 21 DP
+T11 PROC 61 67 método
+T12 PROC 221 241 radiografía de tórax
+T13 DISO 181 196 derrame pleural
+T14 PROC 300 323 DP continua ambulatoria
+T15 PROC 29 31 DP
+T16 PROC 31 33 CA
+T17 PROC 81 86 pauta
+T18 CHEM 120 127 glucosa
+T19 PROC 91 96 ultra
+T20 PROC 191 201 filtración
+T21 PROC 261 274 función renal
+T22 PROC 43 45 DP
+T23 PROC 45 47 CA
+T24 DISO 645 673 disnea de medianos esfuerzos
+T25 DISO 193 201 ortopnea
+T26 PROC 276 287 exploración
+T27 ANAT 235 244 vesicular
+T28 ANAT 352 365 base pulmonar
+T29 DISO 421 436 derrame pleural
+T30 PROC 581 601 radiografía de tórax
+T31 PROC 331 342 diagnóstico
+T32 DISO 156 161 hidro
+T33 DISO 161 166 tórax
+T34 PROC 67 69 DP
+T35 PROC 69 71 CA
+T36 PROC 176 181 torac
+T37 PROC 757 778 ocentesis diagnóstica
+T38 CHEM 334 343 proteínas
+T39 CHEM 267 274 glucosa
+T40 PROC 313 321 glucemia
+T41 DISO 201 206 hidro
+T42 DISO 206 211 tórax
+T43 PROC 85 87 DP
+T44 PROC 87 89 CA
+T45 PROC 353 361 diálisis
+T46 PROC 91 93 FR
+T47 DISO 369 377 síntomas
+T48 PROC 377 385 revisión
+T49 DISO 721 736 derrame pleural
+T50 PROC 99 101 DP
+T51 PROC 351 358 ingresó
+T52 PROC 103 105 DP
+T53 PROC 781 796 CA en decáºbito
+T54 DISO 266 271 hidro
+T55 DISO 271 276 tórax
+T56 PROC 441 449 infusión
+T57 PROC 393 400 dado de
+T58 PROC 115 117 DP
+T59 PROC 117 119 CA
+T60 DISO 296 301 hidro
+T61 DISO 781 794 tórax derecho
+T62 PROC 123 125 DP
+T63 PROC 125 127 CA
+T64 PROC 2647 2689 implantó un catéter para hemodiálisis ( HD
+T65 ANAT 769 781 vena femoral

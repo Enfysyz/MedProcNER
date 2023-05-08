@@ -1,0 +1,74 @@
+T1 DISO 1 19 inclusión dentaria
+T2 PROC 20 39 estudio radiológico
+T3 ANAT 7 10 can
+T4 ANAT 67 89 ino inferior izquierdo
+T5 PROC 25 31 ingres
+T6 PROC 21 25 ando
+T7 PROC 133 155 corrección quiráºrgica
+T8 PROC 78 89 diagnostico
+T9 DISO 129 145 quiste folicular
+T10 PROC 208 231 tratamiento quiráºrgico
+T11 PROC 111 122 extirpación
+T12 DISO 23 25 qu
+T13 DISO 169 183 iste folicular
+T14 PROC 27 29 le
+T15 PROC 337 361 grado de la cavidad ósea
+T16 PROC 466 497 extracción del can ino incluido
+T17 PROC 273 290 relleno con hueso
+T18 ANAT 290 307 pieza quiráºrgica
+T19 PROC 37 39 le
+T20 PROC 96 101 grado
+T21 ANAT 61 64 can
+T22 ANAT 64 67 ino
+T23 PROC 67 70 exo
+T24 PROC 139 145 doncia
+T25 PROC 457 476 estudio histológico
+T26 ANAT 476 495 estructura dentaria
+T27 ANAT 365 379 tejido fibroso
+T28 ANAT 973 1009 elementos epiteliales odonto génicos
+T29 ANAT 197 204 celular
+T30 ANAT 146 151 gland
+T31 ANAT 61 63 ul
+T32 ANAT 218 225 iformes
+T33 ANAT 225 232 células
+T34 ANAT 232 239 celular
+T35 DISO 69 71 es
+T36 DISO 106 109 fer
+T37 DISO 1153 1185 ulas bas of íl icas calcificadas
+T38 ANAT 297 305 depósito
+T39 CHEM 115 118 PAS
+T40 CHEM 157 161 dias
+T41 CHEM 161 165 tasa
+T42 CHEM 411 421 Rojo Congo
+T43 PROC 127 130 luz
+T44 PROC 474 485 diagnostico
+T45 DISO 2289 2341 tumor odonto génico adenoma to ide de tipo folicular
+T46 ANAT 1081 1105 estructura dental canina
+T47 ANAT 369 377 material
+T48 ANAT 659 673 partes blandas
+T49 PROC 241 246 resec
+T50 PROC 148 151 ado
+T51 PROC 1351 1378 estudio inmunohisto químico
+T52 CHEM 919 937 elementos prolifer
+T53 ANAT 469 478 nodulares
+T54 DISO 372 379 adenoma
+T55 PROC 109 111 co
+T56 PROC 111 113 il
+T57 CHEM 281 286 quera
+T58 CHEM 799 813 tinas AE 1 - 3
+T59 ANAT 407 414 nuclear
+T60 CHEM 768 781 proteína p 63
+T61 CHEM 241 245 marc
+T62 CHEM 245 249 ador
+T63 ANAT 1923 1954 células bás ales o progenitoras
+T64 ANAT 442 449 nuclear
+T65 ANAT 321 326 gland
+T66 ANAT 131 133 ul
+T67 ANAT 463 470 iformes
+T68 ANAT 1274 1293 células fus iformes
+T69 CHEM 545 553 marcador
+T70 CHEM 139 141 Ki
+T71 CHEM 71 72 -
+T72 CHEM 143 145 67
+T73 ANAT 505 512 células
+T74 DISO 1023 1037 lesión tumoral

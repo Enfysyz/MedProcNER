@@ -1,0 +1,79 @@
+T1 DISO 1 9 fumadora
+T2 PROC 28 55 intervenciones quiráºrgicas
+T3 PROC 31 46 colecistectomía
+T4 PROC 22 29 amigdal
+T5 PROC 29 36 ectomía
+T6 PROC 21 25 anex
+T7 PROC 103 120 ectomía bilateral
+T8 DISO 43 49 polimi
+T9 DISO 129 145 omatosis uterina
+T10 PROC 55 61 Estudi
+T11 PROC 31 34 ada
+T12 DISO 89 97 disfagia
+T13 DISO 169 183 sintomatología
+T14 PROC 326 351 endoscopia digestiva alta
+T15 DISO 211 226 hernia de hiato
+T16 PROC 166 177 tratamiento
+T17 CHEM 561 596 inhibidores de la bomba de protones
+T18 DISO 137 145 síntomas
+T19 PROC 145 153 revisión
+T20 PROC 172 181 consultas
+T21 DISO 341 358 dolor epigástrico
+T22 PROC 211 221 endoscopia
+T23 DISO 133 139 lesión
+T24 ANAT 346 361 tercio medio de
+T25 ANAT 169 176 esófago
+T26 PROC 126 131 biops
+T27 PROC 105 109 iada
+T28 DISO 1297 1345 carcinoma de célula pequeá±a tipo âĢ o at - cell
+T29 DISO 253 262 ulcer ado
+T30 DISO 320 331 infiltrante
+T31 PROC 391 404 exploraciones
+T32 DISO 435 449 tumor primario
+T33 ANAT 257 265 pulmonar
+T34 DISO 298 307 neoplasia
+T35 PROC 171 176 estad
+T36 PROC 106 109 iar
+T37 DISO 361 371 enfermedad
+T38 PROC 408 419 exploración
+T39 DISO 419 430 adenopatías
+T40 PROC 1054 1081 auscultación cardiopulmonar
+T41 ANAT 281 288 abdomen
+T42 DISO 329 337 cicatriz
+T43 ANAT 127 130 sub
+T44 ANAT 259 265 costal
+T45 ANAT 221 226 infra
+T46 ANAT 406 415 umbilical
+T47 DISO 1381 1411 alteraciones nivel neurológico
+T48 PROC 424 433 analítico
+T49 PROC 2065 2108 estudio eso fago gas tro duodenal bar itado
+T50 ANAT 1177 1201 unión eso fago g ástrica
+T51 DISO 1101 1123 lesión plana ulcer ada
+T52 PROC 1123 1145 TAC toraco - abdominal
+T53 DISO 469 478 neoplasia
+T54 ANAT 1167 1189 tercio medio esofágico
+T55 DISO 595 606 adenopatías
+T56 ANAT 936 953 área sub car inal
+T57 ANAT 841 856 supraclavicular
+T58 ANAT 400 407 abdomen
+T59 DISO 639 650 adenopatías
+T60 ANAT 296 301 retro
+T61 ANAT 541 550 peritoneo
+T62 ANAT 1099 1117 área retro cr ural
+T63 ANAT 1303 1324 cadena iliaca derecha
+T64 DISO 2143 2177 metástasis hepáticas bi lob ulares
+T65 DISO 1025 1041 quiste esplénico
+T66 DISO 1756 1783 lesión ocup ante de espacio
+T67 ANAT 529 537 pulmonar
+T68 PROC 336 341 fibro
+T69 PROC 273 277 bron
+T70 PROC 553 561 coscopia
+T71 PROC 2381 2415 aspirado de punción trans torácica
+T72 DISO 1847 1873 carcinoma tipo o at - cell
+T73 DISO 1153 1169 invasión pleural
+T74 PROC 220 223 eco
+T75 PROC 741 751 endoscopia
+T76 DISO 3226 3269 tumoración esofágica vege tante y ulcer ada
+T77 DISO 2357 2388 masa extrínseca retro cardi aca
+T78 ANAT 540 547 esófago
+T79 DISO 1639 1660 adenopatías celi acas

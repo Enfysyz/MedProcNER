@@ -1,0 +1,36 @@
+T1 DISO 1 31 esguince del tobillo izquierdo
+T2 PROC 12 23 diagnostica
+T3 DISO 5 7 SD
+T4 DISO 7 9 RC
+T5 ANAT 29 36 tobillo
+T6 ANAT 16 19 pie
+T7 PROC 109 127 tratamiento médico
+T8 DISO 78 89 traumatismo
+T9 DISO 65 73 dolor en
+T10 ANAT 64 71 tobillo
+T11 ANAT 31 34 pie
+T12 PROC 122 133 diagnostica
+T13 DISO 25 27 SD
+T14 DISO 27 29 RC
+T15 PROC 253 271 derivada la Unidad
+T16 PROC 166 177 diagnóstico
+T17 PROC 177 188 tratamiento
+T18 CHEM 188 199 pregabalina
+T19 CHEM 145 153 tramadol
+T20 PROC 191 201 aplicación
+T21 CHEM 101 106 capsa
+T22 CHEM 106 111 icina
+T23 DISO 45 47 al
+T24 DISO 93 97 odin
+T25 DISO 49 51 ia
+T26 DISO 126 131 dolor
+T27 DISO 365 379 sintomatología
+T28 PROC 379 393 consentimiento
+T29 PROC 477 494 implantación , en
+T30 PROC 1364 1411 anestesia general de un catéter epidural lumbar
+T31 PROC 421 435 administración
+T32 PROC 528 545 infusión continua
+T33 CHEM 97 100 bup
+T34 CHEM 265 273 ivacaína
+T35 PROC 273 281 infusión
+T36 DISO 281 289 síntomas

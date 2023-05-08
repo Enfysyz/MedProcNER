@@ -1,0 +1,72 @@
+T1 PROC 1 24 resección trans uretral
+T2 PROC 2 3 R
+T3 PROC 5 7 TU
+T4 DISO 172 229 neoplasia vesical de células trans ici onales superficial
+T5 DISO 29 36 fumador
+T6 DISO 16 19 HTA
+T7 DISO 25 29 EPOC
+T8 DISO 162 185 miocardiopatía dilatada
+T9 PROC 89 100 seguimiento
+T10 DISO 154 171 neoplasia vesical
+T11 PROC 241 265 tomografía computarizada
+T12 PROC 397 433 TC ) abdominal contraste intravenoso
+T13 DISO 313 339 lesión nodular heterogénea
+T14 ANAT 235 253 vena cava inferior
+T15 PROC 267 286 ecografía abdominal
+T16 DISO 301 321 lesión hiper eco ica
+T17 ANAT 289 307 vena cava inferior
+T18 PROC 307 325 actitud expectante
+T19 PROC 235 248 TC de control
+T20 DISO 77 81 masa
+T21 ANAT 361 379 vena cava inferior
+T22 DISO 106 111 lipos
+T23 DISO 485 507 arcoma retroperitoneal
+T24 PROC 461 481 resonancia magnética
+T25 PROC 49 51 RM
+T26 CHEM 226 235 gadolinio
+T27 DISO 157 163 lesión
+T28 CHEM 244 253 contraste
+T29 PROC 393 407 secuencias T 1
+T30 DISO 175 181 lesión
+T31 ANAT 631 652 grasa retroperitoneal
+T32 ANAT 342 353 mesentérica
+T33 ANAT 321 331 subcutánea
+T34 DISO 199 205 lesión
+T35 PROC 239 246 técnica
+T36 PROC 526 541 supresión grasa
+T37 ANAT 649 667 grasa perilesional
+T38 PROC 297 305 imágenes
+T39 DISO 229 235 lesión
+T40 PROC 586 601 supresión grasa
+T41 PROC 561 575 administración
+T42 CHEM 370 379 gadolinio
+T43 PROC 967 990 diagnóstico radiológico
+T44 DISO 689 705 tumoración grasa
+T45 DISO 221 226 lipos
+T46 DISO 271 277 arcoma
+T47 DISO 1105 1129 masas retro peritoneales
+T48 PROC 330 337 cirugía
+T49 PROC 241 246 extir
+T50 PROC 932 951 pa quiráºrgicamente
+T51 DISO 201 205 masa
+T52 ANAT 919 937 vena cava inferior
+T53 ANAT 261 266 retro
+T54 ANAT 478 487 peritoneo
+T55 ANAT 1513 1541 ligamento vertebral anterior
+T56 ANAT 551 561 vena renal
+T57 DISO 337 343 lesión
+T58 ANAT 970 987 pedículo vascular
+T59 ANAT 523 532 pequeá±os
+T60 ANAT 591 601 linfáticos
+T61 PROC 1501 1526 estudio anatomopatológico
+T62 DISO 2441 2481 tumoración lo bular pseudo en caps ulada
+T63 ANAT 187 190 adi
+T64 ANAT 253 257 posa
+T65 PROC 641 651 histología
+T66 ANAT 326 331 pieza
+T67 DISO 1255 1274 tumoración adi posa
+T68 ANAT 1542 1565 islotes hematopoyéticos
+T69 ANAT 613 622 agregados
+T70 DISO 277 281 miel
+T71 DISO 281 285 olip
+T72 DISO 1705 1729 oma pre vertebral lumbar

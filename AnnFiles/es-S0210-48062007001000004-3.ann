@@ -1,0 +1,84 @@
+T1 DISO 1 9 dolor en
+T2 ANAT 6 11 teste
+T3 PROC 57 85 tratamiento antiinflamatorio
+T4 DISO 25 33 dolor en
+T5 ANAT 37 46 testículo
+T6 PROC 66 79 diagnosticado
+T7 DISO 13 15 or
+T8 DISO 22 25 qui
+T9 DISO 25 28 epi
+T10 DISO 37 41 didi
+T11 DISO 51 56 mitis
+T12 PROC 199 217 tratamiento médico
+T13 DISO 97 105 alérgico
+T14 CHEM 40 43 Sul
+T15 CHEM 15 16 f
+T16 CHEM 91 97 amidas
+T17 PROC 289 307 exploración física
+T18 DISO 171 181 tumoración
+T19 ANAT 73 77 polo
+T20 ANAT 248 261 teste derecho
+T21 DISO 321 337 tumor testicular
+T22 PROC 589 617 analítica completa sanguínea
+T23 PROC 441 461 marcadores tumorales
+T24 PROC 461 481 ecografía testicular
+T25 PROC 49 51 AF
+T26 PROC 26 27 P
+T27 PROC 105 109 Beta
+T28 PROC 163 169 - h CG
+T29 PROC 253 262 ecografía
+T30 DISO 291 301 tumoración
+T31 ANAT 391 404 polo inferior
+T32 ANAT 404 417 teste derecho
+T33 DISO 289 298 quísticas
+T34 DISO 298 307 neoplasia
+T35 PROC 919 946 interviene quiráºrgicamente
+T36 PROC 71 73 or
+T37 PROC 109 112 qui
+T38 PROC 889 913 ectomía radical inguinal
+T39 DISO 1293 1327 Tumor de Células Ger minales mixto
+T40 DISO 859 881 Carcinoma Embri onario
+T41 DISO 161 165 Tera
+T42 DISO 165 169 toma
+T43 DISO 1261 1291 invasión vascular ni linfática
+T44 ANAT 87 89 Al
+T45 ANAT 89 91 bu
+T46 ANAT 46 47 g
+T47 ANAT 185 189 ínea
+T48 ANAT 894 913 cordón esper mático
+T49 ANAT 193 197 epid
+T50 ANAT 148 151 ídi
+T51 ANAT 101 103 mo
+T52 DISO 256 261 tumor
+T53 DISO 1717 1750 Tumor Ger minal No Semin oma toso
+T54 PROC 2068 2107 tratamiento adyuvante con quimioterapia
+T55 PROC 1135 1156 control observacional
+T56 PROC 1101 1121 controles periódicos
+T57 PROC 505 514 protocolo
+T58 DISO 571 581 enfermedad
+T59 PROC 465 473 técnicas
+T60 PROC 355 361 imagen
+T61 PROC 2161 2197 estudio ultrason ográfico de control
+T62 DISO 306 311 micro
+T63 DISO 311 316 calci
+T64 DISO 631 641 ficaciones
+T65 ANAT 577 586 testículo
+T66 DISO 911 925 nódulo eco ico
+T67 DISO 991 1006 calcificaciones
+T68 PROC 470 477 Doppler
+T69 DISO 1089 1105 tumor testicular
+T70 DISO 1381 1401 varicocele izquierdo
+T71 PROC 1261 1279 exploración física
+T72 PROC 1421 1441 marcadores tumorales
+T73 PROC 145 147 or
+T74 PROC 220 223 qui
+T75 PROC 1925 1951 ectomía inguinal izquierda
+T76 DISO 376 381 Semin
+T77 DISO 229 232 oma
+T78 ANAT 540 547 cápsula
+T79 ANAT 703 712 testículo
+T80 DISO 3714 3761 Neoplasia Intra tu bular de Células Ger minales
+T81 DISO 2721 2755 infiltración vascular ni linfática
+T82 PROC 2350 2379 tratamiento con quimioterapia
+T83 PROC 2625 2657 tratamiento hormonal sustitutivo
+T84 DISO 831 841 enfermedad

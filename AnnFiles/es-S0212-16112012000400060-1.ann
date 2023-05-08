@@ -1,0 +1,65 @@
+T1 DISO 1 21 esclerosis máºltiple
+T2 PROC 12 23 tratamiento
+T3 CHEM 21 31 interferón
+T4 DISO 49 65 bulimia nerviosa
+T5 PROC 53 66 diagnosticada
+T6 DISO 106 127 dolor abdominal agudo
+T7 PROC 295 344 tratamiento psico terapéutico individual y grupal
+T8 DISO 148 169 intentos autol íticos
+T9 PROC 177 199 ingresos psiquiátricos
+T10 DISO 190 211 trastorno alimentario
+T11 DISO 61 67 vómito
+T12 CHEM 89 97 laxantes
+T13 DISO 181 196 dolor abdominal
+T14 DISO 274 295 sensación de plenitud
+T15 DISO 99 106 náuseas
+T16 DISO 106 113 vómitos
+T17 DISO 97 103 vómito
+T18 PROC 307 325 exploración física
+T19 DISO 541 571 abdomen globuloso , timp ánico
+T20 ANAT 229 241 intestinales
+T21 PROC 321 337 tensión arterial
+T22 PROC 400 419 frecuencia cardiaca
+T23 PROC 639 668 radiografía simple de abdomen
+T24 DISO 438 457 dilatación gástrica
+T25 PROC 25 26 R
+T26 PROC 76 79 ecu
+T27 PROC 469 487 ento linfoci tario
+T28 PROC 190 197 Amilasa
+T29 PROC 225 233 glucemia
+T30 PROC 88 91 LDH
+T31 PROC 151 156 creat
+T32 PROC 311 321 ín quinasa
+T33 PROC 65 67 CK
+T34 CHEM 199 205 sueros
+T35 PROC 69 71 en
+T36 PROC 141 145 emas
+T37 PROC 1153 1185 colocación de sonda nasogástrica
+T38 PROC 75 77 en
+T39 PROC 153 157 emas
+T40 PROC 703 721 sonda nasogástrica
+T41 DISO 161 165 pres
+T42 DISO 42 43 h
+T43 DISO 127 130 ock
+T44 PROC 775 793 exploración física
+T45 DISO 133 136 liv
+T46 DISO 136 139 ide
+T47 DISO 1197 1223 ces en miembros inferiores
+T48 DISO 1223 1249 debilidad de pulsos pedios
+T49 PROC 481 491 frecuencia
+T50 PROC 785 801 tensión arterial
+T51 PROC 401 409 Glucemia
+T52 PROC 358 365 amilasa
+T53 PROC 209 213 ALAT
+T54 PROC 160 163 LDH
+T55 PROC 109 111 CK
+T56 PROC 1156 1177 proteína C - rea tiva
+T57 DISO 1065 1084 acidosis metabólica
+T58 PROC 115 117 PO
+T59 PROC 59 60 2
+T60 PROC 60 61 P
+T61 PROC 121 123 CO
+T62 PROC 62 63 2
+T63 PROC 683 694 bicarbonato
+T64 PROC 820 833 ácido láctico
+T65 PROC 1089 1106 examen Tomografía

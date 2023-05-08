@@ -1,0 +1,107 @@
+T1 DISO 1 11 dermatitis
+T2 ANAT 5 9 cara
+T3 ANAT 13 19 tronco
+T4 ANAT 37 49 extremidades
+T5 PROC 53 66 diagnosticada
+T6 PROC 76 91 biopsia de piel
+T7 DISO 13 15 DM
+T8 DISO 127 145 afectación cutánea
+T9 DISO 145 163 debilidad muscular
+T10 PROC 163 181 enzimas musculares
+T11 PROC 21 23 CK
+T12 PROC 23 25 al
+T13 PROC 37 40 dol
+T14 PROC 40 43 asa
+T15 PROC 211 226 anticuerpos ANA
+T16 CHEM 31 33 Mi
+T17 CHEM 17 18 -
+T18 CHEM 18 19 1
+T19 CHEM 19 20 :
+T20 CHEM 39 41 Mi
+T21 CHEM 21 22 -
+T22 CHEM 22 23 2
+T23 CHEM 89 93 anti
+T24 CHEM 24 25 -
+T25 CHEM 25 26 P
+T26 CHEM 76 79 155
+T27 PROC 521 541 marcadores tumorales
+T28 PROC 325 337 TAC completo
+T29 DISO 253 262 neoplasia
+T30 PROC 697 721 reactantes de fase aguda
+T31 PROC 91 94 PCR
+T32 PROC 94 97 VSG
+T33 PROC 161 166 trata
+T34 CHEM 331 341 prednisona
+T35 PROC 681 701 pautas descen dentes
+T36 DISO 281 289 mialgias
+T37 DISO 649 667 debilidad muscular
+T38 PROC 186 191 encam
+T39 PROC 115 118 ada
+T40 DISO 235 241 fiebre
+T41 DISO 321 329 disfagia
+T42 DISO 288 295 pérdida
+T43 PROC 295 302 ingresa
+T44 DISO 87 89 DM
+T45 DISO 353 361 miopatía
+T46 PROC 406 415 electromi
+T47 PROC 277 283 ograma
+T48 PROC 95 97 EM
+T49 PROC 49 50 G
+T50 PROC 981 1001 resonancia magnética
+T51 PROC 801 817 biopsia muscular
+T52 DISO 1072 1093 miopatía inflamatoria
+T53 ANAT 1041 1061 musculatura proximal
+T54 ANAT 637 649 extremidades
+T55 PROC 163 166 eso
+T56 PROC 221 225 fago
+T57 PROC 281 286 grama
+T58 DISO 1540 1567 alteración motora esofágica
+T59 DISO 929 945 retraso gástrico
+T60 PROC 768 781 diagnosticada
+T61 DISO 121 123 DM
+T62 DISO 1892 1923 afectación muscular y digestiva
+T63 ANAT 435 442 cutánea
+T64 PROC 1009 1025 estudio pulmonar
+T65 PROC 897 911 ecocardiograma
+T66 PROC 456 463 terapia
+T67 CHEM 661 671 corticoide
+T68 PROC 470 477 ingreso
+T69 CHEM 205 208 cin
+T70 CHEM 208 211 ita
+T71 CHEM 141 143 pr
+T72 CHEM 214 217 ida
+T73 CHEM 217 220 pro
+T74 CHEM 220 223 cin
+T75 CHEM 371 376 ético
+T76 DISO 601 609 miopatía
+T77 CHEM 837 848 azatioprina
+T78 PROC 1464 1483 pulsos intravenosos
+T79 CHEM 1327 1344 metilprednisolona
+T80 CHEM 791 801 prednisona
+T81 PROC 1361 1378 pauta descendente
+T82 CHEM 892 903 azatioprina
+T83 PROC 247 250 GOT
+T84 PROC 250 253 AST
+T85 PROC 253 256 GPT
+T86 PROC 256 259 ALT
+T87 CHEM 947 958 azatioprina
+T88 DISO 1306 1321 hepatotoxicidad
+T89 DISO 1409 1425 reacción adversa
+T90 CHEM 1069 1081 micofenolato
+T91 PROC 2161 2185 consentimiento informado
+T92 PROC 1002 1013 tratamiento
+T93 ANAT 737 745 muscular
+T94 DISO 745 753 disfagia
+T95 DISO 941 951 dermatitis
+T96 PROC 2281 2305 reactantes de fase aguda
+T97 PROC 1249 1262 transaminasas
+T98 PROC 195 197 CK
+T99 PROC 197 199 al
+T100 PROC 298 301 dol
+T101 PROC 301 304 asa
+T102 CHEM 304 307 cin
+T103 CHEM 307 310 ita
+T104 CHEM 207 209 pr
+T105 CHEM 313 316 ida
+T106 PROC 1786 1803 pauta descendente
+T107 CHEM 1061 1071 prednisona

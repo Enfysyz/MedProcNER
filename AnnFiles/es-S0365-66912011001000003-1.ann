@@ -1,0 +1,15 @@
+T1 DISO 1 15 visión borrosa
+T2 PROC 15 29 agudeza visual
+T3 PROC 21 31 refracción
+T4 CHEM 16 21 ciclo
+T5 CHEM 25 31 plejía
+T6 DISO 106 127 defectos refrac tivos
+T7 ANAT 25 29 ojos
+T8 PROC 176 201 exploración oftalmológica
+T9 PROC 73 82 anamnesis
+T10 PROC 73 81 consulta
+T11 DISO 81 89 síntomas
+T12 PROC 188 205 prueba del espejo
+T13 ANAT 49 53 ojos
+T14 PROC 131 141 revisiones
+T15 ANAT 57 61 ojos

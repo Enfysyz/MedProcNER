@@ -1,0 +1,105 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 18 35 arritmia cardíaca
+T3 DISO 45 67 tumoración no dolorosa
+T4 ANAT 13 17 mama
+T5 PROC 45 56 exploración
+T6 ANAT 141 169 cuadrante ín fero - inter no
+T7 ANAT 25 29 mama
+T8 DISO 120 137 tumoración sólida
+T9 ANAT 49 55 planos
+T10 ANAT 82 91 profundos
+T11 PROC 201 221 estudio mam ográfico
+T12 ANAT 56 61 mamas
+T13 DISO 49 53 masa
+T14 PROC 235 253 estudio ecográfico
+T15 DISO 449 481 masa hipo ec ogénica heterogénea
+T16 DISO 151 161 malignidad
+T17 PROC 129 137 microbio
+T18 PROC 477 505 psia clínica tipo tru - cu t
+T19 DISO 109 115 lesión
+T20 PROC 191 201 histología
+T21 DISO 41 43 ne
+T22 DISO 43 45 of
+T23 DISO 661 691 ormación infiltra tiva maligna
+T24 ANAT 668 697 estructuras duc to a cin ares
+T25 DISO 265 276 neoplásicas
+T26 DISO 1326 1379 neoplasias malignas de células fus iformes de la mama
+T27 PROC 287 298 diagnóstico
+T28 DISO 1270 1317 carcinomas meta plásicos de células fus iformes
+T29 DISO 225 233 sarcomas
+T30 PROC 581 601 extirpación completa
+T31 DISO 181 187 lesión
+T32 PROC 342 353 diagnóstico
+T33 PROC 609 628 estudio histológico
+T34 PROC 760 783 tratamiento quiráºrgico
+T35 PROC 307 316 cuadrante
+T36 PROC 841 865 ctomía ín fero - me dial
+T37 PROC 793 815 linfadenectomía axilar
+T38 DISO 334 343 neoplasia
+T39 DISO 457 469 infiltración
+T40 ANAT 157 161 piel
+T41 ANAT 801 821 máºsculo esquelético
+T42 DISO 1477 1513 proliferación neoplásica infiltrante
+T43 ANAT 799 818 células fus iformes
+T44 DISO 345 353 necrosis
+T45 ANAT 309 316 celular
+T46 ANAT 856 875 células neoplásicas
+T47 DISO 139 142 ati
+T48 DISO 518 529 pia nuclear
+T49 DISO 241 246 hiper
+T50 DISO 148 151 cro
+T51 DISO 151 154 mas
+T52 DISO 103 105 ia
+T53 DISO 365 372 mitosis
+T54 ANAT 1485 1513 epitelio duc t olo bul illar
+T55 DISO 325 331 lesión
+T56 ANAT 166 169 duc
+T57 ANAT 169 172 tos
+T58 ANAT 628 639 estructuras
+T59 ANAT 639 650 neoplásicas
+T60 DISO 296 301 tumor
+T61 PROC 1621 1648 estudio inmunohisto químico
+T62 ANAT 1160 1179 células neoplásicas
+T63 CHEM 311 316 quera
+T64 CHEM 1072 1089 tinas AE 1 - AE 3
+T65 CHEM 257 261 cito
+T66 CHEM 326 331 quera
+T67 CHEM 463 470 tina 22
+T68 CHEM 68 69 v
+T69 CHEM 273 277 imen
+T70 CHEM 277 281 tina
+T71 CHEM 1401 1421 actina máºsculo liso
+T72 CHEM 214 217 Cer
+T73 CHEM 73 74 b
+T74 CHEM 74 75 -
+T75 CHEM 75 76 2
+T76 CHEM 151 153 CD
+T77 CHEM 153 155 10
+T78 CHEM 1079 1093 queratina 90 3
+T79 CHEM 235 238 EMA
+T80 CHEM 317 321 cito
+T81 CHEM 401 406 quera
+T82 CHEM 487 493 tina 7
+T83 CHEM 165 167 CD
+T84 CHEM 167 169 31
+T85 CHEM 169 171 CD
+T86 CHEM 171 173 34
+T87 CHEM 87 88 p
+T88 CHEM 175 177 63
+T89 CHEM 1057 1069 actina total
+T90 CHEM 268 271 des
+T91 CHEM 361 365 mina
+T92 CHEM 183 185 mi
+T93 CHEM 461 466 osina
+T94 CHEM 187 189 CD
+T95 CHEM 189 191 68
+T96 CHEM 1521 1537 proteína S - 100
+T97 CHEM 193 195 HM
+T98 CHEM 98 99 B
+T99 CHEM 197 199 45
+T100 CHEM 3466 3501 receptores hormonales de estrógenos
+T101 CHEM 1201 1213 progesterona
+T102 DISO 4546 4591 carcinoma meta plásico de células fus iformes
+T103 DISO 613 619 signos
+T104 DISO 1443 1457 tumor residual
+T105 PROC 3017 3046 tratamiento coadyuvante radio

@@ -1,0 +1,87 @@
+T1 DISO 1 5 EPOC
+T2 DISO 8 15 fumador
+T3 DISO 15 22 bebedor
+T4 DISO 31 41 tumoración
+T5 ANAT 25 31 planos
+T6 ANAT 46 55 profundos
+T7 ANAT 37 43 región
+T8 ANAT 22 25 man
+T9 ANAT 17 19 ub
+T10 ANAT 109 121 rio esternal
+T11 PROC 181 199 radiografía simple
+T12 PROC 309 337 TAC con contraste endovenoso
+T13 PROC 469 508 reconstrucción tridimensional del tórax
+T14 DISO 131 141 tumoración
+T15 ANAT 43 46 man
+T16 ANAT 31 33 ub
+T17 ANAT 193 205 rio esternal
+T18 DISO 188 199 destrucción
+T19 ANAT 145 153 cortical
+T20 DISO 476 501 infiltración mediastínica
+T21 ANAT 81 85 clav
+T22 ANAT 127 133 ículas
+T23 PROC 375 392 analítica general
+T24 PROC 714 745 estudio de las inmunoglobulinas
+T25 PROC 49 51 Ig
+T26 PROC 26 27 G
+T27 PROC 79 82 IgA
+T28 PROC 82 85 IgM
+T29 PROC 617 639 beta 2 micro globulina
+T30 PROC 117 121 PAAF
+T31 PROC 571 590 biopsia quiráºrgica
+T32 PROC 280 289 citología
+T33 PROC 993 1024 pruebas de Inmuno histo química
+T34 PROC 199 205 CD 138
+T35 CHEM 69 71 CD
+T36 CHEM 71 73 LA
+T37 CHEM 73 75 MB
+T38 CHEM 75 77 DA
+T39 ANAT 267 274 células
+T40 CHEM 40 41 K
+T41 CHEM 81 83 AP
+T42 CHEM 83 85 PA
+T43 ANAT 295 302 células
+T44 DISO 173 177 plas
+T45 DISO 89 91 mo
+T46 DISO 271 277 citoma
+T47 PROC 231 236 gamma
+T48 PROC 518 529 grafia ósea
+T49 ANAT 289 295 región
+T50 ANAT 246 251 tumor
+T51 ANAT 1851 1888 articulaciones esterno cla v iculares
+T52 PROC 1123 1145 biopsia de médula ósea
+T53 PROC 989 1008 estudio de la orina
+T54 PROC 1485 1513 proteínas de B ence - J ones
+T55 PROC 1513 1541 extirpación amplia en bloque
+T56 ANAT 166 169 man
+T57 ANAT 113 115 ub
+T58 ANAT 685 697 rio esternal
+T59 PROC 987 1004 resección parcial
+T60 ANAT 237 241 clav
+T61 ANAT 361 367 ículas
+T62 ANAT 489 497 primeras
+T63 ANAT 559 568 costillas
+T64 ANAT 379 385 cuerpo
+T65 ANAT 513 521 esternón
+T66 ANAT 261 265 piel
+T67 DISO 331 336 tumor
+T68 DISO 1676 1701 infiltración mediastínica
+T69 PROC 1157 1174 Cobertura defecto
+T70 CHEM 277 281 poli
+T71 CHEM 421 427 propil
+T72 CHEM 214 217 eno
+T73 PROC 1801 1826 sutura de los pec torales
+T74 DISO 2191 2221 complicaciones postoperatorias
+T75 ANAT 1037 1051 pared torácica
+T76 ANAT 1201 1217 pieza operatoria
+T77 DISO 533 540 células
+T78 CHEM 1926 1951 anticuerpos anti CD 138 y
+T79 CHEM 1171 1186 cadenas lamb da
+T80 PROC 1739 1761 anticuerpos de cadenas
+T81 PROC 721 730 resección
+T82 DISO 811 821 enfermedad
+T83 PROC 2297 2325 tratamiento con radioterapia
+T84 PROC 1578 1597 revisión de control
+T85 PROC 757 766 operación
+T86 DISO 851 861 enfermedad
+T87 DISO 2925 2959 complicaciones post - quiráºrgicas

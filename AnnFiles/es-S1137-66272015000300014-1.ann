@@ -1,0 +1,99 @@
+T1 PROC 1 12 intervenida
+T2 PROC 14 27 histerectomía
+T3 PROC 9 13 anex
+T4 PROC 52 69 ectomía bilateral
+T5 PROC 17 21 linf
+T6 PROC 11 13 aa
+T7 PROC 19 22 den
+T8 PROC 50 57 ectomía
+T9 DISO 225 253 adenocarcinoma de endometrio
+T10 DISO 244 271 distrofia mio tónica tipo I
+T11 DISO 91 100 DM tipo I
+T12 DISO 254 277 enfermedad de Stein ert
+T13 DISO 145 157 BAV completo
+T14 DISO 404 435 enfermedad restrictiva pulmonar
+T15 PROC 449 481 ventilación mecánica no invasiva
+T16 PROC 31 33 VM
+T17 PROC 33 35 NI
+T18 DISO 477 505 hepatopatía crónica no viral
+T19 DISO 91 96 hiper
+T20 DISO 96 101 trans
+T21 DISO 81 85 amin
+T22 DISO 127 133 asemia
+T23 PROC 243 254 seguimiento
+T24 DISO 323 337 hipotiroidismo
+T25 PROC 265 276 tratamiento
+T26 CHEM 101 105 levo
+T27 CHEM 79 82 tir
+T28 CHEM 136 141 osina
+T29 DISO 85 88 HTA
+T30 PROC 320 331 tratamiento
+T31 CHEM 91 94 can
+T32 CHEM 94 97 des
+T33 CHEM 161 166 artán
+T34 PROC 892 919 Intervenciones quiráºrgicas
+T35 PROC 511 526 colecistectomía
+T36 PROC 386 397 laparotomía
+T37 PROC 721 741 cirugía de cataratas
+T38 PROC 112 115 ECG
+T39 DISO 1293 1327 Bloqueo completo de rama izquierda
+T40 PROC 664 681 Radiografía tórax
+T41 DISO 1001 1026 derrame pleural izquierdo
+T42 PROC 83 85 Es
+T43 PROC 169 173 piro
+T44 PROC 259 265 metría
+T45 PROC 133 136 FEV
+T46 PROC 46 47 1
+T47 PROC 139 142 FVC
+T48 PROC 142 145 FEV
+T49 PROC 49 50 1
+T50 PROC 50 51 F
+T51 PROC 101 103 VC
+T52 PROC 970 989 Gasometría arterial
+T53 PROC 53 54 2
+T54 PROC 54 55 P
+T55 PROC 109 111 CO
+T56 PROC 56 57 2
+T57 PROC 169 172 HCO
+T58 PROC 58 59 3
+T59 PROC 523 532 Hemograma
+T60 PROC 119 121 Hb
+T61 PROC 181 184 Hto
+T62 PROC 550 559 Plaquetas
+T63 PROC 683 694 Coagulación
+T64 PROC 1513 1537 actividad de protrombina
+T65 PROC 1921 1951 saturación arterial de oxígeno
+T66 CHEM 131 133 02
+T67 CHEM 991 1006 benzodiacepinas
+T68 PROC 202 205 pre
+T69 PROC 681 691 medicación
+T70 PROC 1864 1891 anestesia in trar ra quídea
+T71 CHEM 211 214 bup
+T72 CHEM 1350 1369 ivacaína hiper bara
+T73 CHEM 649 658 fentanilo
+T74 CHEM 804 815 paracetamol
+T75 CHEM 667 676 metamizol
+T76 CHEM 901 913 dexametasona
+T77 CHEM 1065 1079 dexketoprofeno
+T78 PROC 463 469 fluido
+T79 PROC 1795 1818 terapia con calent ador
+T80 PROC 2134 2161 resección del áºtero anexos
+T81 PROC 3041 3079 linfadenectomía ilíaca y para aór tica
+T82 DISO 406 411 dolor
+T83 PROC 739 748 inyección
+T84 CHEM 665 673 ketamina
+T85 CHEM 1261 1276 benzodiacepinas
+T86 CHEM 256 259 mór
+T87 CHEM 431 436 ficos
+T88 CHEM 697 705 propofol
+T89 CHEM 705 713 ketamina
+T90 PROC 802 811 analgesia
+T91 DISO 1711 1730 efectos secundarios
+T92 PROC 1548 1565 saturación de O 2
+T93 PROC 1105 1117 intervención
+T94 PROC 1861 1881 soporte respiratorio
+T95 PROC 1317 1331 oxigenoterapia
+T96 CHEM 96 97 O
+T97 PROC 97 98 2
+T98 PROC 680 687 cirugía
+T99 PROC 393 397 VMNI

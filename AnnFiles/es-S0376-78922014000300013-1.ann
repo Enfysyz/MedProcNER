@@ -1,0 +1,73 @@
+T1 DISO 1 12 traumatismo
+T2 ANAT 6 11 brazo
+T3 DISO 57 85 fractura abierta transversal
+T4 ANAT 19 25 tercio
+T5 PROC 113 141 tratada con fij ador externo
+T6 DISO 76 91 lesión vascular
+T7 ANAT 43 50 arteria
+T8 PROC 36 41 repar
+T9 PROC 25 28 ada
+T10 DISO 82 91 accidente
+T11 PROC 271 298 exploración física dirigida
+T12 ANAT 210 229 extremidad superior
+T13 ANAT 133 144 periféricos
+T14 ANAT 105 113 distales
+T15 ANAT 85 91 radial
+T16 ANAT 106 113 cubital
+T17 PROC 241 256 prueba de Allen
+T18 PROC 52 55 rac
+T19 PROC 55 58 tic
+T20 PROC 647 681 estudio con doppler en tiempo real
+T21 ANAT 321 337 arteria braquial
+T22 PROC 274 287 doppler color
+T23 PROC 639 668 doppler potencia y espec tral
+T24 ANAT 369 385 arteria distales
+T25 ANAT 73 76 rad
+T26 ANAT 76 79 ial
+T27 ANAT 183 190 cubital
+T28 PROC 244 253 ingresado
+T29 DISO 169 175 herida
+T30 ANAT 146 151 brazo
+T31 DISO 211 218 sección
+T32 ANAT 466 481 bíceps braquial
+T33 ANAT 545 562 arterial braquial
+T34 PROC 67 69 ud
+T35 CHEM 137 141 seda
+T36 DISO 1436 1477 fractura expuesta tercio medio de háºmero
+T37 ANAT 325 334 antebrazo
+T38 DISO 260 267 rigidez
+T39 PROC 77 79 tu
+T40 PROC 196 201 vimos
+T41 ANAT 401 411 extremidad
+T42 DISO 698 715 isquemia caliente
+T43 PROC 1639 1678 reconstrucción secuencial la extremidad
+T44 PROC 603 617 reconstrucción
+T45 PROC 1233 1261 reparación vascular Vascular
+T46 PROC 1621 1657 toma de injerto de vena safena mayor
+T47 ANAT 875 894 extremidad inferior
+T48 ANAT 988 1009 arcada vaso bra quial
+T49 PROC 337 344 injerto
+T50 PROC 2255 2301 anastomosis término - terminal puntos suel tos
+T51 CHEM 51 52 n
+T52 CHEM 52 53 y
+T53 CHEM 157 160 lon
+T54 DISO 425 433 fractura
+T55 PROC 919 936 revascularización
+T56 ANAT 551 561 extremidad
+T57 DISO 505 514 accidente
+T58 PROC 172 175 fas
+T59 PROC 175 178 cio
+T60 PROC 1594 1621 tomía anterior de antebrazo
+T61 DISO 1441 1465 síndrome comparti mental
+T62 DISO 672 683 traumatismo
+T63 PROC 869 883 reconstrucción
+T64 PROC 1009 1025 fijación interna
+T65 PROC 577 586 cobertura
+T66 ANAT 456 463 tejidos
+T67 DISO 397 403 lesión
+T68 PROC 1274 1293 reparación vascular
+T69 PROC 1089 1105 fijación interna
+T70 DISO 1312 1331 fractura de háºmero
+T71 PROC 981 995 reconstrucción
+T72 PROC 640 649 cobertura
+T73 ANAT 2017 2045 estructuras neuro vasculares

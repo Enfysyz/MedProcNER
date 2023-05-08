@@ -1,0 +1,80 @@
+T1 DISO 1 21 accidente de tráfico
+T2 DISO 31 61 defecto complejo postraumático
+T3 ANAT 7 10 pie
+T4 ANAT 22 29 tobillo
+T5 DISO 81 101 pérdida de sustancia
+T6 ANAT 71 85 maleolo tibial
+T7 ANAT 13 15 as
+T8 ANAT 15 17 tr
+T9 ANAT 41 46 ágalo
+T10 ANAT 280 311 articulación sub as tra gal ina
+T11 ANAT 231 254 tendón tibial posterior
+T12 ANAT 353 385 tendón flexor largo de los dedos
+T13 DISO 25 27 av
+T14 DISO 79 85 ulsión
+T15 ANAT 183 196 nervio tibial
+T16 ANAT 361 385 arteria tibial posterior
+T17 DISO 113 120 defecto
+T18 ANAT 52 55 pie
+T19 ANAT 415 438 arteria tibial anterior
+T20 PROC 400 421 desbridamiento tejido
+T21 PROC 441 463 reconstrucción defecto
+T22 DISO 232 243 traumatismo
+T23 PROC 221 231 reparación
+T24 ANAT 185 193 tendones
+T25 PROC 337 351 reconstrucción
+T26 ANAT 326 339 nervio tibial
+T27 PROC 651 676 injertos de nervio su ral
+T28 PROC 460 477 cobertura defecto
+T29 ANAT 197 204 colgajo
+T30 ANAT 349 361 perfor antes
+T31 ANAT 211 218 colgajo
+T32 ANAT 156 161 muslo
+T33 ANAT 193 199 perfor
+T34 ANAT 133 137 ante
+T35 PROC 715 736 disección sub fascial
+T36 ANAT 246 253 colgajo
+T37 ANAT 217 223 perfor
+T38 ANAT 149 153 ante
+T39 ANAT 571 586 rama transversa
+T40 ANAT 1405 1441 arteria circun fleja femoral lateral
+T41 ANAT 81 83 AC
+T42 ANAT 83 85 FL
+T43 ANAT 253 259 perfor
+T44 ANAT 173 177 ante
+T45 ANAT 265 271 perfor
+T46 ANAT 181 185 ante
+T47 PROC 139 142 á±a
+T48 ANAT 330 337 colgajo
+T49 ANAT 481 491 colgajo de
+T50 ANAT 589 601 perfor antes
+T51 ANAT 201 205 isla
+T52 ANAT 205 209 piel
+T53 ANAT 313 319 perfor
+T54 ANAT 213 217 ante
+T55 ANAT 2107 2146 nervio femoro cutáneo lateral del muslo
+T56 PROC 551 561 reparación
+T57 ANAT 729 742 nervio tibial
+T58 PROC 1426 1451 injertos de nervio su ral
+T59 PROC 1741 1771 transferencia fijación colgajo
+T60 PROC 650 661 anastomosis
+T61 ANAT 1441 1465 arteria tibial posterior
+T62 ANAT 306 311 venas
+T63 ANAT 2047 2080 vena com it ante tibial posterior
+T64 ANAT 1072 1089 vena safena mayor
+T65 ANAT 1857 1886 nervio femoro cutáneo lateral
+T66 ANAT 456 463 colgajo
+T67 ANAT 859 872 nervio tibial
+T68 PROC 1341 1361 cierre directo de la
+T69 ANAT 817 829 zona d adora
+T70 PROC 829 841 intervención
+T71 DISO 981 995 complicaciones
+T72 PROC 1208 1225 alta hospitalaria
+T73 PROC 1729 1753 intervención quiráºrgica
+T74 PROC 877 889 fisioterapia
+T75 ANAT 223 226 pie
+T76 ANAT 526 533 muletas
+T77 PROC 533 540 cirugía
+T78 ANAT 232 235 pie
+T79 PROC 547 554 cirugía
+T80 ANAT 238 241 pie

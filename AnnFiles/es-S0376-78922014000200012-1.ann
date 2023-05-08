@@ -1,0 +1,93 @@
+T1 DISO 1 10 diabético
+T2 DISO 6 11 dolor
+T3 DISO 11 16 edema
+T4 DISO 67 89 aumento de temperatura
+T5 ANAT 109 136 párpado superior e inferior
+T6 DISO 81 97 trauma con tu so
+T7 PROC 31 36 dermo
+T8 PROC 36 41 abras
+T9 PROC 25 28 ión
+T10 PROC 64 71 ingreso
+T11 PROC 81 89 valorado
+T12 PROC 144 157 diagnosticado
+T13 DISO 253 274 celulitis pres ep tal
+T14 PROC 92 99 ingreso
+T15 DISO 43 46 esc
+T16 DISO 211 225 ara necró tica
+T17 ANAT 289 307 tejido involucrado
+T18 PROC 222 235 internamiento
+T19 PROC 289 305 aseo quiráºrgico
+T20 PROC 267 281 desbridamiento
+T21 ANAT 241 253 tejido necró
+T22 PROC 484 507 cultivo bacteri ológico
+T23 PROC 177 185 valorado
+T24 PROC 254 265 tratamiento
+T25 CHEM 217 226 Meropenem
+T26 CHEM 76 79 Van
+T27 CHEM 209 217 comicina
+T28 CHEM 109 113 Clin
+T29 CHEM 225 233 damicina
+T30 CHEM 59 61 An
+T31 CHEM 301 311 fotericina
+T32 PROC 404 417 internamiento
+T33 PROC 321 331 valoración
+T34 DISO 232 239 Heridas
+T35 PROC 375 386 tratamiento
+T36 PROC 946 973 terapia de presión negativa
+T37 DISO 253 260 exudado
+T38 PROC 260 267 terapia
+T39 PROC 495 508 internamiento
+T40 DISO 274 281 eritema
+T41 ANAT 281 288 porción
+T42 ANAT 944 967 palpebral contralateral
+T43 PROC 295 302 tratado
+T44 PROC 216 221 curas
+T45 CHEM 881 901 solución fisiológica
+T46 CHEM 91 93 is
+T47 CHEM 93 95 od
+T48 CHEM 142 145 ine
+T49 PROC 385 393 cubierto
+T50 CHEM 99 101 al
+T51 CHEM 201 205 gina
+T52 CHEM 103 105 to
+T53 DISO 365 372 proceso
+T54 DISO 531 541 infeccioso
+T55 PROC 703 716 internamiento
+T56 PROC 441 449 valorado
+T57 PROC 1905 1939 Cirugía Plástica y Recons tructiva
+T58 DISO 856 871 pérdida cutánea
+T59 ANAT 929 945 párpado superior
+T60 DISO 414 421 pérdida
+T61 ANAT 1321 1343 máºsculo or b icular y
+T62 ANAT 550 559 elev ador
+T63 ANAT 1303 1324 tejido de granulación
+T64 DISO 1009 1025 pérdidas focales
+T65 ANAT 641 651 conjuntiva
+T66 PROC 651 661 valoración
+T67 PROC 1849 1877 intervenido quiráºrgicamente
+T68 PROC 1676 1701 desbridamiento del tejido
+T69 PROC 1633 1657 cierre palpebral parcial
+T70 ANAT 898 911 placa tar sal
+T71 PROC 1121 1137 colgajos locales
+T72 PROC 427 433 cerrar
+T73 DISO 793 804 defectos en
+T74 ANAT 731 741 conjuntiva
+T75 PROC 371 376 canto
+T76 PROC 976 989 tomía lateral
+T77 PROC 1825 1849 injerto de espesor total
+T78 ANAT 925 937 canto medial
+T79 ANAT 2575 2608 colgajo frontal máºsculo cu taneo
+T80 ANAT 2292 2321 remanente sáº pero - ex terno
+T81 ANAT 2561 2593 máºsculo or b icular del párpado
+T82 PROC 892 903 sección del
+T83 ANAT 657 665 pedículo
+T84 ANAT 1246 1261 colgajo frontal
+T85 ANAT 757 766 palpebral
+T86 PROC 171 173 mi
+T87 PROC 345 349 orra
+T88 PROC 610 617 fia del
+T89 ANAT 617 624 frontal
+T90 ANAT 179 181 or
+T91 ANAT 91 92 b
+T92 ANAT 1639 1657 icular del párpado
+T93 ANAT 645 652 párpado

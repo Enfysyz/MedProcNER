@@ -1,0 +1,46 @@
+T1 DISO 1 26 déficit de agudeza visual
+T2 DISO 3 5 AV
+T3 ANAT 7 10 ojo
+T4 ANAT 7 9 OD
+T5 DISO 93 116 epilepsia postraumática
+T6 DISO 106 127 hipertensión arterial
+T7 DISO 151 176 diabetes mellitus tipo II
+T8 PROC 78 89 tratamiento
+T9 CHEM 25 28 vig
+T10 CHEM 28 31 aba
+T11 CHEM 51 56 trina
+T12 CHEM 144 157 carbamazepina
+T13 DISO 133 144 traumatismo
+T14 PROC 27 29 AV
+T15 ANAT 43 46 ojo
+T16 PROC 61 65 biom
+T17 PROC 33 35 ic
+T18 PROC 52 55 ros
+T19 PROC 253 267 copía anterior
+T20 PROC 58 61 ton
+T21 PROC 141 148 ometría
+T22 PROC 106 111 oftal
+T23 PROC 67 70 mos
+T24 PROC 116 121 copía
+T25 DISO 169 176 palidez
+T26 ANAT 176 183 papilas
+T27 DISO 859 892 membrana ep ir retin iana macular
+T28 PROC 82 85 per
+T29 PROC 85 88 ime
+T30 PROC 610 631 trías computar izadas
+T31 ANAT 121 125 ojos
+T32 DISO 900 929 neuropatía óptica hereditaria
+T33 PROC 289 298 anamnesis
+T34 PROC 859 885 determinaciones analíticas
+T35 PROC 885 911 volumen corpus cular medio
+T36 PROC 736 757 vitaminas B 1 , B 6 ,
+T37 CHEM 37 38 B
+T38 CHEM 186 191 ácido
+T39 PROC 419 430 diagnóstico
+T40 DISO 235 241 retino
+T41 DISO 361 370 toxicidad
+T42 CHEM 124 127 vig
+T43 CHEM 127 130 aba
+T44 CHEM 216 221 trina
+T45 PROC 485 496 seguimiento
+T46 DISO 316 323 pérdida

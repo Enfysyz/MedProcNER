@@ -1,0 +1,62 @@
+T1 DISO 1 28 insuficiencia renal crónica
+T2 DISO 6 11 nefro
+T3 DISO 11 16 angio
+T4 DISO 31 41 esclerosis
+T5 PROC 41 51 ecográfico
+T6 DISO 51 61 masa renal
+T7 ANAT 97 113 riá±ón izquierdo
+T8 DISO 29 33 EPOC
+T9 DISO 25 28 HTA
+T10 DISO 19 21 ul
+T11 DISO 121 133 cus duodenal
+T12 DISO 210 229 estenosis pil órica
+T13 PROC 265 287 TC abdomino - pélv ico
+T14 DISO 40 43 les
+T15 DISO 211 226 ión infiltrante
+T16 ANAT 91 97 riá±ón
+T17 ANAT 369 392 espacio per ica ps ular
+T18 DISO 86 91 gamma
+T19 DISO 289 305 patía monoclonal
+T20 CHEM 58 61 IgM
+T21 CHEM 101 106 kappa
+T22 PROC 127 133 inmuno
+T23 PROC 45 47 fi
+T24 PROC 139 145 jación
+T25 DISO 697 726 proteinuria de b ence - jones
+T26 PROC 576 599 aspirado de médula ósea
+T27 PROC 261 271 serie ósea
+T28 DISO 460 477 lesiones lí ticas
+T29 PROC 309 320 diagnóstico
+T30 DISO 291 301 masa renal
+T31 DISO 151 156 gamma
+T32 DISO 621 641 patía monoclonal IgM
+T33 DISO 353 364 mieloma IgM
+T34 PROC 958 987 nefrectomía radical izquierda
+T35 DISO 1701 1751 linfoma no - ho d king B primario renal tipo MAL T
+T36 DISO 1296 1333 tumor linfoide asociado a las mucosas
+T37 PROC 325 334 dado alta
+T38 PROC 815 837 controles ambulatorios
+T39 PROC 115 118 IgM
+T40 PROC 430 441 tratamiento
+T41 CHEM 161 165 Clor
+T42 CHEM 83 85 am
+T43 CHEM 85 87 bu
+T44 CHEM 130 133 cil
+T45 PROC 573 586 TC de control
+T46 ANAT 811 829 fascia perir renal
+T47 ANAT 231 236 grasa
+T48 DISO 1035 1057 lesiones inflamatorias
+T49 PROC 529 540 seguimiento
+T50 PROC 1716 1751 controles analíticos , radiológicos
+T51 PROC 551 562 tratamiento
+T52 CHEM 205 209 Clor
+T53 CHEM 105 107 am
+T54 CHEM 107 109 bu
+T55 CHEM 163 166 cil
+T56 PROC 111 113 TC
+T57 PROC 169 172 IgM
+T58 PROC 628 639 tratamiento
+T59 CHEM 233 237 Clor
+T60 CHEM 119 121 am
+T61 CHEM 121 123 bu
+T62 CHEM 184 187 cil

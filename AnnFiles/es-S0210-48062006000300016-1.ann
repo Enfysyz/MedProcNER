@@ -1,0 +1,100 @@
+T1 DISO 1 4 uro
+T2 DISO 28 55 patía obstructiva bilateral
+T3 PROC 7 10 uro
+T4 PROC 55 73 grafía intravenosa
+T5 DISO 37 46 hematuria
+T6 DISO 51 61 dislipemia
+T7 DISO 187 218 hiperplasia benigna de próstata
+T8 DISO 183 209 infarto agudo de miocardio
+T9 DISO 329 370 diabetes mellitus no insulino dependiente
+T10 DISO 82 91 hematuria
+T11 DISO 131 144 asintomáticos
+T12 DISO 89 97 coágulos
+T13 PROC 217 235 exploración física
+T14 DISO 92 99 abdomen
+T15 DISO 71 76 masas
+T16 DISO 121 129 megalias
+T17 DISO 289 307 doloroso palpación
+T18 PROC 205 217 Tacto rectal
+T19 ANAT 145 153 próstata
+T20 DISO 362 381 hiperplasia benigna
+T21 PROC 41 43 Pr
+T22 PROC 715 749 uebas Anal íticas Comple mentarias
+T23 PROC 89 93 Hemo
+T24 PROC 116 121 grama
+T25 PROC 73 76 Bio
+T26 PROC 426 443 química de sangre
+T27 PROC 183 190 glucosa
+T28 PROC 82 85 PSA
+T29 PROC 85 88 PSA
+T30 PROC 30 31 l
+T31 PROC 841 869 Estudio sistemático de orina
+T32 CHEM 280 289 proteínas
+T33 PROC 577 595 cuerpos ce tónicos
+T34 PROC 364 375 bilirrubina
+T35 PROC 273 281 nitritos
+T36 PROC 106 109 uro
+T37 PROC 361 371 bilinógeno
+T38 PROC 371 381 leucocitos
+T39 CHEM 267 274 glucosa
+T40 ANAT 235 241 sangre
+T41 PROC 81 83 Se
+T42 PROC 657 673 dimento de orina
+T43 ANAT 337 345 hematíes
+T44 PROC 388 397 Citología
+T45 DISO 441 451 malignidad
+T46 PROC 46 47 T
+T47 PROC 139 142 écn
+T48 PROC 659 673 icas de Imagen
+T49 PROC 241 246 Radio
+T50 PROC 1177 1201 grafía simple de abdomen
+T51 DISO 251 256 Calci
+T52 DISO 511 521 ficaciones
+T53 ANAT 625 637 pelvis menor
+T54 ANAT 425 433 vascular
+T55 ANAT 163 166 gas
+T56 ANAT 551 561 intestinal
+T57 ANAT 57 58 L
+T58 ANAT 115 117 ín
+T59 ANAT 755 768 eas del psoas
+T60 PROC 60 61 Ċ
+T61 PROC 61 62 U
+T62 PROC 123 125 IV
+T63 ANAT 497 505 Riá±ones
+T64 DISO 694 705 Eliminación
+T65 ANAT 257 261 reno
+T66 ANAT 521 529 ureteral
+T67 DISO 661 671 dilatación
+T68 ANAT 1609 1633 colector renal izquierdo
+T69 ANAT 1089 1105 uréter izquierdo
+T70 ANAT 967 981 región pélvica
+T71 DISO 911 924 cálculo radio
+T72 PROC 214 217 Col
+T73 PROC 1369 1388 ector renal derecho
+T74 ANAT 1169 1185 uréter pelvi ano
+T75 DISO 963 976 cálculo radio
+T76 DISO 526 533 coágulo
+T77 PROC 229 232 cis
+T78 PROC 617 625 tografía
+T79 ANAT 469 475 vejiga
+T80 DISO 475 481 trabec
+T81 DISO 721 730 ulaciones
+T82 ANAT 811 821 prostática
+T83 PROC 83 84 P
+T84 PROC 333 337 ielo
+T85 PROC 1429 1446 grafía percutánea
+T86 DISO 256 259 Hid
+T87 DISO 861 871 ronefrosis
+T88 CHEM 784 793 contraste
+T89 ANAT 529 535 vejiga
+T90 ANAT 1425 1441 uréter pelvi ano
+T91 ANAT 541 547 vejiga
+T92 PROC 92 93 Ċ
+T93 PROC 2301 2326 TAC ab dó mino - pélv ico
+T94 DISO 1210 1223 hidronefrosis
+T95 ANAT 1881 1901 pelvis renal derecha
+T96 ANAT 191 193 ur
+T97 ANAT 1441 1456 éteres distales
+T98 ANAT 1456 1471 vejiga urinaria
+T99 DISO 295 298 uro
+T100 DISO 1684 1701 telioma bilateral

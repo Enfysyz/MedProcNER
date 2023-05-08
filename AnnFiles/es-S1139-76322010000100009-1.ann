@@ -1,0 +1,44 @@
+T1 DISO 1 25 antecedentes patológicos
+T2 PROC 9 17 revisión
+T3 PROC 17 25 consulta
+T4 PROC 67 89 exploración intra oral
+T5 ANAT 81 101 incisivos superiores
+T6 PROC 46 55 palpación
+T7 DISO 67 78 tumefacción
+T8 ANAT 134 153 cortical vestibular
+T9 ANAT 241 271 incisivos centrales superiores
+T10 PROC 37 41 orto
+T11 PROC 31 34 pan
+T12 PROC 111 121 tomografía
+T13 ANAT 241 261 incisivos superiores
+T14 PROC 144 155 radiografía
+T15 ANAT 43 46 mes
+T16 ANAT 61 65 dens
+T17 DISO 65 69 dias
+T18 DISO 341 361 tema inter in cis al
+T19 ANAT 541 571 incisivos centrales superiores
+T20 PROC 400 421 extracción de dientes
+T21 ANAT 161 169 dentaria
+T22 PROC 463 485 extracción quiráºrgica
+T23 ANAT 67 70 mes
+T24 ANAT 47 49 io
+T25 ANAT 97 101 dens
+T26 PROC 176 183 cirugía
+T27 ANAT 157 163 corona
+T28 ANAT 136 141 incis
+T29 ANAT 617 639 ivo superior izquierdo
+T30 ANAT 88 91 mes
+T31 ANAT 61 63 io
+T32 ANAT 125 129 dens
+T33 PROC 385 397 intervención
+T34 PROC 100 103 exo
+T35 PROC 613 631 doncia quiráºrgica
+T36 ANAT 106 109 mes
+T37 ANAT 73 75 io
+T38 ANAT 149 153 dens
+T39 PROC 761 781 controles periódicos
+T40 ANAT 313 321 dentaria
+T41 PROC 961 985 tratamiento ortodón cico
+T42 DISO 165 169 dias
+T43 DISO 841 861 tema inter in cis al
+T44 ANAT 1291 1321 incisivos laterales superiores

@@ -1,0 +1,43 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 38 75 anemia normo cítica - n ormo cr ómica
+T3 PROC 25 37 colonoscopia
+T4 DISO 79 105 neoplasia de colon derecho
+T5 PROC 125 156 estudio histológico cit ológico
+T6 PROC 71 85 diagnosticaron
+T7 DISO 13 15 MM
+T8 PROC 141 161 estudio de extensión
+T9 PROC 161 181 TAC toraco abdominal
+T10 PROC 172 191 ecografía abdominal
+T11 PROC 221 243 revisión dermatológica
+T12 PROC 23 25 ex
+T13 PROC 25 27 er
+T14 PROC 53 57 esis
+T15 PROC 99 106 estudio
+T16 DISO 76 81 nevus
+T17 DISO 33 35 MM
+T18 PROC 392 415 estudio de fondo de ojo
+T19 PROC 397 419 exploración anor ectal
+T20 PROC 210 221 intervenido
+T21 PROC 101 106 hemic
+T22 PROC 43 45 ol
+T23 PROC 331 346 ectomía derecha
+T24 PROC 576 601 estudio anatomopatológico
+T25 ANAT 121 126 pieza
+T26 PROC 226 235 resección
+T27 DISO 677 703 MM poli po ide y ulcer ado
+T28 ANAT 433 449 colon ascendente
+T29 ANAT 253 262 submucosa
+T30 ANAT 378 391 capa muscular
+T31 ANAT 511 528 celulas tumorales
+T32 CHEM 249 257 melanina
+T33 PROC 865 892 estudio inmunohisto químico
+T34 CHEM 529 545 proteína S - 100
+T35 CHEM 69 71 HM
+T36 CHEM 36 37 B
+T37 CHEM 73 75 45
+T38 ANAT 704 723 ganglios linfáticos
+T39 PROC 191 196 resec
+T40 PROC 157 161 ados
+T41 DISO 401 411 metástasis
+T42 DISO 411 421 enfermedad
+T43 PROC 505 517 intervención

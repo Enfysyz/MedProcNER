@@ -1,0 +1,69 @@
+T1 DISO 1 19 neoplasia pulmonar
+T2 DISO 29 57 carcinoma no célula pequeá±a
+T3 PROC 15 22 tratado
+T4 PROC 40 53 quimioterapia
+T5 PROC 49 61 radioterapia
+T6 DISO 51 61 enfermedad
+T7 DISO 115 134 metástasis cerebral
+T8 PROC 127 145 resección completa
+T9 PROC 193 217 radioterapia holocraneal
+T10 DISO 235 261 disnea a mínimos esfuerzos
+T11 DISO 61 67 fiebre
+T12 DISO 34 37 tos
+T13 DISO 157 170 expectoración
+T14 PROC 300 323 tratamiento antibiótico
+T15 DISO 449 481 insuficiencia respiratoria grave
+T16 PROC 46 49 FiO
+T17 PROC 17 18 2
+T18 PROC 341 361 ingresa en la unidad
+T19 DISO 469 495 insuficiencia respiratoria
+T20 PROC 419 441 intubación orotraqueal
+T21 PROC 401 421 ventilación mecánica
+T22 PROC 421 441 radiografía de tórax
+T23 DISO 419 438 infiltrado alveolar
+T24 ANAT 93 97 base
+T25 DISO 817 851 infiltrados pulmonares bilaterales
+T26 PROC 176 183 cateter
+T27 PROC 781 811 ización de la arteria pulmonar
+T28 DISO 379 393 fallo cardíaco
+T29 PROC 673 697 presión capilar pulmonar
+T30 DISO 610 631 hipertensión pulmonar
+T31 DISO 1081 1117 coagulación intravascular diseminada
+T32 PROC 32 33 D
+T33 PROC 33 34 -
+T34 PROC 67 69 dí
+T35 PROC 137 141 mero
+T36 DISO 526 541 trombocitopenia
+T37 PROC 757 778 tiempo de protrombina
+T38 DISO 704 723 fracaso renal agudo
+T39 PROC 381 391 creatinina
+T40 PROC 859 881 lactato deshidrogenasa
+T41 PROC 121 124 LDH
+T42 PROC 1682 1723 tratamiento antibiótico de forma empírica
+T43 CHEM 505 517 piperacilina
+T44 CHEM 44 45 -
+T45 CHEM 441 451 tazobactam
+T46 CHEM 541 553 azitromicina
+T47 CHEM 507 518 corticoides
+T48 DISO 1505 1537 insuficiencia respiratoria grave
+T49 DISO 1057 1079 infiltrados pulmonares
+T50 PROC 540 551 TC torácica
+T51 DISO 1751 1786 afectación parenquimatosa bilateral
+T52 DISO 1072 1093 daá±o alveolar difuso
+T53 DISO 937 955 proceso infeccioso
+T54 PROC 1167 1189 lavado bronco alveolar
+T55 PROC 1243 1266 cultivo bacteri ológico
+T56 PROC 56 57 Z
+T57 PROC 113 115 ie
+T58 PROC 799 813 hl - N iel sen
+T59 PROC 1161 1181 serologías neumonías
+T60 DISO 1299 1321 infección por el virus
+T61 PROC 1381 1404 frotis nasal y faríngeo
+T62 PROC 2746 2791 reacción en cadena de la polimerasa en tiempo
+T63 PROC 125 127 RT
+T64 PROC 64 65 -
+T65 PROC 193 196 PCR
+T66 PROC 716 727 tratamiento
+T67 CHEM 727 738 oseltamivir
+T68 DISO 1609 1633 infiltrados radiológicos
+T69 PROC 1021 1036 hospitalización

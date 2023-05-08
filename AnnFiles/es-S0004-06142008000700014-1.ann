@@ -1,0 +1,95 @@
+T1 DISO 1 32 hipertrofia benigna de próstata
+T2 PROC 10 19 ingresado
+T3 DISO 43 64 cuadro constitucional
+T4 DISO 25 33 anorexia
+T5 DISO 29 36 pérdida
+T6 DISO 111 133 debilidad generalizada
+T7 DISO 145 169 dolor epigástrico cólico
+T8 DISO 50 57 clínica
+T9 PROC 137 154 estudio digestivo
+T10 PROC 28 31 gas
+T11 PROC 91 100 troscopia
+T12 PROC 133 145 colonoscopia
+T13 PROC 37 40 eco
+T14 PROC 131 141 endoscopia
+T15 PROC 253 271 exploración física
+T16 ANAT 136 145 genitales
+T17 PROC 145 154 ecografía
+T18 DISO 86 91 hidro
+T19 DISO 253 267 cele bilateral
+T20 ANAT 286 301 teste izquierdo
+T21 DISO 301 316 proceso maligno
+T22 PROC 232 243 exploración
+T23 PROC 111 116 trans
+T24 PROC 47 49 il
+T25 PROC 97 101 umin
+T26 PROC 126 131 ación
+T27 DISO 287 298 nódulo duro
+T28 ANAT 352 365 polo superior
+T29 ANAT 421 436 teste izquierdo
+T30 DISO 320 331 masa sólida
+T31 PROC 511 528 pruebas de imagen
+T32 PROC 94 97 TAC
+T33 PROC 97 100 RNM
+T34 PROC 1024 1055 marcadores tumorales germinales
+T35 PROC 103 106 LDH
+T36 PROC 71 73 or
+T37 PROC 109 112 qui
+T38 PROC 889 913 ectomía radical inguinal
+T39 ANAT 191 196 pieza
+T40 ANAT 820 841 parénquima testicular
+T41 ANAT 521 534 polo superior
+T42 DISO 780 799 masa tumoral sólida
+T43 PROC 883 904 análisis microscópico
+T44 ANAT 302 309 células
+T45 ANAT 441 451 vasculares
+T46 ANAT 316 323 células
+T47 ANAT 231 236 piram
+T48 ANAT 471 481 citoplasma
+T49 ANAT 337 344 nuclear
+T50 ANAT 246 251 nucle
+T51 ANAT 201 205 olos
+T52 ANAT 511 521 citoplasma
+T53 DISO 521 531 tumoración
+T54 ANAT 107 109 al
+T55 ANAT 109 111 bu
+T56 ANAT 56 57 g
+T57 ANAT 225 229 ínea
+T58 ANAT 229 233 epid
+T59 ANAT 175 178 ídi
+T60 ANAT 119 121 mo
+T61 ANAT 1261 1282 táºbulos semin íferos
+T62 DISO 1038 1055 invasión vascular
+T63 PROC 559 568 secciones
+T64 ANAT 1324 1345 parénquima testicular
+T65 ANAT 513 521 táºbulos
+T66 ANAT 911 925 membrana basal
+T67 PROC 1981 2011 técnicas inmunohisto qui micas
+T68 CHEM 336 341 Inhib
+T69 CHEM 205 208 ina
+T70 CHEM 70 71 k
+T71 CHEM 211 214 era
+T72 CHEM 285 289 tina
+T73 CHEM 145 147 CK
+T74 CHEM 74 75 8
+T75 CHEM 149 151 CK
+T76 CHEM 151 153 18
+T77 CHEM 77 78 V
+T78 CHEM 309 313 imen
+T79 CHEM 313 317 tina
+T80 CHEM 238 241 EMA
+T81 CHEM 81 82 S
+T82 CHEM 82 83 -
+T83 CHEM 247 250 100
+T84 PROC 167 169 Ki
+T85 PROC 169 171 67
+T86 ANAT 1446 1463 células tumorales
+T87 CHEM 259 262 Pro
+T88 CHEM 262 265 ges
+T89 CHEM 529 535 terona
+T90 PROC 179 181 PL
+T91 PROC 181 183 AP
+T92 PROC 183 185 AF
+T93 PROC 93 94 P
+T94 PROC 187 189 HC
+T95 PROC 95 96 G

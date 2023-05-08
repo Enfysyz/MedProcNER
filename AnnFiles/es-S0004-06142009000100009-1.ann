@@ -1,0 +1,64 @@
+T1 DISO 1 23 traumatismo testicular
+T2 PROC 8 15 cirugía
+T3 ANAT 9 13 hemi
+T4 ANAT 10 13 esc
+T5 ANAT 9 11 ro
+T6 ANAT 51 61 to derecho
+T7 DISO 139 162 molestias tes ticulares
+T8 DISO 148 169 masa para tes ticular
+T9 PROC 145 163 exploración física
+T10 ANAT 37 41 pene
+T11 ANAT 151 166 teste izquierdo
+T12 ANAT 45 49 hemi
+T13 ANAT 37 40 esc
+T14 ANAT 27 29 ro
+T15 ANAT 141 151 to derecho
+T16 ANAT 76 81 teste
+T17 ANAT 65 69 polo
+T18 ANAT 222 235 teste derecho
+T19 DISO 55 58 ind
+T20 DISO 96 101 urada
+T21 DISO 161 169 dolorosa
+T22 PROC 232 243 diagnóstico
+T23 PROC 683 714 marcadores tumorales germinales
+T24 PROC 461 481 ecografía testicular
+T25 ANAT 313 326 teste derecho
+T26 ANAT 101 105 polo
+T27 ANAT 131 136 teste
+T28 DISO 136 141 hidro
+T29 DISO 113 117 cele
+T30 DISO 88 91 pol
+T31 DISO 91 94 ior
+T32 DISO 94 97 qui
+T33 DISO 161 166 dismo
+T34 DISO 166 171 hidro
+T35 DISO 137 141 cele
+T36 PROC 106 109 TAC
+T37 ANAT 397 408 estructuras
+T38 ANAT 149 153 hemi
+T39 ANAT 115 118 esc
+T40 ANAT 79 81 ro
+T41 ANAT 401 411 to derecho
+T42 PROC 288 295 escroto
+T43 PROC 211 216 tomía
+T44 DISO 216 221 hidro
+T45 DISO 529 541 cele derecho
+T46 ANAT 496 507 estructuras
+T47 ANAT 231 236 teste
+T48 ANAT 565 577 compartiendo
+T49 ANAT 193 197 epid
+T50 ANAT 148 151 ídi
+T51 ANAT 101 103 mo
+T52 ANAT 103 105 de
+T53 ANAT 365 372 ferente
+T54 PROC 372 379 biopsia
+T55 ANAT 541 551 estructura
+T56 PROC 111 113 ev
+T57 PROC 169 172 ers
+T58 PROC 514 523 ión de la
+T59 ANAT 407 414 vaginal
+T60 DISO 296 301 hidro
+T61 DISO 241 245 cele
+T62 PROC 1160 1179 anatomía patológica
+T63 ANAT 1055 1072 tejido testicular
+T64 DISO 442 449 atrofia

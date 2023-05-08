@@ -1,0 +1,53 @@
+T1 PROC 1 21 valoración urológica
+T2 DISO 19 37 aumento de tamaá±o
+T3 ANAT 17 25 escrotal
+T4 PROC 55 73 exploración física
+T5 DISO 21 26 hidro
+T6 DISO 71 85 cele a tensión
+T7 ANAT 25 29 hemi
+T8 ANAT 22 25 esc
+T9 ANAT 17 19 ro
+T10 ANAT 91 101 to derecho
+T11 DISO 51 56 hidro
+T12 DISO 45 49 cele
+T13 PROC 61 66 trans
+T14 PROC 27 29 il
+T15 PROC 57 61 umin
+T16 PROC 76 81 ación
+T17 ANAT 241 256 teste izquierdo
+T18 PROC 154 163 palpación
+T19 ANAT 181 191 testicular
+T20 DISO 96 101 hidro
+T21 DISO 281 295 cele a tensión
+T22 PROC 400 419 analítica sanguínea
+T23 DISO 265 277 leucocitosis
+T24 PROC 415 433 sedimento de orina
+T25 PROC 409 426 ecografía doppler
+T26 PROC 476 495 frecuencia de pulso
+T27 DISO 131 136 hidro
+T28 DISO 379 393 cele bilateral
+T29 ANAT 141 146 teste
+T30 ANAT 204 211 derecho
+T31 PROC 391 404 flujo doppler
+T32 ANAT 249 257 arterial
+T33 PROC 673 694 índice de resistencia
+T34 ANAT 199 205 venoso
+T35 ANAT 647 666 testículo izquierdo
+T36 DISO 1051 1081 compromiso vascular testicular
+T37 PROC 829 852 exploración quiráºrgica
+T38 DISO 186 191 hidro
+T39 DISO 533 547 cele a tensión
+T40 DISO 703 721 torsión del cordón
+T41 ANAT 201 206 teste
+T42 DISO 206 211 necró
+T43 DISO 169 173 tico
+T44 PROC 87 89 or
+T45 PROC 133 136 qui
+T46 PROC 316 323 ectomía
+T47 DISO 645 659 complicaciones
+T48 PROC 894 913 anatomía patológica
+T49 ANAT 241 246 pieza
+T50 DISO 1471 1501 infarto hemorrágico testicular
+T51 PROC 551 562 seguimiento
+T52 DISO 256 261 hidro
+T53 DISO 729 743 cele izquierdo

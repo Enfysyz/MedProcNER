@@ -1,0 +1,30 @@
+T1 DISO 1 26 accidente de motocicle ta
+T2 PROC 4 7 TAC
+T3 PROC 15 22 ingreso
+T4 DISO 16 21 lacer
+T5 DISO 57 71 ación intim al
+T6 ANAT 71 85 aorta torácica
+T7 ANAT 145 169 tronco braquio ce fálico
+T8 PROC 43 49 craneo
+T9 PROC 305 343 tomía parietal derecha descom pres iva
+T10 PROC 91 101 evacuación
+T11 DISO 171 188 hematoma subdural
+T12 PROC 122 133 tratamiento
+T13 CHEM 37 40 lab
+T14 CHEM 53 57 etal
+T15 CHEM 29 31 ol
+T16 PROC 46 49 TAS
+T17 DISO 129 137 lesiones
+T18 PROC 52 55 ECO
+T19 PROC 19 20 T
+T20 PROC 134 141 ingreso
+T21 PROC 81 85 angi
+T22 PROC 85 89 ores
+T23 PROC 375 392 onancia magnética
+T24 PROC 116 121 angio
+T25 PROC 25 26 -
+T26 PROC 76 79 RMN
+T27 ANAT 573 595 troncos supra aórticos
+T28 DISO 784 813 rotura traumática de la aorta
+T29 PROC 197 204 ingreso
+T30 PROC 726 751 dado de alta domiciliaria

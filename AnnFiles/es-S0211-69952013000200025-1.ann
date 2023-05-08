@@ -1,0 +1,82 @@
+T1 DISO 1 31 anemia de células falci formes
+T2 DISO 37 73 insuficiencia renal crónica terminal
+T3 PROC 25 37 hemodiálisis
+T4 DISO 58 77 crisis falci formes
+T5 PROC 53 66 transfusiones
+T6 PROC 81 97 trasplante renal
+T7 PROC 79 92 isquemia fría
+T8 PROC 64 73 inducción
+T9 CHEM 33 37 alem
+T10 CHEM 64 71 tuzumab
+T11 CHEM 171 188 metilprednisolona
+T12 DISO 45 49 hipo
+T13 DISO 61 66 tensa
+T14 CHEM 105 113 dopamina
+T15 PROC 127 136 perfusión
+T16 ANAT 196 209 injerto renal
+T17 PROC 257 273 acto quiráºrgico
+T18 DISO 35 37 an
+T19 DISO 109 115 áºrica
+T20 PROC 58 61 azo
+T21 PROC 81 85 ados
+T22 DISO 400 419 acidosis metabólica
+T23 PROC 661 691 extendido de sangre periférica
+T24 DISO 93 97 hipo
+T25 DISO 73 76 cro
+T26 DISO 26 27 m
+T27 DISO 53 55 ía
+T28 DISO 55 57 an
+T29 DISO 57 59 is
+T30 DISO 233 241 ocitosis
+T31 DISO 151 156 micro
+T32 DISO 218 225 citosis
+T33 DISO 65 67 di
+T34 DISO 67 69 an
+T35 DISO 205 211 ocitos
+T36 CHEM 1051 1081 lipoproteínas de alta densidad
+T37 ANAT 361 371 leucocitos
+T38 ANAT 408 419 neutrófilos
+T39 ANAT 381 391 linfocitos
+T40 PROC 430 441 hemoglobina
+T41 PROC 441 452 hematocrito
+T42 PROC 370 379 plaquetas
+T43 PROC 211 216 retic
+T44 PROC 87 89 ul
+T45 PROC 265 271 ocitos
+T46 PROC 316 323 Doppler
+T47 ANAT 323 330 injerto
+T48 ANAT 377 385 vascular
+T49 DISO 1729 1765 crisis vaso - o clus iva del injerto
+T50 PROC 638 651 transfusiones
+T51 PROC 351 358 hidroxi
+T52 PROC 103 105 áº
+T53 PROC 157 160 rea
+T54 PROC 637 649 hemodiálisis
+T55 PROC 1351 1376 biopsia del injerto renal
+T56 DISO 386 393 infarto
+T57 ANAT 1401 1426 capilares peri tu bulares
+T58 ANAT 628 639 neutrófilos
+T59 ANAT 639 650 eritrocitos
+T60 PROC 60 61 C
+T61 PROC 61 62 4
+T62 PROC 62 63 d
+T63 ANAT 1551 1576 capilares peri tu bulares
+T64 PROC 694 705 diagnóstico
+T65 DISO 1345 1366 rechazo agudo humoral
+T66 DISO 1691 1717 crisis falci forme injerto
+T67 PROC 727 738 tratamiento
+T68 CHEM 1140 1157 metilprednisolona
+T69 PROC 885 898 plasmaféresis
+T70 CHEM 691 701 tacrolimus
+T71 CHEM 841 853 micofenolato
+T72 PROC 143 145 ex
+T73 PROC 145 147 an
+T74 PROC 147 149 gu
+T75 PROC 223 226 ino
+T76 PROC 376 381 trans
+T77 PROC 457 463 fusión
+T78 DISO 1387 1405 crisis falci forme
+T79 PROC 781 791 trasplante
+T80 ANAT 396 401 renal
+T81 PROC 2081 2107 terapia de reemplazo renal
+T82 PROC 811 821 creatinina

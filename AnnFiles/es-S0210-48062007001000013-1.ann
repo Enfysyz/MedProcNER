@@ -1,0 +1,91 @@
+T1 PROC 1 22 asistido en urgencias
+T2 DISO 8 15 vómitos
+T3 DISO 35 52 dolor epigástrico
+T4 PROC 55 73 exploración física
+T5 DISO 77 96 palidez mucocutánea
+T6 DISO 31 37 hepato
+T7 DISO 37 43 esplen
+T8 DISO 57 65 omegalia
+T9 DISO 137 154 dolor epigástrico
+T10 PROC 163 181 palpación profunda
+T11 PROC 201 221 exploración escrotal
+T12 ANAT 56 61 teste
+T13 DISO 97 105 doloroso
+T14 ANAT 66 71 teste
+T15 PROC 127 136 analítica
+T16 PROC 166 177 hematocrito
+T17 PROC 177 188 hemoglobina
+T18 PROC 52 55 LDH
+T19 PROC 577 609 ecografía abdominal y testicular
+T20 ANAT 96 101 teste
+T21 DISO 161 169 necrosis
+T22 ANAT 169 177 hepático
+T23 DISO 221 231 metástasis
+T24 PROC 438 457 radiología de tórax
+T25 DISO 505 526 metástasis pulmonares
+T26 DISO 376 391 derrame pleural
+T27 PROC 131 136 torac
+T28 PROC 244 253 ocentesis
+T29 DISO 673 697 líquido pleural hemático
+T30 PROC 204 211 ingreso
+T31 PROC 601 621 TAC toraco abdominal
+T32 DISO 683 705 afectación metastásica
+T33 DISO 1313 1354 nódulos pulmonares máºltiples bilaterales
+T34 DISO 760 783 derrame pleural derecho
+T35 DISO 1565 1611 adenopatías mediastínicas , retro peritoneales
+T36 DISO 456 469 hepatomegalia
+T37 DISO 793 815 afectación metastásica
+T38 DISO 1370 1407 metástasis espl énicas y pancreáticas
+T39 DISO 1103 1132 líquido libre intraperitoneal
+T40 PROC 703 721 muestras de sangre
+T41 PROC 401 411 marcadores
+T42 ANAT 124 127 tes
+T43 ANAT 379 388 ticulares
+T44 PROC 173 177 alfa
+T45 PROC 89 91 fe
+T46 PROC 91 93 to
+T47 PROC 369 377 proteína
+T48 PROC 189 193 beta
+T49 PROC 97 99 HC
+T50 PROC 50 51 G
+T51 PROC 101 103 or
+T52 PROC 154 157 qui
+T53 PROC 365 372 ectomía
+T54 PROC 372 379 ingreso
+T55 DISO 1027 1046 shock hipovol émico
+T56 DISO 276 281 dolor
+T57 DISO 281 286 abomb
+T58 DISO 970 987 amiento abdominal
+T59 PROC 1103 1122 laparotomía urgente
+T60 PROC 1122 1141 ecografía abdominal
+T61 DISO 1381 1404 líquido intraperitoneal
+T62 PROC 672 683 laparotomía
+T63 DISO 1365 1387 afectación metastásica
+T64 ANAT 1009 1025 cola de páncreas
+T65 ANAT 257 261 bazo
+T66 ANAT 391 397 hígado
+T67 DISO 2905 2949 rotura de metástasis espl énicas y hepáticas
+T68 DISO 269 273 hemo
+T69 DISO 613 622 peritoneo
+T70 DISO 553 561 sangrado
+T71 DISO 1681 1705 hematoma difuso hepático
+T72 PROC 427 433 esplen
+T73 PROC 505 512 ectomía
+T74 PROC 439 445 sutura
+T75 PROC 889 901 taponamiento
+T76 CHEM 301 305 surg
+T77 CHEM 153 155 ic
+T78 CHEM 155 157 el
+T79 DISO 2107 2134 áreas hepáticas san grantes
+T80 PROC 159 161 or
+T81 PROC 241 244 qui
+T82 PROC 2026 2051 ectomía radical izquierda
+T83 PROC 165 167 or
+T84 PROC 250 253 qui
+T85 PROC 1261 1276 ectomía radical
+T86 ANAT 511 517 cordón
+T87 ANAT 1807 1828 parénquima testicular
+T88 DISO 1915 1937 tumoración blanquecina
+T89 DISO 705 713 necrosis
+T90 DISO 891 901 hemorragia
+T91 ANAT 1171 1184 cubiertas tes

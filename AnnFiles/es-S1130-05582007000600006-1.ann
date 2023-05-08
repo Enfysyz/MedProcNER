@@ -1,0 +1,79 @@
+T1 PROC 1 9 consultó
+T2 DISO 29 57 tumoración latero - cervical
+T3 DISO 39 58 sudoración nocturna
+T4 PROC 28 37 anamnesis
+T5 PROC 45 56 exploración
+T6 DISO 51 61 tumoración
+T7 ANAT 37 43 tercio
+T8 ANAT 253 289 máºsculo esterno cle id omas to ideo
+T9 ANAT 17 19 EC
+T10 ANAT 10 11 M
+T11 ANAT 61 67 planos
+T12 ANAT 100 109 profundos
+T13 ANAT 49 53 piel
+T14 DISO 105 113 pulsátil
+T15 PROC 169 181 auscultación
+T16 PROC 271 289 punción guiada por
+T17 PROC 401 426 tomografía computer izada
+T18 PROC 35 37 TC
+T19 DISO 127 134 celular
+T20 DISO 77 81 idad
+T21 ANAT 361 379 ganglio li f ático
+T22 PROC 505 529 estudio serológico viral
+T23 PROC 617 645 TC con contraste intravenoso
+T24 DISO 93 97 masa
+T25 ANAT 601 626 espacio vascular cervical
+T26 ANAT 501 521 vena yugular interna
+T27 ANAT 79 82 ECM
+T28 CHEM 244 253 contraste
+T29 DISO 281 291 adenopatía
+T30 ANAT 59 61 gl
+T31 ANAT 421 435 omus carotídeo
+T32 PROC 342 353 diagnóstico
+T33 DISO 865 892 proceso linfoprolifera tivo
+T34 DISO 529 545 tumor neur ógeno
+T35 DISO 613 631 tumor mesenqui mal
+T36 PROC 596 613 anestesia general
+T37 PROC 1261 1296 incisión horizontal supraclavicular
+T38 ANAT 445 457 máºsculo ECM
+T39 DISO 381 391 tumoración
+T40 DISO 235 241 conges
+T41 PROC 361 370 disección
+T42 DISO 411 421 tumoración
+T43 ANAT 673 689 espacio vascular
+T44 PROC 302 309 cirugía
+T45 DISO 837 856 tumoración vascular
+T46 PROC 1126 1151 estudio anatomopatológico
+T47 ANAT 231 236 pieza
+T48 ANAT 800 817 ganglio linfático
+T49 ANAT 913 932 folículos linfoides
+T50 PROC 491 501 marcadores
+T51 PROC 101 103 CD
+T52 PROC 103 105 20
+T53 PROC 53 54 +
+T54 PROC 107 109 CD
+T55 PROC 109 111 10
+T56 CHEM 56 57 b
+T57 PROC 113 115 cl
+T58 PROC 58 59 2
+T59 PROC 59 60 -
+T60 ANAT 1063 1081 centros germinales
+T61 ANAT 301 306 vasos
+T62 ANAT 1221 1241 corona linfoci taria
+T63 ANAT 1179 1198 células plasmáticas
+T64 PROC 127 129 CD
+T65 PROC 193 196 138
+T66 CHEM 976 991 cadenas ligeras
+T67 CHEM 1057 1073 inmunoglobulinas
+T68 CHEM 68 69 k
+T69 CHEM 273 277 appa
+T70 CHEM 277 281 lamb
+T71 CHEM 141 143 da
+T72 PROC 1208 1225 estudio molecular
+T73 PROC 217 220 PCR
+T74 PROC 2410 2443 TC toraco - ab dom ino - pélv ico
+T75 PROC 1333 1351 analítica completa
+T76 PROC 1501 1521 estudio inmunológico
+T77 PROC 685 694 serología
+T78 DISO 2850 2887 hiperplasia angio fol icular linfoide
+T79 DISO 1639 1660 Enfermedad de Cas tle

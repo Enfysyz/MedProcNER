@@ -1,0 +1,78 @@
+T1 PROC 1 13 ecografía de
+T2 DISO 6 11 ventr
+T3 DISO 9 13 icul
+T4 DISO 55 73 omegalia bilateral
+T5 PROC 53 66 test de Apgar
+T6 PROC 116 139 intubación endotraqueal
+T7 PROC 103 120 perímetro craneal
+T8 DISO 141 161 rasgos dis mór ficos
+T9 DISO 25 28 fas
+T10 DISO 100 111 cies tos ca
+T11 DISO 51 56 hiper
+T12 DISO 34 37 tel
+T13 DISO 25 27 or
+T14 DISO 53 57 ismo
+T15 ANAT 43 46 nar
+T16 ANAT 61 65 inas
+T17 DISO 49 52 mic
+T18 DISO 52 55 ror
+T19 DISO 91 96 retro
+T20 DISO 58 61 gna
+T21 DISO 61 64 tia
+T22 DISO 190 199 asimetría
+T23 ANAT 155 162 frontal
+T24 DISO 93 97 Hipo
+T25 DISO 121 126 tonía
+T26 DISO 126 131 hiper
+T27 DISO 131 136 tonía
+T28 DISO 109 113 clon
+T29 DISO 57 59 us
+T30 DISO 639 661 episodios convuls ivos
+T31 PROC 331 342 seguimiento
+T32 PROC 621 641 electroencefalograma
+T33 PROC 577 595 ecografia cerebral
+T34 DISO 166 171 ventr
+T35 DISO 137 141 icul
+T36 DISO 281 289 omegalia
+T37 PROC 1153 1185 tomografía computarizada craneal
+T38 ANAT 704 723 sistema ventricular
+T39 PROC 1065 1093 resonancia nuclear magnética
+T40 DISO 703 721 displasia cortical
+T41 PROC 1361 1395 despistaje metabólico e infeccioso
+T42 PROC 42 43 C
+T43 PROC 337 345 ariotipo
+T44 DISO 130 133 eso
+T45 DISO 265 271 tropía
+T46 ANAT 136 139 ojo
+T47 ANAT 139 142 ojo
+T48 DISO 1035 1057 nistagmus en abducción
+T49 ANAT 193 197 ojos
+T50 ANAT 295 301 retina
+T51 DISO 1701 1735 anomalías pigment arias retinianas
+T52 DISO 205 209 Hipo
+T53 DISO 1197 1220 plasia de nervio óptico
+T54 DISO 319 325 miopía
+T55 ANAT 163 166 ojo
+T56 ANAT 166 169 ojo
+T57 PROC 953 970 corrección óptica
+T58 PROC 1654 1683 potenciales evocados visuales
+T59 PROC 349 355 electr
+T60 PROC 237 241 orre
+T61 PROC 181 184 tin
+T62 PROC 367 373 ograma
+T63 DISO 311 316 hiper
+T64 DISO 127 129 to
+T65 DISO 1025 1041 fia hemic raneal
+T66 DISO 1171 1189 retraso psicomotor
+T67 DISO 331 336 hiper
+T68 DISO 1408 1429 tonía de extremidades
+T69 DISO 1565 1588 hipotonía cervico axial
+T70 PROC 2347 2381 controles electroencefal ográficos
+T71 DISO 351 356 parox
+T72 DISO 1279 1297 ismos irrita tivos
+T73 ANAT 721 731 hemicuerpo
+T74 DISO 439 445 plagio
+T75 DISO 519 526 cefalia
+T76 ANAT 451 457 órbita
+T77 DISO 913 925 deformidades
+T78 DISO 540 547 tibia v

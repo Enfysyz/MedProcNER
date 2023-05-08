@@ -1,0 +1,98 @@
+T1 DISO 1 14 hiperglucemia
+T2 PROC 22 43 tratamiento dietético
+T3 DISO 29 43 tuberculosis (
+T4 DISO 4 5 T
+T5 DISO 81 101 BC ) epi didi m aria
+T6 PROC 26 31 decor
+T7 PROC 19 22 tic
+T8 PROC 169 193 ación de cuerdas vocales
+T9 DISO 57 64 fumador
+T10 PROC 163 181 consultas externas
+T11 DISO 91 100 hematuria
+T12 PROC 23 25 Ex
+T13 PROC 25 27 pl
+T14 PROC 183 197 oración física
+T15 PROC 15 16 T
+T16 PROC 166 177 acto rectal
+T17 ANAT 129 137 próstata
+T18 PROC 307 325 análisis de sangre
+T19 PROC 73 77 hemo
+T20 PROC 96 101 grama
+T21 PROC 161 169 hematíes
+T22 PROC 232 243 hemoglobina
+T23 PROC 243 254 hematocrito
+T24 PROC 208 217 plaquetas
+T25 ANAT 241 251 leucocitos
+T26 PROC 551 573 Estudio de coagulación
+T27 PROC 261 271 Bioquímica
+T28 PROC 82 85 PSA
+T29 PROC 141 146 orina
+T30 PROC 30 31 S
+T31 PROC 121 125 iste
+T32 PROC 466 481 mático de orina
+T33 PROC 289 298 Sedimento
+T34 PROC 100 103 cit
+T35 PROC 545 561 ologías de orina
+T36 DISO 1016 1045 componente inflamatorio agudo
+T37 PROC 1045 1074 radiografía simple de abdomen
+T38 DISO 297 305 litiasis
+T39 ANAT 495 508 polo inferior
+T40 ANAT 625 641 riá±ón izquierdo
+T41 PROC 761 780 ecografía abdominal
+T42 ANAT 575 589 riá±ón derecho
+T43 DISO 337 345 litiasis
+T44 ANAT 560 573 polo inferior
+T45 ANAT 265 271 riá±ón
+T46 ANAT 271 277 uréter
+T47 ANAT 323 330 vesical
+T48 DISO 189 193 masa
+T49 ANAT 193 197 cara
+T50 PROC 50 51 U
+T51 PROC 101 103 IV
+T52 ANAT 817 833 riá±ón izquierdo
+T53 DISO 1041 1061 dilatación cal icial
+T54 ANAT 319 325 uréter
+T55 ANAT 757 771 uréter ili aco
+T56 ANAT 331 337 vejiga
+T57 ANAT 337 343 uréter
+T58 PROC 58 59 C
+T59 PROC 233 237 isto
+T60 PROC 296 301 grama
+T61 PROC 181 184 cis
+T62 PROC 489 497 toscopia
+T63 ANAT 249 253 cara
+T64 ANAT 379 385 vejiga
+T65 DISO 641 651 tumoración
+T66 ANAT 1106 1123 orificio ureteral
+T67 PROC 2245 2279 cultivo de orina en L á¶ w enstein
+T68 PROC 202 205 RTU
+T69 DISO 817 829 masa vesical
+T70 PROC 139 141 AP
+T71 DISO 2591 2628 cistitis granulomatosa tuber culo ide
+T72 DISO 214 217 TBC
+T73 PROC 73 74 Ċ
+T74 PROC 147 149 Lo
+T75 ANAT 371 376 orina
+T76 PROC 826 837 diagnostica
+T77 DISO 2129 2157 tuberculosis genitour inaria
+T78 DISO 617 625 tubercul
+T79 DISO 859 870 oma vesical
+T80 DISO 2687 2721 afectación reno ureteral izquierda
+T81 PROC 2401 2431 tratamiento tuber culos tático
+T82 CHEM 82 83 I
+T83 CHEM 247 250 son
+T84 CHEM 84 85 i
+T85 CHEM 421 426 acida
+T86 CHEM 341 345 Pira
+T87 CHEM 259 262 zin
+T88 CHEM 436 441 amida
+T89 CHEM 89 90 R
+T90 CHEM 179 181 if
+T91 CHEM 721 729 ampicina
+T92 CHEM 92 93 I
+T93 CHEM 277 280 son
+T94 CHEM 94 95 i
+T95 CHEM 471 476 acida
+T96 CHEM 96 97 R
+T97 CHEM 193 195 if
+T98 CHEM 777 785 ampicina

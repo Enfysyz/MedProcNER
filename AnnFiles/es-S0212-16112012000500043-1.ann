@@ -1,0 +1,47 @@
+T1 DISO 1 26 Enfermedades Metab ólicas
+T2 DISO 22 43 enfermedad metabólica
+T3 DISO 25 37 microcefalia
+T4 DISO 43 57 retraso mental
+T5 DISO 85 106 malformación cardiaca
+T6 DISO 41 49 falleció
+T7 PROC 139 162 coeficiente intelectual
+T8 DISO 99 113 retraso mental
+T9 PROC 89 100 tratamiento
+T10 DISO 109 121 enfermedades
+T11 PROC 151 166 niveles de P he
+T12 PROC 166 181 niveles de P he
+T13 PROC 181 196 niveles de P he
+T14 PROC 144 155 diagnóstico
+T15 DISO 29 31 PK
+T16 DISO 16 17 U
+T17 PROC 177 188 diagnóstico
+T18 DISO 766 811 trastornos en el metabolismo de las pter inas
+T19 DISO 145 153 mutación
+T20 PROC 210 221 diagnostico
+T21 DISO 61 64 Fen
+T22 DISO 43 45 il
+T23 DISO 111 116 ceton
+T24 DISO 93 97 uria
+T25 CHEM 49 51 Te
+T26 CHEM 76 79 tra
+T27 CHEM 131 136 hidro
+T28 CHEM 55 57 bi
+T29 CHEM 57 59 op
+T30 CHEM 88 91 ter
+T31 CHEM 91 94 ina
+T32 CHEM 32 33 B
+T33 CHEM 33 34 H
+T34 CHEM 34 35 4
+T35 PROC 851 876 tratamiento farmacológico
+T36 DISO 71 73 PK
+T37 DISO 37 38 U
+T38 CHEM 75 77 PA
+T39 CHEM 39 40 H
+T40 CHEM 79 81 co
+T41 CHEM 241 247 factor
+T42 PROC 944 967 niveles de fenilalanina
+T43 PROC 1933 1979 tratamiento con dieta limitada en fenilalanina
+T44 PROC 990 1013 niveles de fenilalanina
+T45 PROC 969 991 fenilalanina en sangre
+T46 PROC 541 553 alimentación
+T47 CHEM 691 706 proteínas valor

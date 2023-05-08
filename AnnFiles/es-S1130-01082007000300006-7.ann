@@ -1,0 +1,17 @@
+T1 DISO 1 8 bebedor
+T2 DISO 8 15 fumador
+T3 DISO 9 13 Amig
+T4 DISO 10 13 dal
+T5 DISO 17 21 itis
+T6 PROC 36 43 operado
+T7 ANAT 61 71 intestinal
+T8 PROC 64 73 Analítica
+T9 PROC 105 118 transaminasas
+T10 PROC 19 21 TT
+T11 PROC 11 12 G
+T12 PROC 177 193 biopsia duodenal
+T13 DISO 589 638 atrofia moderada de las vellosidades intestinales
+T14 DISO 300 323 infiltrado inflamatorio
+T15 ANAT 183 196 lámina propia
+T16 PROC 16 17 D
+T17 PROC 33 35 SG

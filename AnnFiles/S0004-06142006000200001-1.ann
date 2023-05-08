@@ -1,0 +1,71 @@
+T1 DISO 1 16 hernia de hiato
+T2 PROC 9 17 cesáreas
+T3 PROC 15 22 cesárea
+T4 DISO 55 73 síndrome miccional
+T5 DISO 125 156 algias pelvi anas y perine ales
+T6 DISO 21 25 hema
+T7 DISO 37 43 turias
+T8 DISO 43 49 fiebre
+T9 PROC 89 100 exploración
+T10 ANAT 163 181 genitales externos
+T11 ANAT 71 78 abdomen
+T12 PROC 78 85 tratada
+T13 CHEM 265 287 antisépticos urinarios
+T14 PROC 40 43 uro
+T15 PROC 43 46 cul
+T16 PROC 31 33 tí
+T17 PROC 49 52 vos
+T18 PROC 256 271 ecografía renal
+T19 ANAT 109 115 vejiga
+T20 PROC 58 61 cis
+T21 PROC 161 169 toscopia
+T22 DISO 22 23 e
+T23 DISO 67 70 quí
+T24 DISO 116 121 mosis
+T25 DISO 313 326 endometriosis
+T26 PROC 226 235 controles
+T27 DISO 365 379 sintomatología
+T28 PROC 190 197 tratada
+T29 PROC 673 697 laparoscopia diagnostica
+T30 DISO 668 691 focos endometri ós icos
+T31 ANAT 241 249 pélvicos
+T32 DISO 590 609 cuadro adher encial
+T33 ANAT 545 562 paredes pélv icas
+T34 ANAT 199 205 vejiga
+T35 ANAT 477 491 cuerpo uterino
+T36 PROC 316 325 ecografía
+T37 PROC 109 112 TAC
+T38 PROC 1333 1369 ecografía abdominal , y transvaginal
+T39 DISO 761 781 formación eco génica
+T40 ANAT 508 521 suelo vesical
+T41 PROC 841 862 TAC abdomino pélv ico
+T42 DISO 370 379 patología
+T43 ANAT 799 818 órganos abdominales
+T44 ANAT 259 265 vejiga
+T45 DISO 177 181 masa
+T46 ANAT 271 277 áºtero
+T47 DISO 599 612 endometriosis
+T48 PROC 847 865 endoscopia vesical
+T49 PROC 433 442 anestesia
+T50 DISO 197 201 masa
+T51 ANAT 301 307 mucosa
+T52 DISO 154 157 ede
+T53 DISO 313 319 matosa
+T54 PROC 160 163 RTU
+T55 PROC 163 166 sec
+T56 PROC 331 337 cionar
+T57 ANAT 1345 1369 glándulas endometri ales
+T58 DISO 343 349 sangre
+T59 PROC 1335 1358 estudio histopatológico
+T60 ANAT 532 541 glándulas
+T61 ANAT 661 672 endometrial
+T62 ANAT 1160 1179 estroma endometrial
+T63 DISO 621 631 malignidad
+T64 PROC 694 705 diagnóstico
+T65 DISO 833 846 endometriosis
+T66 PROC 456 463 tratada
+T67 CHEM 1255 1274 análogos de LH - RH
+T68 PROC 1341 1361 ecografías vesicales
+T69 PROC 205 208 cis
+T70 PROC 208 211 tos
+T71 PROC 421 427 copias

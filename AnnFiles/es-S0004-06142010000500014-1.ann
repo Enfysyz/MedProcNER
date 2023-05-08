@@ -1,0 +1,88 @@
+T1 DISO 1 6 dolor
+T2 ANAT 10 19 testículo
+T3 DISO 47 70 sintomatología urinaria
+T4 DISO 19 25 fiebre
+T5 PROC 81 101 pautas antibió ticas
+T6 PROC 91 109 exploración física
+T7 DISO 91 106 tumoración dura
+T8 ANAT 36 41 teste
+T9 DISO 65 73 dolorosa
+T10 DISO 55 61 signos
+T11 DISO 111 122 fluctuación
+T12 PROC 254 277 Pruebas complementarias
+T13 PROC 109 118 Hemograma
+T14 DISO 131 141 linfocitos
+T15 DISO 29 31 is
+T16 PROC 271 289 Sedimento de orina
+T17 DISO 33 35 Pi
+T18 DISO 69 73 uria
+T19 PROC 289 305 Cultivo de orina
+T20 PROC 58 61 Cul
+T21 PROC 281 295 tivos de semen
+T22 PROC 421 441 Marcadores tumorales
+T23 PROC 67 70 CEA
+T24 PROC 208 217 alfa feto
+T25 PROC 25 26 B
+T26 PROC 51 53 HC
+T27 PROC 27 28 G
+T28 PROC 487 505 Ecografía urinaria
+T29 PROC 561 581 Ecografía testicular
+T30 DISO 88 91 Tum
+T31 DISO 541 559 oración testicular
+T32 DISO 125 129 liqu
+T33 DISO 129 133 idas
+T34 PROC 100 103 Man
+T35 PROC 69 71 to
+T36 PROC 71 73 ux
+T37 DISO 181 186 ulcer
+T38 DISO 186 191 acion
+T39 PROC 77 79 or
+T40 PROC 118 121 qui
+T41 PROC 601 616 ectomía radical
+T42 PROC 739 757 estudio patológico
+T43 DISO 85 87 or
+T44 DISO 259 265 quitis
+T45 ANAT 309 316 muestra
+T46 DISO 766 783 exudado purulento
+T47 ANAT 783 800 tejido testicular
+T48 PROC 941 961 tinción de aura mina
+T49 PROC 721 736 tinción de Gram
+T50 DISO 1520 1551 leucocitos polimor fon ucleares
+T51 ANAT 251 256 lares
+T52 PROC 1123 1145 amplificación genómica
+T53 PROC 157 160 PCR
+T54 PROC 1856 1891 detección del antígeno de Chlamydia
+T55 PROC 379 386 cultivo
+T56 PROC 386 393 cultivo
+T57 PROC 841 856 tinción de Gram
+T58 PROC 2224 2263 tinción de Z ie hl Ne el sen modificada
+T59 PROC 1451 1476 identificación fenotípica
+T60 PROC 945 961 estudio genético
+T61 PROC 1681 1709 secuenciación del 16 S r RNA
+T62 PROC 489 497 cultivos
+T63 CHEM 187 190 Pen
+T64 CHEM 442 449 icilina
+T65 CHEM 193 196 Amp
+T66 CHEM 456 463 icilina
+T67 CHEM 67 68 A
+T68 CHEM 1743 1769 moxicilina con clavulánico
+T69 CHEM 137 139 Ce
+T70 CHEM 553 561 fotaxima
+T71 CHEM 71 72 G
+T72 CHEM 711 721 entamicina
+T73 CHEM 217 220 Ami
+T74 CHEM 439 445 kacina
+T75 CHEM 445 451 Eritro
+T76 CHEM 451 457 micina
+T77 CHEM 153 155 Te
+T78 CHEM 386 391 traci
+T79 CHEM 391 396 clina
+T80 CHEM 238 241 Tri
+T81 CHEM 401 406 metro
+T82 CHEM 1864 1887 prim sul l f ametoxazol
+T83 CHEM 83 84 R
+T84 CHEM 167 169 if
+T85 CHEM 673 681 ampicina
+T86 CHEM 86 87 I
+T87 CHEM 173 175 mi
+T88 CHEM 436 441 penem

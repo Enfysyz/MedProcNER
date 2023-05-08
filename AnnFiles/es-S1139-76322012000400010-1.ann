@@ -1,0 +1,25 @@
+T1 DISO 1 27 dolor impotencia funcional
+T2 ANAT 6 11 ingle
+T3 ANAT 11 16 muslo
+T4 DISO 19 25 fiebre
+T5 DISO 97 121 enfermedades infecciosas
+T6 DISO 61 73 alteraciones
+T7 DISO 73 85 acortamiento
+T8 ANAT 85 97 extremidades
+T9 DISO 41 46 dolor
+T10 ANAT 10 11 E
+T11 ANAT 21 23 IA
+T12 ANAT 12 13 I
+T13 ANAT 73 79 cadera
+T14 DISO 66 71 dolor
+T15 PROC 645 691 radiografía anteroposterior de la pelvis axial
+T16 ANAT 91 97 cadera
+T17 DISO 529 562 fractura - av ulsión de la E IA I
+T18 PROC 273 289 reposo articular
+T19 PROC 451 476 carga parcial con muletas
+T20 PROC 172 181 analgesia
+T21 CHEM 201 211 ibuprofeno
+T22 PROC 379 397 control ecográfico
+T23 DISO 133 139 lesión
+T24 PROC 277 289 fisioterapia
+T25 DISO 145 151 lesión

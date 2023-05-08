@@ -1,0 +1,99 @@
+T1 PROC 1 11 trasplante
+T2 PROC 20 39 diálisis peritoneal
+T3 DISO 29 43 IRC progresiva
+T4 DISO 79 105 glomerulonefritis tipo IgA
+T5 DISO 121 151 esclerosis focal y segmentaria
+T6 PROC 66 79 diagnosticada
+T7 DISO 127 148 hipertensión arterial
+T8 PROC 92 105 diagnosticada
+T9 PROC 201 226 tratamiento farmacológico
+T10 DISO 190 211 cardiopatía isquémica
+T11 DISO 201 221 enfermedad coronaria
+T12 PROC 562 613 angioplastia trans lum inal de la coronaria derecha
+T13 DISO 145 157 asintomático
+T14 PROC 248 267 pruebas de esfuerzo
+T15 DISO 183 196 dislipemia II
+T16 PROC 166 177 Intervenido
+T17 DISO 49 52 cri
+T18 DISO 69 73 ptor
+T19 DISO 55 58 quí
+T20 DISO 58 61 dia
+T21 PROC 141 148 amigdal
+T22 PROC 106 111 ectom
+T23 PROC 111 116 izado
+T24 PROC 369 385 trasplante renal
+T25 ANAT 49 51 ri
+T26 ANAT 351 365 á±ón izquierdo
+T27 ANAT 495 514 fosa ilíaca derecha
+T28 ANAT 217 225 arterias
+T29 ANAT 113 117 vena
+T30 ANAT 59 61 il
+T31 ANAT 421 435 íacas externas
+T32 ANAT 218 225 injerto
+T33 DISO 417 430 rechazo agudo
+T34 CHEM 397 409 ciclosporina
+T35 DISO 579 596 toxicidad clínica
+T36 PROC 386 397 tratamiento
+T37 CHEM 433 445 ciclosporina
+T38 CHEM 815 837 micofenolato mofe tilo
+T39 CHEM 381 391 prednisona
+T40 PROC 391 401 trasplante
+T41 DISO 1521 1559 sensación de inestabilidad a la marcha
+T42 DISO 903 925 temblores en las manos
+T43 DISO 1093 1119 inestabilidad de la marcha
+T44 DISO 474 485 parestesias
+T45 ANAT 1013 1036 extremidades inferiores
+T46 ANAT 91 93 EE
+T47 ANAT 93 95 II
+T48 DISO 706 721 temblores manos
+T49 PROC 865 883 exploración física
+T50 DISO 638 651 déficit motor
+T51 ANAT 201 205 EEII
+T52 PROC 1327 1353 reflejos osteo tendin osos
+T53 PROC 53 54 R
+T54 PROC 107 109 OT
+T55 PROC 1297 1321 reflejo cu taneo plantar
+T56 PROC 166 169 RCP
+T57 PROC 1569 1597 resonancia magnética nuclear
+T58 PROC 172 175 RMN
+T59 DISO 465 473 lesiones
+T60 ANAT 473 481 cerebral
+T61 ANAT 421 428 espinal
+T62 PROC 2197 2233 análisis del líquido cefalorraquídeo
+T63 ANAT 187 190 LCR
+T64 DISO 190 193 ple
+T65 DISO 1409 1431 ocitosis linfoci taria
+T66 DISO 391 397 bandas
+T67 PROC 1321 1341 potenciales evocados
+T68 ANAT 403 409 tibial
+T69 PROC 1089 1105 test serológicos
+T70 PROC 346 351 ELISA
+T71 PROC 2451 2486 reacción en cadena de la polimerasa
+T72 PROC 214 217 PCR
+T73 ANAT 217 220 LCR
+T74 ANAT 439 445 sangre
+T75 ANAT 445 451 sangre
+T76 PROC 226 229 PCR
+T77 PROC 989 1002 diagnosticado
+T78 DISO 309 313 para
+T79 DISO 2029 2055 paresia espástica tropical
+T80 DISO 159 161 TS
+T81 DISO 81 82 P
+T82 CHEM 82 83 6
+T83 CHEM 83 84 -
+T84 CHEM 167 169 Me
+T85 CHEM 253 256 til
+T86 CHEM 86 87 -
+T87 CHEM 87 88 P
+T88 CHEM 262 265 red
+T89 CHEM 265 268 nis
+T90 CHEM 446 451 olona
+T91 PROC 991 1002 tratamiento
+T92 CHEM 456 461 Inter
+T93 CHEM 461 466 ferón
+T94 DISO 2047 2069 rechazo del trasplante
+T95 ANAT 471 476 renal
+T96 PROC 1996 2017 niveles de creatinina
+T97 PROC 865 874 estudiado
+T98 DISO 1747 1765 urgencia miccional
+T99 PROC 3431 3466 estudio radiográfico y uro dinámico

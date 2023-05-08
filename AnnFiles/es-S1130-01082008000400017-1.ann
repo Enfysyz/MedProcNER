@@ -1,0 +1,64 @@
+T1 PROC 1 24 intervenido de urgencia
+T2 DISO 26 51 tumor de ciego perfor ado
+T3 ANAT 29 43 íleon terminal
+T4 DISO 64 85 cardiopatía isquémica
+T5 DISO 13 16 IAM
+T6 PROC 116 139 bypass aorto cor onario
+T7 PROC 31 36 hemic
+T8 PROC 15 17 ol
+T9 PROC 121 136 ectomía derecha
+T10 PROC 82 91 resección
+T11 ANAT 51 56 íleon
+T12 PROC 298 325 reconstrucción del tránsito
+T13 PROC 289 313 anastomosis ile oc ólica
+T14 DISO 248 267 metástasis hepática
+T15 PROC 169 181 intervención
+T16 DISO 331 353 absceso intraabdominal
+T17 PROC 401 426 estudio anatomopatológico
+T18 DISO 545 577 adenocarcinoma bien diferenciado
+T19 ANAT 145 153 ganglios
+T20 DISO 381 401 infiltración tumoral
+T21 PROC 61 64 TAC
+T22 DISO 694 727 lesión nodular de carácter sólido
+T23 ANAT 177 185 segmento
+T24 ANAT 139 145 hígado
+T25 PROC 25 26 Q
+T26 PROC 26 27 M
+T27 PROC 79 82 FOL
+T28 PROC 28 29 F
+T29 PROC 57 59 OX
+T30 DISO 175 181 lesión
+T31 PROC 361 373 intervención
+T32 DISO 156 161 tumor
+T33 PROC 193 199 RF por
+T34 PROC 397 409 laparoscopia
+T35 DISO 647 666 metástasis hepática
+T36 PROC 456 469 procedimiento
+T37 PROC 613 630 anestesia general
+T38 ANAT 630 647 cavidad abdominal
+T39 ANAT 381 391 epigastrio
+T40 ANAT 547 561 reborde costal
+T41 PROC 441 452 ultrasonido
+T42 PROC 370 379 ecografía
+T43 DISO 757 775 lesión metastásica
+T44 PROC 1463 1497 control ecográfico y laparoscópico
+T45 DISO 265 271 lesión
+T46 PROC 361 369 ablación
+T47 PROC 507 518 tratamiento
+T48 PROC 377 385 ablación
+T49 ANAT 385 393 trayecto
+T50 ANAT 246 251 intra
+T51 ANAT 101 103 he
+T52 ANAT 307 313 pático
+T53 PROC 105 107 RF
+T54 PROC 425 433 ablación
+T55 DISO 325 331 lesión
+T56 DISO 441 449 hiper ec
+T57 PROC 449 457 ablación
+T58 DISO 343 349 lesión
+T59 DISO 697 709 complicación
+T60 PROC 827 841 tratamiento RF
+T61 PROC 781 794 TC helicoidal
+T62 DISO 1038 1055 lesión hipoden sa
+T63 DISO 1055 1072 necrosis completa
+T64 DISO 883 897 lesión tumoral

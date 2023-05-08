@@ -1,0 +1,71 @@
+T1 DISO 1 25 diabetes mellitus tipo 2
+T2 DISO 20 39 hipercolesterolemia
+T3 PROC 51 76 tratamiento farmacológico
+T4 PROC 82 109 intervenciones quiráºrgicas
+T5 PROC 33 41 Atención
+T6 DISO 81 97 malestar general
+T7 DISO 121 141 sensación distérmica
+T8 DISO 78 89 dolor sordo
+T9 ANAT 89 100 hipocondrio
+T10 DISO 100 111 rectorragia
+T11 DISO 121 133 deposiciones
+T12 PROC 199 217 exploración física
+T13 PROC 229 248 palpación abdominal
+T14 DISO 105 113 dolorosa
+T15 ANAT 155 166 hipocondrio
+T16 DISO 226 241 visceromegalias
+T17 ANAT 161 171 leucocitos
+T18 PROC 188 199 hemoglobina
+T19 PROC 19 20 V
+T20 PROC 58 61 LDH
+T21 PROC 61 64 GOT
+T22 PROC 64 67 GPT
+T23 PROC 67 70 GGT
+T24 PROC 415 433 fosfatasa alcalina
+T25 PROC 409 426 bilirrubina total
+T26 PROC 251 261 serologías
+T27 PROC 313 325 hemocultivos
+T28 PROC 919 953 determinación marcadores tumorales
+T29 PROC 533 552 ecografía abdominal
+T30 DISO 784 811 lesión ocup ante de espacio
+T31 ANAT 691 714 lóbulo hepático derecho
+T32 PROC 838 865 tomografía computador izada
+T33 PROC 1281 1321 TC ) ab dó mino - pélv ica con contraste
+T34 DISO 529 545 absceso hepático
+T35 PROC 1191 1226 punción - aspiración con aguja fina
+T36 DISO 316 325 purulento
+T37 PROC 721 741 análisis cit ológico
+T38 DISO 630 647 inflamación aguda
+T39 DISO 381 391 malignidad
+T40 PROC 859 881 cultivo microbiológico
+T41 PROC 801 821 estudio de parásitos
+T42 PROC 329 337 aspirado
+T43 PROC 589 603 administración
+T44 CHEM 603 617 antibioterapia
+T45 CHEM 89 91 ce
+T46 CHEM 46 47 f
+T47 CHEM 369 377 triaxona
+T48 CHEM 565 577 metronidazol
+T49 CHEM 529 540 gentamicina
+T50 PROC 1667 1701 implantación de drenaje percutáneo
+T51 DISO 301 307 lesión
+T52 PROC 970 989 control radiológico
+T53 PROC 625 637 colonoscopia
+T54 DISO 955 973 lesión ex of ítica
+T55 ANAT 1027 1046 válvula ile oc ecal
+T56 DISO 551 561 malignidad
+T57 PROC 1401 1426 estudio anatomopatológico
+T58 PROC 628 639 diagnóstico
+T59 DISO 1335 1358 adenocarcinoma de ciego
+T60 PROC 1181 1201 estudio de extensión
+T61 DISO 1441 1465 diseminación metastásica
+T62 DISO 1038 1055 lesiones hepático
+T63 PROC 311 316 hemic
+T64 PROC 127 129 ol
+T65 PROC 961 976 ectomía derecha
+T66 PROC 911 925 administración
+T67 PROC 1519 1542 quimioterapia adyuvante
+T68 CHEM 135 137 ca
+T69 CHEM 681 691 pecitabina
+T70 DISO 691 701 enfermedad
+T71 PROC 771 782 seguimiento

@@ -1,0 +1,58 @@
+T1 DISO 1 22 exantema pur p áºrico
+T2 ANAT 20 39 miembros inferiores
+T3 ANAT 17 25 gláºteos
+T4 DISO 16 21 dolor
+T5 DISO 45 56 inflamación
+T6 ANAT 36 43 tobillo
+T7 ANAT 139 162 segundo dedo de la mano
+T8 DISO 113 129 faringitis aguda
+T9 PROC 17 19 Pr
+T10 PROC 190 211 uebas complementarias
+T11 PROC 11 12 M
+T12 PROC 67 73 icrobi
+T13 PROC 73 79 ología
+T14 PROC 456 491 detección rápida de estreptococo Î²
+T15 PROC 141 151 urocultivo
+T16 PROC 166 177 hemocultivo
+T17 PROC 65 69 Hemo
+T18 PROC 86 91 grama
+T19 DISO 181 191 leucocitos
+T20 DISO 210 221 hemoglobina
+T21 PROC 181 190 plaquetas
+T22 PROC 736 771 velocidad de sedimentación globular
+T23 PROC 23 24 V
+T24 PROC 47 49 SG
+T25 PROC 49 51 Pr
+T26 PROC 501 521 uebas de coagulación
+T27 PROC 547 568 tiempo de protrombina
+T28 PROC 433 449 índice de Qu ick
+T29 PROC 953 987 cociente internacional normalizado
+T30 PROC 88 91 INR
+T31 PROC 1261 1303 tiempo de trombo plastina parcial activada
+T32 PROC 342 353 fibrinógeno
+T33 PROC 97 100 Bio
+T34 PROC 232 239 química
+T35 PROC 239 246 glucosa
+T36 PROC 141 145 urea
+T37 PROC 361 371 creatinina
+T38 PROC 704 723 bilirrubina total /
+T39 PROC 647 664 proteínas totales
+T40 PROC 352 361 albáºmina
+T41 PROC 481 493 calcio total
+T42 PROC 124 127 GOT
+T43 PROC 127 130 GPT
+T44 PROC 130 133 GGT
+T45 PROC 1013 1036 lactato des hidrogenasa
+T46 PROC 136 139 LDH
+T47 PROC 93 95 FA
+T48 PROC 48 49 I
+T49 PROC 193 197 ones
+T50 PROC 148 151 Pro
+T51 PROC 801 817 teína C reactiva
+T52 PROC 103 105 Se
+T53 PROC 833 849 dimento de orina
+T54 DISO 584 595 proteinuria
+T55 DISO 487 496 hematuria
+T56 DISO 3081 3137 páºrpura de Sch á¶n lein - H eno ch afectación articular
+T57 CHEM 1793 1825 antiinflamatorios no esteroideos
+T58 PROC 343 349 reposo

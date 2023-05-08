@@ -1,0 +1,54 @@
+T1 DISO 1 13 asintomático
+T2 DISO 31 61 tumoración de mediastino medio
+T3 PROC 15 22 estudio
+T4 PROC 82 109 estudio faringo - esofágico
+T5 PROC 57 71 administración
+T6 CHEM 46 55 contraste
+T7 DISO 55 64 estenosis
+T8 ANAT 85 97 tercio medio
+T9 ANAT 57 64 esófago
+T10 ANAT 82 91 esofágica
+T11 DISO 301 331 proceso compresivo extríns eco
+T12 PROC 56 61 video
+T13 PROC 37 40 tor
+T14 PROC 53 57 acos
+T15 PROC 71 76 copia
+T16 DISO 151 161 tumoración
+T17 ANAT 161 171 mediastino
+T18 ANAT 222 235 vena á ci gos
+T19 ANAT 73 77 vena
+T20 DISO 210 221 adherencias
+T21 ANAT 381 400 estructuras anex as
+T22 PROC 190 199 disección
+T23 ANAT 419 438 pleura mediastínica
+T24 DISO 231 241 tumoración
+T25 ANAT 697 726 fibras musculares del esófago
+T26 PROC 126 131 video
+T27 PROC 79 82 tor
+T28 PROC 109 113 acos
+T29 PROC 141 146 copia
+T30 PROC 59 61 en
+T31 PROC 121 125 ucle
+T32 PROC 32 33 a
+T33 DISO 321 331 tumoración
+T34 ANAT 529 545 mucosa esofágica
+T35 PROC 409 421 dado de alta
+T36 PROC 281 289 revisión
+T37 PROC 253 260 cirugía
+T38 DISO 297 305 disfagia
+T39 DISO 1293 1327 clínica de reflujo gastroesofágico
+T40 PROC 1249 1281 pruebas de función respiratorias
+T41 PROC 521 534 diagnosticado
+T42 DISO 124 127 lei
+T43 DISO 127 130 omi
+T44 DISO 560 573 oma esofágico
+T45 DISO 441 451 tumoración
+T46 ANAT 1036 1059 fibras musculares lisas
+T47 CHEM 185 189 anti
+T48 CHEM 48 49 -
+T49 CHEM 97 99 ac
+T50 CHEM 197 201 tina
+T51 DISO 151 154 ati
+T52 DISO 205 209 pias
+T53 ANAT 469 478 celulares
+T54 DISO 372 379 mitosis

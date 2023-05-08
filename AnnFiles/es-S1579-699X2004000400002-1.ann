@@ -1,0 +1,56 @@
+T1 CHEM 1 5 esti
+T2 CHEM 5 9 reno
+T3 CHEM 9 13 esti
+T4 CHEM 13 17 reno
+T5 CHEM 17 21 solv
+T6 CHEM 76 91 entes volátiles
+T7 CHEM 25 29 esti
+T8 CHEM 29 33 reno
+T9 CHEM 33 37 acet
+T10 CHEM 28 31 ona
+T11 PROC 171 188 análisis de orina
+T12 CHEM 276 301 metabolitos del esti reno
+T13 DISO 229 248 conductas adictivas
+T14 CHEM 157 169 combustibles
+T15 DISO 281 301 síntomas de ansiedad
+T16 DISO 271 289 ataque tipo pánico
+T17 DISO 113 120 vértigo
+T18 DISO 154 163 temblores
+T19 DISO 361 381 debilidad de piernas
+T20 DISO 210 221 parestesias
+T21 DISO 161 169 ansiedad
+T22 DISO 169 177 síntomas
+T23 DISO 331 346 dolor de cabeza
+T24 DISO 162 169 vértigo
+T25 DISO 217 226 deprimida
+T26 PROC 176 183 tratada
+T27 CHEM 599 622 fármacos antidepresivos
+T28 DISO 487 505 trastorno afectivo
+T29 DISO 869 900 síntomas residuales de ansiedad
+T30 DISO 291 301 agorafobia
+T31 DISO 481 497 áºlcera duodenal
+T32 DISO 962 993 conducta de abuso de sustancias
+T33 DISO 641 661 síntomas de ansiedad
+T34 PROC 265 273 consulta
+T35 DISO 273 281 ansiedad
+T36 DISO 1191 1225 síntomas persistentes de depresión
+T37 CHEM 181 186 inhal
+T38 CHEM 186 191 antes
+T39 DISO 723 742 trastornos mentales
+T40 PROC 235 241 examen
+T41 DISO 281 288 vértigo
+T42 DISO 1108 1135 tensión psíquica y somática
+T43 DISO 463 474 parestesias
+T44 DISO 1033 1057 debilidad en las piernas
+T45 DISO 441 451 agorafobia
+T46 PROC 1216 1243 tratamientos antidepresivos
+T47 PROC 415 424 prescrito
+T48 CHEM 95 97 ma
+T49 CHEM 145 148 pro
+T50 CHEM 295 301 tilina
+T51 CHEM 501 511 paroxetina
+T52 CHEM 1072 1093 fármacos ansiolíticos
+T53 CHEM 105 107 al
+T54 CHEM 425 433 prazolam
+T55 PROC 271 276 Evalu
+T56 PROC 1761 1793 ación psiquiátrica y psicológica

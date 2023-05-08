@@ -1,0 +1,47 @@
+T1 DISO 1 8 fumador
+T2 DISO 24 47 alergias medicamentosas
+T3 DISO 21 31 hipertenso
+T4 DISO 28 37 diabético
+T5 DISO 41 51 dislipemia
+T6 PROC 56 67 Intervenido
+T7 DISO 55 64 cataratas
+T8 PROC 183 209 estudiado medicina interna
+T9 DISO 25 28 cia
+T10 DISO 55 61 talgia
+T11 DISO 291 320 edemas en miembros inferiores
+T12 PROC 210 229 exploración clínica
+T13 DISO 289 313 masas duras e indolor as
+T14 ANAT 53 57 paró
+T15 ANAT 71 76 tidas
+T16 PROC 136 145 ecografía
+T17 ANAT 145 154 glándulas
+T18 PROC 69 73 PAAF
+T19 DISO 145 153 lesiones
+T20 PROC 39 41 ec
+T21 PROC 141 148 ografía
+T22 PROC 85 89 PAAF
+T23 PROC 397 415 Informe ecográfico
+T24 ANAT 484 505 lóbulo superficial de
+T25 ANAT 625 651 glándula paró tida derecha
+T26 DISO 876 911 lesiones nodulares hipo ec ogénicas
+T27 ANAT 1145 1189 lóbulo superficial de la paró tida izquierda
+T28 DISO 1432 1485 lesión nodular hipo ec ogénica heterogénea ida ística
+T29 DISO 141 146 micro
+T30 DISO 146 151 calci
+T31 DISO 301 311 ficaciones
+T32 PROC 125 129 PAAF
+T33 PROC 129 133 PAAF
+T34 ANAT 859 885 área paro tí dea izquierda
+T35 PROC 307 316 citología
+T36 DISO 631 649 tumor de War th in
+T37 PROC 145 149 PAAF
+T38 ANAT 889 913 área paro tí dea derecha
+T39 PROC 343 352 citología
+T40 DISO 703 721 tumor de War th in
+T41 PROC 1121 1149 Resonancia Magnética Nuclear
+T42 DISO 1313 1345 lesiones nodulares heterogén eas
+T43 ANAT 841 861 glándulas paró tidas
+T44 DISO 345 353 lesiones
+T45 DISO 1409 1441 tumor de War th in multicéntrico
+T46 PROC 496 507 intervenido
+T47 DISO 829 847 tumor de War th in

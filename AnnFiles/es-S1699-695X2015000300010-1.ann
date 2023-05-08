@@ -1,0 +1,93 @@
+T1 DISO 1 24 dificultad para caminar
+T2 DISO 10 19 debilidad
+T3 DISO 11 16 dolor
+T4 ANAT 58 77 miembros inferiores
+T5 DISO 37 46 lumbalgia
+T6 PROC 46 55 anamnesis
+T7 DISO 55 64 debilidad
+T8 ANAT 36 41 manos
+T9 ANAT 185 208 extremidades superiores
+T10 DISO 289 321 trastorno ocular , de esfínteres
+T11 DISO 21 23 la
+T12 DISO 188 205 bilidad emocional
+T13 DISO 241 261 trastorno adaptativo
+T14 DISO 79 85 muerte
+T15 DISO 127 136 calambres
+T16 ANAT 106 113 gemelos
+T17 DISO 161 171 hipertenso
+T18 DISO 273 289 diabético tipo 2
+T19 DISO 55 58 tío
+T20 DISO 172 181 fallecido
+T21 PROC 221 232 diagnóstico
+T22 DISO 631 661 Esclerosis lateral amiotrófica
+T23 DISO 67 70 ELA
+T24 PROC 530 553 exploración neurológica
+T25 DISO 433 451 debilidad cervical
+T26 ANAT 201 209 miembros
+T27 ANAT 261 271 inferiores
+T28 ANAT 55 57 MM
+T29 ANAT 57 59 II
+T30 DISO 117 121 para
+T31 DISO 211 218 paresia
+T32 ANAT 125 129 pies
+T33 DISO 289 298 debilidad
+T34 ANAT 265 273 miembros
+T35 DISO 579 596 déficit sensitivo
+T36 PROC 911 937 Reflejo osteo - tendin oso
+T37 PROC 37 38 R
+T38 PROC 75 77 OT
+T39 PROC 153 157 Hoff
+T40 PROC 157 161 mann
+T41 PROC 1001 1026 reflejo cutáneo - plantar
+T42 ANAT 206 211 delto
+T43 ANAT 169 173 ides
+T44 ANAT 130 133 pec
+T45 ANAT 309 316 torales
+T46 ANAT 181 185 MMII
+T47 DISO 737 753 Atrofia muscular
+T48 ANAT 471 481 cuádriceps
+T49 PROC 529 540 Exploración
+T50 PROC 1079 1101 índice tobillo - brazo
+T51 PROC 101 103 IT
+T52 PROC 52 53 B
+T53 PROC 469 478 analítica
+T54 PROC 107 109 CK
+T55 PROC 1081 1101 estudio inmunológico
+T56 PROC 496 505 serología
+T57 PROC 1737 1768 Radiografía de tórax lumbosacra
+T58 DISO 1597 1625 enfermedad de mo tone ur ona
+T59 PROC 523 532 electromi
+T60 PROC 355 361 ograma
+T61 PROC 121 123 EM
+T62 PROC 62 63 G
+T63 PROC 373 379 electr
+T64 PROC 379 385 oneuro
+T65 PROC 385 391 grafía
+T66 PROC 131 133 EN
+T67 PROC 67 68 G
+T68 ANAT 269 273 MMII
+T69 ANAT 1633 1657 miembro superior derecho
+T70 DISO 1933 1961 enfermedad de mo tone ur ona
+T71 DISO 211 214 ELA
+T72 PROC 711 721 valoración
+T73 PROC 793 804 diagnóstico
+T74 DISO 220 223 ELA
+T75 PROC 2813 2851 resonancia magnética craneal - medular
+T76 PROC 2101 2129 estudio neurolo fisi ológico
+T77 PROC 837 848 tratamiento
+T78 CHEM 78 79 R
+T79 CHEM 157 159 il
+T80 CHEM 80 81 u
+T81 CHEM 241 244 zol
+T82 DISO 325 329 para
+T83 DISO 1313 1329 paresia proximal
+T84 ANAT 333 337 MMII
+T85 DISO 1345 1361 atrofia muscular
+T86 ANAT 511 517 muslos
+T87 DISO 1807 1828 disfagia para sólidos
+T88 ANAT 1654 1673 miembros superiores
+T89 ANAT 89 90 M
+T90 ANAT 268 271 MSS
+T91 PROC 2251 2276 estudio neurofisi ológico
+T92 DISO 729 737 miopatía
+T93 PROC 277 280 EMG

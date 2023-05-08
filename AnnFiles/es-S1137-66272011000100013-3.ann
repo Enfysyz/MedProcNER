@@ -1,0 +1,46 @@
+T1 PROC 1 11 Diagnostic
+T2 PROC 4 7 ado
+T3 DISO 7 10 sil
+T4 DISO 19 25 icosis
+T5 DISO 9 11 MP
+T6 DISO 46 55 Exfumador
+T7 DISO 127 148 Tuberculosis pulmonar
+T8 DISO 71 81 hemoptisis
+T9 DISO 25 28 tos
+T10 DISO 235 261 expectoración mar ron ácea
+T11 PROC 181 199 exploración física
+T12 PROC 199 217 constantes vitales
+T13 DISO 217 235 roncus bilaterales
+T14 PROC 274 295 auscultación pulmonar
+T15 PROC 225 241 analítica sérica
+T16 DISO 181 193 leucocitosis
+T17 ANAT 113 120 células
+T18 ANAT 188 199 neutrófilos
+T19 PROC 91 96 fibro
+T20 PROC 77 81 bron
+T21 PROC 161 169 coscopia
+T22 DISO 148 155 coágulo
+T23 ANAT 177 185 bronquio
+T24 ANAT 346 361 lóbulo superior
+T25 PROC 73 76 TAC
+T26 DISO 1201 1249 afectación intersticial micron od ular bilateral
+T27 DISO 547 568 nódulos calcific ados
+T28 ANAT 487 505 lóbulos superiores
+T29 DISO 813 842 engrosamiento pleural nodular
+T30 PROC 204 211 cultivo
+T31 ANAT 181 187 esputo
+T32 PROC 559 577 aspirado bronquial
+T33 ANAT 193 199 sangre
+T34 PROC 166 171 preci
+T35 PROC 69 71 pi
+T36 PROC 316 325 tinas IgG
+T37 PROC 901 926 antígeno galac tom an ano
+T38 PROC 1481 1521 embolización de arterias bronquiales del
+T39 ANAT 115 118 LSI
+T40 DISO 391 401 hemoptisis
+T41 PROC 441 452 tratamiento
+T42 CHEM 452 463 voriconazol
+T43 PROC 463 474 tratamiento
+T44 PROC 216 221 preci
+T45 PROC 89 91 pi
+T46 PROC 586 599 tinas séricas

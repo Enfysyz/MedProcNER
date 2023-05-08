@@ -1,0 +1,89 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 3 5 ca
+T3 DISO 9 13 vern
+T4 DISO 46 61 omas máºltiples
+T5 PROC 45 56 intervenida
+T6 DISO 91 109 hemorragia frontal
+T7 DISO 25 29 angi
+T8 DISO 155 177 oma caver noso frontal
+T9 PROC 81 91 evacuación
+T10 DISO 73 81 hematoma
+T11 PROC 91 100 resección
+T12 DISO 166 181 lesión vascular
+T13 DISO 49 53 angi
+T14 DISO 261 281 oma protuber an cial
+T15 DISO 169 181 asintomática
+T16 PROC 106 113 ingresa
+T17 DISO 113 120 cefalea
+T18 DISO 120 127 vómitos
+T19 DISO 73 77 hemi
+T20 DISO 77 81 hipo
+T21 DISO 141 148 estesia
+T22 DISO 232 243 parestesias
+T23 ANAT 221 231 hemicuerpo
+T24 DISO 254 265 hemiparesia
+T25 PROC 265 276 exploración
+T26 DISO 426 443 nistagmo vertical
+T27 DISO 495 514 hemiparesia derecha
+T28 DISO 109 113 hemi
+T29 DISO 113 117 hipo
+T30 DISO 204 211 estesia
+T31 DISO 571 590 extinción sensitiva
+T32 PROC 311 321 TC craneal
+T33 PROC 225 232 ingreso
+T34 DISO 1156 1191 hematoma protuber an cial posterior
+T35 DISO 69 71 ca
+T36 DISO 141 145 vern
+T37 DISO 109 112 oma
+T38 PROC 408 419 RM cerebral
+T39 DISO 153 157 angi
+T40 DISO 1210 1241 oma caver noso protuber an cial
+T41 DISO 201 206 hemos
+T42 DISO 165 169 ider
+T43 DISO 127 130 ina
+T44 DISO 345 353 sangrado
+T45 DISO 265 271 lesión
+T46 ANAT 586 599 IV ventrículo
+T47 ANAT 737 753 fosa ro mbo idea
+T48 ANAT 142 145 col
+T49 ANAT 1057 1079 ículo facial izquierdo
+T50 ANAT 491 501 ventrículo
+T51 ANAT 951 970 tronco del encéfalo
+T52 DISO 307 313 lesión
+T53 PROC 1405 1432 intervenir quiráºrgicamente
+T54 PROC 1591 1621 monitorización intraoperatoria
+T55 PROC 649 661 estimulación
+T56 ANAT 881 897 fosa ro mbo idea
+T57 ANAT 2409 2452 náºcleos de los pares craneales VII X y XII
+T58 PROC 1198 1219 potenciales auditivos
+T59 ANAT 465 473 náºcleos
+T60 ANAT 945 961 fosa ro mbo idea
+T61 PROC 1381 1404 monitorización nerviosa
+T62 PROC 794 807 estímulo olar
+T63 PROC 1613 1639 lectura electromi ográfica
+T64 ANAT 1765 1793 área muscular representativa
+T65 ANAT 833 846 nervio facial
+T66 ANAT 2211 2245 máºsculos or b iculares de la boca
+T67 ANAT 199 202 ojo
+T68 ANAT 202 205 XII
+T69 ANAT 749 760 par craneal
+T70 ANAT 1450 1471 máºsculo genio g loso
+T71 ANAT 71 72 X
+T72 ANAT 214 217 par
+T73 ANAT 1081 1096 cuerdas vocales
+T74 PROC 658 667 anestesia
+T75 PROC 1777 1801 colocada decáºbito prono
+T76 PROC 301 305 cran
+T77 PROC 77 78 i
+T78 PROC 1618 1639 ectomía sub occipital
+T79 PROC 625 633 exéresis
+T80 ANAT 1107 1121 arco posterior
+T81 PROC 641 649 apertura
+T82 ANAT 487 493 dur al
+T83 ANAT 903 914 aracno idea
+T84 PROC 1661 1681 control microscópico
+T85 DISO 757 766 asimetría
+T86 ANAT 256 259 col
+T87 ANAT 1893 1915 ículo facial izquierdo
+T88 ANAT 1219 1233 náºcleos X XII
+T89 PROC 1057 1069 estimulación

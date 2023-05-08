@@ -1,0 +1,85 @@
+T1 PROC 1 9 consulta
+T2 PROC 3 5 AP
+T3 DISO 17 25 tos seca
+T4 ANAT 10 13 píl
+T5 ANAT 13 16 oro
+T6 DISO 31 37 muerte
+T7 DISO 73 85 tuberculosis
+T8 DISO 15 17 TB
+T9 DISO 105 118 poliomielitis
+T10 DISO 91 101 deformidad
+T11 ANAT 191 210 miembros inferiores
+T12 DISO 23 25 ul
+T13 DISO 145 157 cus duodenal
+T14 DISO 196 211 clínica péptica
+T15 PROC 43 46 her
+T16 PROC 16 17 n
+T17 PROC 49 52 ior
+T18 PROC 239 253 rafia inguinal
+T19 DISO 163 172 Exfumador
+T20 PROC 172 181 anamnesis
+T21 DISO 441 463 pirosis retro esternal
+T22 CHEM 211 221 antiácidos
+T23 DISO 595 622 sensación plenitud gástrica
+T24 PROC 415 433 exploración física
+T25 DISO 409 426 hábito as t énico
+T26 DISO 51 53 up
+T27 PROC 781 811 exploración de cabeza , cuello
+T28 ANAT 136 141 tórax
+T29 PROC 253 262 analítica
+T30 PROC 117 121 hemo
+T31 PROC 151 156 grama
+T32 PROC 311 321 bioquímica
+T33 PROC 417 430 radiografía (
+T34 PROC 430 443 Rx ) de tórax
+T35 PROC 681 701 tratamiento empírico
+T36 CHEM 316 325 omeprazol
+T37 PROC 829 852 pruebas complementarias
+T38 PROC 741 761 tratamiento empírico
+T39 PROC 875 898 Rx de senos paranasales
+T40 DISO 352 361 sinusitis
+T41 PROC 281 288 tratada
+T42 CHEM 411 421 Cefuroxima
+T43 CHEM 43 44 -
+T44 CHEM 87 89 ax
+T45 CHEM 45 46 e
+T46 CHEM 181 185 tilo
+T47 DISO 139 142 tos
+T48 DISO 706 721 pérdida de peso
+T49 PROC 625 638 interconsulta
+T50 PROC 442 451 analítica
+T51 PROC 1501 1531 test de sangre oculta en heces
+T52 DISO 1531 1561 patología pulmonar y digestiva
+T53 PROC 1197 1220 pruebas complementarias
+T54 PROC 266 271 manto
+T55 PROC 109 111 ux
+T56 PROC 56 57 Z
+T57 PROC 113 115 ie
+T58 PROC 685 697 hl de esputo
+T59 ANAT 291 296 orina
+T60 PROC 1122 1141 gasometría arterial
+T61 PROC 1621 1648 pruebas de función pulmonar
+T62 PROC 123 125 PF
+T63 PROC 63 64 P
+T64 PROC 1639 1665 test de provocación con me
+T65 CHEM 193 196 tac
+T66 PROC 326 331 fibro
+T67 PROC 265 269 bron
+T68 PROC 537 545 coscopia
+T69 PROC 1837 1864 tomografía computador izada
+T70 PROC 898 911 TC ) torácica
+T71 PROC 491 498 pruebas
+T72 PROC 1421 1441 tratamiento empírico
+T73 CHEM 1225 1242 broncodilatadores
+T74 PROC 1680 1703 pruebas complementarias
+T75 DISO 445 451 anemia
+T76 PROC 151 153 Hb
+T77 PROC 2813 2850 índice de distribución eritroci taria
+T78 DISO 386 391 tromb
+T79 DISO 625 633 ocitosis
+T80 CHEM 317 321 glob
+T81 CHEM 481 487 ulinas
+T82 CHEM 730 739 albáºmina
+T83 PROC 2871 2906 velocidad de sedimentación globular
+T84 PROC 3404 3445 estudio de sangre oculta en heces familia
+T85 PROC 1093 1106 interconsulta

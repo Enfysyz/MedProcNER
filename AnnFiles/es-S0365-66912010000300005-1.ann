@@ -1,0 +1,94 @@
+T1 DISO 1 30 disminución de agudeza visual
+T2 ANAT 4 7 ojo
+T3 ANAT 5 7 OD
+T4 DISO 37 49 hipertensión
+T5 DISO 41 51 dislipemia
+T6 PROC 56 67 tratamiento
+T7 DISO 109 127 bronquitis crónica
+T8 DISO 218 249 accidente isquémico transitorio
+T9 PROC 113 127 antiagregación
+T10 CHEM 73 81 aspirina
+T11 PROC 251 276 exploración oftalmológica
+T12 PROC 23 25 AV
+T13 ANAT 37 40 ojo
+T14 DISO 326 351 defecto pupilar a ferente
+T15 PROC 267 286 presión intraocular
+T16 PROC 61 65 biom
+T17 PROC 33 35 ic
+T18 PROC 52 55 ros
+T19 PROC 91 96 copía
+T20 PROC 77 81 fund
+T21 PROC 41 43 us
+T22 PROC 106 111 copia
+T23 DISO 551 576 hemorragia subre tin iana
+T24 ANAT 116 121 papil
+T25 ANAT 97 101 ares
+T26 ANAT 351 365 polo posterior
+T27 ANAT 105 109 área
+T28 ANAT 190 197 macular
+T29 PROC 141 146 angio
+T30 PROC 88 91 flu
+T31 PROC 121 125 ores
+T32 PROC 63 65 ce
+T33 PROC 65 67 in
+T34 PROC 199 205 grafía
+T35 PROC 69 71 AF
+T36 PROC 36 37 G
+T37 ANAT 181 186 subre
+T38 DISO 371 381 hemorragia
+T39 DISO 799 820 membrana neo vascular
+T40 DISO 40 41 M
+T41 DISO 41 42 N
+T42 DISO 42 43 V
+T43 PROC 211 216 inyec
+T44 PROC 130 133 tan
+T45 CHEM 45 46 r
+T46 CHEM 46 47 -
+T47 CHEM 47 48 T
+T48 CHEM 95 97 PA
+T49 PROC 433 442 inyección
+T50 CHEM 99 101 he
+T51 CHEM 101 103 xa
+T52 CHEM 256 261 fluor
+T53 CHEM 677 690 uro de azufre
+T54 CHEM 107 109 SF
+T55 CHEM 55 56 6
+T56 PROC 276 281 parac
+T57 PROC 2129 2167 entesis evacu adora de cámara anterior
+T58 PROC 457 465 revisión
+T59 DISO 349 355 sangre
+T60 ANAT 827 841 polo posterior
+T61 DISO 421 428 fibrina
+T62 PROC 794 807 procedimiento
+T63 PROC 497 505 revisión
+T64 PROC 253 257 fund
+T65 PROC 129 131 us
+T66 PROC 326 331 copia
+T67 DISO 661 671 hemorragia
+T68 DISO 403 409 sangre
+T69 ANAT 477 484 macular
+T70 DISO 484 491 fibrina
+T71 PROC 561 569 revisión
+T72 PROC 285 289 fund
+T73 PROC 145 147 us
+T74 PROC 366 371 copia
+T75 DISO 1851 1876 hemorragia subre tin iana
+T76 PROC 826 837 diagnóstico
+T77 PROC 989 1002 diagnosticado
+T78 DISO 1233 1249 DMAE hemorrágica
+T79 CHEM 235 238 ran
+T80 CHEM 80 81 i
+T81 CHEM 161 163 bi
+T82 CHEM 406 411 zumab
+T83 CHEM 247 250 ran
+T84 CHEM 84 85 i
+T85 CHEM 169 171 bi
+T86 CHEM 426 431 zumab
+T87 PROC 345 349 fund
+T88 PROC 175 177 us
+T89 PROC 441 446 copia
+T90 DISO 357 361 hemo
+T91 DISO 181 183 ví
+T92 DISO 365 369 treo
+T93 ANAT 1381 1396 estructuras del
+T94 ANAT 1303 1317 polo posterior

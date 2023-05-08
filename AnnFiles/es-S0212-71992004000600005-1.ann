@@ -1,0 +1,98 @@
+T1 PROC 1 9 ingresos
+T2 DISO 16 31 síndrome febril
+T3 PROC 27 40 diagnosticado
+T4 DISO 73 97 mononucleosis infecciosa
+T5 PROC 37 46 serología
+T6 DISO 16 19 VEB
+T7 CHEM 7 8 V
+T8 PROC 15 17 CA
+T9 PROC 25 28 IgG
+T10 CHEM 10 11 V
+T11 PROC 21 23 CA
+T12 PROC 34 37 IgM
+T13 CHEM 25 27 EB
+T14 CHEM 27 29 NA
+T15 DISO 85 91 fiebre
+T16 DISO 166 177 escalofríos
+T17 DISO 113 120 astenia
+T18 DISO 273 289 malestar general
+T19 PROC 163 172 serología
+T20 DISO 58 61 VEB
+T21 PROC 381 400 ecografía abdominal
+T22 DISO 295 309 esplenomegalia
+T23 DISO 419 438 lesión hipo eco ica
+T24 PROC 530 553 tratamiento antibiótico
+T25 PROC 49 51 co
+T26 PROC 176 183 bertura
+T27 PROC 313 325 dado de alta
+T28 DISO 460 477 absceso esplénico
+T29 DISO 337 349 asintomático
+T30 PROC 117 121 rein
+T31 PROC 121 125 gres
+T32 PROC 32 33 ó
+T33 DISO 193 199 cuadro
+T34 DISO 199 205 febril
+T35 DISO 171 176 escal
+T36 DISO 71 73 of
+T37 DISO 145 149 rios
+T38 DISO 260 267 cefalea
+T39 DISO 381 391 odinofagia
+T40 DISO 586 601 pérdida de peso
+T41 DISO 561 575 sintomatología
+T42 PROC 739 757 exploración física
+T43 DISO 1219 1248 afectación del estado general
+T44 DISO 947 969 palidez cutáneo mucosa
+T45 DISO 617 631 esplenomegalia
+T46 PROC 406 415 analítica
+T47 DISO 875 894 anemia normo cítica
+T48 PROC 95 97 Hb
+T49 PROC 145 148 Hto
+T50 DISO 540 551 trombopenia
+T51 ANAT 451 460 plaquetas
+T52 ANAT 511 521 leucocitos
+T53 DISO 573 584 neutrofilia
+T54 PROC 690 703 transaminasas
+T55 PROC 163 166 GPT
+T56 PROC 1156 1177 enzimas de colestasis
+T57 PROC 57 58 G
+T58 PROC 115 117 GT
+T59 PROC 117 119 FA
+T60 PROC 1476 1501 estudio de la coagulación
+T61 PROC 1621 1648 análisis elemental de orina
+T62 PROC 428 435 proteín
+T63 PROC 373 379 ograma
+T64 PROC 2080 2113 determinación de inmunoglobulinas
+T65 PROC 1281 1301 estudio inmunológico
+T66 PROC 1561 1585 estudios microbiológicos
+T67 PROC 661 671 serologías
+T68 DISO 336 341 virus
+T69 DISO 137 139 fo
+T70 PROC 2347 2381 determinación de antígeno en orina
+T71 DISO 421 427 herpes
+T72 DISO 214 217 CMV
+T73 PROC 937 950 serología VEB
+T74 PROC 950 963 IgG anti V CA
+T75 PROC 223 226 IgG
+T76 PROC 1051 1065 IgG anti EB NA
+T77 PROC 989 1002 IgM anti V CA
+T78 PROC 1849 1873 estudios microbiológicos
+T79 PROC 313 317 hemo
+T80 PROC 633 641 cultivos
+T81 PROC 1441 1459 cultivos de esputo
+T82 PROC 163 165 ur
+T83 PROC 247 250 ino
+T84 PROC 665 673 cultivos
+T85 PROC 2185 2211 estudio de my co bacterias
+T86 PROC 1446 1463 pruebas de imagen
+T87 PROC 1119 1132 TAC abdominal
+T88 DISO 1915 1937 lesión focal esplénica
+T89 DISO 617 624 absceso
+T90 DISO 624 631 infarto
+T91 DISO 1711 1730 ganglios aumentados
+T92 ANAT 456 461 nivel
+T93 ANAT 369 373 para
+T94 ANAT 187 189 ór
+T95 ANAT 377 381 tico
+T96 DISO 2376 2401 adenopatías mesent éricas
+T97 PROC 1537 1553 histopatológicos
+T98 PROC 1553 1569 biopsia hepática

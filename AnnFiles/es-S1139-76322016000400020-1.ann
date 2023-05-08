@@ -1,0 +1,67 @@
+T1 DISO 1 17 proceso catarral
+T2 DISO 11 21 odinofagia
+T3 DISO 13 19 fiebre
+T4 DISO 7 9 co
+T5 DISO 17 21 prol
+T6 DISO 21 25 alia
+T7 DISO 199 232 trastorno selectivo de la memoria
+T8 DISO 155 177 comportamiento anómalo
+T9 DISO 113 127 hiperactividad
+T10 DISO 217 241 movimientos compuls ivos
+T11 DISO 201 221 pierde la conciencia
+T12 DISO 485 529 alteración del tono muscular ni de la fuerza
+T13 DISO 253 274 alteración conductual
+T14 DISO 300 323 alteración del lenguaje
+T15 DISO 267 286 síntomas catarrales
+T16 DISO 256 273 dolor de garganta
+T17 PROC 177 188 exploración
+T18 DISO 103 109 exante
+T19 DISO 55 58 mas
+T20 PROC 514 541 auscultación cardiopulmonar
+T21 PROC 681 715 Exploración otorrinolaring ológica
+T22 DISO 85 89 exud
+T23 DISO 331 346 ación amigdalar
+T24 ANAT 162 169 Abdomen
+T25 DISO 361 376 visceromegalias
+T26 ANAT 126 131 osteo
+T27 ANAT 157 163 tendin
+T28 ANAT 109 113 osos
+T29 DISO 869 900 signos de focalidad neurológica
+T30 PROC 552 571 analítica sanguínea
+T31 ANAT 301 311 leucocitos
+T32 DISO 218 225 segment
+T33 DISO 129 133 ados
+T34 DISO 100 103 cay
+T35 DISO 137 141 ados
+T36 DISO 316 325 monocitos
+T37 ANAT 325 334 plaquetas
+T38 PROC 371 381 Bioquímica
+T39 PROC 267 274 cribado
+T40 PROC 742 761 proteína C reactiva
+T41 PROC 121 124 PCR
+T42 PROC 739 757 frotis de garganta
+T43 PROC 85 87 In
+T44 PROC 173 177 gres
+T45 PROC 45 46 a
+T46 PROC 496 507 observación
+T47 PROC 1059 1082 tratamiento antibiótico
+T48 CHEM 518 529 amoxicilina
+T49 DISO 1249 1275 clínica neuropsiquiá trica
+T50 PROC 344 351 ingreso
+T51 PROC 851 868 alta hospitalaria
+T52 PROC 970 989 estudio ambulatorio
+T53 PROC 1509 1538 consulta de Atención Primaria
+T54 DISO 637 649 asintomático
+T55 PROC 1729 1761 exploración física y neurológica
+T56 PROC 1541 1569 resonancia magnética craneal
+T57 PROC 1121 1141 electroencefalograma
+T58 PROC 286 291 visto
+T59 DISO 929 945 proceso catarral
+T60 DISO 473 481 síntomas
+T61 DISO 661 672 amigdalitis
+T62 PROC 428 435 estudio
+T63 DISO 1055 1072 exudado amigdalar
+T64 DISO 1261 1281 procesos infecciosos
+T65 PROC 3073 3121 niveles de anticuerpos anti estre p tol is ina O
+T66 PROC 131 133 AS
+T67 PROC 133 135 LO

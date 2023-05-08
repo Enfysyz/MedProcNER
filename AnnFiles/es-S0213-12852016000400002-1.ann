@@ -1,0 +1,43 @@
+T1 DISO 1 33 lesiones cutáneas desc ama tivas
+T2 ANAT 16 31 cuero cabelludo
+T3 DISO 11 16 exuda
+T4 DISO 16 21 tivas
+T5 ANAT 33 41 pliegues
+T6 ANAT 76 91 región perianal
+T7 PROC 91 106 biopsia cutánea
+T8 DISO 8 9 H
+T9 DISO 17 19 CL
+T10 ANAT 37 41 piel
+T11 PROC 291 320 tratamiento tópico localmente
+T12 PROC 111 121 revisiones
+T13 PROC 133 144 diagnostica
+T14 DISO 131 141 gingivitis
+T15 DISO 211 226 proceso cutáneo
+T16 PROC 376 401 biopsia de encía marginal
+T17 PROC 273 290 procesado muestra
+T18 CHEM 103 109 hemato
+T19 CHEM 55 58 xil
+T20 CHEM 58 61 ina
+T21 PROC 461 484 estudio histopatológico
+T22 PROC 568 595 estudio inmunohisto químico
+T23 PROC 221 231 marcadores
+T24 CHEM 47 49 CD
+T25 CHEM 97 101 antí
+T26 CHEM 451 469 geno de superficie
+T27 CHEM 417 433 proteína S - 100
+T28 ANAT 595 617 células de Langer hans
+T29 PROC 701 726 estudio anatomopatológico
+T30 ANAT 494 511 epitelio escamoso
+T31 DISO 1501 1551 infiltrado de células polin ucleares y eosinófilos
+T32 ANAT 94 97 cor
+T33 ANAT 97 100 ion
+T34 DISO 232 239 nódulos
+T35 ANAT 239 246 células
+T36 PROC 946 973 estudio inmunohisto químico
+T37 CHEM 1045 1074 antígeno de superficie CD 1 a
+T38 CHEM 593 609 proteína S - 100
+T39 ANAT 153 157 oral
+T40 DISO 391 401 enfermedad
+T41 DISO 361 370 patología
+T42 DISO 206 211 histi
+T43 DISO 1891 1936 ocitosis de células de Langer hans multifocal

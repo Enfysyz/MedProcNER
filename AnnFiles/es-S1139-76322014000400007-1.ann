@@ -1,0 +1,69 @@
+T1 DISO 1 27 dolor en la cadera derecha
+T2 DISO 7 13 cojera
+T3 DISO 13 19 fiebre
+T4 DISO 25 33 síntomas
+T5 DISO 41 51 enfermedad
+T6 PROC 41 49 valorado
+T7 PROC 79 92 diagnosticado
+T8 DISO 29 33 sino
+T9 DISO 121 136 vitis de cadera
+T10 PROC 64 71 prescri
+T11 PROC 21 23 bi
+T12 PROC 67 73 éndole
+T13 PROC 73 79 reposo
+T14 CHEM 144 155 analgésicos
+T15 DISO 71 76 dolor
+T16 PROC 136 145 analgesia
+T17 DISO 321 341 impotencia funcional
+T18 DISO 103 109 cojera
+T19 DISO 109 115 fiebre
+T20 DISO 324 341 lesiones cutáneas
+T21 ANAT 141 148 gláºteo
+T22 ANAT 316 331 cuero cabelludo
+T23 PROC 397 415 inspección general
+T24 DISO 139 145 pálido
+T25 ANAT 145 151 cadera
+T26 ANAT 176 183 rodilla
+T27 PROC 469 487 exploración física
+T28 DISO 298 309 tumefacción
+T29 DISO 141 146 dolor
+T30 ANAT 262 271 articular
+T31 DISO 661 683 puntos dolorosos óseos
+T32 ANAT 187 193 cadera
+T33 ANAT 193 199 pierna
+T34 DISO 925 953 infestación por pedicul osis
+T35 DISO 885 911 lesión nodular , inflamada
+T36 ANAT 176 181 cuero
+T37 PROC 649 667 análisis de sangre
+T38 DISO 408 419 neutrofilia
+T39 PROC 913 937 reactantes de fase aguda
+T40 PROC 430 441 fibrinógeno
+T41 PROC 881 903 proteína C - re activa
+T42 PROC 1436 1471 velocidad de sedimentación globular
+T43 PROC 925 947 ecografía de la cadera
+T44 PROC 1248 1277 radiografía abdomino pélv ica
+T45 PROC 925 946 analgesia intravenosa
+T46 DISO 1351 1381 dolor abdominal a la palpación
+T47 ANAT 507 518 hipogastrio
+T48 ANAT 518 529 fosa iliaca
+T49 DISO 337 344 defensa
+T50 DISO 1373 1401 signos irritación peritoneal
+T51 PROC 951 970 ecografía abdominal
+T52 DISO 1072 1093 patología quiráºrgica
+T53 DISO 781 796 fiebre sin foco
+T54 PROC 1061 1081 radiografía de tórax
+T55 PROC 1189 1211 tira reactiva de orina
+T56 PROC 386 393 ingreso
+T57 DISO 1345 1369 Enfermedades Infecciosas
+T58 PROC 913 929 gammagrafía ósea
+T59 PROC 117 119 In
+T60 PROC 237 241 gres
+T61 PROC 61 62 ó
+T62 PROC 672 683 tratamiento
+T63 CHEM 683 694 amoxicilina
+T64 CHEM 64 65 -
+T65 CHEM 705 716 clavulánico
+T66 DISO 1041 1057 absceso de psoas
+T67 PROC 1321 1341 resonancia magnética
+T68 PROC 939 953 RM ) abdominal
+T69 DISO 885 898 absceso en el

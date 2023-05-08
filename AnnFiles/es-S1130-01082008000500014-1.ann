@@ -1,0 +1,71 @@
+T1 DISO 1 24 alergias medicamentosas
+T2 DISO 4 7 HTA
+T3 DISO 55 82 insuficiencia renal crónica
+T4 DISO 88 117 fibrilación auricular crónica
+T5 DISO 113 141 déficit de anti trombina III
+T6 DISO 96 115 isquemia intestinal
+T7 DISO 169 197 trombosis venosa mesentérica
+T8 PROC 64 73 resección
+T9 ANAT 49 55 yeyuno
+T10 ANAT 46 51 íleon
+T11 DISO 231 254 deposiciones mel énicas
+T12 PROC 276 301 endoscopia digestiva alta
+T13 ANAT 121 131 mucosa ada
+T14 ANAT 92 99 duodeno
+T15 DISO 113 121 sangrado
+T16 PROC 181 193 colonoscopia
+T17 DISO 481 511 lesiones tele angi ec tás icas
+T18 DISO 137 145 sangrado
+T19 PROC 559 590 estudio con cápsula endoscópica
+T20 DISO 172 181 equimosis
+T21 ANAT 141 148 duodeno
+T22 ANAT 127 133 yeyuno
+T23 ANAT 111 116 íleon
+T24 ANAT 116 121 ciego
+T25 DISO 49 51 HD
+T26 DISO 26 27 B
+T27 PROC 339 352 transfusiones
+T28 PROC 136 141 endos
+T29 PROC 169 175 copias
+T30 PROC 204 211 cápsula
+T31 PROC 331 342 gammagrafía
+T32 CHEM 249 257 hematíes
+T33 DISO 161 166 angio
+T34 DISO 100 103 dis
+T35 DISO 919 946 plasia de intestino delgado
+T36 PROC 806 829 angiografía mesentérica
+T37 DISO 469 482 extravasación
+T38 DISO 778 799 fístula arteriovenosa
+T39 PROC 723 742 embolización co ils
+T40 DISO 508 521 abdomen agudo
+T41 DISO 321 329 sangrado
+T42 PROC 452 463 laparotomía
+T43 DISO 967 990 isquemia de anastomosis
+T44 PROC 517 529 embolización
+T45 PROC 793 811 resección de íleon
+T46 ANAT 856 875 válvula ile oc ecal
+T47 PROC 553 565 intervención
+T48 DISO 95 97 HD
+T49 DISO 49 50 B
+T50 PROC 540 551 tratamiento
+T51 CHEM 651 664 somatostatina
+T52 CHEM 1225 1249 concentrados de hematíes
+T53 PROC 417 425 terapias
+T54 PROC 1326 1351 tratamientos quiráºrgicos
+T55 PROC 595 606 tratamiento
+T56 CHEM 551 561 talidomida
+T57 DISO 113 115 HD
+T58 DISO 58 59 B
+T59 PROC 639 650 transfusión
+T60 PROC 414 421 seguido
+T61 PROC 1081 1099 consultas externas
+T62 DISO 672 683 parestesias
+T63 ANAT 1179 1198 miembros inferiores
+T64 PROC 568 577 electromi
+T65 PROC 385 391 ograma
+T66 DISO 846 859 TEP bilateral
+T67 PROC 1717 1743 tratamiento anticoagulante
+T68 DISO 1877 1905 déficit de anti trombina III
+T69 DISO 749 760 trombofilia
+T70 DISO 1312 1331 efectos secundarios
+T71 CHEM 701 711 talidomida

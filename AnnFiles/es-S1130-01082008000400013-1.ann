@@ -1,0 +1,59 @@
+T1 DISO 1 10 trombosis
+T2 DISO 23 45 dolor abdominal difuso
+T3 DISO 37 55 sensación nauseosa
+T4 DISO 88 117 vómito alimenticio - bil ioso
+T5 PROC 73 91 exploración física
+T6 DISO 26 31 dolor
+T7 DISO 85 99 imiento difuso
+T8 PROC 134 153 palpación abdominal
+T9 DISO 225 253 signos irritación peritoneal
+T10 PROC 64 71 glucosa
+T11 PROC 41 45 urea
+T12 PROC 111 121 creatinina
+T13 PROC 85 92 amilasa
+T14 PROC 313 337 láctico - de hidrogenasa
+T15 PROC 99 106 asparta
+T16 PROC 331 353 to - amino transferasa
+T17 PROC 273 290 bilirrubina total
+T18 PROC 324 343 proteína C reactiva
+T19 PROC 199 210 hemoglobina
+T20 PROC 172 181 plaquetas
+T21 ANAT 201 211 leucocitos
+T22 PROC 505 529 actividad de protrombina
+T23 PROC 243 254 fibrinógeno
+T24 PROC 139 145 dímero
+T25 PROC 73 76 - D
+T26 PROC 476 495 ecografía abdominal
+T27 ANAT 261 271 vena porta
+T28 PROC 406 421 estudio doppler
+T29 PROC 981 1016 tomografía computer izada abdominal
+T30 DISO 755 781 trombosis de la vena porta
+T31 ANAT 121 125 vena
+T32 PROC 342 353 tratamiento
+T33 CHEM 353 364 enoxaparina
+T34 PROC 364 375 tratamiento
+T35 CHEM 409 421 acenocumarol
+T36 PROC 771 793 estudio de trombofilia
+T37 DISO 289 297 mutación
+T38 CHEM 408 419 protrombina
+T39 PROC 723 742 factor V de Le iden
+T40 DISO 430 441 resistencia
+T41 CHEM 321 329 proteína
+T42 PROC 944 967 anticoagulante láº pico
+T43 PROC 1723 1764 anticuerpos antic ardi olip ina IgG e IgM
+T44 PROC 646 661 proteínas C y S
+T45 PROC 177 181 anti
+T46 PROC 361 369 trombina
+T47 PROC 1059 1082 homocisteína plasmática
+T48 PROC 142 145 ang
+T49 PROC 145 148 ior
+T50 PROC 148 151 res
+T51 PROC 351 358 onancia
+T52 DISO 715 729 esplenomegalia
+T53 ANAT 521 531 vena porta
+T54 DISO 1644 1675 transformación ca vern oma tosa
+T55 ANAT 919 936 vasos colaterales
+T56 PROC 1376 1401 endoscopia digestiva oral
+T57 PROC 617 628 seguimiento
+T58 PROC 628 639 tratamiento
+T59 CHEM 697 709 acenocumarol

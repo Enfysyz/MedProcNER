@@ -1,0 +1,36 @@
+T1 DISO 1 16 hábitos tóxicos
+T2 DISO 9 17 alergias
+T3 CHEM 11 16 hidra
+T4 CHEM 49 65 to de hidr acina
+T5 CHEM 17 21 agua
+T6 DISO 101 121 enrojecimiento bucal
+T7 ANAT 85 99 labio inferior
+T8 DISO 85 97 aftas orales
+T9 DISO 121 136 dolor abdominal
+T10 PROC 73 81 atendido
+T11 PROC 71 78 prescri
+T12 PROC 34 37 bió
+T13 PROC 277 300 tratamiento sintomático
+T14 DISO 417 449 lesiones eritemato - esc amos as
+T15 ANAT 57 61 cara
+T16 ANAT 91 97 brazos
+T17 PROC 273 290 analítica general
+T18 PROC 630 667 radiografías simples de tórax abdomen
+T19 PROC 127 134 prescri
+T20 PROC 39 41 bi
+T21 PROC 121 127 éndole
+T22 PROC 232 243 tratamiento
+T23 CHEM 353 369 antihistamínicos
+T24 DISO 691 721 lesiones eritema - esc amos as
+T25 DISO 145 151 discon
+T26 DISO 351 365 fort abdominal
+T27 DISO 235 244 disgeusia
+T28 PROC 487 505 exploración física
+T29 PROC 757 784 analítica de sangre y orina
+T30 PROC 494 511 bilirrubina total
+T31 PROC 631 652 bilirrubina indirecta
+T32 PROC 869 897 estudio ecográfico abdominal
+T33 PROC 225 232 control
+T34 DISO 397 409 asintomático
+T35 PROC 375 386 bilirrubina
+T36 PROC 666 685 dado de alta médica

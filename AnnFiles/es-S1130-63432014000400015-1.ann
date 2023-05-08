@@ -1,0 +1,30 @@
+T1 PROC 1 12 tratamiento
+T2 CHEM 3 5 mo
+T3 CHEM 5 7 xi
+T4 CHEM 28 37 floxacino
+T5 DISO 89 111 infección respiratoria
+T6 PROC 36 43 ingresa
+T7 DISO 43 50 vómitos
+T8 DISO 57 65 diarreas
+T9 DISO 49 55 fiebre
+T10 DISO 37 41 hipo
+T11 DISO 111 122 albuminemia
+T12 PROC 188 205 creatinina sérica
+T13 PROC 13 14 C
+T14 PROC 27 29 rs
+T15 PROC 477 511 aclaramiento C ock cro ft - Ga ult
+T16 PROC 166 177 diagnostica
+T17 DISO 49 52 CDI
+T18 DISO 341 361 distensión abdominal
+T19 PROC 199 210 diagnóstico
+T20 PROC 210 221 tratamiento
+T21 PROC 201 211 prevención
+T22 DISO 64 67 CDI
+T23 CHEM 265 277 metronidazol
+T24 CHEM 254 265 vancomicina
+T25 PROC 265 276 tratamiento
+T26 PROC 951 989 niveles valle de vancomicina en plasma
+T27 PROC 287 298 tratamiento
+T28 DISO 460 477 cuadro diarre ico
+T29 CHEM 169 175 toxina
+T30 CHEM 349 361 antibióticos

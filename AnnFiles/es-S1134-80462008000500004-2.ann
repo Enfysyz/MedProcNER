@@ -1,0 +1,41 @@
+T1 DISO 1 6 dolor
+T2 DISO 6 11 dolor
+T3 ANAT 29 43 región maxilar
+T4 DISO 16 21 dolor
+T5 DISO 93 116 alteraciones sensitivas
+T6 PROC 36 43 tratada
+T7 CHEM 25 29 carb
+T8 CHEM 15 17 am
+T9 CHEM 33 37 acep
+T10 CHEM 28 31 ina
+T11 DISO 51 56 dolor
+T12 ANAT 353 385 región frontal y perior bi taria
+T13 DISO 61 66 dolor
+T14 CHEM 144 155 gabapentina
+T15 PROC 253 271 exploración física
+T16 PROC 196 209 TAC de cráneo
+T17 PROC 209 222 RMN de cráneo
+T18 PROC 188 199 tratamiento
+T19 CHEM 73 77 carb
+T20 CHEM 39 41 am
+T21 CHEM 81 85 acep
+T22 CHEM 64 67 ina
+T23 CHEM 287 300 amitriptilina
+T24 PROC 415 433 bloqueo analgésico
+T25 ANAT 25 26 n
+T26 ANAT 426 443 . infra or itario
+T27 DISO 365 379 sintomatología
+T28 DISO 379 393 dolor cervical
+T29 PROC 57 59 re
+T30 PROC 117 121 expl
+T31 PROC 121 125 orar
+T32 DISO 156 161 dolor
+T33 ANAT 1025 1057 apófisis espin osas de C 3 - C 4
+T34 PROC 397 409 radiografías
+T35 DISO 171 176 osteo
+T36 DISO 596 613 artrosis cervical
+T37 PROC 253 260 bloqueo
+T38 CHEM 334 343 lidocaína
+T39 CHEM 457 469 alcohol puro
+T40 DISO 547 561 sintomatología
+T41 PROC 721 739 tratamiento médico

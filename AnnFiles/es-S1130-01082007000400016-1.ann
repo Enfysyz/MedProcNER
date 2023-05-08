@@ -1,0 +1,66 @@
+T1 PROC 1 9 consulta
+T2 DISO 10 19 ictericia
+T3 DISO 47 70 síndrome constitucional
+T4 DISO 13 17 gran
+T5 DISO 89 111 hepatomegalia dolorosa
+T6 PROC 91 109 pruebas analíticas
+T7 DISO 169 197 leucocitosis con neutrofilia
+T8 DISO 253 289 alteración mixta del perfil hepático
+T9 PROC 9 10 f
+T10 PROC 154 171 osfatasa alcalina
+T11 PROC 31 34 GGT
+T12 PROC 34 37 ALT
+T13 PROC 37 40 AST
+T14 DISO 287 309 insuficiencia hepática
+T15 PROC 99 106 ingreso
+T16 DISO 271 289 cuadro confusional
+T17 DISO 65 69 coma
+T18 DISO 103 109 fiebre
+T19 PROC 163 172 ecografía
+T20 PROC 286 301 TAC abdominales
+T21 DISO 801 841 lesiones hepáticas ocup antes de espacio
+T22 DISO 232 243 hipoden sas
+T23 ANAT 155 162 lóbulos
+T24 ANAT 139 145 órgano
+T25 DISO 25 26 M
+T26 DISO 51 53 TS
+T27 PROC 313 325 hemocultivos
+T28 PROC 82 85 TAC
+T29 DISO 785 813 lesiones cerebrales hepático
+T30 PROC 378 391 transaminasas
+T31 DISO 451 466 hepatitis aguda
+T32 PROC 94 97 ALT
+T33 PROC 97 100 AST
+T34 PROC 100 103 LDH
+T35 DISO 749 771 insuficiencia hepática
+T36 ANAT 176 181 renal
+T37 PROC 757 778 tratamiento intensivo
+T38 PROC 1000 1027 medidas anti encefal opatía
+T39 CHEM 723 742 drogas vaso activas
+T40 CHEM 1210 1241 antibióticos de amplio espectro
+T41 ANAT 121 124 SNC
+T42 PROC 575 589 transfusión de
+T43 CHEM 967 990 plasma fresco congelado
+T44 DISO 345 353 falleció
+T45 PROC 309 316 ingreso
+T46 DISO 856 875 fallo multiorgánico
+T47 DISO 829 847 lesiones hepáticas
+T48 PROC 753 769 autopsia clínica
+T49 PROC 241 246 necro
+T50 PROC 197 201 psia
+T51 DISO 51 52 M
+T52 DISO 613 625 TS hepáticas
+T53 DISO 729 743 tumor primario
+T54 DISO 1061 1081 adenocarcinoma cecal
+T55 DISO 2431 2476 infiltración de serosa y grasa per ivas cular
+T56 DISO 1816 1849 infiltración linfática y ven ular
+T57 DISO 57 58 M
+T58 DISO 115 117 TS
+T59 ANAT 1451 1476 ganglios locorreg ionales
+T60 ANAT 1122 1141 parénquima pulmonar
+T61 DISO 1861 1892 lesiones de hepatitis isquémica
+T62 DISO 184 187 col
+T63 DISO 249 253 angi
+T64 DISO 379 385 olitis
+T65 DISO 321 326 autol
+T66 DISO 2341 2377 isis pancreática y peri pancre ática

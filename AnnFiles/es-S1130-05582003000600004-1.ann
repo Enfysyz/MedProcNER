@@ -1,0 +1,55 @@
+T1 DISO 1 17 asimetría facial
+T2 DISO 8 15 aumento
+T3 ANAT 9 13 ario
+T4 DISO 34 45 traumáticos
+T5 PROC 49 61 examen bucal
+T6 DISO 16 19 des
+T7 DISO 19 22 den
+T8 DISO 29 33 tada
+T9 ANAT 81 91 mandibular
+T10 DISO 37 41 masa
+T11 ANAT 191 210 cortical vestibular
+T12 ANAT 78 85 lingual
+T13 ANAT 73 79 mucosa
+T14 DISO 40 43 tel
+T15 DISO 43 46 ang
+T16 DISO 121 129 ectasias
+T17 PROC 145 154 palpación
+T18 DISO 188 199 crepitación
+T19 ANAT 343 362 cortical vestibular
+T20 DISO 210 221 perforación
+T21 ANAT 141 148 lingual
+T22 PROC 568 595 examen neurológico objetivo
+T23 DISO 463 484 compromiso del nervio
+T24 PROC 438 457 examen por imágenes
+T25 DISO 529 551 lesión radi ol áº cida
+T26 DISO 151 157 lesión
+T27 ANAT 79 82 pre
+T28 ANAT 1000 1037 mol ares izquierdos incis iva derecha
+T29 ANAT 449 465 basal mandibular
+T30 ANAT 755 781 conducto alveolar inferior
+T31 PROC 271 280 protocolo
+T32 PROC 342 353 tratamiento
+T33 DISO 33 34 L
+T34 DISO 67 69 CG
+T35 CHEM 375 386 corticoides
+T36 PROC 386 397 tratamiento
+T37 DISO 217 223 lesión
+T38 ANAT 593 609 corticales óseas
+T39 PROC 533 547 infiltraciones
+T40 PROC 79 81 en
+T41 PROC 161 165 ucle
+T42 PROC 698 715 ación quiráºrgica
+T43 PROC 715 732 anestesia general
+T44 DISO 259 265 lesión
+T45 DISO 1233 1261 lesión sangr ante , fri able
+T46 DISO 46 47 L
+T47 DISO 461 471 CG volumen
+T48 ANAT 189 193 óseo
+T49 ANAT 193 197 ósea
+T50 PROC 1177 1201 remodelación quiráºrgica
+T51 DISO 301 307 lesión
+T52 PROC 562 573 tratamiento
+T53 PROC 1249 1273 remodelación quiráºrgica
+T54 ANAT 319 325 facial
+T55 ANAT 1351 1376 reborde alveolar inferior

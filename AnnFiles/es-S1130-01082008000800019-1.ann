@@ -1,0 +1,49 @@
+T1 DISO 1 17 síndrome de Down
+T2 DISO 15 29 retraso mental
+T3 DISO 45 67 dolor abdominal difuso
+T4 DISO 61 81 distensión abdominal
+T5 DISO 57 71 estreá±imiento
+T6 DISO 6 7 v
+T7 DISO 13 15 ól
+T8 DISO 92 105 vulo gástrico
+T9 PROC 185 208 intervenido de urgencia
+T10 PROC 55 61 gastro
+T11 PROC 171 188 pexia quiráºrgica
+T12 PROC 166 181 acto operatorio
+T13 DISO 37 40 dol
+T14 DISO 40 43 ico
+T15 DISO 43 46 col
+T16 DISO 31 33 on
+T17 PROC 209 222 procedimiento
+T18 PROC 307 325 exploración física
+T19 DISO 181 191 distensión
+T20 DISO 77 81 timp
+T21 DISO 361 379 anismo abdominales
+T22 DISO 463 485 dolor abdominal difuso
+T23 PROC 265 277 tacto rectal
+T24 ANAT 116 121 heces
+T25 ANAT 337 351 ampolla rectal
+T26 PROC 226 235 hemograma
+T27 PROC 261 271 bioquímica
+T28 PROC 784 813 radiografía simple de abdomen
+T29 DISO 477 494 dilatación masiva
+T30 ANAT 146 151 colon
+T31 PROC 751 776 tomografía computer izada
+T32 PROC 63 65 TC
+T33 PROC 481 496 enema de b ario
+T34 CHEM 34 35 b
+T35 CHEM 137 141 ario
+T36 ANAT 561 577 ángulo esplénico
+T37 PROC 865 889 colonoscopia terapéutica
+T38 ANAT 667 685 segmento col ónico
+T39 ANAT 191 196 heces
+T40 PROC 664 681 alta hospitalaria
+T41 DISO 321 329 síntomas
+T42 PROC 534 547 diagnosticado
+T43 DISO 43 44 v
+T44 DISO 87 89 ól
+T45 DISO 1541 1576 vulo del ángulo esplénico del colon
+T46 PROC 541 553 colonoscopia
+T47 PROC 1105 1129 intervención quiráºrgica
+T48 PROC 847 865 resección segmento
+T49 ANAT 241 246 colon

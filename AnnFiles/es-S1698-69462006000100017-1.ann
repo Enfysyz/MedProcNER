@@ -1,0 +1,63 @@
+T1 DISO 1 9 fumadora
+T2 PROC 11 21 Diagnostic
+T3 PROC 7 10 ada
+T4 DISO 43 57 Cáncer de mama
+T5 PROC 29 36 tratado
+T6 PROC 36 43 cirugía
+T7 PROC 79 92 quimioterapia
+T8 PROC 85 97 radioterapia
+T9 DISO 177 199 progresión metastásica
+T10 DISO 154 171 carcinoma de mama
+T11 PROC 111 122 tratamiento
+T12 CHEM 34 37 bis
+T13 CHEM 121 131 fosfonatos
+T14 CHEM 14 15 p
+T15 CHEM 29 31 am
+T16 CHEM 31 33 id
+T17 CHEM 17 18 r
+T18 CHEM 86 91 onato
+T19 CHEM 19 20 p
+T20 CHEM 39 41 am
+T21 CHEM 41 43 id
+T22 CHEM 22 23 r
+T23 CHEM 111 116 onato
+T24 DISO 484 505 sensación de quemazón
+T25 DISO 337 351 dolor gingival
+T26 DISO 151 157 gingiv
+T27 DISO 53 55 or
+T28 DISO 163 169 ragias
+T29 DISO 421 436 lesión ulcerosa
+T30 ANAT 378 391 borde lateral
+T31 ANAT 61 63 he
+T32 ANAT 94 97 mil
+T33 ANAT 65 67 en
+T34 ANAT 364 375 gua derecha
+T35 DISO 273 281 dolorosa
+T36 PROC 106 109 exo
+T37 PROC 577 593 doncia del molar
+T38 DISO 593 609 lesión decáºbito
+T39 ANAT 267 274 lingual
+T40 ANAT 274 281 dientes
+T41 PROC 121 124 exo
+T42 PROC 247 253 doncia
+T43 DISO 1093 1119 lesión por exposición ósea
+T44 PROC 517 529 extracciones
+T45 PROC 133 136 des
+T46 PROC 181 185 brid
+T47 PROC 369 377 amientos
+T48 DISO 659 673 necrosis óseas
+T49 PROC 673 687 antibioterapia
+T50 CHEM 99 101 am
+T51 CHEM 101 103 ox
+T52 CHEM 358 365 icilina
+T53 CHEM 53 54 -
+T54 CHEM 584 595 clavulánico
+T55 CHEM 757 771 claritromicina
+T56 CHEM 661 673 clorhexidina
+T57 ANAT 897 913 molar mandibular
+T58 ANAT 286 291 hueso
+T59 ANAT 407 414 lingual
+T60 PROC 119 121 os
+T61 PROC 481 489 tectomía
+T62 PROC 1038 1055 control del dolor
+T63 DISO 869 883 lesión lingual

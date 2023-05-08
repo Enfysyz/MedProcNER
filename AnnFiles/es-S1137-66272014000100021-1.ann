@@ -1,0 +1,79 @@
+T1 PROC 1 9 consulta
+T2 PROC 11 21 valoración
+T3 DISO 45 67 alteración radiológica
+T4 ANAT 16 21 tórax
+T5 DISO 93 116 alergias medicamentosas
+T6 DISO 41 49 alérgico
+T7 CHEM 31 36 polen
+T8 DISO 22 25 tos
+T9 DISO 105 118 expectoración
+T10 DISO 100 111 sibilancias
+T11 CHEM 171 188 broncodilatadores
+T12 DISO 199 217 sensación disneica
+T13 DISO 85 92 astenia
+T14 DISO 66 71 tuber
+T15 DISO 99 106 culosos
+T16 PROC 271 289 exploración física
+T17 PROC 433 460 saturación basal de oxígeno
+T18 DISO 188 199 adenopatías
+T19 DISO 73 77 acro
+T20 DISO 39 41 pa
+T21 DISO 101 106 quias
+T22 PROC 568 595 auscultación cardiopulmonar
+T23 PROC 287 300 radiografía (
+T24 PROC 300 313 Rx ) de tórax
+T25 DISO 457 476 patrón intersticial
+T26 PROC 726 755 exploraciones complementarias
+T27 PROC 469 487 análisis de sangre
+T28 PROC 352 365 autoinmunidad
+T29 PROC 281 291 serologías
+T30 PROC 900 931 pruebas de función respiratoria
+T31 PROC 31 32 P
+T32 PROC 63 65 FR
+T33 PROC 97 100 Man
+T34 PROC 67 69 to
+T35 PROC 69 71 ux
+T36 PROC 841 865 tomografía computarizada
+T37 PROC 469 482 TC ) de tórax
+T38 ANAT 704 723 parénquima pulmonar
+T39 DISO 1255 1288 lesiones cav it adas - qu ísticas
+T40 ANAT 664 681 campos pulmonares
+T41 ANAT 241 247 campos
+T42 PROC 493 505 broncoscopia
+T43 DISO 883 904 lesiones de la mucosa
+T44 PROC 130 133 BAL
+T45 ANAT 1013 1036 lóbulo superior derecho
+T46 PROC 856 875 estudio cit ológico
+T47 PROC 323 330 bacilos
+T48 PROC 236 241 copia
+T49 PROC 145 148 sub
+T50 PROC 1275 1301 poblaciones linfoci tarias
+T51 PROC 301 307 bronco
+T52 PROC 256 261 aspir
+T53 PROC 989 1008 ados de secreciones
+T54 PROC 160 163 BAS
+T55 PROC 379 386 cultivo
+T56 CHEM 606 617 bacilo Koch
+T57 ANAT 337 343 bronco
+T58 ANAT 286 291 aspir
+T59 PROC 175 178 ado
+T60 DISO 296 301 histi
+T61 DISO 361 367 ocitos
+T62 DISO 977 993 células atípicas
+T63 PROC 1117 1135 inmunohistoquímica
+T64 CHEM 64 65 S
+T65 CHEM 193 196 100
+T66 CHEM 131 133 CD
+T67 CHEM 67 68 1
+T68 CHEM 68 69 a
+T69 PROC 1225 1243 biopsia del lóbulo
+T70 PROC 415 421 toraco
+T71 PROC 351 356 tomía
+T72 PROC 1350 1369 anatomía patológica
+T73 DISO 361 366 histi
+T74 DISO 1680 1703 ocitosis de Langer hans
+T75 DISO 1185 1201 hábito tabáquico
+T76 PROC 1501 1521 revisado en consulta
+T77 DISO 913 925 asintomático
+T78 PROC 848 859 Rx de tórax
+T79 DISO 1483 1502 patrón intersticial

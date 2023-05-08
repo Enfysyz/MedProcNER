@@ -1,0 +1,24 @@
+T1 DISO 1 14 hiperuricemia
+T2 PROC 12 23 tratamiento
+T3 CHEM 21 31 Alopurinol
+T4 PROC 22 29 ingresa
+T5 PROC 141 176 resección trans uretral de próstata
+T6 PROC 56 67 tratamiento
+T7 CHEM 19 22 Pan
+T8 CHEM 57 65 toprazol
+T9 CHEM 113 127 Ciprofloxacino
+T10 CHEM 100 111 Paracetamol
+T11 CHEM 21 23 En
+T12 CHEM 67 73 antyum
+T13 CHEM 121 131 Alopurinol
+T14 DISO 79 85 mareos
+T15 DISO 421 451 temblor componente miocl ónico
+T16 ANAT 181 193 extremidades
+T17 ANAT 97 103 tronco
+T18 CHEM 18 19 R
+T19 CHEM 55 58 ivo
+T20 CHEM 77 81 tril
+T21 PROC 221 232 tratamiento
+T22 CHEM 295 309 Ciprofloxacino
+T23 DISO 419 438 clínica miocl ónica
+T24 PROC 392 409 alta hospitalaria

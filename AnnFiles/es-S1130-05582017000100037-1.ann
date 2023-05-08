@@ -1,0 +1,41 @@
+T1 PROC 1 12 tratamiento
+T2 CHEM 18 35 antiinflamatorios
+T3 DISO 23 34 cervicalgia
+T4 DISO 70 93 alteración de la marcha
+T5 DISO 113 141 pérdida progresiva de fuerza
+T6 ANAT 61 73 extremidades
+T7 DISO 97 113 disfagia sólidos
+T8 DISO 141 161 síntomas dis ne icos
+T9 PROC 145 163 exploración física
+T10 DISO 280 311 hemiparesia espástica izquierda
+T11 DISO 51 56 hiper
+T12 DISO 34 37 ref
+T13 DISO 217 235 lexia generalizada
+T14 PROC 183 197 signo Rom berg
+T15 DISO 85 91 ataxia
+T16 PROC 46 49 RMN
+T17 DISO 497 528 engrosamiento de partes blandas
+T18 ANAT 341 361 apófisis odonto ides
+T19 DISO 523 552 estenosis del canal ra quídeo
+T20 ANAT 400 421 unión bul b omed ular
+T21 DISO 161 169 prolifer
+T22 DISO 568 595 aciones sin des mo f íticas
+T23 ANAT 23 24 C
+T24 ANAT 208 217 vía aérea
+T25 PROC 265 276 diagnóstico
+T26 DISO 601 625 enfermedad de Fores tier
+T27 PROC 677 703 cirugía por vía trans oral
+T28 PROC 244 253 resección
+T29 ANAT 365 378 arco anterior
+T30 ANAT 146 151 atlas
+T31 ANAT 601 621 apófisis odonto ides
+T32 PROC 280 289 resección
+T33 ANAT 385 397 proyecciones
+T34 ANAT 166 171 osteo
+T35 ANAT 35 36 f
+T36 ANAT 211 217 íticas
+T37 ANAT 37 38 C
+T38 ANAT 38 39 C
+T39 DISO 305 313 disfagia
+T40 DISO 430 441 hemiparesia
+T41 DISO 881 903 síntomas respiratorios

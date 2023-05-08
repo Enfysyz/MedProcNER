@@ -1,0 +1,48 @@
+T1 DISO 1 15 litiasis renal
+T2 PROC 9 17 consultó
+T3 DISO 19 28 hematuria
+T4 PROC 85 113 estudio cit ológico ser iado
+T5 ANAT 9 11 or
+T6 ANAT 21 25 inas
+T7 DISO 97 113 células atípicas
+T8 DISO 71 81 malignidad
+T9 PROC 145 163 estudios de imagen
+T10 DISO 55 61 lesión
+T11 ANAT 121 133 pelvis renal
+T12 PROC 188 205 nefrectomía total
+T13 PROC 37 40 ure
+T14 PROC 235 253 terectomía parcial
+T15 ANAT 85 91 riá±ón
+T16 ANAT 181 193 pelvis renal
+T17 DISO 497 528 lesión irregular y hemorrágicas
+T18 DISO 103 109 lesión
+T19 ANAT 181 191 parénquima
+T20 ANAT 191 201 seno renal
+T21 ANAT 421 442 sistema pielocalicial
+T22 ANAT 148 155 corteza
+T23 ANAT 287 300 polos renales
+T24 PROC 438 457 estudio histológico
+T25 DISO 145 151 lesión
+T26 ANAT 401 417 parénquima renal
+T27 ANAT 443 460 matriz mu cin osa
+T28 ANAT 190 197 tumoral
+T29 ANAT 533 552 células neoplásicas
+T30 ANAT 494 511 células tumorales
+T31 ANAT 241 249 náºcleos
+T32 ANAT 249 257 citoplas
+T33 ANAT 545 562 matriz mu cin osa
+T34 ANAT 298 307 glandular
+T35 ANAT 239 246 nuclear
+T36 ANAT 596 613 células tumorales
+T37 CHEM 109 112 EMA
+T38 CHEM 75 77 CK
+T39 CHEM 77 79 CK
+T40 CHEM 79 81 20
+T41 ANAT 361 370 urotelial
+T42 DISO 370 379 neoplasia
+T43 PROC 463 474 diagnóstico
+T44 DISO 1850 1893 carcinoma de células trans ici onales grado
+T45 ANAT 89 91 mu
+T46 ANAT 136 139 osa
+T47 ANAT 553 565 pelvis renal
+T48 DISO 847 865 carcinoma colo ide

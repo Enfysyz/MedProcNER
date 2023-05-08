@@ -1,0 +1,49 @@
+T1 PROC 1 9 consulta
+T2 PROC 9 17 atención
+T3 DISO 15 22 astenia
+T4 DISO 55 73 mareo inespecífico
+T5 DISO 53 66 epigastralgia
+T6 DISO 21 25 rino
+T7 DISO 133 155 conjuntivitis alérgica
+T8 PROC 78 89 tratamiento
+T9 CHEM 9 10 e
+T10 CHEM 28 31 bas
+T11 CHEM 41 45 tina
+T12 DISO 199 217 alergia estacional
+T13 PROC 133 144 exploración
+T14 DISO 326 351 palidez de piel y mucosas
+T15 PROC 127 136 analítica
+T16 PROC 166 177 hemoglobina
+T17 PROC 417 443 volumen corpus cular medio
+T18 ANAT 171 181 leucocitos
+T19 PROC 163 172 plaquetas
+T20 PROC 324 341 bilirrubina total
+T21 PROC 141 148 asparta
+T22 PROC 400 419 to aminotransferasa
+T23 PROC 67 70 AST
+T24 PROC 47 49 al
+T25 PROC 529 551 anina aminotransferasa
+T26 PROC 76 79 ALT
+T27 PROC 573 595 lactato deshidrogenasa
+T28 PROC 82 85 LDH
+T29 PROC 253 262 analítica
+T30 PROC 465 481 frotis sanguíneo
+T31 DISO 61 63 an
+T32 DISO 63 65 is
+T33 DISO 1089 1123 ocitosis de tendencia macro cítica
+T34 DISO 166 171 hiper
+T35 DISO 103 106 seg
+T36 DISO 841 865 mentación de neutrófilos
+T37 ANAT 37 38 d
+T38 ANAT 149 153 acri
+T39 ANAT 229 235 ocitos
+T40 PROC 703 721 estudio del hierro
+T41 PROC 921 944 niveles de ácido fólico
+T42 PROC 1272 1303 niveles de vitamina B 12 sérica
+T43 PROC 505 517 homocisteína
+T44 PROC 861 881 niveles de gas trina
+T45 PROC 1937 1981 tratamiento con inyecciones intra musculares
+T46 CHEM 586 599 vitamina B 12
+T47 PROC 1105 1129 terapia de mantenimiento
+T48 PROC 424 433 hemograma
+T49 PROC 529 540 tratamiento

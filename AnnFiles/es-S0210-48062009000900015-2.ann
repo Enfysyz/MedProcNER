@@ -1,0 +1,61 @@
+T1 DISO 1 25 diabetes mellitus tipo 2
+T2 DISO 32 63 hipertensión arterial sistémica
+T3 DISO 29 43 hipotiroidismo
+T4 PROC 43 57 diagnosticados
+T5 DISO 109 136 insuficiencia renal crónica
+T6 PROC 36 43 tratada
+T7 PROC 73 85 hemodiálisis
+T8 DISO 127 145 dolor en el glande
+T9 DISO 249 280 síntomas urinarios irrita tivos
+T10 DISO 37 41 hipo
+T11 DISO 31 34 cro
+T12 DISO 12 13 m
+T13 DISO 25 27 ía
+T14 ANAT 79 85 glande
+T15 DISO 225 241 lesión viol ácea
+T16 ANAT 166 177 cara dorsal
+T17 ANAT 97 103 glande
+T18 DISO 324 343 secreción purulenta
+T19 PROC 325 343 exploración física
+T20 ANAT 115 121 glande
+T21 DISO 81 85 hipo
+T22 DISO 169 177 tér mico
+T23 DISO 177 185 necrosis
+T24 ANAT 116 121 dorso
+T25 DISO 625 651 secreción purulenta y tida
+T26 PROC 51 53 bi
+T27 PROC 417 433 ometría hemática
+T28 PROC 298 309 hemoglobina
+T29 ANAT 281 291 leucocitos
+T30 PROC 262 271 plaquetas
+T31 PROC 511 528 química sanguínea
+T32 PROC 218 225 glucosa
+T33 PROC 321 331 creatinina
+T34 PROC 34 35 B
+T35 PROC 69 71 UN
+T36 PROC 946 973 pruebas de función hepática
+T37 PROC 37 38 T
+T38 PROC 75 77 GO
+T39 PROC 77 79 TG
+T40 PROC 40 41 P
+T41 PROC 721 739 fosfatasa alcalina
+T42 PROC 83 85 DH
+T43 PROC 43 44 L
+T44 PROC 861 881 electrolitos séricos
+T45 PROC 221 226 sodio
+T46 PROC 316 323 potasio
+T47 PROC 231 236 cloro
+T48 PROC 283 289 calcio
+T49 PROC 337 344 fósforo
+T50 PROC 148 151 fal
+T51 PROC 751 766 ectomía parcial
+T52 DISO 715 729 complicaciones
+T53 PROC 989 1008 análisis patológico
+T54 DISO 425 433 necrosis
+T55 DISO 1081 1101 proceso inflamatorio
+T56 DISO 386 393 absceso
+T57 DISO 281 286 ulcer
+T58 DISO 172 175 ado
+T59 DISO 407 414 arterio
+T60 DISO 1358 1381 esclerosis obliter ante
+T61 PROC 601 611 vigilancia

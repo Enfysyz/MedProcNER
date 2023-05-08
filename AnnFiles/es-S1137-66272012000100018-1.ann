@@ -1,0 +1,66 @@
+T1 PROC 1 9 valorada
+T2 PROC 12 23 diagnóstico
+T3 DISO 19 28 epilepsia
+T4 DISO 55 73 migraá±a menstrual
+T5 DISO 85 106 pérdida de conciencia
+T6 DISO 91 109 sensación de mareo
+T7 DISO 61 71 sudoración
+T8 DISO 64 73 acáºfenos
+T9 PROC 89 100 tratamiento
+T10 CHEM 136 151 ácido valproico
+T11 CHEM 11 12 V
+T12 CHEM 23 25 PA
+T13 DISO 217 235 migraá±a menstrual
+T14 DISO 235 253 cortejo vegetativo
+T15 DISO 99 106 vómitos
+T16 DISO 271 289 crisis de migraá±a
+T17 DISO 353 375 pérdidas de conciencia
+T18 DISO 392 415 convulsión generalizada
+T19 PROC 145 153 valorada
+T20 PROC 381 401 electroencefalograma
+T21 PROC 61 64 EEG
+T22 PROC 463 485 resonancia magnética (
+T23 PROC 287 300 RM ) cerebral
+T24 PROC 254 265 diagnóstico
+T25 DISO 217 226 epilepsia
+T26 PROC 276 287 tratamiento
+T27 CHEM 27 28 z
+T28 CHEM 109 113 onis
+T29 CHEM 141 146 amida
+T30 CHEM 30 31 Z
+T31 CHEM 61 63 NS
+T32 DISO 652 673 pérdida de conciencia
+T33 DISO 289 298 acáºfenos
+T34 DISO 430 443 palpitaciones
+T35 DISO 987 1016 sensación de desvan ecimiento
+T36 DISO 316 325 debilidad
+T37 PROC 109 112 EEG
+T38 DISO 186 191 ondas
+T39 PROC 609 625 hiperventilación
+T40 PROC 274 281 estudio
+T41 PROC 1001 1026 test de mesa bas cul ante
+T42 DISO 534 547 mareo intenso
+T43 DISO 547 560 palpitaciones
+T44 DISO 1076 1101 bloqueo de rama izquierda
+T45 DISO 45 46 B
+T46 DISO 91 93 RI
+T47 PROC 599 612 diagnosticada
+T48 DISO 2022 2065 trastorno de la conducción intraventricular
+T49 PROC 2833 2892 implantó un Holter - electro cardiograma ( ECG ) subcutáneo
+T50 CHEM 50 51 Z
+T51 CHEM 101 103 NS
+T52 DISO 460 469 episodios
+T53 DISO 1093 1114 pérdida de conciencia
+T54 DISO 319 325 estrés
+T55 DISO 973 991 cortejo vegetativo
+T56 DISO 1211 1233 incontinencia urinaria
+T57 DISO 393 400 astenia
+T58 DISO 1711 1741 sensación de ardor epigástrico
+T59 DISO 1741 1771 mordedura lateral de la lengua
+T60 PROC 1417 1441 lectura del Holter - ECG
+T61 DISO 181 184 BRI
+T62 DISO 123 125 in
+T63 DISO 1241 1261 continencia urinaria
+T64 DISO 1702 1729 mordedura lateral de lengua
+T65 PROC 1921 1951 monitorización con vídeo - EEG
+T66 PROC 1691 1717 registro simultáneo de ECG

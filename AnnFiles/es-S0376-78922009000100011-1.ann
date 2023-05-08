@@ -1,0 +1,89 @@
+T1 PROC 1 12 tratamiento
+T2 DISO 7 13 lesión
+T3 DISO 47 70 lesión p eno esc ro tal
+T4 PROC 28 37 ingresado
+T5 PROC 45 56 diagnóstico
+T6 DISO 86 103 sarcoma infectado
+T7 DISO 25 29 linf
+T8 DISO 15 17 og
+T9 DISO 25 28 ran
+T10 DISO 127 141 uloma ven éreo
+T11 PROC 51 56 visto
+T12 PROC 78 85 tratado
+T13 PROC 109 118 ingresado
+T14 PROC 92 99 tratado
+T15 CHEM 29 31 Me
+T16 CHEM 151 161 tronidazol
+T17 CHEM 49 52 Cef
+T18 CHEM 137 145 tazidima
+T19 PROC 217 229 antibiograma
+T20 CHEM 58 61 Ami
+T21 CHEM 121 127 kacina
+T22 CHEM 64 67 Tri
+T23 CHEM 111 116 metro
+T24 CHEM 93 97 pina
+T25 CHEM 73 76 Sul
+T26 CHEM 26 27 f
+T27 CHEM 261 271 ametoxazol
+T28 CHEM 55 57 Ce
+T29 CHEM 225 233 fotaxima
+T30 PROC 320 331 diagnóstico
+T31 PROC 211 218 biopsia
+T32 DISO 1520 1569 carcinoma ver ru gos o de Bus c ke - Lo w enstein
+T33 ANAT 129 133 pene
+T34 DISO 859 885 lesión tumoral ex of ítica
+T35 DISO 341 351 ulceración
+T36 ANAT 876 901 surco bal ano pre pu cial
+T37 ANAT 253 260 tejidos
+T38 ANAT 149 153 pene
+T39 ANAT 153 157 piel
+T40 ANAT 118 121 dar
+T41 ANAT 121 124 tos
+T42 ANAT 616 631 fascia de B uck
+T43 ANAT 85 87 al
+T44 ANAT 87 89 bu
+T45 ANAT 45 46 g
+T46 ANAT 181 185 ínea
+T47 ANAT 875 894 cuerpos caver nosos
+T48 ANAT 283 289 uretra
+T49 ANAT 241 246 espon
+T50 ANAT 197 201 josa
+T51 ANAT 301 307 glande
+T52 ANAT 919 937 tejidos pu bi anos
+T53 ANAT 365 372 escroto
+T54 ANAT 478 487 contenido
+T55 ANAT 379 386 tejidos
+T56 ANAT 386 393 tejidos
+T57 ANAT 393 400 tejidos
+T58 DISO 3136 3191 masa def orme , blanda , fun gos a , ulcer ada ol iente
+T59 DISO 291 296 sangr
+T60 DISO 237 241 ante
+T61 ANAT 1141 1160 tejidos periféricos
+T62 DISO 306 311 edema
+T63 DISO 435 442 tizados
+T64 DISO 3214 3265 adenopatías bilaterales il íacas e inguinales uloso
+T65 ANAT 385 391 uretra
+T66 DISO 651 661 destru ida
+T67 PROC 1123 1140 análisis clínicos
+T68 PROC 738 749 serológicos
+T69 DISO 273 277 bruc
+T70 DISO 415 421 elosis
+T71 DISO 211 214 láº
+T72 DISO 143 145 es
+T73 DISO 217 220 VIH
+T74 PROC 1680 1703 cultivo bacteri ológico
+T75 PROC 1851 1876 estudio anatomopatológico
+T76 PROC 526 533 biopsia
+T77 DISO 381 386 condi
+T78 DISO 78 79 l
+T79 DISO 3901 3951 oma acum inado gigante de Bus ch ke - Lo w enstein
+T80 PROC 2608 2641 Tomografía A xial Compu ter izada
+T81 PROC 241 244 TAC
+T82 PROC 1459 1477 cortes ales craneo
+T83 ANAT 1149 1163 borde superior
+T84 ANAT 1495 1513 sín fisis pu biana
+T85 ANAT 1093 1106 raíz del pene
+T86 DISO 1956 1979 adenopatías bilaterales
+T87 ANAT 2925 2959 cadenas ili acas interna y externa
+T88 ANAT 1567 1585 cadenas inguinales
+T89 DISO 969 980 adenopatías

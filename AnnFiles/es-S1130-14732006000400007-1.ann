@@ -1,0 +1,109 @@
+T1 DISO 1 8 fumador
+T2 DISO 8 15 bebedor
+T3 DISO 17 25 alérgico
+T4 CHEM 34 45 penicilinas
+T5 DISO 69 86 sinusitis maxilar
+T6 DISO 16 19 pan
+T7 DISO 19 22 sin
+T8 DISO 15 17 us
+T9 DISO 33 37 itis
+T10 PROC 118 131 diagnosticado
+T11 DISO 41 45 plas
+T12 DISO 23 25 mo
+T13 DISO 73 79 citoma
+T14 ANAT 157 169 seno frontal
+T15 PROC 379 406 biopsia por punción sinusal
+T16 PROC 301 321 exéresis quiráºrgica
+T17 PROC 129 137 incisión
+T18 ANAT 69 73 ceja
+T19 PROC 667 704 osteotomía de pared anterior del seno
+T20 ANAT 286 301 cavidad sinusal
+T21 PROC 521 547 análisis anatomopatológico
+T22 DISO 85 89 plas
+T23 DISO 45 47 mo
+T24 DISO 139 145 citoma
+T25 PROC 577 601 análisis histopatológico
+T26 ANAT 351 365 mucosa sinusal
+T27 PROC 131 136 extir
+T28 PROC 109 113 pada
+T29 DISO 85 88 muc
+T30 DISO 610 631 ocele abs ces ificado
+T31 DISO 91 94 muc
+T32 DISO 125 129 opio
+T33 DISO 129 133 cele
+T34 PROC 859 885 tratamiento complementario
+T35 PROC 545 561 gammagrafía ósea
+T36 DISO 666 685 depósito patológico
+T37 CHEM 109 112 tra
+T38 CHEM 186 191 zador
+T39 ANAT 457 469 seno maxilar
+T40 ANAT 859 881 huesos propios nasales
+T41 ANAT 601 616 senos frontales
+T42 DISO 288 295 mieloma
+T43 PROC 547 560 quimioterapia
+T44 CHEM 130 133 vin
+T45 CHEM 45 46 c
+T46 CHEM 316 323 ristina
+T47 CHEM 93 95 ad
+T48 CHEM 95 97 ri
+T49 CHEM 337 344 omicina
+T50 CHEM 589 601 dexametasona
+T51 CHEM 701 715 ciclofosfamida
+T52 CHEM 52 53 e
+T53 CHEM 157 160 top
+T54 CHEM 266 271 óxido
+T55 CHEM 649 661 dexametasona
+T56 CHEM 166 169 Are
+T57 CHEM 169 172 dia
+T58 CHEM 799 813 ciclofosfamida
+T59 CHEM 117 119 ad
+T60 CHEM 119 121 ri
+T61 CHEM 421 428 omicina
+T62 CHEM 733 745 dexametasona
+T63 CHEM 187 190 Are
+T64 CHEM 190 193 dia
+T65 PROC 1665 1691 tratamiento quimioterápico
+T66 DISO 651 661 tumoración
+T67 ANAT 925 939 región frontal
+T68 DISO 403 409 signos
+T69 DISO 1157 1174 inflamación local
+T70 PROC 760 771 exploración
+T71 DISO 1191 1208 tumoración blanda
+T72 ANAT 498 505 frontal
+T73 ANAT 289 293 ceja
+T74 DISO 512 519 cefalea
+T75 DISO 445 451 fiebre
+T76 PROC 601 609 muestras
+T77 PROC 533 540 cultivo
+T78 PROC 925 937 antibiograma
+T79 PROC 937 949 Rx de cráneo
+T80 ANAT 1028 1041 hueso frontal
+T81 PROC 161 163 TC
+T82 PROC 163 165 RM
+T83 DISO 1067 1080 engrosamiento
+T84 ANAT 1080 1093 hueso frontal
+T85 ANAT 757 766 cavidades
+T86 DISO 1021 1033 área lí tica
+T87 ANAT 345 349 lado
+T88 DISO 1132 1145 osteomielitis
+T89 DISO 793 802 secuestro
+T90 ANAT 624 631 frontal
+T91 PROC 901 911 valoración
+T92 PROC 2094 2117 tratamiento quiráºrgico
+T93 PROC 737 745 incisión
+T94 ANAT 1582 1599 región gl abel ar
+T95 DISO 377 381 fist
+T96 ANAT 666 673 colgajo
+T97 ANAT 1153 1165 seno frontal
+T98 ANAT 1262 1275 tabla externa
+T99 PROC 785 793 limpieza
+T100 PROC 199 201 le
+T101 PROC 501 506 grado
+T102 PROC 405 409 fres
+T103 ANAT 715 722 paredes
+T104 ANAT 413 417 seno
+T105 ANAT 729 736 injerto
+T106 ANAT 2626 2651 hueso cortico es pon joso
+T107 ANAT 1485 1499 tibia proximal
+T108 CHEM 1178 1189 concentrado
+T109 CHEM 5077 5124 fracción rica de factores de crecimiento de PRP

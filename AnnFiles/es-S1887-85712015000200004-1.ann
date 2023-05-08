@@ -1,0 +1,73 @@
+T1 DISO 1 9 atentado
+T2 DISO 20 39 traumatismo abierto
+T3 ANAT 9 13 codo
+T4 ANAT 22 29 humeral
+T5 CHEM 21 26 hemos
+T6 CHEM 31 37 tático
+T7 CHEM 115 134 ácido tran ex ámico
+T8 PROC 36 41 evacu
+T9 PROC 25 28 ado
+T10 DISO 55 61 lesión
+T11 PROC 191 210 valoración primaria
+T12 DISO 67 73 herido
+T13 PROC 49 53 SatO
+T14 PROC 14 15 2
+T15 PROC 267 286 frecuencia cardíaca
+T16 PROC 421 449 tensión arterial no invasiva
+T17 PROC 273 290 control del dolor
+T18 PROC 52 55 EVA
+T19 CHEM 163 172 midazolam
+T20 CHEM 153 161 ketamina
+T21 DISO 461 484 herida de arma de fuego
+T22 ANAT 85 89 codo
+T23 PROC 243 254 radiografía
+T24 DISO 829 865 fractura distal de háºmero izquierdo
+T25 DISO 937 976 fractura proximal de c áºbito izquierdo
+T26 DISO 901 937 fractura proximal de radio izquierdo
+T27 PROC 625 649 intervención quiráºrgica
+T28 PROC 379 393 desbridamiento
+T29 PROC 225 233 limpieza
+T30 PROC 929 961 extracción las es quir las óseas
+T31 PROC 991 1024 colocación de un fij ador externo
+T32 ANAT 156 161 brazo
+T33 PROC 545 562 anestesia general
+T34 PROC 793 817 estudio pre an estés ico
+T35 PROC 647 666 analítica sanguínea
+T36 PROC 106 109 ECG
+T37 PROC 937 963 valoración de la vía aérea
+T38 PROC 889 913 consentimiento informado
+T39 PROC 533 547 monitorización
+T40 PROC 118 121 Sat
+T41 PROC 41 42 O
+T42 PROC 493 505 2 periférica
+T43 PROC 799 818 frecuencia cardíaca
+T44 PROC 1205 1233 tensión arterial no invasiva
+T45 PROC 133 136 cap
+T46 PROC 46 47 n
+T47 PROC 323 330 ografía
+T48 PROC 1646 1681 análisis bi es pec tral hemoglobina
+T49 ANAT 289 295 orofar
+T50 ANAT 246 251 íngeo
+T51 PROC 151 154 pre
+T52 PROC 256 261 medic
+T53 PROC 53 54 ó
+T54 DISO 319 325 herido
+T55 CHEM 487 496 midazolam
+T56 CHEM 441 449 ketamina
+T57 PROC 225 229 desn
+T58 PROC 229 233 itro
+T59 PROC 175 178 gen
+T60 PROC 414 421 ización
+T61 PROC 181 184 FiO
+T62 PROC 62 63 2
+T63 PROC 249 253 SatO
+T64 PROC 64 65 2
+T65 PROC 2753 2796 inducción de anestésica de secuencia rápida
+T66 CHEM 586 595 fentanilo
+T67 CHEM 529 537 propofol
+T68 CHEM 135 137 ro
+T69 CHEM 205 208 cur
+T70 CHEM 277 281 onio
+T71 PROC 561 569 laringos
+T72 PROC 356 361 copia
+T73 ANAT 649 658 vía aérea

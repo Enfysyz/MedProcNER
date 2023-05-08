@@ -1,0 +1,68 @@
+T1 DISO 1 26 infecciones respiratorias
+T2 DISO 9 17 alergias
+T3 DISO 31 46 hábitos tóxicos
+T4 DISO 31 41 hipertensa
+T5 PROC 45 56 tratamiento
+T6 CHEM 51 61 amlodipino
+T7 DISO 85 99 hipotiroidismo
+T8 PROC 50 57 tratado
+T9 CHEM 97 109 levotiroxina
+T10 PROC 28 31 His
+T11 PROC 31 34 ter
+T12 PROC 56 61 ectom
+T13 PROC 337 365 izada con doble anex ectomía
+T14 DISO 326 351 infecciones respiratorias
+T15 DISO 43 46 tos
+T16 DISO 91 97 disnea
+T17 DISO 177 188 sibilancias
+T18 DISO 392 415 expectoración purulenta
+T19 DISO 145 153 ortopnea
+T20 PROC 343 361 exploración física
+T21 PROC 421 442 auscultación cardíaca
+T22 PROC 442 463 auscultación pulmonar
+T23 DISO 133 139 roncus
+T24 ANAT 277 289 extremidades
+T25 DISO 553 576 edemas perim ale olares
+T26 PROC 301 313 espirometría
+T27 PROC 79 82 FVC
+T28 PROC 82 85 FEV
+T29 PROC 29 30 1
+T30 PROC 30 31 P
+T31 PROC 61 63 EF
+T32 PROC 94 97 FEV
+T33 PROC 33 34 1
+T34 PROC 34 35 /
+T35 PROC 35 36 F
+T36 PROC 71 73 VC
+T37 PROC 865 889 prueba broncodila tadora
+T38 PROC 963 989 difusión pulmonar de gases
+T39 PROC 761 781 radiografía de tórax
+T40 DISO 79 81 ci
+T41 DISO 81 83 fo
+T42 DISO 206 211 escol
+T43 DISO 211 216 iosis
+T44 PROC 1033 1057 tomografía computarizada
+T45 DISO 353 361 enfisema
+T46 DISO 676 691 bronquiectasias
+T47 ANAT 231 236 bases
+T48 ANAT 565 577 lóbulo medio
+T49 PROC 1297 1324 estudio analítico sanguíneo
+T50 DISO 736 751 déficit de A AT
+T51 PROC 251 256 fibro
+T52 PROC 205 209 bron
+T53 PROC 417 425 coscopia
+T54 DISO 107 109 AT
+T55 PROC 541 551 Diagnostic
+T56 PROC 166 169 ada
+T57 DISO 225 229 asma
+T58 CHEM 58 59 A
+T59 CHEM 117 119 AT
+T60 PROC 473 481 instaura
+T61 PROC 661 672 tratamiento
+T62 DISO 245 249 asma
+T63 PROC 1427 1450 tratamiento sustitutivo
+T64 CHEM 64 65 D
+T65 CHEM 65 66 -
+T66 CHEM 66 67 A
+T67 CHEM 133 135 AT
+T68 ANAT 537 545 pulmonar

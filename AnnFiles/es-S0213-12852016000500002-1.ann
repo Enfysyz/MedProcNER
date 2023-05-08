@@ -1,0 +1,86 @@
+T1 PROC 1 9 consulta
+T2 DISO 19 37 aumento de volumen
+T3 ANAT 19 28 mandíbula
+T4 DISO 37 49 asintomático
+T5 ANAT 25 31 dental
+T6 ANAT 31 37 dental
+T7 ANAT 61 71 vestibular
+T8 ANAT 43 49 cuerpo
+T9 ANAT 25 28 sín
+T10 ANAT 46 51 fisis
+T11 ANAT 51 56 tabla
+T12 ANAT 34 37 can
+T13 ANAT 37 40 ino
+T14 ANAT 40 43 bic
+T15 ANAT 43 46 áºs
+T16 ANAT 31 33 pi
+T17 ANAT 225 239 des inferiores
+T18 PROC 375 397 radiografía panorámica
+T19 DISO 397 419 imagen radi ol áº cida
+T20 ANAT 172 181 diente 46
+T21 DISO 61 64 riz
+T22 DISO 127 133 ólisis
+T23 ANAT 265 277 raíz mes ial
+T24 ANAT 47 49 46
+T25 ANAT 97 101 raíz
+T26 ANAT 51 53 45
+T27 DISO 391 406 necrosis pulpar
+T28 ANAT 190 197 dientes
+T29 ANAT 197 204 dientes
+T30 ANAT 755 781 conducto dentario inferior
+T31 ANAT 571 590 nervio ment on iano
+T32 PROC 342 353 tratamiento
+T33 PROC 769 793 consentimiento informado
+T34 PROC 232 239 biopsia
+T35 PROC 1157 1191 aspirado produciendo un líquido ci
+T36 PROC 806 829 estudio histopatológico
+T37 ANAT 577 593 tejido conectivo
+T38 ANAT 593 609 células gigantes
+T39 CHEM 343 352 queratina
+T40 ANAT 625 641 tejido epitelial
+T41 PROC 441 452 diagnóstico
+T42 DISO 1518 1555 tumor odonto génico querato qu ístico
+T43 CHEM 379 388 queratina
+T44 PROC 560 573 procedimiento
+T45 DISO 265 271 lesión
+T46 DISO 226 231 sobre
+T47 DISO 231 236 infec
+T48 PROC 612 625 hospitalizado
+T49 PROC 337 344 biopsia
+T50 PROC 834 851 anestesia general
+T51 ANAT 351 358 cápsula
+T52 ANAT 817 833 tejido conectivo
+T53 DISO 1197 1220 infiltrado inflamatorio
+T54 ANAT 849 865 tejido epitelial
+T55 ANAT 379 386 células
+T56 PROC 606 617 diagnóstico
+T57 DISO 1625 1654 quiste radicular inflamatorio
+T58 PROC 628 639 diagnóstico
+T59 DISO 349 355 lesión
+T60 PROC 709 721 intervención
+T61 DISO 2221 2258 tumor odonto génico querato qu ístico
+T62 DISO 123 125 ex
+T63 DISO 311 316 quera
+T64 DISO 127 129 to
+T65 DISO 129 131 qu
+T66 DISO 261 265 iste
+T67 PROC 727 738 diagnóstico
+T68 PROC 1542 1565 tratamiento quiráºrgico
+T69 PROC 273 277 endo
+T70 PROC 208 211 don
+T71 PROC 281 285 cias
+T72 ANAT 498 505 dientes
+T73 PROC 1801 1826 procedimiento quiráºrgico
+T74 ANAT 147 149 áp
+T75 ANAT 963 976 ices dentales
+T76 ANAT 526 533 cavidad
+T77 PROC 305 309 cure
+T78 PROC 309 313 taje
+T79 PROC 781 791 amputación
+T80 ANAT 2292 2321 paquetes vasculares pulpar es
+T81 PROC 881 892 diagnóstico
+T82 DISO 487 493 lesión
+T83 PROC 1969 1993 tratamiento endodón tico
+T84 PROC 250 253 sel
+T85 PROC 253 256 lar
+T86 ANAT 766 775 conductos

@@ -1,0 +1,67 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 36 71 glaucoma primario de ángulo abierto
+T3 PROC 23 34 intervenido
+T4 PROC 19 25 trabec
+T5 PROC 9 11 ul
+T6 PROC 36 43 ectomía
+T7 ANAT 25 29 ojos
+T8 PROC 120 137 control tensional
+T9 PROC 169 190 intervenido cataratas
+T10 PROC 28 31 fac
+T11 PROC 11 12 o
+T12 PROC 56 61 emuls
+T13 PROC 109 118 ificación
+T14 PROC 378 407 implante de lente intraocular
+T15 ANAT 225 241 cámara posterior
+T16 DISO 211 225 complicaciones
+T17 ANAT 273 290 cápsula posterior
+T18 PROC 239 253 agudeza visual
+T19 PROC 37 39 AV
+T20 PROC 343 361 cirugía fil trante
+T21 PROC 241 253 campo visual
+T22 PROC 400 419 presión intraocular
+T23 PROC 243 254 tratamiento
+T24 CHEM 70 73 tra
+T25 CHEM 49 51 vo
+T26 CHEM 101 105 pros
+T27 CHEM 27 28 t
+T28 CHEM 82 85 Tra
+T29 CHEM 57 59 va
+T30 CHEM 88 91 tan
+T31 PROC 331 342 tratamiento
+T32 PROC 342 353 exploración
+T33 DISO 705 727 edema macular quístico
+T34 PROC 67 69 AV
+T35 PROC 375 386 diagnóstico
+T36 PROC 106 109 OCT
+T37 PROC 109 112 OCT
+T38 ANAT 186 191 retin
+T39 ANAT 153 157 iano
+T40 ANAT 79 81 fo
+T41 ANAT 161 165 veal
+T42 CHEM 124 127 tra
+T43 CHEM 85 87 vo
+T44 CHEM 173 177 pros
+T45 CHEM 45 46 t
+T46 PROC 496 507 tratamiento
+T47 CHEM 231 236 aceta
+T48 CHEM 142 145 zol
+T49 CHEM 241 246 amida
+T50 CHEM 148 151 ede
+T51 CHEM 151 154 mox
+T52 CHEM 103 105 ke
+T53 CHEM 157 160 tor
+T54 CHEM 107 109 ol
+T55 CHEM 163 166 aco
+T56 CHEM 166 169 mal
+T57 CHEM 113 115 ea
+T58 CHEM 856 871 to de ti mol ol
+T59 CHEM 233 237 timo
+T60 CHEM 60 61 f
+T61 CHEM 181 184 tol
+T62 PROC 123 125 AV
+T63 PROC 187 190 OCT
+T64 ANAT 442 449 macular
+T65 DISO 449 456 quistes
+T66 ANAT 131 133 fo
+T67 ANAT 265 269 veal

@@ -1,0 +1,30 @@
+T1 PROC 1 8 ingresa
+T2 PROC 8 15 cirugía
+T3 DISO 47 70 adenocarcinoma gástrico
+T4 PROC 82 109 quimioterapia ne od yuvante
+T5 PROC 89 111 gastrectomía sub total
+T6 PROC 301 361 reconstrucción mediante gastro y ey un ostomía en Y de Ro ux
+T7 DISO 43 50 alergia
+T8 CHEM 71 81 vitamina B
+T9 DISO 337 379 fístula de la anastomosis gastro y ey unal
+T10 DISO 73 81 exterior
+T11 DISO 71 78 ización
+T12 ANAT 78 85 cutánea
+T13 PROC 265 287 nutrición parenteral (
+T14 PROC 14 15 N
+T15 PROC 29 31 PT
+T16 CHEM 106 113 tiamina
+T17 DISO 337 358 deterioro neurológico
+T18 DISO 239 253 desorientación
+T19 DISO 73 77 brad
+T20 DISO 20 21 i
+T21 DISO 141 148 psiquia
+T22 DISO 190 199 tendencia
+T23 DISO 199 208 nistagmus
+T24 DISO 116 121 oftal
+T25 DISO 49 51 mo
+T26 DISO 176 183 paresia
+T27 PROC 1119 1162 ingreso en la unidad de cuidados intensivos
+T28 PROC 784 813 test intrad érmico de tiamina
+T29 PROC 701 726 administración controlada
+T30 CHEM 204 211 tiamina

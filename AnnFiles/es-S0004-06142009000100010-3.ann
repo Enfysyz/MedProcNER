@@ -1,0 +1,31 @@
+T1 DISO 1 10 depresión
+T2 PROC 19 37 tratamiento médico
+T3 PROC 23 34 intervenida
+T4 DISO 22 29 varices
+T5 PROC 29 36 estudio
+T6 PROC 41 49 atención
+T7 DISO 55 64 lumbalgia
+T8 PROC 127 145 tratamiento médico
+T9 CHEM 41 46 AINES
+T10 PROC 172 191 ecografía abdominal
+T11 DISO 61 67 quiste
+T12 ANAT 155 169 riá±ón derecho
+T13 DISO 229 248 quiste hida tí dico
+T14 PROC 144 155 exploración
+T15 PROC 309 331 pruebas de laboratorio
+T16 PROC 391 417 serología de hida tidos is
+T17 PROC 193 205 TC abdominal
+T18 DISO 171 181 tumoración
+T19 ANAT 631 666 región inter polar y polar superior
+T20 DISO 115 121 quiste
+T21 DISO 441 463 adenopatías regionales
+T22 DISO 400 419 tumoración quística
+T23 DISO 221 231 malignidad
+T24 PROC 438 457 nefrectomía derecha
+T25 PROC 601 626 estudio anatomopatológico
+T26 ANAT 126 131 pieza
+T27 DISO 469 487 formación quística
+T28 ANAT 379 393 epitelio plano
+T29 PROC 309 320 diagnóstico
+T30 DISO 146 151 nefro
+T31 DISO 541 559 ma multi qu ístico

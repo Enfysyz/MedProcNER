@@ -1,0 +1,77 @@
+T1 PROC 1 24 asistencia odontológica
+T2 PROC 12 23 tratamiento
+T3 DISO 13 19 caries
+T4 ANAT 19 25 diente
+T5 ANAT 65 81 molar mandibular
+T6 CHEM 36 43 fármaco
+T7 ANAT 25 29 boca
+T8 PROC 134 153 revisión intra oral
+T9 PROC 305 343 análisis de la radiografía peria pical
+T10 ANAT 55 61 diente
+T11 PROC 111 122 eliminación
+T12 ANAT 166 181 tejido afectado
+T13 DISO 73 79 caries
+T14 PROC 287 309 preparación cav itaria
+T15 CHEM 71 76 amalg
+T16 CHEM 181 193 ama de plata
+T17 DISO 369 392 problema postoperatorio
+T18 DISO 103 109 caries
+T19 ANAT 289 305 piezas dentarias
+T20 PROC 419 441 exploración intra oral
+T21 DISO 261 274 zona atrófica
+T22 DISO 232 243 eritematosa
+T23 ANAT 287 300 mucosa yug al
+T24 ANAT 139 145 mucosa
+T25 ANAT 121 126 molar
+T26 PROC 176 183 restaur
+T27 PROC 79 82 ado
+T28 CHEM 136 141 amalg
+T29 CHEM 337 349 ama de plata
+T30 ANAT 378 391 mucosa yug al
+T31 DISO 181 187 lesión
+T32 DISO 280 289 sensación
+T33 PROC 353 364 tratamiento
+T34 CHEM 166 171 amalg
+T35 CHEM 103 106 ama
+T36 DISO 316 325 alérgicos
+T37 DISO 721 741 reacciones alérgicas
+T38 PROC 778 799 exploración minuciosa
+T39 ANAT 533 547 zona lesionada
+T40 CHEM 196 201 amalg
+T41 CHEM 481 493 ama de plata
+T42 ANAT 247 253 mucosa
+T43 DISO 253 259 lesión
+T44 DISO 259 265 lesión
+T45 PROC 309 316 biopsia
+T46 PROC 1126 1151 estudio anatomopatológico
+T47 PROC 323 330 biopsia
+T48 DISO 283 289 lesión
+T49 ANAT 817 834 epitelio escamoso
+T50 DISO 99 101 ac
+T51 DISO 101 103 an
+T52 DISO 256 261 tosis
+T53 DISO 209 213 para
+T54 DISO 531 541 queratosis
+T55 DISO 271 276 espon
+T56 DISO 56 57 g
+T57 DISO 281 286 iosis
+T58 ANAT 1369 1393 elementos linfoci tarios
+T59 ANAT 871 886 estrato cór neo
+T60 ANAT 414 421 estroma
+T61 DISO 3181 3234 infiltrado inflamatorio crónico de tipo linfoci tario
+T62 ANAT 794 807 estrato basal
+T63 ANAT 1427 1450 tejido fibro con ectivo
+T64 ANAT 442 449 adiposo
+T65 ANAT 641 651 estructura
+T66 ANAT 521 529 vascular
+T67 PROC 1915 1944 diagnóstico anatomopatológico
+T68 DISO 1140 1157 liquen plano oral
+T69 ANAT 409 415 mucosa
+T70 ANAT 277 281 piel
+T71 DISO 2031 2060 dermatitis aguda - su ba guda
+T72 DISO 427 433 lesión
+T73 CHEM 361 366 amalg
+T74 CHEM 877 889 ama de plata
+T75 PROC 519 526 recambi
+T76 PROC 151 153 ar
+T77 DISO 685 694 molestias

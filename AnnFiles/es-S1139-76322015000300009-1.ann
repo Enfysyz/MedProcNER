@@ -1,0 +1,57 @@
+T1 DISO 1 18 daá±o neurológico
+T2 DISO 60 119 accidente cerebrovascular agudo ( ACV ) isquémico perinatal
+T3 PROC 17 25 consulta
+T4 DISO 19 25 llanto
+T5 DISO 73 91 dolor en las manos
+T6 PROC 56 67 tratamiento
+T7 CHEM 61 71 esteroides
+T8 PROC 78 89 seguimiento
+T9 DISO 137 154 daá±o neurológico
+T10 PROC 82 91 consultar
+T11 DISO 301 331 síntomas del aparato locomotor
+T12 DISO 298 325 artritis crónica idiopática
+T13 PROC 133 144 radiografía
+T14 ANAT 66 71 manos
+T15 ANAT 113 121 muá±ecas
+T16 DISO 436 465 problema óseo en las muá±ecas
+T17 DISO 369 392 dolores en las muá±ecas
+T18 ANAT 103 109 huesos
+T19 ANAT 145 153 muá±ecas
+T20 PROC 343 361 exploración física
+T21 DISO 341 358 daá±o neurológico
+T22 PROC 253 265 deambulación
+T23 DISO 89 93 hemi
+T24 DISO 369 385 plejia izquierda
+T25 DISO 313 326 ACV perinatal
+T26 DISO 301 313 espasticidad
+T27 PROC 105 109 soma
+T28 PROC 217 225 tometría
+T29 PROC 477 494 perímetro craneal
+T30 PROC 784 811 valores de presión arterial
+T31 DISO 601 621 rasgos dis mór ficos
+T32 ANAT 218 225 muá±eca
+T33 DISO 641 661 signos inflamatorios
+T34 DISO 100 103 gem
+T35 DISO 137 141 idos
+T36 ANAT 246 253 muá±eca
+T37 DISO 361 371 afectación
+T38 ANAT 519 533 articulaciones
+T39 ANAT 153 157 mano
+T40 DISO 157 161 acor
+T41 DISO 161 165 tada
+T42 ANAT 247 253 tercer
+T43 ANAT 169 173 dedo
+T44 PROC 474 485 radiografía
+T45 DISO 969 991 ausencia bilateral del
+T46 ANAT 226 231 carpo
+T47 PROC 507 518 radiografía
+T48 DISO 847 865 lesiones car pales
+T49 DISO 193 197 oste
+T50 DISO 834 851 ólisis car pi ana
+T51 DISO 1801 1837 lesiones en el escafoides tar si ano
+T52 PROC 409 417 consulta
+T53 PROC 365 372 estudia
+T54 PROC 584 595 diagnóstico
+T55 DISO 217 221 oste
+T56 DISO 3851 3921 ólisis multic éntrica carpo tarsal de transmisión autosómica dominante
+T57 DISO 561 571 nefropatía

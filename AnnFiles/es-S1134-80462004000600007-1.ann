@@ -1,0 +1,83 @@
+T1 PROC 1 8 cesárea
+T2 DISO 4 7 cor
+T3 DISO 5 7 io
+T4 DISO 10 13 amn
+T5 DISO 13 16 ion
+T6 DISO 21 25 itis
+T7 DISO 37 43 fiebre
+T8 DISO 134 153 sudoración nocturna
+T9 DISO 233 262 afectación del estado general
+T10 PROC 181 201 radiografía de tórax
+T11 DISO 171 188 masa mediastínica
+T12 PROC 67 73 medias
+T13 PROC 61 66 tinos
+T14 PROC 66 71 copia
+T15 PROC 99 106 biopsia
+T16 PROC 166 177 diagnostica
+T17 DISO 673 715 linfoma de Hodgkin tipo esclerosis nodular
+T18 DISO 766 811 afectación aden op ática infradia frag mática
+T19 DISO 109 115 hepato
+T20 DISO 115 121 esplen
+T21 DISO 161 169 omegalia
+T22 PROC 274 287 quimioterapia
+T23 PROC 89 93 ABVD
+T24 PROC 277 289 radioterapia
+T25 ANAT 241 251 mediastino
+T26 DISO 601 625 enfermedad en mediastino
+T27 ANAT 495 514 parénquima pulmonar
+T28 DISO 163 169 hepato
+T29 DISO 169 175 esplen
+T30 DISO 233 241 omegalia
+T31 DISO 151 156 dolor
+T32 CHEM 342 353 paracetamol
+T33 CHEM 289 298 metamizol
+T34 PROC 430 443 quimioterapia
+T35 PROC 443 456 quimioterapia
+T36 DISO 246 253 enferma
+T37 DISO 973 1000 dolor intenso mediastín ico
+T38 ANAT 223 229 dorsal
+T39 CHEM 115 118 mór
+T40 CHEM 196 201 ficos
+T41 CHEM 361 370 fentanilo
+T42 CHEM 288 295 morfina
+T43 PROC 379 388 analgesia
+T44 PROC 560 573 quimioterapia
+T45 PROC 441 451 colocación
+T46 ANAT 361 369 vascular
+T47 ANAT 415 424 subclavia
+T48 PROC 142 145 PCA
+T49 PROC 625 638 quimioterapia
+T50 ANAT 393 401 vascular
+T51 PROC 701 715 monitorización
+T52 PROC 613 625 EKG continuo
+T53 PROC 209 213 puls
+T54 PROC 531 541 ioximetría
+T55 PROC 2647 2696 medición de la presión arterial por oscil ometría
+T56 PROC 716 729 procedimiento
+T57 PROC 841 856 anestesia local
+T58 PROC 457 465 sedación
+T59 CHEM 523 532 midazolam
+T60 PROC 1122 1141 técnica Sel ding er
+T61 ANAT 1321 1343 vena subclavia derecha
+T62 ANAT 1404 1427 tercio medioc lavicular
+T63 PROC 1241 1261 aspiración de sangre
+T64 PROC 2395 2433 control radiológico antero - posterior
+T65 PROC 833 846 quimioterapia
+T66 PROC 846 859 quimioterapia
+T67 DISO 925 939 dolor torácico
+T68 DISO 403 409 disnea
+T69 PROC 749 760 exploración
+T70 DISO 760 771 taquicardia
+T71 DISO 631 640 taquipnea
+T72 ANAT 640 649 vesicular
+T73 ANAT 649 658 hemitórax
+T74 PROC 1461 1481 radiografía de tórax
+T75 DISO 1703 1726 derrame pleural derecho
+T76 ANAT 1201 1217 aurícula derecha
+T77 ANAT 1141 1156 cavidad pleural
+T78 DISO 1002 1015 extravasación
+T79 CHEM 1951 1976 sustancia quimio terápica
+T80 ANAT 475 481 pleura
+T81 PROC 1521 1540 punción diagnóstica
+T82 DISO 1216 1231 líquido pleural
+T83 PROC 1067 1080 quimioterapia

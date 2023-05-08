@@ -1,0 +1,56 @@
+T1 PROC 1 8 seguida
+T2 PROC 12 23 intervenida
+T3 DISO 51 76 desprendimiento de retina
+T4 DISO 7 9 DR
+T5 ANAT 45 56 ojo derecho
+T6 ANAT 11 13 OD
+T7 PROC 43 50 cirugía
+T8 PROC 22 25 dia
+T9 PROC 49 55 termia
+T10 ANAT 217 241 cuadrante nasal superior
+T11 DISO 191 210 desgarro retin iano
+T12 PROC 452 493 colocación implante escler al segment ado
+T13 DISO 25 27 DR
+T14 PROC 53 57 colo
+T15 PROC 43 46 cer
+T16 PROC 361 385 claje escler al completo
+T17 ANAT 433 460 cuadrante temporal inferior
+T18 PROC 52 55 dia
+T19 PROC 109 115 termia
+T20 DISO 419 441 degeneración retiniana
+T21 PROC 61 64 cer
+T22 DISO 169 177 síntomas
+T23 PROC 243 254 exploración
+T24 DISO 484 505 perforación escler al
+T25 DISO 625 651 atrofia cor ior retin iana
+T26 DISO 651 677 atrofia cor ior retin iana
+T27 PROC 287 298 observación
+T28 PROC 622 645 intervenida de catarata
+T29 ANAT 85 88 ojo
+T30 PROC 88 91 fac
+T31 PROC 31 32 o
+T32 PROC 156 161 emuls
+T33 PROC 289 298 ificación
+T34 PROC 562 579 implante de lente
+T35 ANAT 443 456 saco capsular
+T36 PROC 141 145 caps
+T37 PROC 109 112 ulo
+T38 PROC 371 381 tomía Y AG
+T39 DISO 647 664 opacidad capsular
+T40 PROC 313 321 consulta
+T41 DISO 41 42 H
+T42 DISO 42 43 V
+T43 ANAT 85 87 OD
+T44 PROC 388 397 ecografía
+T45 DISO 45 46 H
+T46 DISO 46 47 V
+T47 DISO 93 95 DR
+T48 DISO 48 49 H
+T49 DISO 49 50 V
+T50 DISO 393 401 sangrado
+T51 PROC 151 154 vit
+T52 PROC 409 417 rectomía
+T53 PROC 365 372 limpiar
+T54 ANAT 319 325 sangre
+T55 PROC 379 386 cirugía
+T56 ANAT 606 617 intraocular

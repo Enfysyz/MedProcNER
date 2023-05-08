@@ -1,0 +1,81 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 27 53 adenocarcinoma de próstata
+T3 ANAT 41 61 lóbulos pros táticos
+T4 PROC 10 13 PSA
+T5 PROC 45 56 diagnóstico
+T6 PROC 186 223 prostatectomía radical retor páº bica
+T7 PROC 115 134 anatomía patológica
+T8 DISO 183 209 Adenocarcinoma de próstata
+T9 DISO 41 46 tumor
+T10 PROC 82 91 disección
+T11 ANAT 41 45 cara
+T12 ANAT 89 97 próstata
+T13 ANAT 61 66 recto
+T14 PROC 339 365 Cierre directo de la pared
+T15 DISO 449 481 complicaciones intraopera torias
+T16 DISO 91 97 fiebre
+T17 DISO 241 256 dolor abdominal
+T18 DISO 273 289 fístula urinaria
+T19 DISO 55 58 fec
+T20 DISO 58 61 alu
+T21 DISO 61 64 ria
+T22 DISO 127 133 signos
+T23 DISO 243 254 peritonitis
+T24 PROC 415 433 exploración física
+T25 PROC 289 301 CT abdominal
+T26 DISO 726 755 líquido libre retro he pático
+T27 PROC 495 514 laparotomía urgente
+T28 DISO 649 673 peritonitis fec alo idea
+T29 DISO 309 320 perforación
+T30 ANAT 146 151 sigma
+T31 ANAT 151 156 orina
+T32 ANAT 156 161 heces
+T33 ANAT 193 199 pelvis
+T34 PROC 793 817 sutura v ésico - uretral
+T35 PROC 1021 1051 resección de segmento de sigma
+T36 PROC 771 793 colostomía de descarga
+T37 PROC 541 556 cirugía urgente
+T38 DISO 519 533 cuadro séptico
+T39 PROC 533 547 ingreso en UCI
+T40 PROC 781 801 soporte respiratorio
+T41 DISO 561 575 cuadro séptico
+T42 DISO 657 673 fístula urinaria
+T43 ANAT 211 216 orina
+T44 PROC 302 309 drenaje
+T45 DISO 1365 1396 infección de herida quiráºrgica
+T46 PROC 1306 1335 estabilización respiratoria y
+T47 PROC 737 753 dado de alta UCI
+T48 PROC 471 481 colostomía
+T49 DISO 769 785 fístula urinaria
+T50 DISO 687 701 necrosis grasa
+T51 ANAT 301 307 tercio
+T52 DISO 919 937 herida quiráºrgica
+T53 ANAT 1093 1114 musculatura abdominal
+T54 DISO 372 379 áºlcera
+T55 PROC 163 166 cis
+T56 PROC 441 449 tografía
+T57 CHEM 505 514 contraste
+T58 ANAT 1198 1219 unión ure tro vesical
+T59 ANAT 813 827 ampolla rectal
+T60 DISO 1417 1441 fístula v ésico - rectal
+T61 PROC 1381 1404 tratamiento conservador
+T62 PROC 916 931 sondaje vesical
+T63 DISO 1923 1954 infección de herida quiráºrgica
+T64 PROC 1765 1793 cierre por segunda intención
+T65 DISO 1217 1236 orificio fist uloso
+T66 PROC 1756 1783 cierre de fístula ure tro -
+T67 PROC 265 269 plas
+T68 PROC 1609 1633 tia de avance mucoso por
+T69 PROC 477 484 cirugía
+T70 PROC 208 211 cis
+T71 PROC 561 569 tografía
+T72 ANAT 569 577 urinaria
+T73 PROC 1441 1461 cierre de colostomía
+T74 PROC 147 149 ev
+T75 PROC 371 376 entro
+T76 PROC 2926 2965 plastia de la pared abdominal con malla
+T77 DISO 1673 1695 incontinencia urinaria
+T78 DISO 1387 1405 Disfunción eréctil
+T79 PROC 547 554 tratada
+T80 CHEM 2845 2881 inhibidores de la fosfo di ester asa
+T81 PROC 241 244 PSA

@@ -1,0 +1,32 @@
+T1 DISO 1 9 diabetes
+T2 PROC 8 15 ingresa
+T3 DISO 63 94 pancreatitis aguda ali ti ásica
+T4 DISO 100 133 dolor agudo hemiabdomen izquierdo
+T5 DISO 29 36 náuseas
+T6 DISO 41 49 síntomas
+T7 PROC 67 78 exploración
+T8 DISO 64 73 ocupación
+T9 ANAT 89 100 hemiabdomen
+T10 DISO 190 211 irritación peritoneal
+T11 PROC 91 100 Analítica
+T12 PROC 144 157 triglicéridos
+T13 PROC 73 79 lipasa
+T14 PROC 131 141 bioquímica
+T15 PROC 127 136 hemograma
+T16 PROC 166 177 coagulación
+T17 PROC 177 188 exploración
+T18 DISO 120 127 síncope
+T19 PROC 199 210 hematocrito
+T20 PROC 77 81 tras
+T21 PROC 121 127 fusión
+T22 CHEM 253 265 concentrados
+T23 PROC 353 369 prueba de imagen
+T24 DISO 139 145 pseudo
+T25 DISO 49 51 qu
+T26 DISO 701 729 iste pancreático hemorrágico
+T27 PROC 365 379 ingresa en UCI
+T28 PROC 649 673 intervención quiráºrgica
+T29 PROC 113 117 quis
+T30 PROC 581 601 to - y ey un ostomía
+T31 PROC 361 373 dado de alta
+T32 PROC 373 385 intervención

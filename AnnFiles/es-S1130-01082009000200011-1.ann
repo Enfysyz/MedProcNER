@@ -1,0 +1,102 @@
+T1 DISO 1 4 lei
+T2 DISO 3 5 om
+T3 DISO 37 55 iosarcoma de colon
+T4 DISO 40 53 manifestación
+T5 DISO 77 96 metástasis pulmonar
+T6 DISO 196 235 enfermedad pulmonar obstructiva crónica
+T7 PROC 193 225 histerectomía doble anex ectomía
+T8 PROC 92 105 braquiterapia
+T9 DISO 225 253 adenocarcinoma de endometrio
+T10 DISO 55 61 disnea
+T11 DISO 31 34 tos
+T12 DISO 111 121 hemoptisis
+T13 DISO 193 209 síndrome general
+T14 PROC 248 267 analítica de sangre
+T15 PROC 281 301 radiografía de tórax
+T16 PROC 181 193 TAC torácico
+T17 DISO 273 290 masa para hil iar
+T18 PROC 120 127 biopsia
+T19 DISO 73 77 masa
+T20 PROC 229 241 broncoscopia
+T21 DISO 681 715 tumoración de estirpe mesenqui mal
+T22 PROC 43 45 im
+T23 PROC 23 24 n
+T24 PROC 70 73 uno
+T25 PROC 121 126 histo
+T26 PROC 176 183 química
+T27 CHEM 27 28 v
+T28 CHEM 109 113 imen
+T29 CHEM 113 117 tina
+T30 CHEM 30 31 c
+T31 CHEM 31 32 -
+T32 CHEM 32 33 K
+T33 CHEM 65 67 IT
+T34 DISO 100 103 lei
+T35 DISO 69 71 om
+T36 DISO 316 325 iosarcoma
+T37 PROC 721 741 estudio de extensión
+T38 PROC 445 457 gastroscopia
+T39 PROC 457 469 colonoscopia
+T40 PROC 820 841 TAC abdomino pélv ico
+T41 DISO 121 124 lei
+T42 DISO 83 85 om
+T43 DISO 1513 1549 iosarcoma primario de pulmón derecho
+T44 PROC 259 265 neumon
+T45 PROC 661 676 ectomía derecha
+T46 DISO 136 139 lei
+T47 DISO 93 95 om
+T48 DISO 424 433 iosarcoma
+T49 ANAT 817 834 pieza quiráºrgica
+T50 PROC 295 301 neumon
+T51 PROC 751 766 ectomía derecha
+T52 DISO 766 781 dolor abdominal
+T53 DISO 365 372 náuseas
+T54 DISO 372 379 vómitos
+T55 DISO 595 606 rectorragia
+T56 PROC 661 673 colonoscopia
+T57 DISO 1737 1768 masa poli lob ulada neoplás ico
+T58 ANAT 1312 1335 colon ascendente ci ego
+T59 PROC 755 768 TAC abdominal
+T60 DISO 2302 2341 dilatación de asas de intestino delgado
+T61 ANAT 841 855 íleon terminal
+T62 ANAT 123 125 ci
+T63 ANAT 187 190 ego
+T64 DISO 316 321 invag
+T65 DISO 1153 1171 inación intestinal
+T66 DISO 911 925 lesión tumoral
+T67 PROC 1453 1475 interviene de urgencia
+T68 DISO 2145 2177 obstrucción de intestino delgado
+T69 DISO 341 346 invag
+T70 DISO 1726 1751 inación de íleon terminal
+T71 DISO 911 924 tumoración en
+T72 ANAT 356 361 ciego
+T73 PROC 361 366 hemic
+T74 PROC 147 149 ol
+T75 PROC 1111 1126 ectomía derecha
+T76 PROC 1726 1749 estudio histopatológico
+T77 ANAT 1293 1310 pieza quiráºrgica
+T78 DISO 232 235 lei
+T79 DISO 157 159 om
+T80 DISO 712 721 iosarcoma
+T81 ANAT 481 487 mucosa
+T82 ANAT 730 739 submucosa
+T83 ANAT 657 665 muscular
+T84 ANAT 499 505 serosa
+T85 PROC 1513 1531 inmunohistoquímica
+T86 CHEM 511 517 actina
+T87 CHEM 87 88 v
+T88 CHEM 349 353 imen
+T89 CHEM 353 357 tina
+T90 CHEM 90 91 c
+T91 CHEM 91 92 -
+T92 CHEM 92 93 K
+T93 CHEM 185 187 IT
+T94 DISO 94 95 L
+T95 DISO 189 191 MS
+T96 ANAT 476 481 colon
+T97 DISO 1345 1359 tumor pulmonar
+T98 DISO 1068 1079 metastásico
+T99 DISO 2745 2773 complicaciones respiratorias
+T100 DISO 496 501 falle
+T101 DISO 601 607 ciendo
+T102 PROC 1718 1735 cirugía abdominal

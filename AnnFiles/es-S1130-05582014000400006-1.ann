@@ -1,0 +1,63 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 25 49 enfermedad renal crónica
+T3 PROC 25 37 hemodiálisis
+T4 DISO 31 41 enfermedad
+T5 DISO 17 21 odon
+T6 DISO 81 97 talgia incisivos
+T7 DISO 49 57 disfagia
+T8 DISO 71 81 odinofagia
+T9 DISO 57 64 aumento
+T10 ANAT 190 211 región sub mandibular
+T11 DISO 111 122 hipertermia
+T12 DISO 133 145 leucocitosis
+T13 DISO 133 144 neutrofilia
+T14 PROC 131 141 creatinina
+T15 PROC 99 106 ingreso
+T16 PROC 196 209 examen físico
+T17 ANAT 65 69 escl
+T18 ANAT 69 73 eras
+T19 DISO 73 77 ic t
+T20 ANAT 115 121 éricas
+T21 ANAT 461 484 región sub ment on iana
+T22 ANAT 295 309 sub mandibular
+T23 ANAT 111 116 bucal
+T24 PROC 438 457 examen intra b ucal
+T25 DISO 25 26 e
+T26 DISO 76 79 den
+T27 DISO 79 82 tul
+T28 DISO 811 841 ismo parcial maxil omandibular
+T29 DISO 1205 1248 enfermedad periodontal crónica generalizada
+T30 DISO 291 301 irritantes
+T31 DISO 271 280 halitosis
+T32 ANAT 466 481 piso de la boca
+T33 ANAT 577 595 espacio sublingual
+T34 DISO 133 137 glos
+T35 DISO 69 71 op
+T36 DISO 176 181 tosis
+T37 PROC 721 741 tratamiento empírico
+T38 CHEM 1037 1065 penicilina sódica cristalina
+T39 CHEM 77 79 az
+T40 CHEM 118 121 tre
+T41 CHEM 81 83 on
+T42 CHEM 83 85 am
+T43 PROC 1009 1033 tomografía computarizada
+T44 ANAT 947 969 espacio para far íngeo
+T45 ANAT 485 496 vías aéreas
+T46 ANAT 676 691 región cervical
+T47 DISO 737 753 angina de Ludwig
+T48 PROC 518 529 tratamiento
+T49 CHEM 529 540 vancomicina
+T50 CHEM 344 351 fármaco
+T51 PROC 151 154 exo
+T52 PROC 307 313 doncia
+T53 PROC 989 1008 drenaje quiráºrgico
+T54 ANAT 2492 2539 espacios subl ingu ales , sub man dibulares sub
+T55 ANAT 649 661 ment on iano
+T56 PROC 2311 2353 incisión sub ment on iana y sub mandibular
+T57 ANAT 897 913 basal mandibular
+T58 PROC 913 929 drenajes pasivos
+T59 PROC 407 414 lavados
+T60 CHEM 886 901 solución salina
+T61 PROC 1141 1160 drenaje quiráºrgico
+T62 PROC 1160 1179 terapia antibiótica
+T63 ANAT 745 757 respiratoria

@@ -1,0 +1,50 @@
+T1 DISO 1 6 dolor
+T2 ANAT 20 39 región sub pa telar
+T3 ANAT 15 22 rodilla
+T4 ANAT 37 49 articulación
+T5 PROC 73 91 exploración física
+T6 DISO 91 109 lesión eritematosa
+T7 ANAT 115 134 región sub pa telar
+T8 DISO 106 121 dolor palpación
+T9 DISO 193 217 herida inciso - con tusa
+T10 DISO 46 51 dolor
+T11 DISO 71 78 síntoma
+T12 DISO 56 61 osteo
+T13 DISO 37 40 con
+T14 DISO 40 43 dro
+T15 DISO 29 31 ma
+T16 ANAT 106 113 rodilla
+T17 DISO 129 137 secuelas
+T18 PROC 375 397 radiografía de control
+T19 DISO 307 324 accidente laboral
+T20 CHEM 77 81 term
+T21 CHEM 141 148 ómetros
+T22 CHEM 169 177 mercurio
+T23 CHEM 89 93 term
+T24 CHEM 162 169 ómetros
+T25 CHEM 193 201 mercurio
+T26 ANAT 176 183 rodilla
+T27 DISO 625 649 herida inciso - con tusa
+T28 PROC 298 309 exploración
+T29 CHEM 113 117 term
+T30 DISO 494 511 accidente laboral
+T31 PROC 841 869 medida higiénico - sanitaria
+T32 DISO 218 225 derrame
+T33 CHEM 257 265 mercurio
+T34 PROC 826 851 radiografía de la rodilla
+T35 DISO 817 841 cuerpo extraá±o metálico
+T36 ANAT 106 109 bur
+T37 ANAT 469 482 sa rotul iana
+T38 CHEM 297 305 mercurio
+T39 PROC 419 430 diagnóstico
+T40 DISO 625 641 bursitis química
+T41 CHEM 321 329 mercurio
+T42 DISO 370 379 toxicidad
+T43 CHEM 211 216 metal
+T44 PROC 2022 2069 extracción de la bur sa rotul iana en quirófano
+T45 PROC 89 91 es
+T46 PROC 226 231 copia
+T47 CHEM 369 377 mercurio
+T48 ANAT 565 577 articulación
+T49 DISO 337 344 secuela
+T50 DISO 295 301 lesión

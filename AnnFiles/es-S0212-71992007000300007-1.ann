@@ -1,0 +1,79 @@
+T1 PROC 1 8 ingreso
+T2 DISO 32 63 sensación de vértigo rota torio
+T3 DISO 31 46 nauseas vómitos
+T4 DISO 79 105 inestabilidad de la marcha
+T5 DISO 73 91 diplopía binocular
+T6 DISO 111 133 alteraciones del habla
+T7 DISO 43 50 alergia
+T8 CHEM 120 137 contraste io dado
+T9 DISO 289 325 carcinoma de mama ductal infiltrante
+T10 PROC 91 101 receptores
+T11 ANAT 81 89 ganglios
+T12 PROC 254 277 tratamiento quiráºrgico
+T13 PROC 145 157 radioterapia
+T14 ANAT 53 57 mama
+T15 PROC 155 166 tratamiento
+T16 CHEM 61 65 anas
+T17 CHEM 97 103 trozol
+T18 PROC 307 325 exploración física
+T19 DISO 289 305 habla escan dida
+T20 DISO 153 161 nistagmo
+T21 DISO 501 526 paresia de IV par craneal
+T22 DISO 316 331 ataxia trun cal
+T23 DISO 67 70 dis
+T24 DISO 139 145 metria
+T25 ANAT 289 301 extremidades
+T26 PROC 451 469 análisis generales
+T27 PROC 729 757 hemograma bioquímica general
+T28 PROC 271 281 hemostasia
+T29 PROC 561 581 marcadores tumorales
+T30 PROC 175 181 CA 125
+T31 PROC 271 280 CA 15 - 3
+T32 PROC 280 289 CA 19 - 9
+T33 PROC 129 133 alfa
+T34 PROC 67 69 fe
+T35 PROC 69 71 to
+T36 PROC 281 289 proteína
+T37 PROC 1081 1111 antígeno carcino emb ri onario
+T38 PROC 815 837 estudio de neuroimagen
+T39 PROC 1141 1171 tomografía axial computarizada
+T40 PROC 79 81 TC
+T41 PROC 801 821 resonancia magnética
+T42 PROC 616 631 RM ) cerebrales
+T43 DISO 43 44 D
+T44 DISO 87 89 CP
+T45 PROC 925 946 anticuerpos anti - Yo
+T46 ANAT 226 231 suero
+T47 ANAT 139 142 LCR
+T48 PROC 330 337 estudio
+T49 DISO 433 442 neoplasia
+T50 PROC 540 551 tratamiento
+T51 CHEM 801 817 inmunoglobulinas
+T52 CHEM 715 729 ciclofosfamida
+T53 CHEM 885 902 metilprednisolona
+T54 PROC 1008 1027 TC toraco abdominal
+T55 PROC 541 551 mamografía
+T56 PROC 551 561 RM de mama
+T57 PROC 897 913 gammagrafía ósea
+T58 DISO 970 987 patología tumoral
+T59 PROC 2089 2125 tomografía con emisión de positrones
+T60 PROC 178 181 PET
+T61 DISO 1081 1099 lesiones nodulares
+T62 ANAT 1099 1117 cabeza pancreática
+T63 DISO 1551 1576 adenopatías mesent éricas
+T64 DISO 442 449 maligna
+T65 DISO 641 651 malignidad
+T66 PROC 716 727 laparotomía
+T67 PROC 463 470 biopsia
+T68 PROC 1676 1701 estudio anatomopatológico
+T69 DISO 3061 3106 metástasis de adenocarcinoma mal diferenciado
+T70 PROC 760 771 diagnostico
+T71 DISO 1961 1989 metástasis carcinoma de mama
+T72 PROC 782 793 tratamiento
+T73 CHEM 145 147 ep
+T74 CHEM 147 149 ir
+T75 CHEM 223 226 ubi
+T76 CHEM 301 305 cina
+T77 CHEM 1065 1079 ciclofosfamida
+T78 DISO 463 469 signos
+T79 DISO 625 633 síntomas

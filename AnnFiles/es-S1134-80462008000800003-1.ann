@@ -1,0 +1,76 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 43 85 síndrome doloroso regional complejo tipo I
+T3 ANAT 55 82 extremidad derecha superior
+T4 PROC 70 93 cirugías artros cópicas
+T5 ANAT 25 31 hombro
+T6 PROC 36 43 cirugía
+T7 DISO 73 85 complicación
+T8 DISO 232 265 infección causada por pseud omona
+T9 PROC 57 64 tratada
+T10 DISO 136 151 dolor quem ante
+T11 ANAT 271 298 extremidad superior derecha
+T12 PROC 265 289 tratamientos analgésicos
+T13 DISO 61 66 edema
+T14 DISO 209 225 cambios de color
+T15 DISO 239 256 cambios tró ficos
+T16 ANAT 151 161 extremidad
+T17 DISO 33 35 SD
+T18 DISO 35 37 RC
+T19 DISO 217 229 hipertensión
+T20 DISO 153 161 diabetes
+T21 PROC 661 694 Bloqueo de Gan gl io Estre ll ado
+T22 PROC 148 155 monitor
+T23 PROC 67 70 izó
+T24 PROC 415 433 electrocardiograma
+T25 PROC 385 401 presión arterial
+T26 PROC 426 443 saturación de O 2
+T27 PROC 183 190 bloqueo
+T28 CHEM 82 85 pro
+T29 CHEM 141 146 caína
+T30 CHEM 291 301 epinefrina
+T31 ANAT 631 652 cartílago cr ico ides
+T32 PROC 94 97 pal
+T33 PROC 129 133 pado
+T34 ANAT 34 35 C
+T35 ANAT 239 246 proceso
+T36 ANAT 491 505 sexta vértebra
+T37 PROC 145 149 palp
+T38 ANAT 260 267 tráquea
+T39 ANAT 571 586 vaina carotídea
+T40 PROC 352 361 inyección
+T41 PROC 201 206 aspir
+T42 PROC 42 43 ó
+T43 PROC 295 302 punción
+T44 ANAT 818 837 estructura vascular
+T45 PROC 441 451 aspiración
+T46 PROC 316 323 bloqueo
+T47 DISO 875 894 Síndrome de Horn er
+T48 PROC 330 337 bloqueo
+T49 DISO 385 393 malestar
+T50 DISO 246 251 mareo
+T51 DISO 351 358 cefalea
+T52 PROC 817 833 presión arterial
+T53 DISO 989 1008 taquicardia sinusal
+T54 DISO 637 649 hipertensión
+T55 PROC 757 771 administración
+T56 CHEM 111 113 me
+T57 CHEM 169 172 top
+T58 CHEM 286 291 rolol
+T59 PROC 929 945 presión arterial
+T60 DISO 296 301 mareo
+T61 DISO 361 367 fatiga
+T62 DISO 916 931 dolor de cabeza
+T63 DISO 249 253 hipo
+T64 PROC 379 385 hospit
+T65 PROC 449 456 alizada
+T66 PROC 196 199 ECG
+T67 PROC 1189 1207 examen neurológico
+T68 PROC 738 749 TAC craneal
+T69 PROC 545 553 exámenes
+T70 PROC 1174 1191 pruebas tiroideas
+T71 DISO 281 285 tiro
+T72 DISO 214 217 tox
+T73 DISO 433 439 icosis
+T74 PROC 585 593 consulta
+T75 DISO 1185 1201 debilidad cabeza
+T76 CHEM 901 913 medicamentos

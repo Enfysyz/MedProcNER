@@ -1,0 +1,51 @@
+T1 PROC 1 8 ingresa
+T2 DISO 8 15 vómitos
+T3 DISO 15 22 diarrea
+T4 DISO 88 117 retraso pon dero - esta tural
+T5 DISO 37 46 hipotonía
+T6 DISO 116 139 estrabismo conver gente
+T7 DISO 7 8 m
+T8 DISO 29 33 amil
+T9 DISO 113 127 as inver tidas
+T10 DISO 181 201 fallo de crecimiento
+T11 DISO 71 78 vómitos
+T12 PROC 441 481 ecografía abdominal , trans fon tan elar
+T13 PROC 241 261 radiografía de tórax
+T14 PROC 248 267 analítica de sangre
+T15 PROC 141 151 urocultivo
+T16 PROC 106 113 ingreso
+T17 ANAT 81 86 heces
+T18 DISO 222 235 proceso agudo
+T19 PROC 343 362 soporte nutricional
+T20 CHEM 894 941 fórmula artificial de hidrol izado de proteínas
+T21 CHEM 341 358 fórmula elemental
+T22 PROC 148 155 estudio
+T23 DISO 111 116 hiper
+T24 DISO 116 121 trans
+T25 DISO 49 51 am
+T26 DISO 151 157 inemia
+T27 DISO 105 109 hipo
+T28 DISO 298 309 albuminemia
+T29 PROC 337 349 transferrina
+T30 PROC 88 91 cer
+T31 PROC 91 94 ulo
+T32 PROC 125 129 plas
+T33 PROC 129 133 mina
+T34 PROC 1057 1089 serología de virus hepato tropos
+T35 PROC 511 526 ecocardiografía
+T36 DISO 981 1009 error innato del metabolismo
+T37 DISO 37 38 E
+T38 DISO 75 77 IM
+T39 PROC 685 703 estudio metabólico
+T40 PROC 1678 1721 ingreso en la Unidad de Cuidados Intensivos
+T41 DISO 241 247 sepsis
+T42 DISO 247 253 fiebre
+T43 DISO 505 517 hipoglucemia
+T44 DISO 775 793 mal estado general
+T45 DISO 661 676 mala coloración
+T46 PROC 1261 1289 resonancia magnética craneal
+T47 DISO 967 988 hipoplasia cerebelosa
+T48 PROC 847 865 estudio metabólico
+T49 DISO 2449 2500 defecto congénito de la glucos ilación de proteínas
+T50 DISO 99 101 CG
+T51 DISO 51 52 D

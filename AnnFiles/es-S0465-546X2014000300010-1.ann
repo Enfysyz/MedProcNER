@@ -1,0 +1,54 @@
+T1 DISO 1 22 accidente laboral con
+T2 PROC 25 49 revisión de caso clínico
+T3 PROC 33 49 pruebas confirma
+T4 DISO 79 105 enfermedades transmisibles
+T5 PROC 41 51 analíticas
+T6 PROC 166 199 marcadores virales para Hepatitis
+T7 DISO 73 85 alza térmica
+T8 DISO 106 121 dolor abdominal
+T9 ANAT 89 100 hipocondrio
+T10 PROC 208 231 tratamiento ambulatorio
+T11 DISO 151 166 nauseas vómitos
+T12 DISO 78 85 astenia
+T13 DISO 37 40 col
+T14 DISO 53 57 uria
+T15 DISO 29 31 ac
+T16 DISO 61 65 olia
+T17 DISO 145 154 ictericia
+T18 PROC 120 127 ingreso
+T19 PROC 163 172 analítica
+T20 PROC 77 81 iado
+T21 PROC 341 358 enzimas hepáticas
+T22 DISO 106 111 hiper
+T23 DISO 111 116 trans
+T24 DISO 47 49 am
+T25 DISO 145 151 inemia
+T26 PROC 751 781 serología para hepatitis A y B
+T27 PROC 469 487 tratamiento médico
+T28 CHEM 28 29 K
+T29 CHEM 85 88 ona
+T30 CHEM 30 31 k
+T31 CHEM 91 94 ión
+T32 CHEM 32 33 L
+T33 CHEM 97 100 iso
+T34 CHEM 34 35 z
+T35 CHEM 103 106 ima
+T36 CHEM 36 37 N
+T37 CHEM 145 149 ervo
+T38 CHEM 75 77 bi
+T39 CHEM 77 79 ón
+T40 CHEM 196 201 Gamma
+T41 CHEM 1161 1190 globulina Humana Pol ivalente
+T42 PROC 329 337 vacunada
+T43 DISO 463 474 Hepatitis A
+T44 DISO 474 485 Hepatitis B
+T45 PROC 529 541 dada de alta
+T46 PROC 811 829 seguimiento médico
+T47 PROC 1335 1364 reconocimiento médico laboral
+T48 DISO 142 145 VHC
+T49 DISO 145 148 VIH
+T50 DISO 932 951 accidente biológico
+T51 PROC 901 919 control serológico
+T52 DISO 256 261 virus
+T53 DISO 885 902 accidente laboral
+T54 DISO 1167 1189 enfermedad profesional

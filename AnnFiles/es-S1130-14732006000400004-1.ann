@@ -1,0 +1,71 @@
+T1 PROC 1 8 ingresa
+T2 PROC 12 23 tratamiento
+T3 DISO 45 67 hernia discal cervical
+T4 ANAT 4 5 C
+T5 DISO 29 36 cervico
+T6 DISO 16 19 bra
+T7 DISO 19 22 qui
+T8 DISO 36 41 algia
+T9 DISO 273 307 contracturas musculares cervicales
+T10 DISO 190 211 déficits neurológicos
+T11 DISO 51 56 dolor
+T12 PROC 254 277 tratamiento conservador
+T13 DISO 121 131 dificultad
+T14 ANAT 209 225 miembro superior
+T15 PROC 253 271 exploración física
+T16 DISO 256 273 pérdida de fuerza
+T17 ANAT 81 86 delto
+T18 ANAT 69 73 ides
+T19 ANAT 109 115 bíceps
+T20 DISO 438 461 alteraciones sensitivas
+T21 DISO 181 190 piramidal
+T22 DISO 85 89 ismo
+T23 ANAT 419 438 miembros inferiores
+T24 PROC 737 769 radiografías de columna cervical
+T25 ANAT 457 476 cuerpos vertebrales
+T26 ANAT 26 27 C
+T27 DISO 339 352 calcificación
+T28 ANAT 406 421 disco C 4 - C 5
+T29 PROC 309 320 RM cervical
+T30 DISO 436 451 hernia discal C
+T31 ANAT 121 125 raíz
+T32 PROC 745 769 tomografía computarizada
+T33 PROC 417 430 TC ) cervical
+T34 DISO 199 205 hernia
+T35 DISO 375 386 calcificada
+T36 PROC 596 613 estudio analítico
+T37 PROC 325 334 hemograma
+T38 PROC 1296 1331 velocidad de sedimentación globular
+T39 PROC 39 40 V
+T40 PROC 79 81 SG
+T41 PROC 1081 1108 metabolismo fos foc ál cico
+T42 PROC 452 463 gammagrafía
+T43 DISO 337 345 taciones
+T44 PROC 560 573 diagnosticada
+T45 DISO 1453 1486 calcificaciones inter vertebrales
+T46 PROC 901 921 estudio radiográfico
+T47 DISO 645 659 dolor cervical
+T48 DISO 612 625 calcificación
+T49 ANAT 49 50 C
+T50 ANAT 50 51 4
+T51 ANAT 51 52 C
+T52 ANAT 52 53 5
+T53 DISO 781 796 calcificaciones
+T54 ANAT 319 325 dorsal
+T55 PROC 109 111 RM
+T56 DISO 276 281 herni
+T57 DISO 673 685 ación discal
+T58 DISO 1027 1045 dolores de espalda
+T59 DISO 1103 1122 déficit neurológico
+T60 PROC 1358 1381 tratamiento quiráºrgico
+T61 DISO 781 794 hernia discal
+T62 PROC 428 435 cirugía
+T63 ANAT 1241 1261 disco intervertebral
+T64 DISO 946 961 calcificaciones
+T65 ANAT 2305 2341 ligamento vertebral comáºn posterior
+T66 ANAT 326 331 fibro
+T67 ANAT 199 202 car
+T68 ANAT 135 137 tí
+T69 ANAT 273 277 lago
+T70 DISO 898 911 calcificación
+T71 DISO 561 569 déficits

@@ -1,0 +1,69 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 9 17 varicela
+T3 DISO 29 43 complicaciones
+T4 DISO 88 117 disminución de agudeza visual
+T5 ANAT 13 16 ojo
+T6 PROC 126 151 exploración oftalmológica
+T7 PROC 145 169 agudeza visual corregida
+T8 ANAT 22 25 ojo
+T9 ANAT 25 28 ojo
+T10 PROC 289 321 estudio con lámpara de hendidura
+T11 DISO 11 12 t
+T12 DISO 155 169 yndall celular
+T13 DISO 97 105 precipit
+T14 DISO 209 225 ados quer áticos
+T15 ANAT 85 91 cornea
+T16 PROC 391 417 tinción con fluores ce ína
+T17 PROC 305 324 presión intraocular
+T18 ANAT 69 73 ojos
+T19 PROC 469 495 exploración fun dos cópica
+T20 ANAT 39 41 OI
+T21 DISO 61 64 vit
+T22 DISO 106 111 ritis
+T23 DISO 111 116 retin
+T24 DISO 93 97 itis
+T25 PROC 433 451 tratamiento tópico
+T26 CHEM 276 287 corticoides
+T27 CHEM 79 82 mid
+T28 CHEM 55 57 ri
+T29 CHEM 169 175 áticos
+T30 DISO 30 31 t
+T31 DISO 421 435 yndall celular
+T32 ANAT 466 481 cámara anterior
+T33 PROC 385 397 fondo de ojo
+T34 DISO 166 171 retin
+T35 DISO 579 596 itis necrotizante
+T36 ANAT 141 145 área
+T37 ANAT 289 297 temporal
+T38 DISO 741 761 vasculitis retiniana
+T39 PROC 267 274 ingresa
+T40 PROC 430 441 tratamiento
+T41 CHEM 361 370 aciclovir
+T42 PROC 575 589 antiagregación
+T43 CHEM 925 947 ácido acetilsalicílico
+T44 PROC 775 793 tratamiento tópico
+T45 PROC 177 181 foto
+T46 PROC 1981 2025 coagulación profiláctica con láser de arg ón
+T47 DISO 829 847 necrosis retiniana
+T48 DISO 236 241 retin
+T49 DISO 193 197 itis
+T50 CHEM 540 551 corticoides
+T51 DISO 151 154 vit
+T52 DISO 256 261 ritis
+T53 DISO 261 266 retin
+T54 DISO 213 217 itis
+T55 PROC 1135 1156 tratamiento antiviral
+T56 CHEM 56 57 f
+T57 CHEM 113 115 am
+T58 CHEM 457 465 ciclovir
+T59 CHEM 639 650 corticoides
+T60 PROC 1240 1261 tratamiento antiviral
+T61 PROC 1201 1221 controles analíticos
+T62 PROC 550 559 hemograma
+T63 PROC 621 631 bioquímica
+T64 DISO 1009 1025 afectación renal
+T65 DISO 1217 1236 lesiones retinianas
+T66 DISO 1886 1915 actividad inflamatoria ocular
+T67 ANAT 265 269 ojos
+T68 PROC 470 477 ingreso
+T69 DISO 3197 3244 infección reciente por el virus varicela zoster

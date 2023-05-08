@@ -1,0 +1,42 @@
+T1 PROC 1 4 IMC
+T2 PROC 14 27 ingresó en el
+T3 PROC 23 34 diagnóstico
+T4 DISO 46 61 ictus isquémico
+T5 DISO 97 121 antecedentes patológicos
+T6 DISO 156 187 tromboembolismo venoso profundo
+T7 PROC 55 64 prescrita
+T8 PROC 246 281 terapia anticoagulante domiciliaria
+T9 CHEM 25 28 Riv
+T10 CHEM 19 21 ar
+T11 CHEM 21 23 ox
+T12 CHEM 45 49 abán
+T13 PROC 301 326 tratamiento fibrinolítico
+T14 CHEM 27 29 al
+T15 CHEM 29 31 te
+T16 CHEM 61 65 plas
+T17 CHEM 17 18 a
+T18 PROC 188 199 exploración
+T19 PROC 217 229 intervención
+T20 PROC 476 501 NIHSS Health Stroke Scale
+T21 CHEM 61 64 Riv
+T22 CHEM 43 45 ar
+T23 CHEM 45 47 ox
+T24 CHEM 93 97 abán
+T25 PROC 337 351 ingreso en UCI
+T26 PROC 351 365 monitorización
+T27 PROC 573 595 vigilancia neurológica
+T28 PROC 298 309 tratamiento
+T29 CHEM 309 320 enoxaparina
+T30 PROC 639 661 terapia anticoagulante
+T31 DISO 241 249 obesidad
+T32 PROC 94 97 IMC
+T33 PROC 353 364 tratamiento
+T34 CHEM 100 103 eno
+T35 CHEM 69 71 xa
+T36 CHEM 211 217 parina
+T37 DISO 325 334 sangrados
+T38 PROC 593 609 ensayos clínicos
+T39 PROC 1369 1405 monitorización del factor anti - X a
+T40 PROC 547 561 administración
+T41 PROC 1761 1805 concentración de factor anti - X a en sangre
+T42 PROC 1395 1429 concentración de factor anti - X a

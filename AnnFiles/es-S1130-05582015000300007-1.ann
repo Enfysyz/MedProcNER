@@ -1,0 +1,79 @@
+T1 PROC 1 11 valoración
+T2 DISO 19 37 tumoración frontal
+T3 DISO 23 34 traumatismo
+T4 DISO 16 21 dolor
+T5 DISO 41 51 tumoración
+T6 DISO 101 121 sensación de pesadez
+T7 DISO 157 183 cefalea fronto - occipital
+T8 PROC 127 145 exploración física
+T9 DISO 81 91 tumoración
+T10 DISO 64 71 eritema
+T11 PROC 91 100 palpación
+T12 DISO 100 109 masa dura
+T13 ANAT 61 66 plano
+T14 ANAT 53 57 óseo
+T15 ANAT 169 181 rama frontal
+T16 ANAT 196 209 nervio facial
+T17 DISO 97 103 nódulo
+T18 ANAT 222 235 región costal
+T19 PROC 37 39 TC
+T20 PROC 134 141 punción
+T21 PROC 21 22 -
+T22 PROC 526 551 aspiración con aguja fina
+T23 PROC 199 208 ecografía
+T24 PROC 70 73 ECO
+T25 PROC 25 26 -
+T26 PROC 51 53 PA
+T27 PROC 53 55 AF
+T28 DISO 460 477 tumoración costal
+T29 PROC 57 59 TC
+T30 DISO 117 121 masa
+T31 ANAT 421 435 región frontal
+T32 ANAT 218 225 tejidos
+T33 DISO 513 529 destrucción ósea
+T34 PROC 100 103 ECO
+T35 PROC 35 36 -
+T36 PROC 71 73 PA
+T37 PROC 73 75 AF
+T38 ANAT 482 495 región costal
+T39 DISO 229 235 lipoma
+T40 PROC 742 761 biopsia - ex éresis
+T41 DISO 401 411 tumoración
+T42 PROC 616 631 anestesia local
+T43 DISO 253 259 lesión
+T44 ANAT 431 441 fascia del
+T45 ANAT 705 721 máºsculo frontal
+T46 ANAT 136 139 per
+T47 ANAT 93 95 ic
+T48 ANAT 142 145 rán
+T49 ANAT 97 99 eo
+T50 PROC 1275 1301 disección sub per i óstica
+T51 ANAT 801 817 máºsculo frontal
+T52 ANAT 154 157 per
+T53 ANAT 105 107 ic
+T54 ANAT 160 163 rán
+T55 ANAT 109 111 eo
+T56 DISO 386 393 erosión
+T57 ANAT 729 742 hueso frontal
+T58 PROC 1711 1741 cierre del defecto quiráºrgico
+T59 DISO 813 827 complicaciones
+T60 PROC 650 661 seguimiento
+T61 PROC 1621 1648 estudio ano tomo patológico
+T62 ANAT 977 993 tejido conectivo
+T63 DISO 869 883 lesión nodular
+T64 ANAT 568 577 elementos
+T65 ANAT 1025 1041 células gigantes
+T66 ANAT 521 529 hematíes
+T67 DISO 2377 2413 componente inflamatorio mononucle ar
+T68 PROC 403 409 Inmuno
+T69 PROC 341 346 histo
+T70 PROC 208 211 quí
+T71 CHEM 1121 1137 anticuerpo CD 68
+T72 CHEM 1421 1441 proteína v imen tina
+T73 ANAT 1153 1169 células gigantes
+T74 ANAT 1096 1111 células ov ales
+T75 CHEM 1185 1201 proteína S - 100
+T76 CHEM 1201 1217 anticuerpo Ki 67
+T77 PROC 837 848 diagnóstico
+T78 DISO 3081 3121 neoplasia benigna de origen mesenqui mal
+T79 DISO 157 159 FN

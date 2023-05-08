@@ -1,0 +1,18 @@
+T1 DISO 1 6 hiper
+T2 DISO 19 37 tonía generalizada
+T3 DISO 15 22 diarrea
+T4 DISO 22 29 vómitos
+T5 DISO 25 31 fiebre
+T6 DISO 76 91 crisis febriles
+T7 PROC 109 127 exploración física
+T8 DISO 99 113 deshidratación
+T9 DISO 201 226 alteraciones neurológicas
+T10 PROC 82 91 hemograma
+T11 PROC 101 111 bioquímica
+T12 PROC 188 205 gasometría venosa
+T13 PROC 133 144 observación
+T14 DISO 79 85 crisis
+T15 PROC 225 241 hidratación oral
+T16 PROC 181 193 coprocultivo
+T17 PROC 177 188 Seguimiento
+T18 DISO 103 109 crisis

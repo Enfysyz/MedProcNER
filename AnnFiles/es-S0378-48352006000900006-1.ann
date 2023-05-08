@@ -1,0 +1,96 @@
+T1 DISO 1 8 fumador
+T2 DISO 18 35 dolor epigástrico
+T3 DISO 15 22 náuseas
+T4 DISO 16 21 mareo
+T5 DISO 9 11 As
+T6 DISO 26 31 tenia
+T7 DISO 49 57 anorexia
+T8 DISO 106 121 pérdida de peso
+T9 PROC 89 100 exploración
+T10 PROC 19 21 TA
+T11 DISO 241 265 palidez cutáneo - mucosa
+T12 ANAT 78 85 abdomen
+T13 DISO 85 92 defensa
+T14 DISO 365 393 signos irritación peritoneal
+T15 DISO 323 346 doloroso a la palpación
+T16 ANAT 151 161 epigastrio
+T17 PROC 209 222 peristaltismo
+T18 PROC 154 163 analítica
+T19 PROC 19 20 H
+T20 PROC 20 21 t
+T21 PROC 41 43 Hb
+T22 PROC 463 485 radiografía de abdomen
+T23 DISO 969 1013 dilatación de asas yey un ales hidroa er eos
+T24 PROC 438 457 ecografía abdominal
+T25 DISO 121 126 invag
+T26 DISO 451 469 inación intestinal
+T27 PROC 625 649 intervención quiráºrgica
+T28 PROC 541 561 inducción anestésica
+T29 DISO 393 407 masa abdominal
+T30 ANAT 320 331 mesogastrio
+T31 PROC 811 838 laparotomía supra umbilical
+T32 DISO 63 65 in
+T33 DISO 97 100 tus
+T34 DISO 67 69 us
+T35 DISO 103 106 pec
+T36 DISO 141 145 ción
+T37 ANAT 433 445 asa yey unal
+T38 PROC 778 799 resección segmentaria
+T39 ANAT 229 235 yeyuno
+T40 DISO 391 401 tumoración
+T41 DISO 1281 1313 carcinoma ana plásico rab do ide
+T42 ANAT 206 211 pared
+T43 ANAT 673 689 capa subs er osa
+T44 PROC 1162 1189 estudio inmunohisto químico
+T45 CHEM 177 181 cito
+T46 CHEM 226 231 quera
+T47 CHEM 645 659 tinas AE - 1 /
+T48 CHEM 95 97 AE
+T49 CHEM 145 148 - 3
+T50 CHEM 197 201 cito
+T51 CHEM 251 256 quera
+T52 CHEM 307 313 tina 7
+T53 CHEM 209 213 cito
+T54 CHEM 266 271 quera
+T55 CHEM 271 276 tinas
+T56 CHEM 56 57 v
+T57 CHEM 225 229 imen
+T58 CHEM 229 233 tina
+T59 CHEM 233 237 cito
+T60 CHEM 296 301 quera
+T61 CHEM 421 428 tina 20
+T62 PROC 611 621 marcadores
+T63 CHEM 125 127 CD
+T64 CHEM 127 129 CD
+T65 CHEM 65 66 -
+T66 CHEM 131 133 31
+T67 CHEM 397 403 actina
+T68 CHEM 202 205 des
+T69 CHEM 273 277 mina
+T70 CHEM 139 141 CD
+T71 CHEM 71 72 -
+T72 CHEM 214 217 117
+T73 CHEM 217 220 MEL
+T74 CHEM 147 149 AN
+T75 CHEM 75 76 -
+T76 CHEM 76 77 A
+T77 CHEM 153 155 ar
+T78 CHEM 78 79 p
+T79 CHEM 79 80 -
+T80 CHEM 80 81 1
+T81 CHEM 161 163 TT
+T82 CHEM 82 83 F
+T83 CHEM 83 84 -
+T84 CHEM 84 85 1
+T85 ANAT 673 681 pulmonar
+T86 PROC 681 689 TC torax
+T87 DISO 1635 1654 masa hiliar derecha
+T88 ANAT 2002 2025 bronquio lobar superior
+T89 DISO 441 446 tenos
+T90 PROC 1069 1081 broncoscopia
+T91 DISO 1171 1184 engrosamiento
+T92 ANAT 274 277 car
+T93 ANAT 277 280 ina
+T94 ANAT 2884 2915 bronquio lobar superior derecho
+T95 DISO 2351 2376 tumoración endo bronquial
+T96 PROC 666 673 biopsia

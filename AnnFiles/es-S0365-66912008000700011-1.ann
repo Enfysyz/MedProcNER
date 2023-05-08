@@ -1,0 +1,47 @@
+T1 DISO 1 3 ch
+T2 DISO 4 7 ala
+T3 DISO 3 4 z
+T4 DISO 10 13 ión
+T5 DISO 13 16 ble
+T6 DISO 36 43 faritis
+T7 ANAT 19 22 ojo
+T8 PROC 141 161 tratada tó picamente
+T9 CHEM 145 163 pomada antibiótica
+T10 PROC 181 201 lavados palpe brales
+T11 PROC 111 122 exploración
+T12 DISO 254 277 tumefacción eritematosa
+T13 ANAT 193 209 párpado superior
+T14 ANAT 196 211 área pre tarsal
+T15 DISO 183 196 engrosamiento
+T16 ANAT 61 65 zona
+T17 DISO 49 52 mad
+T18 DISO 35 37 ar
+T19 DISO 73 77 osis
+T20 PROC 77 81 biom
+T21 PROC 41 43 ic
+T22 PROC 64 67 ros
+T23 PROC 111 116 copía
+T24 ANAT 392 409 superficie ocular
+T25 DISO 769 801 afectación conjuntival o corneal
+T26 DISO 601 625 adenopatía pre auricular
+T27 PROC 495 514 biopsia incis ional
+T28 DISO 163 169 lesión
+T29 DISO 785 813 carcinoma seb áceo palpebral
+T30 PROC 871 901 tomografía axial computarizada
+T31 PROC 421 435 TC ) orbitaria
+T32 DISO 125 129 gran
+T33 DISO 321 331 tumoración
+T34 ANAT 529 545 párpado superior
+T35 DISO 613 631 infiltración de la
+T36 ANAT 596 613 grasa pres ep tal
+T37 DISO 613 630 infiltración ósea
+T38 ANAT 815 837 grasa retro orbi taria
+T39 PROC 761 781 estudio de extensión
+T40 DISO 859 881 metástasis a distancia
+T41 DISO 441 452 adenopatías
+T42 PROC 903 925 radioterapia paliativa
+T43 DISO 421 431 tumoración
+T44 PROC 517 529 radioterapia
+T45 PROC 353 361 tratarse
+T46 DISO 316 323 fallece
+T47 DISO 1013 1035 insuficiencia cardíaca

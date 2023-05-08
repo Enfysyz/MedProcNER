@@ -1,0 +1,32 @@
+T1 CHEM 1 25 vacuna antitu bercul osa
+T2 PROC 9 17 viaje de
+T3 CHEM 13 19 vacuna
+T4 PROC 31 41 vacunación
+T5 PROC 21 26 inmun
+T6 PROC 46 55 izaciones
+T7 CHEM 37 43 vacuna
+T8 CHEM 43 49 vacuna
+T9 PROC 113 127 administración
+T10 CHEM 55 61 vacuna
+T11 DISO 331 364 dolor en el lugar de la inyección
+T12 DISO 199 217 sensación de mareo
+T13 PROC 85 92 atender
+T14 PROC 118 127 protocolo
+T15 CHEM 85 91 vacuna
+T16 CHEM 106 113 vacunas
+T17 PROC 97 103 inocul
+T18 PROC 307 325 aron intramuscular
+T19 PROC 91 96 inyec
+T20 PROC 457 481 tados por vía subcutánea
+T21 PROC 361 379 constantes vitales
+T22 CHEM 127 133 vacuna
+T23 PROC 419 438 seguimiento clínico
+T24 DISO 553 577 Enfermedades Infecciosas
+T25 PROC 457 476 estudios analíticos
+T26 PROC 501 521 pruebas de inmunidad
+T27 PROC 183 190 pruebas
+T28 PROC 298 309 seguimiento
+T29 DISO 1009 1045 reacción en el lugar de la inyección
+T30 PROC 349 361 dada de alta
+T31 PROC 871 900 tratamiento antitu bercul oso
+T32 PROC 342 353 seguimiento

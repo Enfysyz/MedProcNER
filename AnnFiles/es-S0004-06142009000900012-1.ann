@@ -1,0 +1,82 @@
+T1 PROC 1 9 consulta
+T2 DISO 19 37 dolor tipo ur ente
+T3 ANAT 23 34 hipocondrio
+T4 ANAT 46 61 región inguinal
+T5 DISO 25 31 fiebre
+T6 DISO 81 97 malestar general
+T7 DISO 187 218 síntomas urinarios irrita tivos
+T8 DISO 148 169 Hipertensión arterial
+T9 DISO 153 172 Diabetes Mellitus 2
+T10 PROC 100 111 tratamiento
+T11 DISO 141 155 cáncer de mama
+T12 DISO 221 241 enfermedad coronaria
+T13 DISO 169 183 tumor cerebral
+T14 PROC 92 99 ingreso
+T15 PROC 225 241 presión arterial
+T16 PROC 31 33 TA
+T17 PROC 305 324 frecuencia cardíaca
+T18 PROC 35 37 FC
+T19 PROC 415 438 frecuencia respiratoria
+T20 PROC 39 41 FR
+T21 PROC 221 232 temperatura
+T22 DISO 694 727 signos de dificultad respiratoria
+T23 ANAT 133 139 cuello
+T24 DISO 300 313 masa tiroidea
+T25 DISO 73 76 ind
+T26 DISO 126 131 urada
+T27 DISO 209 217 dolorosa
+T28 DISO 190 197 cambios
+T29 PROC 505 523 exploración física
+T30 DISO 117 121 masa
+T31 ANAT 181 187 flanco
+T32 ANAT 342 353 fosa iliaca
+T33 ANAT 833 859 región ingu ino esc ro tal
+T34 ANAT 133 137 hemi
+T35 ANAT 103 106 esc
+T36 ANAT 71 73 ro
+T37 ANAT 433 445 to izquierdo
+T38 ANAT 149 153 pene
+T39 DISO 837 859 adenopatías inguinales
+T40 DISO 820 841 cambios inflamatorios
+T41 DISO 161 165 masa
+T42 PROC 206 211 trans
+T43 PROC 85 87 il
+T44 PROC 173 177 umin
+T45 PROC 221 226 acion
+T46 ANAT 406 415 testículo
+T47 ANAT 415 424 testículo
+T48 PROC 565 577 tacto rectal
+T49 DISO 1057 1079 dolor percusión lumbar
+T50 DISO 1422 1451 infección del tracto urinario
+T51 PROC 501 511 urocultivo
+T52 PROC 1480 1509 manejo antibiótico endovenoso
+T53 PROC 1873 1909 niveles de lactato des hidro gen ada
+T54 PROC 160 163 LDH
+T55 PROC 811 826 hospitalización
+T56 DISO 276 281 hiper
+T57 DISO 449 457 glicemia
+T58 PROC 571 581 creatinina
+T59 PROC 581 591 Leucocitos
+T60 PROC 1063 1081 manejo antibiótico
+T61 DISO 2521 2563 signos de respuesta inflamatoria sistémica
+T62 PROC 1343 1365 tomografía abdominal (
+T63 PROC 993 1009 TC ) contrastada
+T64 DISO 253 257 masa
+T65 ANAT 1217 1236 fosa iliaca derecha
+T66 ANAT 391 397 vejiga
+T67 ANAT 265 269 hemi
+T68 ANAT 202 205 esc
+T69 ANAT 137 139 ro
+T70 ANAT 691 701 to derecho
+T71 ANAT 631 640 testículo
+T72 DISO 782 793 adenopatías
+T73 PROC 577 585 exéresis
+T74 DISO 731 741 tumoración
+T75 PROC 149 151 or
+T76 PROC 226 229 qui
+T77 PROC 153 155 de
+T78 PROC 1079 1093 ctomía radical
+T79 DISO 2341 2371 masa se mio vo ide , lob ulada
+T80 PROC 791 801 extracción
+T81 DISO 1121 1135 complicaciones
+T82 DISO 730 739 patología

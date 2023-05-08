@@ -1,0 +1,38 @@
+T1 PROC 1 11 valoración
+T2 DISO 9 17 obesidad
+T3 DISO 29 43 lesión medular
+T4 DISO 52 69 accidente laboral
+T5 DISO 73 91 fractura vertebral
+T6 DISO 21 25 para
+T7 DISO 103 120 plejia incompleta
+T8 ANAT 8 9 L
+T9 ANAT 9 10 1
+T10 DISO 64 71 Fumador
+T11 DISO 211 232 hipertensión arterial
+T12 PROC 56 61 trata
+T13 CHEM 109 118 enalapril
+T14 CHEM 66 71 hidro
+T15 CHEM 169 181 clorotiazida
+T16 DISO 301 321 hipertrigliceridemia
+T17 PROC 177 188 tratamiento
+T18 PROC 154 163 anamnesis
+T19 PROC 199 210 perder peso
+T20 PROC 210 221 exploración
+T21 PROC 181 190 analítica
+T22 PROC 211 221 colesterol
+T23 PROC 287 300 triglicéridos
+T24 PROC 323 337 Colesterol HDL
+T25 PROC 193 201 valorado
+T26 PROC 176 183 cirugía
+T27 PROC 53 55 By
+T28 PROC 1324 1373 pass gástrico en Y de Ro ux por vía laparoscópica
+T29 PROC 197 204 cirugía
+T30 DISO 407 421 complicaciones
+T31 DISO 211 218 vómitos
+T32 PROC 776 801 dieta líquida fraccionada
+T33 DISO 289 298 bilidades
+T34 PROC 760 783 tratamiento hipotens or
+T35 PROC 443 456 control de TA
+T36 DISO 666 685 déficit vita mínico
+T37 PROC 505 519 suplementación
+T38 CHEM 741 761 complejo vita mínico

@@ -1,0 +1,83 @@
+T1 PROC 1 20 trasplante hepático
+T2 PROC 11 21 trasplante
+T3 PROC 29 43 apendicectomía
+T4 DISO 85 113 cirrosis hepática alcohólico
+T5 PROC 53 66 diagnosticada
+T6 DISO 16 19 HDA
+T7 DISO 109 127 varices esofágicas
+T8 DISO 134 153 hipertensión portal
+T9 DISO 57 64 ascitis
+T10 PROC 118 131 diagnosticada
+T11 DISO 151 166 hepatocarcinoma
+T12 PROC 210 229 trasplante hepático
+T13 PROC 49 53 dada
+T14 PROC 144 155 tratamiento
+T15 CHEM 141 151 tacrolimus
+T16 PROC 151 161 trasplante
+T17 DISO 193 205 debilidad de
+T18 ANAT 137 145 miembros
+T19 DISO 415 438 pérdida de sensibilidad
+T20 DISO 77 81 para
+T21 DISO 121 127 plejia
+T22 ANAT 316 331 vejiga urinaria
+T23 PROC 397 415 exploración física
+T24 DISO 93 97 para
+T25 DISO 169 176 paresia
+T26 DISO 101 105 amio
+T27 DISO 105 109 atro
+T28 DISO 379 393 fia por desuso
+T29 ANAT 113 117 EEII
+T30 DISO 320 331 hipoestesia
+T31 ANAT 91 94 EID
+T32 ANAT 94 97 EID
+T33 PROC 97 100 ROT
+T34 ANAT 166 171 rotul
+T35 ANAT 171 176 ianos
+T36 ANAT 141 145 aquí
+T37 ANAT 145 149 leos
+T38 PROC 112 115 RCP
+T39 PROC 761 781 pruebas diagnósticas
+T40 PROC 469 481 RMN cerebral
+T41 ANAT 561 575 cordón medular
+T42 DISO 329 337 lesiones
+T43 ANAT 85 87 la
+T44 ANAT 130 133 gun
+T45 ANAT 177 181 ares
+T46 ANAT 181 185 tent
+T47 ANAT 323 330 oriales
+T48 ANAT 518 529 subcortical
+T49 ANAT 673 687 lóbulo frontal
+T50 ANAT 687 701 lóbulo frontal
+T51 ANAT 401 409 parietal
+T52 ANAT 460 469 occipital
+T53 PROC 53 54 Ċ
+T54 PROC 107 109 PE
+T55 PROC 109 111 ES
+T56 ANAT 111 113 ti
+T57 ANAT 1009 1027 biales posteriores
+T58 ANAT 172 175 LCR
+T59 PROC 1625 1653 determinación sex ológica HT
+T60 PROC 119 121 De
+T61 PROC 361 367 termin
+T62 PROC 1831 1861 ación sanguínea de anticuerpos
+T63 PROC 125 127 EL
+T64 PROC 190 193 ISA
+T65 PROC 833 846 diagnosticada
+T66 DISO 261 265 para
+T67 DISO 1717 1743 paresia espástica tropical
+T68 PROC 470 477 tratada
+T69 CHEM 341 346 Inter
+T70 CHEM 622 631 ferón - á
+T71 ANAT 281 285 EEII
+T72 PROC 356 361 pauta
+T73 PROC 937 950 transaminasas
+T74 DISO 1023 1037 sintomatología
+T75 PROC 963 976 sonda vesical
+T76 PROC 1426 1445 reeducación vesical
+T77 PROC 1521 1541 sondaje intermitente
+T78 PROC 1464 1483 trasplante hepático
+T79 PROC 781 791 trasplante
+T80 PROC 475 481 ctomía
+T81 ANAT 2321 2350 sistemas sanguíneo y nervioso
+T82 ANAT 568 575 órganos
+T83 ANAT 1067 1080 trasplantados

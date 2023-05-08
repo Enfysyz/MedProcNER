@@ -1,0 +1,83 @@
+T1 PROC 1 10 consultas
+T2 DISO 35 69 tumoración indolora sub mandibular
+T3 DISO 47 70 síndrome constitucional
+T4 DISO 43 57 litiasis renal
+T5 DISO 85 106 hipertensión arterial
+T6 PROC 91 109 exploración física
+T7 DISO 175 204 masa sub mandibular izquierda
+T8 ANAT 29 33 dura
+T9 ANAT 49 55 planos
+T10 ANAT 82 91 profundos
+T11 DISO 151 166 dolor palpación
+T12 ANAT 89 97 cervical
+T13 ANAT 73 79 facial
+T14 PROC 287 309 exploración intra oral
+T15 DISO 155 166 inflamación
+T16 ANAT 241 257 suelo de la boca
+T17 ANAT 337 358 conducto de W har ton
+T18 PROC 596 631 punción - aspiración con aguja fina
+T19 PROC 37 39 PA
+T20 PROC 39 41 AF
+T21 PROC 181 190 ecografía
+T22 DISO 190 199 carcinoma
+T23 PROC 45 47 RM
+T24 DISO 622 649 masa sub max ilar izquierda
+T25 DISO 193 201 necrosis
+T26 ANAT 401 417 suelo de la boca
+T27 DISO 313 325 infiltración
+T28 ANAT 730 757 musculatura supra h io idea
+T29 ANAT 673 697 cortical ósea mandibular
+T30 PROC 320 331 diagnóstico
+T31 DISO 1381 1427 tumoración maligna de la glándula sub max ilar
+T32 PROC 869 897 disección cervical funcional
+T33 ANAT 545 562 nervio hipog loso
+T34 ANAT 661 681 máºsculo dig ástrico
+T35 ANAT 1055 1086 rama marginal del nervio facial
+T36 PROC 141 145 fres
+T37 PROC 109 112 ado
+T38 ANAT 815 837 cara medial mandibular
+T39 PROC 761 781 análisis histológico
+T40 ANAT 196 201 pieza
+T41 DISO 961 985 proliferación neoplásica
+T42 ANAT 288 295 células
+T43 ANAT 169 173 plas
+T44 ANAT 173 177 cito
+T45 ANAT 89 91 uc
+T46 ANAT 91 93 lé
+T47 ANAT 139 142 olo
+T48 DISO 330 337 mitosis
+T49 ANAT 337 344 células
+T50 ANAT 344 351 estroma
+T51 DISO 401 409 necrosis
+T52 ANAT 358 365 escamos
+T53 ANAT 53 54 a
+T54 ANAT 1114 1135 estructuras duc tales
+T55 PROC 1459 1486 estudio inmunohisto químico
+T56 ANAT 1046 1065 células neoplásicas
+T57 CHEM 113 115 CK
+T58 CHEM 115 117 AE
+T59 CHEM 175 178 1 /
+T60 CHEM 119 121 AE
+T61 CHEM 61 62 3
+T62 CHEM 367 373 actina
+T63 CHEM 187 190 cal
+T64 CHEM 379 385 ponina
+T65 CHEM 65 66 p
+T66 CHEM 131 133 63
+T67 CHEM 1057 1073 proteína S - 100
+T68 CHEM 135 137 GF
+T69 CHEM 137 139 AP
+T70 CHEM 208 211 CEA
+T71 PROC 1471 1492 índice prolifera tivo
+T72 PROC 72 73 K
+T73 PROC 73 74 i
+T74 PROC 147 149 67
+T75 DISO 371 376 tumor
+T76 PROC 376 381 resec
+T77 PROC 229 232 ado
+T78 ANAT 1464 1483 ganglios linfáticos
+T79 DISO 781 791 malignidad
+T80 PROC 870 881 diagnóstico
+T81 DISO 3841 3889 carcinoma mio epitelial de glándula sub max ilar
+T82 PROC 973 985 radioterapia
+T83 PROC 985 997 radioterapia

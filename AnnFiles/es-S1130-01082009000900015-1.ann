@@ -1,0 +1,42 @@
+T1 DISO 1 19 pancreatitis aguda
+T2 DISO 6 11 hiper
+T3 DISO 15 22 lipemia
+T4 PROC 34 45 tratamiento
+T5 PROC 17 21 fist
+T6 PROC 16 19 ulo
+T7 PROC 31 36 tomía
+T8 DISO 127 145 pancreatitis aguda
+T9 PROC 57 64 ingreso
+T10 PROC 28 31 ERC
+T11 PROC 11 12 P
+T12 DISO 199 217 pancreatitis aguda
+T13 PROC 277 300 pruebas complementarias
+T14 PROC 40 43 col
+T15 PROC 43 46 ang
+T16 PROC 46 49 ior
+T17 PROC 49 52 res
+T18 PROC 290 307 onancia magnética
+T19 DISO 361 381 pancreatitis crónica
+T20 ANAT 153 161 páncreas
+T21 DISO 621 652 atrofia del parénquima hepático
+T22 PROC 64 67 ERC
+T23 PROC 23 24 P
+T24 DISO 139 145 signos
+T25 DISO 481 501 pancreatitis crónica
+T26 ANAT 201 209 páncreas
+T27 PROC 625 649 intervención quiráºrgica
+T28 PROC 190 197 pancrea
+T29 PROC 421 436 tectomía caudal
+T30 PROC 987 1021 derivación pancreático - y ey unal
+T31 DISO 301 311 tumoración
+T32 ANAT 683 705 cara anterior gástrica
+T33 DISO 33 34 G
+T34 DISO 100 103 IST
+T35 PROC 171 176 extir
+T36 PROC 71 73 pa
+T37 PROC 253 260 cirugía
+T38 PROC 519 533 ingresa en UCI
+T39 PROC 267 274 drenaje
+T40 DISO 352 361 purulento
+T41 PROC 1041 1067 tratamiento antibioterapia
+T42 PROC 493 505 dado de alta

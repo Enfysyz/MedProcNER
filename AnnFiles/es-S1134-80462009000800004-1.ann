@@ -1,0 +1,66 @@
+T1 PROC 1 18 control del dolor
+T2 DISO 9 17 isquemia
+T3 DISO 47 70 arteriopatía periférica
+T4 PROC 43 57 vasodilatación
+T5 DISO 41 51 enfermedad
+T6 PROC 191 229 amputación de miembro inferior derecho
+T7 DISO 85 99 sintomatología
+T8 DISO 176 201 dolor en miembro fantasma
+T9 PROC 57 64 terapia
+T10 CHEM 100 111 anticonvuls
+T11 CHEM 31 34 ion
+T12 CHEM 45 49 ante
+T13 CHEM 169 183 antidepresivos
+T14 CHEM 144 155 analgésicos
+T15 DISO 71 76 dolor
+T16 DISO 271 289 dolor lan cin ante
+T17 PROC 369 392 escala visual analógica
+T18 PROC 52 55 EVA
+T19 PROC 577 609 remitido a la consulta de manera
+T20 PROC 58 61 dia
+T21 PROC 121 127 termia
+T22 PROC 85 89 poli
+T23 PROC 441 461 pectomía endoscópica
+T24 PROC 70 73 dia
+T25 PROC 481 501 termia de onda corta
+T26 PROC 76 79 dia
+T27 PROC 521 541 termia de micro onda
+T28 ANAT 163 169 tejido
+T29 DISO 141 146 daá±o
+T30 PROC 204 211 electro
+T31 PROC 571 590 coagulación bipolar
+T32 PROC 125 129 poli
+T33 PROC 641 661 pectomía endoscópica
+T34 PROC 232 239 electro
+T35 PROC 69 71 ca
+T36 PROC 141 145 uter
+T37 PROC 541 556 ización bipolar
+T38 PROC 297 305 consulta
+T39 PROC 191 196 colec
+T40 PROC 430 441 tomía total
+T41 PROC 281 288 biopsia
+T42 DISO 329 337 lesiones
+T43 PROC 925 947 valorar la efectividad
+T44 PROC 173 177 poli
+T45 PROC 881 901 pectomía endoscópica
+T46 PROC 136 139 dia
+T47 PROC 277 283 termia
+T48 PROC 471 481 valoración
+T49 PROC 289 295 evaluó
+T50 DISO 246 251 dolor
+T51 PROC 151 154 EVA
+T52 DISO 919 937 dolor parox ístico
+T53 PROC 157 160 EVA
+T54 PROC 584 595 seguimiento
+T55 PROC 217 221 poli
+T56 PROC 1101 1121 pectomía endoscópica
+T57 DISO 1457 1483 dolor del miembro fantasma
+T58 CHEM 628 639 anticonvuls
+T59 CHEM 175 178 ion
+T60 CHEM 296 301 antes
+T61 CHEM 841 855 antidepresivos
+T62 PROC 184 187 EVA
+T63 DISO 1117 1135 dolor lan cin ante
+T64 PROC 946 961 calidad de vida
+T65 PROC 1281 1301 índice de Lat tin en
+T66 DISO 586 595 deprimido

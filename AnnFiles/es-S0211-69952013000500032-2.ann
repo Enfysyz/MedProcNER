@@ -1,0 +1,61 @@
+T1 DISO 1 3 ex
+T2 DISO 9 17 fumadora
+T3 DISO 7 10 HTA
+T4 DISO 28 37 DM tipo 2
+T5 DISO 65 81 obesidad mórbida
+T6 PROC 76 91 colecistectomía
+T7 PROC 85 99 apendicectomía
+T8 PROC 22 25 her
+T9 PROC 9 10 n
+T10 PROC 28 31 ior
+T11 PROC 151 166 rafia umbilical
+T12 PROC 78 85 cesárea
+T13 PROC 181 196 Cirugía General
+T14 PROC 235 253 cirugía bariátrica
+T15 PROC 253 271 técnica de Lar rad
+T16 PROC 181 193 intervención
+T17 DISO 385 409 vómitos pos pan dri ales
+T18 DISO 307 325 episodio sin copal
+T19 PROC 325 343 exploración física
+T20 DISO 343 361 mal estado general
+T21 DISO 601 631 signos depleción hidros al ina
+T22 PROC 43 45 PA
+T23 PROC 67 70 PVC
+T24 CHEM 24 25 H
+T25 CHEM 25 26 2
+T26 CHEM 26 27 O
+T27 PROC 235 244 analítica
+T28 PROC 109 113 urea
+T29 PROC 57 59 Cr
+T30 PROC 59 61 Na
+T31 PROC 61 63 Cl
+T32 PROC 94 97 PCR
+T33 PROC 225 232 lactato
+T34 PROC 232 239 osmolar
+T35 PROC 137 141 idad
+T36 PROC 316 325 hemograma
+T37 PROC 73 75 Hb
+T38 PROC 630 647 gasometría venosa
+T39 PROC 419 430 bicarbonato
+T40 PROC 118 121 pCO
+T41 PROC 41 42 2
+T42 PROC 780 799 función renal orina
+T43 PROC 169 173 urea
+T44 PROC 87 89 Cr
+T45 PROC 89 91 Na
+T46 PROC 46 47 K
+T47 PROC 323 330 ingresó
+T48 DISO 612 625 IRA prerrenal
+T49 DISO 961 981 depleción de volumen
+T50 DISO 589 601 hiponatremia
+T51 DISO 651 664 hipopotasemia
+T52 PROC 1225 1249 reposición hidros al ina
+T53 PROC 1301 1326 corrección electrol ítica
+T54 ANAT 266 271 renal
+T55 PROC 379 386 ingreso
+T56 DISO 1431 1457 insuficiencia respiratoria
+T57 DISO 729 742 shock séptico
+T58 DISO 1255 1277 infección respiratoria
+T59 PROC 2553 2597 trasladó a la unidad de vigilancia intensiva
+T60 DISO 355 361 exitus
+T61 PROC 421 428 ingreso

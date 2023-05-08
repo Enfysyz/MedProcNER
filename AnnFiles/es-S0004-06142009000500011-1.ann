@@ -1,0 +1,68 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 20 39 hipercolesterolemia
+T3 DISO 73 109 insuficiencia renal crónica terminal
+T4 DISO 58 77 anemia nefro génica
+T5 PROC 29 36 tratada
+T6 CHEM 216 259 factores estimulantes de la eritro poy esis
+T7 DISO 181 211 hiperparatiroidismo secundario
+T8 PROC 302 345 tratamiento sustitutivo de la función renal
+T9 PROC 97 109 hemodiálisis
+T10 PROC 145 161 trasplante renal
+T11 PROC 351 386 trasplante renal de donante cadáver
+T12 ANAT 210 229 fosa ilíaca derecha
+T13 DISO 265 287 complicaciones médicas
+T14 DISO 222 239 diabetes mellitus
+T15 PROC 197 211 administración
+T16 CHEM 121 129 insulina
+T17 DISO 145 154 toxicidad
+T18 CHEM 86 91 antic
+T19 CHEM 37 39 al
+T20 CHEM 77 81 cine
+T21 CHEM 41 43 ur
+T22 CHEM 127 133 ínicos
+T23 ANAT 155 162 injerto
+T24 PROC 277 289 dada de alta
+T25 PROC 289 301 intervención
+T26 PROC 251 261 creatinina
+T27 PROC 625 649 terapia inmunosupres ora
+T28 CHEM 271 281 prednisona
+T29 CHEM 281 291 tacrolimus
+T30 CHEM 610 631 micofenolato mofe til
+T31 PROC 61 63 in
+T32 PROC 125 129 gres
+T33 PROC 33 34 a
+T34 DISO 1090 1123 edema en miembro inferior derecho
+T35 DISO 987 1016 deterioro de la función renal
+T36 PROC 1296 1333 concentración de creatinina en plasma
+T37 DISO 217 223 fiebre
+T38 DISO 1074 1103 manifestaciones hemodinámicas
+T39 PROC 115 118 ECO
+T40 DISO 937 961 colección peri - injerto
+T41 PROC 121 124 TAC
+T42 ANAT 780 799 bifurcación aórtica
+T43 ANAT 211 216 recto
+T44 DISO 431 441 compresión
+T45 ANAT 661 676 vasos il ía cos
+T46 ANAT 271 277 vejiga
+T47 PROC 829 847 punción percutánea
+T48 PROC 1176 1201 colocación de pig - ta il
+T49 PROC 289 295 drenar
+T50 DISO 442 451 colección
+T51 DISO 401 409 síntomas
+T52 PROC 970 989 análisis bioquímico
+T53 ANAT 365 372 líquido
+T54 PROC 531 541 creatinina
+T55 DISO 217 221 linf
+T56 DISO 276 281 ocele
+T57 PROC 1289 1312 tratamiento quiráºrgico
+T58 DISO 514 523 infección
+T59 DISO 233 237 linf
+T60 DISO 296 301 ocele
+T61 ANAT 1081 1099 cavidad peritoneal
+T62 PROC 794 807 laparoscópica
+T63 PROC 993 1009 alta quiráºrgica
+T64 ANAT 316 321 renal
+T65 DISO 769 781 asintomática
+T66 PROC 911 925 TAC de control
+T67 DISO 265 269 linf
+T68 DISO 336 341 ocele

@@ -1,0 +1,40 @@
+T1 PROC 1 7 reanim
+T2 PROC 4 7 ado
+T3 DISO 7 10 PCR
+T4 DISO 73 97 síndrome coronario agudo
+T5 PROC 89 111 trasladado al hospital
+T6 PROC 46 55 protocolo
+T7 PROC 61 71 hipotermia
+T8 PROC 78 89 exploración
+T9 DISO 217 244 edema cerebral generalizado
+T10 PROC 91 101 TC craneal
+T11 PROC 71 78 ingreso
+T12 PROC 89 97 donación
+T13 DISO 205 222 muerte encefálica
+T14 PROC 92 99 ingreso
+T15 PROC 323 346 exploración neurológica
+T16 DISO 256 273 muerte encefálica
+T17 PROC 209 222 soporte vital
+T18 PROC 137 145 donación
+T19 PROC 163 172 protocolo
+T20 PROC 20 21 L
+T21 PROC 41 43 TS
+T22 PROC 22 23 V
+T23 PROC 441 461 asistolia controlada
+T24 PROC 323 337 consentimiento
+T25 PROC 529 551 trasladado a quirófano
+T26 PROC 476 495 extubación terminal
+T27 DISO 235 244 asistolia
+T28 PROC 271 281 extubación
+T29 DISO 169 175 muerte
+T30 PROC 523 541 laparotomía rápida
+T31 PROC 91 94 can
+T32 PROC 218 225 ulación
+T33 PROC 449 463 perfusión fría
+T34 PROC 133 137 expl
+T35 PROC 69 71 an
+T36 PROC 176 181 taron
+T37 ANAT 289 297 riá±ones
+T38 ANAT 297 305 pulmones
+T39 DISO 609 625 broncoaspiración
+T40 ANAT 235 241 hígado

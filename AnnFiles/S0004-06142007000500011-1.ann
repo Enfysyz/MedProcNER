@@ -1,0 +1,64 @@
+T1 DISO 1 29 aumento de volumen abdominal
+T2 DISO 16 31 pérdida de peso
+T3 DISO 33 49 falta de apetito
+T4 PROC 40 53 examen físico
+T5 ANAT 29 36 mucosas
+T6 ANAT 16 19 pál
+T7 ANAT 25 29 idas
+T8 ANAT 169 193 flanco abdominal derecho
+T9 DISO 81 91 tumoración
+T10 DISO 73 81 dolorosa
+T11 PROC 111 122 exámenes de
+T12 PROC 122 133 hemoglobina
+T13 PROC 25 27 er
+T14 PROC 53 57 itos
+T15 PROC 43 46 edi
+T16 PROC 136 145 mentación
+T17 PROC 17 18 V
+T18 PROC 35 37 SG
+T19 PROC 199 210 Rx de tórax
+T20 PROC 210 221 Survey óseo
+T21 PROC 401 421 Rx de abdomen simple
+T22 DISO 316 331 calcificaciones
+T23 DISO 221 231 tumoración
+T24 PROC 24 25 U
+T25 PROC 49 51 IV
+T26 ANAT 201 209 riá±ones
+T27 ANAT 131 136 renal
+T28 DISO 919 953 dilatación de las vías excre toras
+T29 ANAT 169 175 riá±ón
+T30 DISO 291 301 tumoración
+T31 PROC 271 280 ecografía
+T32 DISO 745 769 masa sólida , eco génica
+T33 ANAT 769 793 flanco abdominal derecho
+T34 ANAT 430 443 polo inferior
+T35 ANAT 205 211 riá±ón
+T36 ANAT 71 73 lo
+T37 PROC 829 852 tratamiento quiráºrgico
+T38 PROC 408 419 diagnóstico
+T39 DISO 191 196 Neuro
+T40 DISO 313 321 blastoma
+T41 PROC 761 780 reposición hemática
+T42 PROC 452 463 transfusión
+T43 PROC 631 646 acto operatorio
+T44 DISO 517 529 tumoraciones
+T45 ANAT 1101 1126 meso del colon transverso
+T46 PROC 226 231 resec
+T47 PROC 185 189 adas
+T48 PROC 236 241 extir
+T49 PROC 49 50 p
+T50 PROC 197 201 adas
+T51 PROC 1001 1021 examen macros cópico
+T52 ANAT 868 885 pieza quiráºrgica
+T53 DISO 625 637 tumoraciones
+T54 DISO 796 811 calcificaciones
+T55 PROC 1081 1101 estudio microscópico
+T56 DISO 1156 1177 tumoración intestinal
+T57 ANAT 393 400 células
+T58 ANAT 1369 1393 células musculares lisas
+T59 DISO 755 768 calcificación
+T60 DISO 473 481 necrosis
+T61 PROC 1621 1648 diagnóstico histopatológico
+T62 DISO 184 187 mio
+T63 DISO 311 316 fibro
+T64 DISO 442 449 matosis

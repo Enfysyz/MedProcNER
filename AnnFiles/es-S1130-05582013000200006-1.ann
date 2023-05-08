@@ -1,0 +1,75 @@
+T1 DISO 1 9 alérgico
+T2 CHEM 15 29 claritromicina
+T3 DISO 37 55 esófago de Barre t
+T4 DISO 49 65 temblor esencial
+T5 DISO 105 131 anemia ferropénica crónica
+T6 DISO 41 49 falleció
+T7 DISO 91 106 carcinoma renal
+T8 PROC 78 89 intervenido
+T9 DISO 121 136 carcinoma renal
+T10 PROC 100 111 diagnóstico
+T11 DISO 361 397 metástasis suprarrenales bilaterales
+T12 DISO 199 217 lesión metastásica
+T13 ANAT 97 105 pulmonar
+T14 ANAT 105 113 hepática
+T15 PROC 267 286 nefrectomía derecha
+T16 PROC 166 177 suprarrenal
+T17 PROC 273 290 ectomía izquierda
+T18 PROC 239 253 ensayo clínico
+T19 CHEM 181 191 interferón
+T20 CHEM 210 221 bevacizumab
+T21 DISO 441 463 lesiones metastás icas
+T22 DISO 463 485 tumoración paro tí dea
+T23 PROC 771 806 punción - aspiración con aguja fina
+T24 PROC 47 49 PA
+T25 PROC 49 51 AF
+T26 PROC 226 235 ecografía
+T27 DISO 755 784 metástasis de carcinoma renal
+T28 PROC 622 645 estudio de la extensión
+T29 DISO 169 175 lesión
+T30 PROC 581 601 resonancia magnética
+T31 PROC 121 125 RM )
+T32 ANAT 249 257 cervical
+T33 DISO 321 331 tumoración
+T34 ANAT 133 137 paro
+T35 ANAT 69 71 tí
+T36 ANAT 106 109 deo
+T37 ANAT 649 667 lóbulo superficial
+T38 DISO 815 837 tumoración metastásica
+T39 PROC 1369 1405 tomografía por emisión de positrones
+T40 PROC 118 121 PET
+T41 DISO 961 985 lesión hiper metab ólica
+T42 ANAT 165 169 paro
+T43 ANAT 85 87 tí
+T44 ANAT 474 485 deo derecho
+T45 DISO 837 856 proceso metastásico
+T46 DISO 316 323 tumores
+T47 PROC 1059 1082 tratamiento de elección
+T48 PROC 189 193 paro
+T49 PROC 193 197 tide
+T50 PROC 687 701 ctomía radical
+T51 ANAT 1001 1021 lóbulos paro tí deos
+T52 PROC 970 989 anatomía patológica
+T53 DISO 209 213 masa
+T54 DISO 690 703 metástasis de
+T55 DISO 1891 1926 carcinoma de células claras renales
+T56 CHEM 221 225 cito
+T57 CHEM 281 286 quera
+T58 CHEM 286 291 tinas
+T59 CHEM 1741 1771 antígeno epitelial de membrana
+T60 CHEM 178 181 EMA
+T61 CHEM 61 62 v
+T62 CHEM 245 249 imen
+T63 CHEM 249 253 tina
+T64 CHEM 64 65 c
+T65 CHEM 65 66 d
+T66 CHEM 131 133 10
+T67 ANAT 2245 2279 estructuras profundas vasculares y
+T68 ANAT 604 613 nerviosas
+T69 PROC 817 829 radioterapia
+T70 DISO 208 211 ser
+T71 DISO 1541 1563 oma herida quiráºrgica
+T72 DISO 995 1009 complicaciones
+T73 PROC 505 512 dado de
+T74 PROC 1607 1629 control de las heridas
+T75 PROC 667 676 consultas

@@ -1,0 +1,93 @@
+T1 DISO 1 13 bocio difuso
+T2 DISO 26 51 mioma uterino calcificado
+T3 PROC 43 64 parto por vía vaginal
+T4 DISO 67 89 dolor abdominal cólico
+T5 DISO 81 101 distensión abdominal
+T6 DISO 106 127 deposiciones líquidas
+T7 DISO 85 99 sintomatología
+T8 PROC 127 145 exploración física
+T9 DISO 57 64 abdomen
+T10 DISO 91 101 distendido
+T11 DISO 41 45 timp
+T12 DISO 23 25 an
+T13 DISO 61 66 izado
+T14 DISO 300 323 doloroso a la palpación
+T15 ANAT 155 166 hemiabdomen
+T16 ANAT 391 417 cuadrante inferior derecho
+T17 DISO 449 477 signos irritación peritoneal
+T18 DISO 86 91 masas
+T19 DISO 271 286 visceromegalias
+T20 PROC 172 181 analítica
+T21 DISO 781 820 leucocitosis predominio granul oc ítico
+T22 PROC 64 67 PCR
+T23 PROC 199 208 analítica
+T24 PROC 162 169 glucosa
+T25 PROC 121 126 iones
+T26 PROC 326 339 función renal
+T27 PROC 443 460 enzimas hepáticos
+T28 PROC 190 197 amilasa
+T29 PROC 561 581 sistemático de orina
+T30 PROC 407 421 RX abdominales
+T31 DISO 1201 1241 dilatación de asas del intestino delgado
+T32 ANAT 63 65 ID
+T33 ANAT 161 166 colon
+T34 ANAT 463 477 ampolla rectal
+T35 DISO 817 841 calcificaciones uterinas
+T36 DISO 176 181 mioma
+T37 PROC 685 704 ecografía abdominal
+T38 ANAT 75 77 ID
+T39 DISO 495 508 líquido libre
+T40 ANAT 664 681 asas intestinales
+T41 PROC 521 534 TAC abdominal
+T42 DISO 411 421 dilatación
+T43 ANAT 169 173 asas
+T44 ANAT 87 89 ID
+T45 ANAT 133 136 ile
+T46 ANAT 496 507 on terminal
+T47 ANAT 139 142 ile
+T48 ANAT 95 97 on
+T49 ANAT 145 148 FID
+T50 ANAT 246 251 colon
+T51 CHEM 451 460 contraste
+T52 DISO 664 677 líquido libre
+T53 ANAT 781 796 saco de Douglas
+T54 DISO 902 919 áºtero mioma toso
+T55 DISO 1405 1431 calcificaciones gr um osas
+T56 PROC 2531 2577 tratamiento conservador con sonda nasogástrica
+T57 PROC 337 343 fluido
+T58 PROC 400 407 terapia
+T59 PROC 523 532 analgesia
+T60 PROC 1417 1441 intervención quiráºrgica
+T61 PROC 1981 2014 laparotomía media infra umbilical
+T62 DISO 794 807 líquido libre
+T63 DISO 621 631 dilatación
+T64 ANAT 253 257 asas
+T65 ANAT 129 131 ID
+T66 DISO 1756 1783 engrosamiento es tenos ante
+T67 ANAT 199 202 ile
+T68 ANAT 738 749 on terminal
+T69 ANAT 1293 1312 válvula ile oc ecal
+T70 DISO 484 491 tumoral
+T71 ANAT 1191 1208 superficie serosa
+T72 DISO 1776 1801 adenopatías mesent éricas
+T73 PROC 1369 1388 exploración pélvica
+T74 DISO 1242 1259 áºtero mioma toso
+T75 PROC 1555 1576 resección ile oc ecal
+T76 PROC 2851 2889 anastomosis lá tero - lateral mecánica
+T77 PROC 1141 1156 drenaje líquido
+T78 ANAT 1849 1873 fondo de saco de Douglas
+T79 ANAT 625 633 muestras
+T80 ANAT 633 641 Anatomía
+T81 PROC 1521 1540 estudio histológico
+T82 ANAT 244 247 ile
+T83 ANAT 903 914 on terminal
+T84 ANAT 416 421 ciego
+T85 DISO 925 936 adherencias
+T86 DISO 681 689 fibrosis
+T87 ANAT 431 436 pared
+T88 ANAT 1567 1585 epitelio glandular
+T89 ANAT 881 891 endometrio
+T90 ANAT 1692 1711 estroma endometrial
+T91 DISO 2071 2094 infiltrado inflamatorio
+T92 DISO 729 737 fibrosis
+T93 ANAT 1473 1489 pared intestinal

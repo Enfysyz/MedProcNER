@@ -1,0 +1,115 @@
+T1 DISO 1 37 patología here do - familiar , renal
+T2 DISO 13 25 hipertensión
+T3 PROC 29 43 Parto eutócico
+T4 PROC 40 53 test de Apgar
+T5 PROC 25 31 Antrop
+T6 PROC 36 43 ometría
+T7 ANAT 49 57 cefálico
+T8 PROC 8 9 V
+T9 PROC 17 19 DR
+T10 PROC 10 11 L
+T11 PROC 31 34 Ant
+T12 PROC 23 25 HB
+T13 PROC 13 14 s
+T14 PROC 40 43 VIH
+T15 DISO 57 61 Toxo
+T16 DISO 136 145 plasmosis
+T17 DISO 113 120 rubéola
+T18 DISO 35 37 ap
+T19 DISO 37 39 én
+T20 DISO 552 581 dices auriculares bilaterales
+T21 DISO 781 820 baja implantación del pabellón auditivo
+T22 DISO 400 419 granulomas cutáneos
+T23 DISO 111 116 micro
+T24 DISO 70 73 gna
+T25 DISO 121 126 tismo
+T26 DISO 526 547 hipoplasia mandibular
+T27 DISO 105 109 colo
+T28 DISO 28 29 b
+T29 DISO 85 88 oma
+T30 ANAT 88 91 ojo
+T31 DISO 601 621 tumefacción escrotal
+T32 DISO 249 257 dolorosa
+T33 PROC 321 331 Calendario
+T34 CHEM 232 239 vacunas
+T35 PROC 273 281 transfer
+T36 PROC 106 109 ido
+T37 DISO 73 75 ur
+T38 DISO 112 115 ose
+T39 DISO 153 157 psis
+T40 PROC 235 241 Intern
+T41 PROC 1521 1559 ado inicialmente en la Unidad Cuidados
+T42 PROC 739 757 medidas de soporte
+T43 PROC 589 603 antibioterapia
+T44 CHEM 431 441 ampicilina
+T45 CHEM 485 496 gentamicina
+T46 CHEM 91 93 ce
+T47 CHEM 369 377 fotaxima
+T48 PROC 1693 1729 ecografia reno - pélv ica - escrotal
+T49 DISO 145 148 ure
+T50 DISO 197 201 tero
+T51 DISO 51 52 -
+T52 DISO 154 157 hid
+T53 DISO 1041 1061 ronefrosis bilateral
+T54 ANAT 319 325 vejiga
+T55 DISO 1729 1761 tumefacción escrotal ec ogénicas
+T56 DISO 1211 1233 destrucción testicular
+T57 PROC 169 172 uro
+T58 PROC 400 407 cultura
+T59 PROC 291 296 cisto
+T60 PROC 178 181 ure
+T61 PROC 181 184 tro
+T62 PROC 977 993 grafía miccional
+T63 DISO 621 631 dilatación
+T64 ANAT 379 385 uretra
+T65 ANAT 385 391 vejiga
+T66 DISO 1691 1717 reflujo v ésico - ureteral
+T67 ANAT 529 537 válvulas
+T68 PROC 269 273 radi
+T69 PROC 2041 2071 ologías óseas de cuerpo entero
+T70 DISO 1243 1261 alteraciones óseas
+T71 DISO 1681 1705 alteraciones vertebrales
+T72 PROC 214 217 ful
+T73 PROC 217 220 gur
+T74 PROC 2483 2517 ación de las válvulas de la uretra
+T75 PROC 149 151 or
+T76 PROC 226 229 qui
+T77 PROC 153 155 de
+T78 PROC 1772 1795 ctomía inguinal derecha
+T79 PROC 1093 1107 ramos la sonda
+T80 PROC 317 321 dado
+T81 ANAT 401 406 renal
+T82 PROC 244 247 uro
+T83 PROC 575 582 cultura
+T84 PROC 748 757 internado
+T85 DISO 1849 1871 infección respiratoria
+T86 DISO 1106 1119 bronquiolitis
+T87 PROC 259 262 uro
+T88 PROC 262 265 cul
+T89 PROC 441 446 turas
+T90 PROC 446 451 medic
+T91 PROC 1621 1639 ado antibioterapia
+T92 PROC 365 369 dado
+T93 PROC 553 559 profil
+T94 PROC 1489 1505 axia antibiótica
+T95 CHEM 283 286 tri
+T96 CHEM 476 481 metro
+T97 CHEM 385 389 prim
+T98 CHEM 98 99 -
+T99 CHEM 197 199 su
+T100 CHEM 100 101 f
+T101 CHEM 1001 1011 ametoxazol
+T102 DISO 506 511 orina
+T103 PROC 307 310 uro
+T104 PROC 1752 1769 grafía endovenosa
+T105 PROC 313 316 cin
+T106 PROC 421 425 tilo
+T107 PROC 2545 2569 grama renal con MA G - 3
+T108 PROC 2141 2161 prueba de furosemida
+T109 DISO 3133 3162 dilatación ureteral bilateral
+T110 DISO 328 331 bif
+T111 DISO 1101 1111 idez renal
+T112 ANAT 778 785 vesical
+T113 ANAT 673 679 vejiga
+T114 ANAT 679 685 uretra
+T115 ANAT 571 576 renal

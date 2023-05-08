@@ -1,0 +1,50 @@
+T1 PROC 1 9 consulta
+T2 DISO 31 61 dolor en fosa iliaca izquierda
+T3 DISO 17 25 síntomas
+T4 DISO 19 25 fiebre
+T5 PROC 97 121 tratamiento domiciliario
+T6 PROC 91 109 exploración física
+T7 DISO 109 127 palpación dolorosa
+T8 ANAT 78 89 fosa iliaca
+T9 DISO 137 154 defensa abdominal
+T10 ANAT 109 121 intestinales
+T11 PROC 111 122 exploración
+T12 PROC 188 205 analítica general
+T13 PROC 37 40 GGT
+T14 PROC 118 127 ferritina
+T15 PROC 43 46 PCR
+T16 DISO 301 321 diverticulitis aguda
+T17 DISO 81 86 dolor
+T18 PROC 239 253 TAC de abdomen
+T19 DISO 145 153 divertic
+T20 DISO 324 341 ulosis sigmo idea
+T21 DISO 281 295 diverticulitis
+T22 ANAT 148 155 abdomen
+T23 DISO 243 254 inflamación
+T24 ANAT 116 121 grasa
+T25 ANAT 409 426 colon descendente
+T26 ANAT 501 521 apéndice epi plo ico
+T27 DISO 53 55 ap
+T28 DISO 109 113 enda
+T29 DISO 29 30 g
+T30 DISO 291 301 itis aguda
+T31 DISO 211 218 torsión
+T32 PROC 404 417 diagnosticado
+T33 DISO 33 34 a
+T34 DISO 100 103 pen
+T35 DISO 69 71 da
+T36 DISO 36 37 g
+T37 DISO 145 149 itis
+T38 DISO 38 39 a
+T39 DISO 115 118 pen
+T40 DISO 79 81 da
+T41 DISO 41 42 g
+T42 DISO 657 673 itis epi plo ica
+T43 PROC 967 990 tratamiento conservador
+T44 CHEM 173 177 anti
+T45 CHEM 45 46 -
+T46 CHEM 586 599 inflamatorios
+T47 DISO 369 377 síntomas
+T48 DISO 659 673 complicaciones
+T49 CHEM 577 589 antibióticos
+T50 PROC 981 1001 ingreso hospitalario

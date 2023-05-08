@@ -1,0 +1,35 @@
+T1 DISO 1 11 tumoración
+T2 ANAT 17 33 polo superior de
+T3 ANAT 27 40 teste derecho
+T4 PROC 13 17 auto
+T5 PROC 45 56 exploración
+T6 PROC 41 49 consulta
+T7 PROC 109 127 exploración física
+T8 DISO 29 33 masa
+T9 ANAT 33 37 epid
+T10 ANAT 28 31 ídi
+T11 ANAT 21 23 mo
+T12 PROC 221 241 ecografía testicular
+T13 DISO 253 274 lesión nodular sólida
+T14 ANAT 378 407 cabeza de epid ídi mo derecho
+T15 PROC 43 46 RMN
+T16 DISO 181 193 masa nodular
+T17 DISO 561 596 tumor adenoma to ide de epid ídi mo
+T18 PROC 358 379 resección quiráºrgica
+T19 DISO 325 343 tumoración nodular
+T20 ANAT 457 481 cola epid ídi mo derecho
+T21 PROC 41 43 or
+T22 PROC 64 67 qui
+T23 PROC 155 162 ectomía
+T24 PROC 599 625 examen aná tomo patológico
+T25 ANAT 409 426 pieza quiráºrgica
+T26 DISO 426 443 formación nodular
+T27 DISO 547 568 proliferación tumoral
+T28 ANAT 298 309 estructuras
+T29 ANAT 253 262 tubulares
+T30 ANAT 204 211 celular
+T31 ANAT 121 125 idad
+T32 ANAT 249 257 náºcleos
+T33 ANAT 257 265 citoplas
+T34 ANAT 100 103 mas
+T35 DISO 1191 1226 tumor adenoma to ide de epid ídi mo

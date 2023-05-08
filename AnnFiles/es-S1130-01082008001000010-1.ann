@@ -1,0 +1,121 @@
+T1 PROC 1 8 ingresó
+T2 DISO 22 43 ictericia mucocutánea
+T3 DISO 7 10 col
+T4 DISO 13 17 uria
+T5 DISO 29 36 prurito
+T6 DISO 61 73 tuberculosis
+T7 PROC 43 50 tratada
+T8 DISO 134 153 hipercolesterolemia
+T9 PROC 169 190 tratamiento dietético
+T10 DISO 91 101 tabaquismo
+T11 PROC 91 100 analítica
+T12 PROC 122 133 bilirrubina
+T13 PROC 37 40 GOT
+T14 PROC 40 43 GPT
+T15 PROC 43 46 GGT
+T16 PROC 31 33 FA
+T17 PROC 49 52 LDH
+T18 PROC 120 127 Amilasa
+T19 PROC 109 115 lipasa
+T20 DISO 96 101 hiper
+T21 DISO 101 106 gamma
+T22 DISO 253 265 globulinemia
+T23 PROC 111 116 gamma
+T24 PROC 208 217 globulina
+T25 PROC 73 76 IgG
+T26 PROC 201 209 marcador
+T27 CHEM 53 55 CA
+T28 PROC 406 421 autoanticuerpos
+T29 PROC 85 88 ANA
+T30 PROC 88 91 AMA
+T31 CHEM 91 94 AMA
+T32 CHEM 32 33 -
+T33 CHEM 33 34 2
+T34 CHEM 133 137 ANCA
+T35 CHEM 35 36 L
+T36 CHEM 36 37 K
+T37 CHEM 37 38 M
+T38 CHEM 38 39 1
+T39 CHEM 39 40 S
+T40 CHEM 79 81 MA
+T41 CHEM 41 42 S
+T42 CHEM 83 85 LA
+T43 CHEM 43 44 F
+T44 CHEM 44 45 -
+T45 CHEM 89 91 ac
+T46 CHEM 181 185 tina
+T47 PROC 1519 1552 serologías para virus y bacterias
+T48 DISO 48 49 V
+T49 DISO 97 99 HA
+T50 DISO 148 151 VHB
+T51 DISO 151 154 VHC
+T52 DISO 154 157 HIV
+T53 DISO 157 160 CMV
+T54 DISO 160 163 VEB
+T55 DISO 109 111 VV
+T56 DISO 56 57 Z
+T57 DISO 169 172 VHS
+T58 PROC 1084 1103 ecografía abdominal
+T59 DISO 3017 3069 dilatación de la vía biliar intra - y extra hepática
+T60 PROC 178 181 eco
+T61 PROC 601 611 endoscopia
+T62 PROC 123 125 US
+T63 PROC 63 64 E
+T64 ANAT 505 513 páncreas
+T65 DISO 385 391 lesión
+T66 ANAT 391 397 cabeza
+T67 ANAT 1321 1341 conducto pancreático
+T68 PROC 1341 1361 TAC toraco abdominal
+T69 ANAT 545 553 páncreas
+T70 DISO 484 491 hipoden
+T71 DISO 141 143 so
+T72 ANAT 285 289 halo
+T73 ANAT 289 293 peri
+T74 ANAT 439 445 pancre
+T75 ANAT 371 376 ático
+T76 ANAT 376 381 borde
+T77 ANAT 1749 1772 grasa peri pancre ática
+T78 ANAT 1156 1171 retroperitoneal
+T79 ANAT 391 396 peria
+T80 ANAT 159 161 ór
+T81 ANAT 321 325 tica
+T82 ANAT 1459 1477 territorio ili aco
+T83 ANAT 493 499 tejido
+T84 ANAT 1827 1849 estructuras vasculares
+T85 DISO 1933 1956 pancreatitis autoinmune
+T86 DISO 2041 2065 fibrosis retroperitoneal
+T87 DISO 603 610 prurito
+T88 DISO 871 881 colestasis
+T89 PROC 2201 2226 drenaje biliar percutáneo
+T90 PROC 713 721 colangio
+T91 PROC 541 547 grafía
+T92 DISO 1821 1841 lesión es tenos ante
+T93 ANAT 737 745 colédoco
+T94 DISO 1954 1975 neoplasia pancreática
+T95 PROC 1035 1046 diagnóstico
+T96 PROC 3326 3361 punción - aspiración con aguja fina
+T97 PROC 97 98 U
+T98 PROC 195 197 SE
+T99 PROC 883 892 citología
+T100 DISO 1585 1601 células malignas
+T101 PROC 701 708 tinción
+T102 CHEM 102 103 Z
+T103 CHEM 307 310 iel
+T104 CHEM 104 105 h
+T105 DISO 937 946 neoplasia
+T106 DISO 2416 2439 pancreatitis autoinmune
+T107 PROC 849 857 colangio
+T108 PROC 643 649 pancre
+T109 PROC 325 328 ato
+T110 PROC 3162 3191 grafía retrógrada endoscópica
+T111 PROC 111 112 C
+T112 PROC 334 337 PRE
+T113 DISO 1121 1131 dilatación
+T114 ANAT 1131 1141 vía biliar
+T115 DISO 1027 1036 estenosis
+T116 PROC 691 697 colocó
+T117 PROC 1393 1405 endoprótesis
+T118 PROC 1288 1299 tratamiento
+T119 CHEM 1299 1310 corticoides
+T120 CHEM 596 601 metil
+T121 CHEM 1441 1453 prednisolona

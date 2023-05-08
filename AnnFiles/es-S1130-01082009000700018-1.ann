@@ -1,0 +1,44 @@
+T1 DISO 1 6 dolor
+T2 ANAT 11 21 epigastrio
+T3 DISO 11 16 dolor
+T4 ANAT 19 25 hombro
+T5 PROC 45 56 exploración
+T6 DISO 51 61 sudoración
+T7 DISO 115 134 palidez mucocutánea
+T8 PROC 43 49 pulsos
+T9 ANAT 65 73 distales
+T10 DISO 37 41 hipo
+T11 DISO 51 56 tenso
+T12 DISO 45 49 taqu
+T13 DISO 97 105 icárdico
+T14 PROC 40 43 ECG
+T15 PROC 267 286 ecografía abdominal
+T16 DISO 61 65 masa
+T17 ANAT 321 341 segmento hepático VI
+T18 DISO 256 271 hepatocarcinoma
+T19 DISO 541 571 líquido libre intra cav itaria
+T20 PROC 457 481 TAC de abdomen contraste
+T21 DISO 81 85 hemo
+T22 DISO 190 199 peritoneo
+T23 DISO 133 139 lesión
+T24 ANAT 461 481 segmento VI hepático
+T25 DISO 361 376 hepatocarcinoma
+T26 DISO 151 157 lesión
+T27 DISO 209 217 sangrado
+T28 PROC 244 253 analítica
+T29 PROC 309 320 hemoglobina
+T30 PROC 320 331 hematocrito
+T31 DISO 301 311 leucocitos
+T32 DISO 342 353 neutrofilia
+T33 DISO 417 430 inestabilidad
+T34 PROC 562 579 pruebas de imagen
+T35 PROC 1089 1121 intervención quiráºrgica urgente
+T36 PROC 386 397 laparotomía
+T37 DISO 217 223 lesión
+T38 PROC 334 343 ecografía
+T39 PROC 115 118 TAC
+T40 PROC 274 281 segment
+T41 PROC 281 288 ectomía
+T42 PROC 247 253 lavado
+T43 PROC 757 775 drenaje de cavidad
+T44 PROC 1076 1101 dado de alta hospitalaria

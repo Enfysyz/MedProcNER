@@ -1,0 +1,82 @@
+T1 DISO 1 24 alergias medicamentosas
+T2 DISO 25 49 mononucleosis infecciosa
+T3 DISO 57 85 fractura del brazo izquierdo
+T4 DISO 49 65 obesidad mórbida
+T5 DISO 77 96 esteatosis hepática
+T6 PROC 36 43 tratado
+T7 PROC 121 141 cirugía b aria trica
+T8 DISO 120 137 obstrucción nasal
+T9 DISO 145 163 rinorrea purulenta
+T10 DISO 163 181 taponamiento nasal
+T11 DISO 161 177 masa intranas al
+T12 DISO 386 421 tumoración sub mandibular izquierda
+T13 DISO 61 66 tromb
+T14 DISO 105 113 ocitosis
+T15 DISO 113 121 tromboci
+T16 DISO 211 225 temia esencial
+T17 PROC 545 579 aspirado / bio psia de médula ósea
+T18 PROC 154 163 hemograma
+T19 PROC 325 343 cifra de plaquetas
+T20 PROC 134 141 biopsia
+T21 DISO 321 337 masa intranas al
+T22 PROC 400 419 biopsia incis ional
+T23 DISO 771 806 tumoración sub mandibular izquierda
+T24 PROC 967 1009 tomografía computer izada cervico - facial
+T25 DISO 577 601 masa de partes bal n das
+T26 ANAT 451 469 celda sub max ilar
+T27 DISO 209 217 necrosis
+T28 DISO 82 85 abs
+T29 DISO 85 88 ces
+T30 DISO 262 271 ificación
+T31 DISO 361 373 inflamatoria
+T32 DISO 187 193 lesión
+T33 DISO 833 859 quiste par ala ter onas al
+T34 PROC 232 239 biopsia
+T35 DISO 613 631 lesión intranas al
+T36 DISO 1856 1909 infiltrado de células neoplásicas de estirpe linfoide
+T37 ANAT 685 704 células neoplásicas
+T38 ANAT 704 723 células neoplásicas
+T39 PROC 685 703 inmunohistoquímica
+T40 PROC 79 81 CD
+T41 PROC 81 83 45
+T42 PROC 42 43 c
+T43 PROC 85 87 CD
+T44 PROC 44 45 3
+T45 PROC 177 181 Gran
+T46 PROC 46 47 z
+T47 PROC 231 236 ime B
+T48 PROC 95 97 CD
+T49 PROC 97 99 56
+T50 PROC 99 101 CD
+T51 PROC 101 103 20
+T52 PROC 52 53 -
+T53 PROC 105 107 CD
+T54 PROC 54 55 4
+T55 PROC 55 56 -
+T56 PROC 111 113 CD
+T57 PROC 57 58 8
+T58 PROC 58 59 -
+T59 PROC 59 60 L
+T60 PROC 119 121 MP
+T61 PROC 61 62 1
+T62 PROC 62 63 V
+T63 PROC 125 127 EB
+T64 PROC 127 129 )-
+T65 PROC 193 196 Per
+T66 PROC 196 199 for
+T67 PROC 199 202 ina
+T68 PROC 470 477 biopsia
+T69 DISO 1701 1726 tumoración sub mandibular
+T70 DISO 4348 4411 infiltración masiva por células neoplásicas de estirpe linfoide
+T71 DISO 1261 1279 lesión intranas al
+T72 PROC 1634 1657 determinación del EB ER
+T73 PROC 73 74 V
+T74 PROC 147 149 EB
+T75 CHEM 2961 3001 cadena gamma del receptor del linf ocito
+T76 CHEM 76 77 T
+T77 CHEM 153 155 CR
+T78 CHEM 2850 2887 cadena pesada de las inmunoglobulinas
+T79 CHEM 157 159 Ig
+T80 CHEM 80 81 H
+T81 PROC 881 892 diagnóstico
+T82 DISO 3160 3199 Linfoma NK extra gangl ionar tipo nasal

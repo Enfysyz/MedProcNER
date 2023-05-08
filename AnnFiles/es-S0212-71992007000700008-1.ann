@@ -1,0 +1,90 @@
+T1 DISO 1 13 enfermedades
+T2 DISO 28 55 síndrome to xico infeccioso
+T3 DISO 9 13 poli
+T4 DISO 4 5 -
+T5 DISO 9 11 ar
+T6 DISO 41 49 tralgias
+T7 ANAT 85 99 articulaciones
+T8 PROC 50 57 tratada
+T9 CHEM 89 100 amoxicilina
+T10 DISO 127 141 tos productiva
+T11 DISO 321 353 expectoración muco - pur ul enta
+T12 DISO 67 73 disnea
+T13 DISO 253 274 deposiciones líquidas
+T14 DISO 300 323 sintomatología urinaria
+T15 PROC 183 196 examen físico
+T16 ANAT 61 65 piel
+T17 ANAT 113 120 mucosas
+T18 DISO 86 91 secas
+T19 DISO 55 58 pál
+T20 DISO 77 81 idas
+T21 ANAT 121 127 cráneo
+T22 ANAT 316 331 región parietal
+T23 DISO 177 185 alopecia
+T24 DISO 530 553 eritema centro - facial
+T25 ANAT 193 201 mejillas
+T26 ANAT 201 209 pulmones
+T27 ANAT 183 190 capular
+T28 DISO 190 197 Abdomen
+T29 DISO 225 233 doloroso
+T30 ANAT 320 331 hipocondrio
+T31 ANAT 181 187 flanco
+T32 PROC 249 257 Blumberg
+T33 ANAT 289 298 Genitales
+T34 DISO 430 443 flujo genital
+T35 ANAT 783 806 extremidades superiores
+T36 DISO 141 145 live
+T37 DISO 541 556 do reticular is
+T38 ANAT 186 191 dorso
+T39 ANAT 191 196 manos
+T40 DISO 586 601 cianosis distal
+T41 ANAT 201 206 dedos
+T42 ANAT 206 211 manos
+T43 DISO 1429 1463 lesiones en " mor de dura de ratón
+T44 ANAT 130 133 fal
+T45 ANAT 89 91 an
+T46 ANAT 136 139 ges
+T47 ANAT 231 236 dedos
+T48 ANAT 189 193 mano
+T49 ANAT 145 148 fal
+T50 ANAT 99 101 an
+T51 ANAT 151 154 ges
+T52 ANAT 256 261 dedos
+T53 ANAT 209 213 mano
+T54 DISO 1008 1027 dolorosas palpación
+T55 DISO 1567 1596 hemorragias sub - un gue ales
+T56 DISO 826 841 Edema esbo zado
+T57 ANAT 1289 1312 extremidades inferiores
+T58 DISO 514 523 petequias
+T59 ANAT 291 296 dorso
+T60 ANAT 237 241 pies
+T61 DISO 1201 1221 irritación men íngea
+T62 DISO 184 187 foc
+T63 DISO 1303 1324 alización neurológica
+T64 PROC 694 705 hemoglobina
+T65 PROC 705 716 hematocrito
+T66 ANAT 456 463 segment
+T67 ANAT 265 269 ados
+T68 ANAT 671 681 linfocitos
+T69 ANAT 613 622 monocitos
+T70 DISO 622 631 plaquetas
+T71 PROC 561 569 glucemia
+T72 PROC 143 145 Na
+T73 PROC 577 585 K sérico
+T74 PROC 877 889 Cl . ser ico
+T75 PROC 1777 1801 nitrógeno ure ico sérico
+T76 PROC 751 761 creatinina
+T77 PROC 1597 1618 tiempo de protrombina
+T78 PROC 1156 1171 Examen de orina
+T79 CHEM 703 712 proteínas
+T80 ANAT 475 481 sangre
+T81 ANAT 641 649 hematíes
+T82 ANAT 244 247 pio
+T83 ANAT 411 416 citos
+T84 DISO 2823 2857 cilindros hema ticos y gran ulosos
+T85 PROC 85 86 Ċ
+T86 PROC 1446 1463 factor reumatoide
+T87 PROC 173 175 AS
+T88 PROC 175 177 TO
+T89 PROC 2993 3027 serología para hepatitis B , C VIH
+T90 PROC 268 271 TSH

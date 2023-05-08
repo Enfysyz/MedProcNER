@@ -1,0 +1,61 @@
+T1 PROC 1 25 valoración oftalmológica
+T2 DISO 12 23 mala visión
+T3 DISO 23 34 talla corta
+T4 DISO 19 25 braqui
+T5 DISO 13 16 mor
+T6 DISO 16 19 fia
+T7 DISO 19 22 bra
+T8 DISO 29 33 quid
+T9 DISO 57 64 actilia
+T10 ANAT 109 121 extremidades
+T11 DISO 81 89 diplopía
+T12 ANAT 67 73 ocular
+T13 ANAT 85 92 corneal
+T14 ANAT 53 57 ojos
+T15 PROC 29 31 pa
+T16 PROC 46 49 qui
+T17 PROC 97 103 metría
+T18 ANAT 256 271 cámara anterior
+T19 DISO 37 39 ir
+T20 DISO 58 61 ido
+T21 DISO 21 22 f
+T22 DISO 64 67 aco
+T23 DISO 111 116 dones
+T24 DISO 47 49 is
+T25 DISO 169 176 microes
+T26 DISO 101 105 fero
+T27 DISO 53 55 fa
+T28 DISO 109 113 quia
+T29 ANAT 197 204 cristal
+T30 ANAT 117 121 inos
+T31 ANAT 481 497 cámara posterior
+T32 PROC 590 609 presión intraocular
+T33 PROC 97 100 Gon
+T34 PROC 100 103 ios
+T35 PROC 375 386 cópicamente
+T36 DISO 526 541 ángulo estrecho
+T37 ANAT 145 149 ojos
+T38 PROC 741 761 exploración mediante
+T39 PROC 875 898 examen del fondo de ojo
+T40 PROC 391 401 prevención
+T41 DISO 561 575 cierre angular
+T42 PROC 83 85 ir
+T43 PROC 127 130 ido
+T44 PROC 947 969 tomía láser N d : Y AG
+T45 ANAT 177 181 ojos
+T46 DISO 361 369 diplopía
+T47 PROC 1289 1317 control de la agudeza visual
+T48 PROC 894 913 presión intraocular
+T49 PROC 1201 1226 documentación fotográfica
+T50 PROC 736 751 campos visuales
+T51 DISO 951 970 daá±o glaucoma toso
+T52 DISO 103 105 es
+T53 DISO 209 213 fero
+T54 DISO 107 109 fa
+T55 DISO 217 221 quia
+T56 DISO 331 337 braqui
+T57 DISO 169 172 mor
+T58 DISO 172 175 fia
+T59 DISO 175 178 bra
+T60 DISO 237 241 quid
+T61 DISO 421 428 actilia

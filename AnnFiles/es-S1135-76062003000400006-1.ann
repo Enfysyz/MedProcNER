@@ -1,0 +1,91 @@
+T1 DISO 1 21 dolor centrotorácico
+T2 DISO 32 63 sensación de hormigueo en manos
+T3 DISO 15 22 náuseas
+T4 PROC 70 93 asistencia faculta tiva
+T5 DISO 33 41 síntomas
+T6 PROC 41 49 asistido
+T7 PROC 61 71 diagnostic
+T8 PROC 43 49 ándose
+T9 DISO 129 145 infarto inferior
+T10 PROC 109 121 fibrinolisis
+T11 CHEM 41 45 Stre
+T12 CHEM 34 37 pto
+T13 CHEM 13 14 k
+T14 CHEM 66 71 inasa
+T15 PROC 71 76 trató
+T16 CHEM 46 49 Sol
+T17 CHEM 49 52 ini
+T18 CHEM 86 91 trina
+T19 CHEM 91 96 Aspir
+T20 CHEM 58 61 ina
+T21 CHEM 61 64 Zan
+T22 CHEM 64 67 tac
+T23 PROC 155 162 ingreso
+T24 DISO 323 337 sintomatología
+T25 DISO 121 126 dolor
+T26 ANAT 201 209 miembros
+T27 DISO 339 352 palidez pulso
+T28 PROC 892 925 Tomografía A xial Compu ter izada
+T29 PROC 85 88 TAC
+T30 DISO 494 511 disección aórtica
+T31 DISO 271 280 embolismo
+T32 PROC 373 385 TAC de Tórax
+T33 DISO 385 397 patología en
+T34 ANAT 166 171 aorta
+T35 PROC 1089 1121 ecografía de miembros inferiores
+T36 DISO 631 649 oclusión bilateral
+T37 ANAT 73 75 po
+T38 ANAT 75 77 pl
+T39 ANAT 115 118 ite
+T40 ANAT 40 41 o
+T41 PROC 441 452 intervenido
+T42 PROC 206 211 embol
+T43 PROC 715 732 ectomía bilateral
+T44 DISO 345 353 frialdad
+T45 PROC 1013 1036 estudio histopatológico
+T46 DISO 1216 1243 material tromb ótico mático
+T47 DISO 1197 1223 inestabilidad hemodinámica
+T48 DISO 142 145 liv
+T49 DISO 145 148 ide
+T50 DISO 1275 1301 ces en miembros inferiores
+T51 DISO 951 970 insuficiencia renal
+T52 DISO 256 261 shock
+T53 DISO 313 319 muerte
+T54 DISO 743 757 sintomatología
+T55 PROC 1189 1211 examen externo cadáver
+T56 DISO 1321 1345 coloración rojo viol ada
+T57 ANAT 841 856 tercio inferior
+T58 ANAT 343 349 muslos
+T59 ANAT 465 473 rodillas
+T60 ANAT 1240 1261 zona genital inferior
+T61 ANAT 421 428 abdomen
+T62 ANAT 489 497 pulmones
+T63 PROC 435 442 presión
+T64 DISO 694 705 crepitación
+T65 ANAT 257 261 dedo
+T66 ANAT 66 67 F
+T67 ANAT 67 68 ó
+T68 ANAT 202 205 vea
+T69 PROC 613 622 comprimir
+T70 ANAT 415 421 pulmón
+T71 ANAT 1121 1137 saco pericárdico
+T72 DISO 924 937 cardiomegalia
+T73 ANAT 1441 1461 ventrículo izquierdo
+T74 DISO 877 889 hipertrófico
+T75 ANAT 371 376 pared
+T76 PROC 1801 1825 análisis histopatológico
+T77 ANAT 533 540 corazón
+T78 DISO 2234 2263 cardiopatía isquémica crónica
+T79 DISO 547 554 infarto
+T80 ANAT 1107 1121 cara posterior
+T81 ANAT 1601 1621 ventrículo izquierdo
+T82 ANAT 1135 1149 aorta torácica
+T83 DISO 2543 2574 placa arterio es clerótica rota
+T84 DISO 1910 1933 hemorragia intra pl aca
+T85 DISO 1681 1701 material tromb ótico
+T86 ANAT 511 517 cayado
+T87 ANAT 775 784 endotelio
+T88 ANAT 1306 1321 aorta abdominal
+T89 ANAT 529 535 hígado
+T90 DISO 357 361 este
+T91 DISO 811 820 at ós ico

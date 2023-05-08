@@ -1,0 +1,73 @@
+T1 DISO 1 5 exal
+T2 DISO 4 7 coh
+T3 DISO 11 16 ólico
+T4 DISO 7 9 ex
+T5 DISO 29 36 fumador
+T6 DISO 196 235 enfermedad pulmonar obstructiva crónica
+T7 DISO 25 29 EPOC
+T8 DISO 169 193 incapacidad respiratoria
+T9 DISO 89 100 hepatopatía
+T10 DISO 55 61 poliar
+T11 DISO 61 67 trosis
+T12 DISO 67 73 polimi
+T13 DISO 181 196 algia reumática
+T14 DISO 235 253 esófago de Barre t
+T15 PROC 449 481 tratamiento cortico ideo crónico
+T16 DISO 571 609 aplastamiento osteopor ótico vertebral
+T17 PROC 385 409 intervención quiráºrgica
+T18 PROC 273 289 fusión vertebral
+T19 PROC 145 153 vertebro
+T20 PROC 134 141 plastia
+T21 PROC 221 232 diagnóstico
+T22 DISO 778 815 síndrome de lesión medular transversa
+T23 PROC 221 231 evaluación
+T24 PROC 576 601 tratamiento rehabilitador
+T25 DISO 313 326 inestabilidad
+T26 DISO 401 417 lesión vertebral
+T27 PROC 339 352 curas locales
+T28 PROC 298 309 curas ladas
+T29 DISO 785 813 herida abierta , infectada y
+T30 DISO 59 61 es
+T31 DISO 91 94 fac
+T32 DISO 187 193 el ada
+T33 ANAT 737 760 región vertebral dorsal
+T34 PROC 430 443 osteosíntesis
+T35 DISO 477 491 lesión medular
+T36 DISO 211 217 herida
+T37 PROC 217 223 cierre
+T38 PROC 482 495 osteosíntesis
+T39 PROC 191 196 curas
+T40 CHEM 469 481 antisépticos
+T41 ANAT 761 780 colgajo de trapecio
+T42 ANAT 124 127 pal
+T43 ANAT 127 130 eta
+T44 ANAT 302 309 cutánea
+T45 DISO 309 316 defecto
+T46 PROC 541 553 intervención
+T47 PROC 921 941 maniobras posturales
+T48 DISO 800 817 congestión venosa
+T49 ANAT 337 344 colgajo
+T50 PROC 148 151 des
+T51 PROC 101 103 br
+T52 PROC 205 209 idar
+T53 ANAT 365 372 tejidos
+T54 CHEM 160 163 VAC
+T55 DISO 379 386 exudado
+T56 ANAT 441 449 muscular
+T57 ANAT 169 172 pal
+T58 ANAT 172 175 eta
+T59 ANAT 407 414 cutánea
+T60 CHEM 237 241 poli
+T61 CHEM 181 184 ure
+T62 CHEM 245 249 tano
+T63 DISO 931 946 herida residual
+T64 DISO 1198 1217 signos de infección
+T65 PROC 321 326 flujo
+T66 ANAT 586 595 sanguíneo
+T67 ANAT 397 403 tejido
+T68 ANAT 1408 1429 tejido de granulación
+T69 PROC 477 484 terapia
+T70 PROC 760 771 tratamiento
+T71 PROC 281 285 auto
+T72 PROC 569 577 injertos
+T73 CHEM 217 220 VAC

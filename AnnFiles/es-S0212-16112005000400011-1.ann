@@ -1,0 +1,98 @@
+T1 DISO 1 9 alergias
+T2 PROC 14 27 diagnosticado
+T3 DISO 47 70 adenocarcinoma gástrico
+T4 PROC 22 29 ingresa
+T5 PROC 89 111 gastrectomía sub total
+T6 PROC 136 163 reconstrucción del tránsito
+T7 PROC 37 43 gastro
+T8 PROC 8 9 y
+T9 PROC 17 19 ey
+T10 PROC 19 21 un
+T11 PROC 211 232 ostomía Bill ro th II
+T12 PROC 265 289 intervención quiráºrgica
+T13 PROC 145 157 prescripción
+T14 PROC 261 281 nutrición artificial
+T15 PROC 519 556 administración de NPT por vía central
+T16 CHEM 136 145 preparado
+T17 CHEM 33 35 Ka
+T18 CHEM 52 55 mix
+T19 PROC 91 96 dieta
+T20 PROC 172 181 suplement
+T21 PROC 61 64 ada
+T22 CHEM 568 595 preparado multiv ita mínico
+T23 CHEM 45 47 PM
+T24 CHEM 24 25 V
+T25 CHEM 73 76 Cer
+T26 CHEM 51 53 ne
+T27 CHEM 79 82 vit
+T28 CHEM 379 393 oligoelementos
+T29 CHEM 57 59 Ad
+T30 CHEM 88 91 dam
+T31 CHEM 61 63 el
+T32 PROC 311 321 régimen de
+T33 PROC 737 760 alimentación parenteral
+T34 PROC 166 171 dieta
+T35 CHEM 239 246 fórmula
+T36 CHEM 246 253 fórmula
+T37 PROC 325 334 suplement
+T38 PROC 112 115 ada
+T39 CHEM 77 79 PM
+T40 CHEM 40 41 V
+T41 CHEM 561 575 oligoelementos
+T42 CHEM 370 379 vitaminas
+T43 PROC 337 345 infusión
+T44 PROC 216 221 dieta
+T45 DISO 1761 1801 erupción cutánea prurigin osa diseminada
+T46 PROC 631 645 administración
+T47 CHEM 139 142 dex
+T48 CHEM 189 193 clor
+T49 CHEM 145 148 fen
+T50 CHEM 148 151 ira
+T51 CHEM 201 205 mina
+T52 DISO 1225 1249 Complicaciones mecánicas
+T53 DISO 365 372 pérdida
+T54 ANAT 160 163 vía
+T55 PROC 163 166 NPT
+T56 PROC 551 561 tolerancia
+T57 PROC 1345 1369 intervención quiráºrgica
+T58 DISO 856 871 dolor abdominal
+T59 PROC 1451 1476 laparotomía explora toria
+T60 DISO 414 421 absceso
+T61 DISO 961 977 colección biliar
+T62 PROC 184 187 NPT
+T63 PROC 1179 1198 dieta suplement ada
+T64 CHEM 127 129 PM
+T65 CHEM 65 66 V
+T66 PROC 521 529 infusión
+T67 DISO 2641 2681 erupción cutánea prurigin osa diseminada
+T68 PROC 202 205 NPT
+T69 DISO 409 415 fiebre
+T70 DISO 1036 1051 dolor abdominal
+T71 PROC 911 924 diagnosticado
+T72 DISO 711 721 colangitis
+T73 PROC 649 658 ingresado
+T74 PROC 1680 1703 tratamiento antibiótico
+T75 CHEM 741 751 analgésico
+T76 PROC 1051 1065 dieta absoluta
+T77 DISO 1293 1310 hipersensibilidad
+T78 PROC 925 937 prescripción
+T79 PROC 235 238 NPT
+T80 CHEM 1976 2001 solución de aminoácidos y
+T81 CHEM 561 568 glucosa
+T82 CHEM 82 83 A
+T83 CHEM 329 333 mino
+T84 CHEM 250 253 ven
+T85 DISO 589 596 eritema
+T86 DISO 596 603 prurito
+T87 CHEM 1463 1480 emulsión lipídica
+T88 CHEM 175 177 In
+T89 CHEM 353 357 tral
+T90 CHEM 179 181 ip
+T91 CHEM 181 183 id
+T92 DISO 1093 1105 complicación
+T93 CHEM 185 187 PM
+T94 CHEM 94 95 V
+T95 CHEM 1317 1331 oligoelementos
+T96 PROC 666 673 ingreso
+T97 DISO 3073 3105 proceso ne of orma tivo gástrico
+T98 PROC 583 589 exitus

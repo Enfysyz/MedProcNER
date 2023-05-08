@@ -1,0 +1,41 @@
+T1 DISO 1 36 molestias abdominales intermitentes
+T2 DISO 21 41 infecciones de orina
+T3 DISO 47 70 sintomatología urinaria
+T4 DISO 115 153 dolor abdominal en hemiabdomen derecho
+T5 PROC 77 96 ecografía abdominal
+T6 DISO 21 25 aden
+T7 DISO 97 113 itis mesentérica
+T8 DISO 239 273 dilatación de pelvis renal derecha
+T9 DISO 161 181 estenosis de la UP U
+T10 PROC 163 181 Sedimento de orina
+T11 PROC 21 23 ur
+T12 PROC 34 37 ino
+T13 PROC 85 92 cultivo
+T14 DISO 196 211 dolor abdominal
+T15 PROC 239 256 control evolutivo
+T16 PROC 301 321 ecografía de control
+T17 DISO 193 205 asintomático
+T18 DISO 494 523 dilatación de la vía urinaria
+T19 DISO 613 647 dilatación de pelvis renal derecha
+T20 PROC 58 61 ren
+T21 PROC 341 358 ograma iso tópico
+T22 DISO 757 793 estenosis de la unión pielo ureteral
+T23 PROC 67 70 ren
+T24 PROC 139 145 ograma
+T25 DISO 457 476 ectasia obstructiva
+T26 ANAT 151 157 riá±ón
+T27 PROC 651 676 estudio gammagrafía renal
+T28 ANAT 136 141 renal
+T29 ANAT 197 204 derecho
+T30 DISO 117 121 hipo
+T31 ANAT 361 373 borde medial
+T32 DISO 311 321 dilatación
+T33 ANAT 97 100 vía
+T34 ANAT 166 171 renal
+T35 ANAT 545 561 riá±ón izquierdo
+T36 ANAT 491 505 riá±ón derecho
+T37 DISO 1081 1111 dilatación del tracto urinario
+T38 PROC 889 913 intervención quiráºrgica
+T39 PROC 1217 1249 colocó un catéter de nefrostomía
+T40 DISO 1132 1161 deterioro de la función renal
+T41 PROC 1721 1764 controles de imagen , clínicos y analíticos

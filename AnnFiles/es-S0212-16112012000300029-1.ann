@@ -1,0 +1,93 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 4 7 LAM
+T3 DISO 5 7 he
+T4 DISO 10 13 mon
+T5 DISO 5 6 e
+T6 DISO 16 19 umo
+T7 DISO 79 92 tórax derecho
+T8 PROC 50 57 cirugía
+T9 PROC 81 91 evacuación
+T10 DISO 37 41 hemo
+T11 DISO 51 56 tórax
+T12 PROC 100 109 resección
+T13 DISO 217 235 distrofia bul losa
+T14 PROC 300 323 seguimiento ambulatorio
+T15 DISO 239 256 ascitis qu il osa
+T16 DISO 61 65 linf
+T17 DISO 65 69 angi
+T18 DISO 205 217 oma quístico
+T19 ANAT 91 96 retro
+T20 ANAT 191 201 peritoneal
+T21 PROC 601 631 tomografía axial computarizada
+T22 PROC 316 331 TAC ) abdominal
+T23 PROC 155 162 ingresó
+T24 DISO 415 433 disnea de esfuerzo
+T25 DISO 553 576 derrame pleural derecho
+T26 ANAT 376 391 líquido pleural
+T27 DISO 79 82 qui
+T28 DISO 55 57 lo
+T29 DISO 141 146 tórax
+T30 PROC 378 391 triglicéridos
+T31 PROC 301 311 colesterol
+T32 ANAT 311 321 leucocitos
+T33 ANAT 225 232 células
+T34 ANAT 100 103 mon
+T35 ANAT 205 211 onucle
+T36 ANAT 141 145 ares
+T37 PROC 325 334 proteínas
+T38 PROC 112 115 LDH
+T39 PROC 115 118 IMC
+T40 PROC 781 801 valores de proteínas
+T41 PROC 401 411 linfocitos
+T42 ANAT 247 253 sangre
+T43 PROC 967 990 tratamiento conservador
+T44 PROC 216 221 torac
+T45 PROC 969 991 ocentesis evacu adoras
+T46 PROC 991 1013 dieta exenta de grasas
+T47 CHEM 1151 1176 suplementos nutricionales
+T48 CHEM 95 97 NO
+T49 CHEM 1393 1422 triglicéridos de cadena media
+T50 CHEM 50 51 T
+T51 CHEM 101 103 CM
+T52 DISO 1327 1353 empeoramiento respiratorio
+T53 ANAT 781 796 líquido pleural
+T54 ANAT 372 379 pleural
+T55 PROC 1081 1101 nutrición parenteral
+T56 PROC 111 113 NP
+T57 PROC 617 628 tratamiento
+T58 CHEM 115 117 oc
+T59 CHEM 117 119 te
+T60 CHEM 60 61 ó
+T61 CHEM 121 123 tr
+T62 CHEM 184 187 ido
+T63 DISO 1365 1387 intolerancia digestiva
+T64 DISO 1891 1921 alteración hidroelectrol ítica
+T65 PROC 1025 1041 reposo digestivo
+T66 DISO 976 991 derrame pleural
+T67 PROC 1057 1073 drenaje torácico
+T68 PROC 403 409 pleuro
+T69 PROC 341 346 desis
+T70 CHEM 208 211 tal
+T71 CHEM 141 143 co
+T72 PROC 782 793 tratamiento
+T73 DISO 2449 2483 deterioro de su estado nutricional
+T74 DISO 877 889 pérdida peso
+T75 DISO 297 301 hipo
+T76 DISO 826 837 albuminemia
+T77 DISO 761 771 linfopenia
+T78 ANAT 232 235 cél
+T79 PROC 859 870 tratamiento
+T80 CHEM 159 161 NP
+T81 DISO 2321 2350 infección asociada al catéter
+T82 PROC 2107 2133 retirada de la vía central
+T83 PROC 2215 2242 dieta oral exenta en grasas
+T84 CHEM 250 253 TCM
+T85 ANAT 673 681 drenajes
+T86 PROC 596 603 ingreso
+T87 PROC 1033 1045 dada de alta
+T88 ANAT 610 617 drenaje
+T89 PROC 441 446 evacu
+T90 PROC 624 631 aciones
+T91 PROC 811 820 albáºmina
+T92 ANAT 911 921 linfocitos
+T93 ANAT 277 280 cél

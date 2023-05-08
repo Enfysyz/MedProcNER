@@ -1,0 +1,46 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 17 33 colitis ulcerosa
+T3 PROC 23 34 tratamiento
+T4 DISO 25 33 diarreas
+T5 DISO 25 31 sangre
+T6 PROC 61 73 tacto rectal
+T7 DISO 115 134 lesión exc rec ente
+T8 ANAT 78 89 margen anal
+T9 PROC 473 532 Serología VIH l ues virus de Epstein - Barr citomegalovirus
+T10 PROC 64 71 colonos
+T11 PROC 61 67 copias
+T12 DISO 100 109 formación
+T13 ANAT 73 79 rectal
+T14 ANAT 40 43 ano
+T15 DISO 225 241 lesión ulcer ada
+T16 DISO 136 145 displasia
+T17 ANAT 129 137 epitelio
+T18 ANAT 52 55 fib
+T19 ANAT 73 77 rino
+T20 ANAT 39 41 le
+T21 ANAT 41 43 uc
+T22 ANAT 64 67 oci
+T23 ANAT 111 116 tario
+T24 PROC 254 265 tratamiento
+T25 PROC 673 701 medidas higiénico dietéticas
+T26 PROC 51 53 en
+T27 PROC 105 109 emas
+T28 CHEM 298 309 corticoides
+T29 CHEM 29 30 5
+T30 CHEM 30 31 -
+T31 CHEM 91 94 ASA
+T32 PROC 373 385 colonoscopia
+T33 DISO 833 859 pólipo mixto hiper plásico
+T34 DISO 793 817 adenoma tubular de recto
+T35 PROC 817 841 intervención quiráºrgica
+T36 PROC 701 721 resección trans anal
+T37 DISO 217 223 lesión
+T38 DISO 1185 1217 inflamación crónica inespecífica
+T39 PROC 381 391 histología
+T40 DISO 235 241 lesión
+T41 PROC 281 288 biopsia
+T42 DISO 657 673 adenoma vel loso
+T43 DISO 1429 1463 enfermedad inflamatoria intestinal
+T44 ANAT 345 353 muestras
+T45 DISO 133 136 cap
+T46 DISO 406 415 poliposis

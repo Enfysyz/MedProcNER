@@ -1,0 +1,46 @@
+T1 PROC 1 9 derivado
+T2 DISO 11 21 tumoración
+T3 ANAT 37 55 región paro tí dea
+T4 PROC 28 37 palpación
+T5 DISO 49 61 consistencia
+T6 DISO 36 43 pastosa
+T7 DISO 115 134 signos de infección
+T8 DISO 162 185 alteraciones de la piel
+T9 DISO 89 100 adenopatías
+T10 ANAT 280 311 cadenas ganglionares del cuello
+T11 DISO 51 56 dolor
+T12 DISO 56 61 tumor
+T13 PROC 229 248 examen intra b ucal
+T14 DISO 300 323 alteraciones sistémicas
+T15 PROC 281 301 tomografía computada
+T16 DISO 76 81 tumor
+T17 ANAT 289 307 lóbulo superficial
+T18 ANAT 307 325 glándula paró tida
+T19 DISO 217 229 alteraciones
+T20 ANAT 134 141 tejidos
+T21 PROC 221 232 diagnóstico
+T22 DISO 547 573 tumor benigno de glándulas
+T23 PROC 375 392 anestesia general
+T24 PROC 254 265 extirpación
+T25 DISO 121 126 tumor
+T26 PROC 76 79 lob
+T27 PROC 495 514 ectomía superficial
+T28 ANAT 487 505 glándula paró tida
+T29 ANAT 365 378 nervio facial
+T30 PROC 552 571 anatomía patológica
+T31 PROC 331 342 diagnóstico
+T32 DISO 94 97 mio
+T33 DISO 97 100 epi
+T34 DISO 496 511 telioma benigno
+T35 PROC 987 1016 análisis inmunohisto químicos
+T36 ANAT 1086 1117 células mio epi teliales claras
+T37 CHEM 217 223 actina
+T38 CHEM 593 609 proteína S - 100
+T39 CHEM 39 40 v
+T40 CHEM 157 161 imen
+T41 CHEM 161 165 tina
+T42 DISO 575 589 complicaciones
+T43 DISO 589 603 paresia de los
+T44 ANAT 990 1013 máºsculos perib uc ales
+T45 PROC 309 316 operado
+T46 PROC 496 507 seguimiento

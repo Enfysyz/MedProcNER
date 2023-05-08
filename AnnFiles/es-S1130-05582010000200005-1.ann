@@ -1,0 +1,97 @@
+T1 DISO 1 35 tumoración hemi mandibular derecha
+T2 PROC 4 7 exo
+T3 PROC 73 109 doncia de molar del cuarto cuadrante
+T4 DISO 16 21 dolor
+T5 PROC 73 91 exploración física
+T6 PROC 21 25 orto
+T7 PROC 19 22 pan
+T8 PROC 71 81 tomografía
+T9 DISO 81 91 tumoración
+T10 ANAT 46 51 hueso
+T11 ANAT 161 177 corticales óseas
+T12 ANAT 188 205 segundo pre molar
+T13 ANAT 181 196 rama mandibular
+T14 ANAT 404 435 máºsculo p teri go ideo interno
+T15 PROC 365 391 tomografía computarizada (
+T16 PROC 166 177 TC ) facial
+T17 DISO 401 426 lesión tumoral mandibular
+T18 ANAT 460 487 cortical mandibular interna
+T19 ANAT 199 210 musculatura
+T20 ANAT 666 701 estructuras de la base de la lengua
+T21 ANAT 121 127 cuerpo
+T22 ANAT 358 375 rama mandibulares
+T23 ANAT 155 162 cóndilo
+T24 PROC 438 457 biopsia diagnóstica
+T25 DISO 385 401 lesión mi xo ide
+T26 DISO 1151 1197 componente inflamatorio linfo plas mo ci tario
+T27 CHEM 27 28 v
+T28 CHEM 109 113 imen
+T29 CHEM 113 117 tina
+T30 CHEM 59 61 CD
+T31 CHEM 91 94 138
+T32 CHEM 156 161 Kappa
+T33 CHEM 129 133 Lamb
+T34 CHEM 67 69 da
+T35 CHEM 205 211 actina
+T36 PROC 631 649 inmunohistoquímica
+T37 CHEM 37 38 S
+T38 CHEM 38 39 -
+T39 CHEM 115 118 100
+T40 CHEM 79 81 CD
+T41 CHEM 81 83 31
+T42 CHEM 83 85 CD
+T43 CHEM 85 87 68
+T44 PROC 474 485 diagnóstico
+T45 DISO 133 136 mix
+T46 DISO 1261 1289 oma odonto génico mandibular
+T47 PROC 783 800 anestesia general
+T48 PROC 1176 1201 intubación nas o traqueal
+T49 PROC 1105 1128 extirpación quiráºrgica
+T50 DISO 295 301 lesión
+T51 PROC 201 205 hemi
+T52 PROC 154 157 man
+T53 PROC 105 107 di
+T54 PROC 160 163 bul
+T55 PROC 1027 1046 ectomía segmentaria
+T56 ANAT 716 729 región canina
+T57 ANAT 841 856 rama mandibular
+T58 ANAT 1141 1161 apófisis cor onoides
+T59 ANAT 1045 1063 cóndilo mandibular
+T60 DISO 237 241 hemi
+T61 DISO 181 184 man
+T62 DISO 123 125 dí
+T63 DISO 1675 1702 bula contralateral den tada
+T64 PROC 1450 1473 reconstrucción primaria
+T65 PROC 2305 2341 injerto libre microvascular izado de
+T66 ANAT 391 397 peroné
+T67 ANAT 397 403 peroné
+T68 ANAT 470 477 colgajo
+T69 PROC 205 208 pre
+T70 PROC 1105 1121 form ado in situ
+T71 ANAT 281 285 hemi
+T72 ANAT 214 217 man
+T73 ANAT 145 147 dí
+T74 ANAT 293 297 bula
+T75 PROC 1037 1051 reconstrucción
+T76 ANAT 676 685 mandíbula
+T77 PROC 2281 2311 osteotomía del hueso per oneal
+T78 PROC 1926 1951 fijación con mini pl acas
+T79 PROC 1561 1581 anastomosis vascular
+T80 ANAT 2055 2081 arterias peron ea y facial
+T81 ANAT 2161 2188 venas concomitante peron ea
+T82 ANAT 2755 2789 tronco venoso ti rol ingu of acial
+T83 PROC 1559 1578 estudio histológico
+T84 ANAT 416 421 pieza
+T85 DISO 253 256 mix
+T86 DISO 2381 2409 oma odonto génico mandibular
+T87 ANAT 517 523 bordes
+T88 DISO 1219 1233 complicaciones
+T89 PROC 1057 1069 intervención
+T90 ANAT 535 541 peroné
+T91 ANAT 1441 1457 reborde alveolar
+T92 ANAT 365 369 hemi
+T93 ANAT 277 280 man
+T94 ANAT 187 189 dí
+T95 ANAT 377 381 bula
+T96 PROC 3136 3169 distracción oste ogénica vertical
+T97 ANAT 577 583 peroné

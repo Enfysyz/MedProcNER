@@ -1,0 +1,85 @@
+T1 DISO 1 22 cardiopatía isquémica
+T2 PROC 14 27 diagnosticada
+T3 DISO 39 58 artritis reumatoide
+T4 DISO 19 25 poliar
+T5 DISO 57 71 tritis crónica
+T6 CHEM 51 61 medicación
+T7 CHEM 61 71 cloroquina
+T8 CHEM 78 89 metotrexato
+T9 PROC 297 334 artroplastia total de rodilla derecha
+T10 DISO 172 191 anemia normo cítica
+T11 DISO 61 67 fatiga
+T12 DISO 78 85 bilidad
+T13 DISO 481 521 neuropatía periférica sensi tiv omo tora
+T14 DISO 183 197 esplenomegalia
+T15 PROC 281 301 estudio hematológico
+T16 CHEM 151 161 monoclonal
+T17 CHEM 49 52 IgM
+T18 PROC 375 397 biopsia de médula ósea
+T19 PROC 235 248 diagnosticada
+T20 DISO 96 101 macro
+T21 DISO 601 631 globulinemia de Wal dens trá¶m
+T22 DISO 148 155 enferma
+T23 DISO 177 185 tomática
+T24 CHEM 231 241 prednisona
+T25 CHEM 121 126 metro
+T26 CHEM 176 183 trexato
+T27 PROC 183 190 terapia
+T28 CHEM 541 561 agentes alquil antes
+T29 CHEM 673 697 análogos de nucle ósidos
+T30 DISO 407 421 diarrea febril
+T31 DISO 271 280 febrícula
+T32 DISO 156 161 dolor
+T33 DISO 449 463 tumefacción la
+T34 ANAT 232 239 rodilla
+T35 DISO 273 281 síntomas
+T36 PROC 281 289 consulta
+T37 PROC 253 260 ingreso
+T38 PROC 408 419 exploración
+T39 PROC 685 703 temperatura axilar
+T40 DISO 430 441 tumefacción
+T41 DISO 681 698 derrame a tensión
+T42 ANAT 288 295 rodilla
+T43 DISO 463 474 hipoestesia
+T44 ANAT 990 1013 extremidades inferiores
+T45 ANAT 177 181 aquí
+T46 ANAT 181 185 leos
+T47 PROC 231 236 artro
+T48 PROC 377 385 centesis
+T49 DISO 769 785 fluido purulento
+T50 ANAT 491 501 leucocitos
+T51 ANAT 351 358 polimor
+T52 ANAT 154 157 fon
+T53 ANAT 417 425 ucleares
+T54 PROC 796 811 tinción de Gram
+T55 PROC 973 991 cultivos aeróbicos
+T56 CHEM 551 561 penicilina
+T57 CHEM 561 571 ampicilina
+T58 CHEM 685 697 cotrimoxazol
+T59 CHEM 639 650 rifampicina
+T60 PROC 178 181 VSG
+T61 PROC 1141 1160 Proteína C reactiva
+T62 PROC 550 559 hemograma
+T63 ANAT 683 694 neutrófilos
+T64 ANAT 631 641 linfocitos
+T65 ANAT 577 586 monocitos
+T66 PROC 131 133 Hb
+T67 PROC 727 738 hematocrito
+T68 PROC 604 613 plaquetas
+T69 CHEM 273 277 inmu
+T70 CHEM 277 281 glob
+T71 CHEM 421 427 ulinas
+T72 PROC 214 217 IgA
+T73 PROC 217 220 IgG
+T74 PROC 220 223 IgM
+T75 CHEM 1111 1126 cadenas ligeras
+T76 CHEM 301 305 lamb
+T77 CHEM 153 155 da
+T78 CHEM 386 391 kappa
+T79 PROC 781 791 bioquímica
+T80 PROC 554 561 glucosa
+T81 PROC 801 811 creatinina
+T82 PROC 325 329 urea
+T83 PROC 1313 1329 colesterol total
+T84 PROC 1080 1093 triglicéridos
+T85 PROC 1849 1871 láctico de hidrogenasa

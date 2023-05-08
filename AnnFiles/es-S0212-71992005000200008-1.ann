@@ -1,0 +1,65 @@
+T1 DISO 1 4 tal
+T2 DISO 13 25 asemia minor
+T3 DISO 49 73 diabetes mellitus tipo 2
+T4 CHEM 43 57 antidiabéticos
+T5 PROC 9 11 Hb
+T6 PROC 21 25 Apen
+T7 PROC 61 71 dicectomía
+T8 PROC 225 257 cirugía de hidro cele testicular
+T9 PROC 73 82 ingresado
+T10 DISO 235 261 síncopes al ortos ta tismo
+T11 DISO 321 353 bloqueo AV parox ístico completo
+T12 DISO 155 169 sintomatología
+T13 PROC 217 235 puso un marcapasos
+T14 DISO 183 197 sintomatología
+T15 PROC 43 46 ECO
+T16 PROC 166 177 cardiograma
+T17 DISO 561 596 hipertrofia de ventrículo izquierdo
+T18 PROC 205 217 TC abdominal
+T19 PROC 415 438 exploración neurológica
+T20 PROC 77 81 alta
+T21 DISO 61 64 sin
+T22 DISO 694 727 copes ortos ta ticos idio páticos
+T23 PROC 243 254 tratamiento
+T24 CHEM 70 73 eti
+T25 CHEM 49 51 le
+T26 CHEM 126 131 frina
+T27 CHEM 391 406 espironolactona
+T28 CHEM 82 85 flu
+T29 CHEM 57 59 do
+T30 CHEM 262 271 cortisona
+T31 DISO 421 435 sintomatología
+T32 DISO 807 833 síncopes al ortos ta tismo
+T33 DISO 385 397 traumatismos
+T34 DISO 133 137 pres
+T35 DISO 69 71 ín
+T36 DISO 141 145 cope
+T37 DISO 505 519 sintomatología
+T38 PROC 297 305 ingresar
+T39 PROC 419 430 tratamiento
+T40 PROC 352 361 anamnesis
+T41 DISO 321 329 síncopes
+T42 DISO 124 127 nic
+T43 DISO 211 216 turia
+T44 DISO 302 309 diarrea
+T45 DISO 529 541 deposiciones
+T46 DISO 676 691 pérdida de peso
+T47 DISO 967 988 sintomatología tóxica
+T48 PROC 1505 1537 anamnesis por órganos y aparatos
+T49 PROC 865 883 exploración física
+T50 PROC 99 101 TA
+T51 PROC 101 103 TA
+T52 DISO 766 781 manifestaciones
+T53 DISO 1197 1220 sensación pres in copal
+T54 DISO 160 163 sud
+T55 PROC 973 991 exploración física
+T56 DISO 1541 1569 signos de liberación frontal
+T57 PROC 1849 1882 exploración neurológica y general
+T58 PROC 1312 1335 pruebas complementarias
+T59 PROC 581 591 bioquímica
+T60 PROC 414 421 glucosa
+T61 PROC 241 245 crea
+T62 PROC 1038 1055 proteínas totales
+T63 PROC 559 568 albáºmina
+T64 PROC 379 385 calcio
+T65 PROC 449 456 fósforo

@@ -1,0 +1,124 @@
+T1 DISO 1 11 hipertensa
+T2 DISO 6 11 hiper
+T3 DISO 21 31 colesterol
+T4 DISO 16 21 émica
+T5 PROC 101 126 tratamiento farmacológico
+T6 PROC 51 61 Diagnostic
+T7 PROC 19 22 ada
+T8 DISO 162 185 adenocarcinoma de colon
+T9 DISO 161 181 metástasis hepáticas
+T10 PROC 235 261 tratamiento quimioterápico
+T11 PROC 11 12 m
+T12 PROC 12 13 F
+T13 PROC 25 27 OL
+T14 PROC 14 15 F
+T15 PROC 29 31 OX
+T16 CHEM 16 17 B
+T17 CHEM 161 171 evacizumab
+T18 CHEM 35 37 ox
+T19 CHEM 73 77 alip
+T20 CHEM 39 41 la
+T21 CHEM 81 85 tino
+T22 CHEM 85 89 leuc
+T23 CHEM 45 47 ov
+T24 CHEM 47 49 or
+T25 CHEM 49 51 in
+T26 CHEM 26 27 5
+T27 CHEM 27 28 -
+T28 CHEM 55 57 FU
+T29 CHEM 29 30 5
+T30 CHEM 30 31 -
+T31 CHEM 61 63 FU
+T32 PROC 559 577 perfusión continua
+T33 CHEM 353 364 bevacizumab
+T34 DISO 166 171 neuro
+T35 DISO 307 316 toxicidad
+T36 CHEM 71 73 ox
+T37 CHEM 145 149 alip
+T38 CHEM 75 77 la
+T39 CHEM 153 157 tino
+T40 DISO 196 201 dolor
+T41 DISO 281 288 escozor
+T42 ANAT 534 547 región costal
+T43 DISO 1219 1248 lesiones bul los as dolorosas
+T44 DISO 216 221 ulcer
+T45 DISO 177 181 adas
+T46 DISO 271 277 supura
+T47 DISO 231 236 tivas
+T48 PROC 518 529 tratamiento
+T49 DISO 97 99 VV
+T50 DISO 50 51 Z
+T51 CHEM 151 154 bri
+T52 CHEM 307 313 vudina
+T53 CHEM 53 54 N
+T54 CHEM 160 163 erv
+T55 CHEM 163 166 ine
+T56 CHEM 56 57 x
+T57 PROC 617 628 tratamiento
+T58 CHEM 172 175 fam
+T59 CHEM 465 473 ciclovir
+T60 PROC 768 781 quimioterapia
+T61 DISO 481 489 lesiones
+T62 PROC 672 683 tratamiento
+T63 CHEM 187 190 bri
+T64 CHEM 379 385 vudina
+T65 DISO 961 976 dolor abdominal
+T66 DISO 326 331 heces
+T67 DISO 1387 1408 dolor en cavidad oral
+T68 DISO 537 545 disfagia
+T69 PROC 1089 1105 tensión arterial
+T70 PROC 1312 1331 frecuencia cardiaca
+T71 PROC 1891 1918 saturación basal de oxígeno
+T72 PROC 640 649 hemograma
+T73 DISO 721 731 leucopenia
+T74 PROC 1534 1555 cifras de neutrófilos
+T75 DISO 815 826 trombopenia
+T76 ANAT 676 685 plaquetas
+T77 PROC 1977 2003 aislamiento respiratorio y
+T78 PROC 925 937 sueroterapia
+T79 PROC 3277 3319 tratamiento con antibioterapia intravenosa
+T80 CHEM 317 321 mero
+T81 CHEM 401 406 penem
+T82 CHEM 892 903 vancomicina
+T83 CHEM 739 748 amikacina
+T84 CHEM 748 757 aciclovir
+T85 CHEM 841 851 fluconazol
+T86 CHEM 256 259 cas
+T87 CHEM 173 175 po
+T88 CHEM 610 617 fungina
+T89 PROC 969 980 tratamiento
+T90 DISO 535 541 fiebre
+T91 DISO 991 1002 neutropenia
+T92 PROC 1002 1013 tratamiento
+T93 DISO 461 466 picos
+T94 DISO 745 753 febriles
+T95 PROC 1129 1141 hemocultivos
+T96 CHEM 1046 1057 anticuerpos
+T97 CHEM 193 195 Î²
+T98 CHEM 98 99 -
+T99 CHEM 393 397 gluc
+T100 CHEM 298 301 ano
+T101 CHEM 501 506 galac
+T102 CHEM 304 307 tom
+T103 CHEM 205 207 an
+T104 CHEM 310 313 ano
+T105 CHEM 5201 5251 factores estimulantes de colonias granul oc íticas
+T106 CHEM 316 319 fil
+T107 CHEM 425 429 gras
+T108 CHEM 322 325 tim
+T109 PROC 865 873 transfun
+T110 PROC 655 661 dieron
+T111 CHEM 1651 1666 concentrados de
+T112 PROC 2887 2913 nutrición parenteral total
+T113 PROC 1681 1696 tratamiento del
+T114 DISO 566 571 dolor
+T115 PROC 1027 1036 analgesia
+T116 CHEM 806 813 morfina
+T117 PROC 697 703 coadyu
+T118 PROC 703 709 vancia
+T119 CHEM 591 596 AINES
+T120 PROC 2024 2041 aplicación tópica
+T121 CHEM 2161 2179 lidocaína vis cosa
+T122 CHEM 364 367 suc
+T123 CHEM 367 370 ral
+T124 CHEM 493 497 fato

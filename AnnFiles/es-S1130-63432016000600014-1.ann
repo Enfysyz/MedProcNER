@@ -1,0 +1,74 @@
+T1 PROC 1 12 diagnóstico
+T2 DISO 10 19 depresión
+T3 DISO 17 25 divertic
+T4 DISO 46 61 ulosis colónica
+T5 DISO 21 26 aplas
+T6 DISO 106 127 tamientos vertebrales
+T7 DISO 127 148 déficit de vitamina D
+T8 DISO 225 257 hipertensión arterial y pulmonar
+T9 DISO 33 37 fláº
+T10 DISO 118 131 ter auricular
+T11 DISO 441 485 insuficiencia mitral , tricuspídea y aórtica
+T12 PROC 122 133 tratamiento
+T13 CHEM 121 131 sertralina
+T14 CHEM 131 141 furosemida
+T15 CHEM 141 151 bisoprolol
+T16 CHEM 181 193 acenocumarol
+T17 PROC 81 86 pauta
+T18 CHEM 154 163 omeprazol
+T19 CHEM 217 229 simvastatina
+T20 CHEM 20 21 l
+T21 CHEM 221 232 ormetazepam
+T22 CHEM 211 221 vitamina D
+T23 CHEM 67 70 dom
+T24 CHEM 185 193 peridona
+T25 PROC 649 676 oxigenoterapia domiciliaria
+T26 DISO 151 157 hemato
+T27 DISO 79 82 que
+T28 DISO 82 85 cia
+T29 PROC 309 320 diagnostica
+T30 DISO 813 841 patología pulmonar bilateral
+T31 PROC 901 931 tomografía axial computarizada
+T32 PROC 435 449 TAC ) de tórax
+T33 DISO 1601 1651 infiltrados pulmonares parenquimatosos bilaterales
+T34 DISO 694 715 granuloma calcificado
+T35 ANAT 715 736 lóbulo medio pulmonar
+T36 DISO 841 865 adenopatía sub car ínica
+T37 DISO 2197 2258 neumonía multi - lob ular bilateral adquirida en la comunidad
+T38 CHEM 519 533 claritromicina
+T39 PROC 647 664 alta hospitalaria
+T40 PROC 274 281 ingresa
+T41 DISO 241 247 disnea
+T42 DISO 903 925 infiltrados pulmonares
+T43 PROC 715 732 alta hospitalaria
+T44 PROC 990 1013 tratamiento antibiótico
+T45 PROC 309 316 ingreso
+T46 PROC 856 875 prueba de Man to ux
+T47 PROC 553 565 broncoscopia
+T48 PROC 142 145 TAC
+T49 DISO 1441 1471 condensación del espacio aéreo
+T50 DISO 1226 1251 adenopatía inter lob ular
+T51 DISO 351 358 maligno
+T52 DISO 970 989 nódulos irregulares
+T53 DISO 937 955 nódulo calcificado
+T54 PROC 584 595 tratamiento
+T55 CHEM 541 551 sertralina
+T56 CHEM 771 785 claritromicina
+T57 PROC 393 400 pruebas
+T58 DISO 1255 1277 infiltrados pulmonares
+T59 DISO 1045 1063 condensación aérea
+T60 PROC 650 661 alta médica
+T61 PROC 661 672 tratamiento
+T62 CHEM 611 621 sertralina
+T63 DISO 993 1009 cuadro depresivo
+T64 DISO 1828 1857 disnea de pequeá±os esfuerzos
+T65 DISO 1857 1886 dolor centrotorácico opresivo
+T66 PROC 1366 1387 auscultación pulmonar
+T67 ANAT 595 604 vesicular
+T68 DISO 1609 1633 crepitantes base derecha
+T69 PROC 137 139 in
+T70 PROC 277 281 gres
+T71 PROC 1471 1492 a en medicina interna
+T72 PROC 1421 1441 radiografía de tórax
+T73 DISO 1585 1607 infiltrados pulmonares
+T74 PROC 512 519 ingreso

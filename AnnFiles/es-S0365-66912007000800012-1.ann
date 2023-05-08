@@ -1,0 +1,66 @@
+T1 PROC 1 6 vista
+T2 DISO 12 23 disminución
+T3 ANAT 7 10 ojo
+T4 PROC 76 101 exploración oftalmológica
+T5 PROC 57 71 agudeza visual
+T6 PROC 11 13 AV
+T7 ANAT 19 22 ojo
+T8 ANAT 22 25 ojo
+T9 PROC 337 379 examen biom ic ros cópico de polo anterior
+T10 DISO 28 31 emb
+T11 DISO 31 34 rio
+T12 DISO 34 37 tox
+T13 DISO 145 157 on posterior
+T14 PROC 248 267 presión intraocular
+T15 ANAT 57 61 ojos
+T16 PROC 181 193 fondo de ojo
+T17 DISO 385 409 Atrofia geográfica circu
+T18 ANAT 18 19 E
+T19 ANAT 37 39 PR
+T20 ANAT 58 61 cor
+T21 ANAT 101 106 oides
+T22 ANAT 253 265 área macular
+T23 ANAT 353 369 vasos coro ideos
+T24 DISO 369 385 Lesiones difusas
+T25 DISO 73 76 una
+T26 DISO 176 183 atrofia
+T27 ANAT 105 109 área
+T28 ANAT 190 197 macular
+T29 PROC 785 813 angiografía fluores ce ínica
+T30 PROC 59 61 AF
+T31 PROC 31 32 G
+T32 DISO 342 353 atrofia del
+T33 ANAT 33 34 E
+T34 ANAT 67 69 PR
+T35 ANAT 103 106 cor
+T36 ANAT 71 73 io
+T37 ANAT 109 112 cap
+T38 ANAT 149 153 ilar
+T39 DISO 153 157 coro
+T40 DISO 820 841 iditis ser pig in osa
+T41 PROC 1041 1067 tratamiento inmunosupresor
+T42 CHEM 124 127 Cor
+T43 CHEM 337 345 ticoides
+T44 CHEM 130 133 Cic
+T45 CHEM 133 136 los
+T46 CHEM 271 277 porina
+T47 CHEM 1059 1082 suplementos vitamínicos
+T48 DISO 894 913 déficit nutricional
+T49 PROC 1249 1275 tratamiento inmunosupresor
+T50 CHEM 148 151 Aza
+T51 CHEM 401 409 tioprina
+T52 CHEM 205 209 Meto
+T53 CHEM 365 372 trexate
+T54 PROC 1485 1513 diagnosticados genéticamente
+T55 DISO 1189 1211 Síndrome de Ala gil le
+T56 DISO 1651 1681 manifestaciones oftalmológicas
+T57 PROC 897 913 estudio genético
+T58 DISO 457 465 mutación
+T59 DISO 1277 1299 Síndrome de Ala gil le
+T60 PROC 650 661 seguimiento
+T61 PROC 721 733 fondo de ojo
+T62 DISO 2380 2419 lesiones a tróficas cor ior retin ianas
+T63 ANAT 745 757 área macular
+T64 DISO 1324 1345 signos angio gráficos
+T65 PROC 1281 1301 controles periódicos
+T66 PROC 716 727 seguimiento

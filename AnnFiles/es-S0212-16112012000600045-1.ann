@@ -1,0 +1,70 @@
+T1 PROC 1 13 gastrectomía
+T2 DISO 17 33 áºlcera gástrica
+T3 PROC 67 100 reconstrucción tipo Bill ro th II
+T4 PROC 31 41 Y de Ro ux
+T5 DISO 29 36 reflujo
+T6 DISO 111 133 cuadros subo clus ivos
+T7 PROC 43 50 cirugía
+T8 DISO 155 177 obstrucción intestinal
+T9 DISO 97 109 malnutrición
+T10 DISO 37 41 hipo
+T11 DISO 111 122 albuminemia
+T12 DISO 320 349 anemia de trastornos crónicos
+T13 DISO 241 261 áºlceras por presión
+T14 ANAT 157 169 región sacra
+T15 ANAT 99 106 talones
+T16 DISO 331 353 incontinencia urinaria
+T17 DISO 369 392 síndrome de inmovilidad
+T18 DISO 154 163 TBC renal
+T19 DISO 235 248 pielonefritis
+T20 PROC 134 141 cirugía
+T21 DISO 361 379 estenosis ureteral
+T22 PROC 43 45 In
+T23 PROC 89 93 gres
+T24 PROC 24 25 a
+T25 DISO 265 276 anemización
+T26 PROC 276 287 hemoglobina
+T27 DISO 469 487 sangrado digestivo
+T28 DISO 892 925 desnutrición proteico - cal órica
+T29 PROC 253 262 albáºmina
+T30 PROC 204 211 ingreso
+T31 PROC 451 466 sondaje vesical
+T32 ANAT 156 161 orina
+T33 PROC 289 298 ingresado
+T34 DISO 133 137 anas
+T35 DISO 137 141 arca
+T36 DISO 421 433 desnutrición
+T37 DISO 829 852 síndrome mal absor tivo
+T38 PROC 519 533 administración
+T39 CHEM 2319 2380 suplementos nutricionales hiper cal óricos / hiper prote icos
+T40 CHEM 118 121 For
+T41 CHEM 121 124 tim
+T42 CHEM 83 85 el
+T43 PROC 1009 1033 marcadores nutricionales
+T44 PROC 302 309 ingreso
+T45 CHEM 1101 1126 suplementos nutricionales
+T46 PROC 316 323 ingreso
+T47 PROC 691 706 sondaje vesical
+T48 PROC 894 913 control de diuresis
+T49 DISO 1153 1177 áºlceras en región sacra
+T50 ANAT 246 251 orina
+T51 PROC 751 766 sondaje vesical
+T52 CHEM 562 573 fosfomicina
+T53 PROC 261 266 pauta
+T54 DISO 1538 1567 infección del tracto urinario
+T55 PROC 379 386 ingreso
+T56 ANAT 716 729 orina vesical
+T57 PROC 1289 1312 tratamiento antibiótico
+T58 DISO 343 349 fiebre
+T59 DISO 697 709 leucocitosis
+T60 PROC 1122 1141 análisis bioquímico
+T61 ANAT 301 306 orina
+T62 PROC 123 125 pH
+T63 PROC 559 568 sedimento
+T64 DISO 505 513 hematíes
+T65 DISO 641 651 leucocitos
+T66 DISO 716 727 bacteriuria
+T67 CHEM 529 537 nitritos
+T68 PROC 671 681 urocultivo
+T69 CHEM 749 760 fosfomicina
+T70 PROC 760 771 tratamiento

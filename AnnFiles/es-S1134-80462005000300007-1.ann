@@ -1,0 +1,61 @@
+T1 PROC 1 5 tida
+T2 DISO 20 39 rotura de membranas
+T3 DISO 75 112 síndrome de K li pp el - T rena un ay
+T4 ANAT 73 97 miembro inferior derecho
+T5 DISO 17 21 angi
+T6 DISO 46 55 oma plano
+T7 ANAT 25 29 cara
+T8 ANAT 36 41 muslo
+T9 DISO 57 64 varicos
+T10 DISO 127 141 idades venosas
+T11 ANAT 51 56 muslo
+T12 ANAT 67 73 pierna
+T13 DISO 349 378 trastornos tró ficos cutáneos
+T14 ANAT 79 85 pierna
+T15 PROC 281 301 seguimiento vascular
+T16 PROC 271 289 tratamiento médico
+T17 CHEM 273 290 productos tópicos
+T18 DISO 324 343 trastornos cutáneos
+T19 ANAT 109 115 pierna
+T20 DISO 153 161 lesiones
+T21 ANAT 321 337 miembro inferior
+T22 DISO 526 551 malformaciones vasculares
+T23 DISO 309 323 complicaciones
+T24 DISO 231 241 enfermedad
+T25 DISO 385 401 afección cutánea
+T26 DISO 51 53 és
+T27 DISO 469 487 tasis circulatorio
+T28 PROC 487 505 analgesia epidural
+T29 ANAT 225 233 cervical
+T30 ANAT 204 211 uterina
+T31 ANAT 121 125 feto
+T32 DISO 528 545 sufrimiento fetal
+T33 PROC 289 298 hemograma
+T34 PROC 298 307 plaquetas
+T35 PROC 375 386 hemoglobina
+T36 PROC 771 793 estudio de coagulación
+T37 PROC 361 371 bioquímica
+T38 PROC 519 533 consentimiento
+T39 PROC 495 508 procedimiento
+T40 PROC 1171 1201 colocación de catéter epidural
+T41 ANAT 681 698 espacio L 3 - L 4
+T42 CHEM 124 127 bup
+T43 CHEM 337 345 ivacaína
+T44 CHEM 431 441 epinefrina
+T45 CHEM 133 136 bup
+T46 CHEM 361 369 ivacaína
+T47 CHEM 553 565 vasoconstric
+T48 CHEM 142 145 tor
+T49 CHEM 433 442 fentanilo
+T50 PROC 442 451 perfusión
+T51 CHEM 151 154 bup
+T52 CHEM 409 417 ivacaína
+T53 CHEM 469 478 fentanilo
+T54 PROC 478 487 analgesia
+T55 PROC 271 276 parto
+T56 PROC 331 337 episio
+T57 PROC 281 286 tomía
+T58 DISO 742 755 recién nacido
+T59 PROC 1277 1299 test de Apgar epidural
+T60 DISO 1476 1501 fenómenos tromboembólicos
+T61 CHEM 1861 1892 heparina de bajo peso molecular

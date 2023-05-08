@@ -1,0 +1,56 @@
+T1 DISO 1 26 enrojecimiento de la piel
+T2 ANAT 35 69 tercio superior del tórax proximal
+T3 ANAT 17 25 miembros
+T4 DISO 82 109 debilidad muscular proximal
+T5 ANAT 25 31 brazos
+T6 ANAT 36 43 piernas
+T7 DISO 133 155 eritema en helio tropo
+T8 ANAT 57 65 párpados
+T9 DISO 145 163 pápulas viol áceas
+T10 ANAT 19 21 nu
+T11 ANAT 31 34 dil
+T12 ANAT 34 37 los
+T13 ANAT 61 66 manos
+T14 PROC 118 127 analítica
+T15 PROC 99 106 creatin
+T16 PROC 16 17 k
+T17 PROC 81 86 inasa
+T18 PROC 52 55 LDH
+T19 PROC 73 77 urea
+T20 PROC 172 181 CA 19 . 9
+T21 PROC 141 148 Electro
+T22 PROC 43 45 mi
+T23 PROC 133 139 ograma
+T24 DISO 714 745 proceso mio pático inflamatorio
+T25 PROC 385 401 Biopsia muscular
+T26 DISO 526 547 Cambios inflamatorios
+T27 DISO 131 136 derma
+T28 DISO 82 85 tom
+T29 DISO 197 204 iositis
+T30 PROC 320 331 diagnóstico
+T31 DISO 151 156 derma
+T32 DISO 94 97 tom
+T33 DISO 225 232 iositis
+T34 PROC 364 375 tratamiento
+T35 CHEM 341 351 prednisona
+T36 PROC 701 721 TAC toraco abdominal
+T37 DISO 577 593 Masa pancreática
+T38 DISO 1111 1141 lesiones hipoden sas hepáticas
+T39 PROC 343 352 Punción -
+T40 PROC 664 681 bio psia hepática
+T41 DISO 561 575 Adenocarcinoma
+T42 CHEM 452 463 corticoides
+T43 DISO 715 732 lesiones cutáneas
+T44 DISO 775 793 debilidad muscular
+T45 PROC 485 496 diagnóstico
+T46 DISO 1171 1197 adenocarcinoma pancreático
+T47 DISO 921 941 metástasis hepáticas
+T48 PROC 518 529 tratamiento
+T49 CHEM 145 148 gem
+T50 CHEM 393 401 citabina
+T51 PROC 551 562 tratamiento
+T52 DISO 868 885 lesiones cutáneas
+T53 PROC 365 372 enzimas
+T54 ANAT 531 541 musculares
+T55 PROC 595 606 tratamiento
+T56 DISO 551 561 enfermedad

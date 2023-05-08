@@ -1,0 +1,72 @@
+T1 DISO 1 21 masa retroperitoneal
+T2 PROC 20 39 ecografía abdominal
+T3 DISO 19 28 dispepsia
+T4 DISO 64 85 tuberculosis pulmonar
+T5 DISO 157 196 enfermedad pulmonar obstructiva crónica
+T6 PROC 86 103 inspección física
+T7 DISO 25 29 masa
+T8 ANAT 141 161 hemiabdomen anterior
+T9 ANAT 121 136 área sub costal
+T10 ANAT 46 51 pubis
+T11 PROC 91 100 palpación
+T12 DISO 45 49 masa
+T13 DISO 373 404 signos de irritación peritoneal
+T14 PROC 157 169 tacto rectal
+T15 ANAT 113 121 próstata
+T16 DISO 106 113 adenoma
+T17 ANAT 65 69 tosa
+T18 PROC 324 343 analítica sanguínea
+T19 PROC 163 172 sedimento
+T20 PROC 305 321 cultivo de orina
+T21 PROC 241 253 cifra de PSA
+T22 PROC 400 419 ecografía abdominal
+T23 DISO 331 346 lesión quística
+T24 ANAT 139 145 hígado
+T25 ANAT 121 126 ingle
+T26 PROC 76 79 uro
+T27 PROC 365 379 grafía i . v .
+T28 PROC 28 29 U
+T29 PROC 57 59 IV
+T30 ANAT 407 421 pelvis renales
+T31 ANAT 751 776 segmento lum bo - il íaco
+T32 ANAT 435 449 uréter derecho
+T33 ANAT 289 298 abdominal
+T34 DISO 232 239 ectasia
+T35 ANAT 817 841 tracto urinario superior
+T36 PROC 806 829 TAC abdomino - pélv ico
+T37 CHEM 325 334 contraste
+T38 DISO 1037 1065 masa quística poli lob ulada
+T39 ANAT 571 586 retroperitoneal
+T40 ANAT 742 761 región sub hepática
+T41 ANAT 201 206 ingle
+T42 ANAT 575 589 riá±ón derecho
+T43 ANAT 925 947 máºsculo psoas il íaco
+T44 ANAT 689 705 colon ascendente
+T45 DISO 661 676 calcificaciones
+T46 ANAT 631 645 pared quística
+T47 DISO 185 189 masa
+T48 ANAT 471 481 estructura
+T49 ANAT 337 344 tubular
+T50 ANAT 687 701 riá±ón derecho
+T51 PROC 151 154 TAC
+T52 DISO 103 105 he
+T53 DISO 157 160 mir
+T54 DISO 107 109 ri
+T55 DISO 1783 1816 á±ón inferior derecho dis plásico
+T56 DISO 881 897 agenesia parcial
+T57 ANAT 337 343 uréter
+T58 PROC 1198 1219 estudios radiológicos
+T59 PROC 1683 1712 punción - bio psia percutánea
+T60 DISO 886 901 lesión quística
+T61 PROC 1081 1099 citología de orina
+T62 DISO 977 993 células malignas
+T63 PROC 1489 1513 intervención quiráºrgica
+T64 DISO 820 833 masa quística
+T65 ANAT 1473 1496 lóbulo hepático derecho
+T66 ANAT 1106 1123 polo inferior del
+T67 ANAT 397 403 riá±ón
+T68 ANAT 1341 1361 espacio de Re tz ius
+T69 ANAT 1701 1726 orificio inguinal interno
+T70 DISO 829 841 infiltración
+T71 ANAT 421 427 órgano
+T72 PROC 1350 1369 resección cuidadosa

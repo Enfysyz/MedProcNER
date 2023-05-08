@@ -1,0 +1,43 @@
+T1 DISO 1 42 diabetes mellitus no insulino dependiente
+T2 DISO 22 43 hipertensión arterial
+T3 DISO 21 31 dislipemia
+T4 DISO 64 85 fibrilación auricular
+T5 PROC 33 41 consulta
+T6 DISO 76 91 dolor abdominal
+T7 DISO 139 162 síndrome constitucional
+T8 PROC 127 145 exploración física
+T9 DISO 57 64 abdomen
+T10 DISO 82 91 globuloso
+T11 DISO 231 254 doloroso a la palpación
+T12 DISO 111 121 tumoración
+T13 ANAT 73 79 flanco
+T14 PROC 118 127 analítica
+T15 PROC 155 166 hemoglobina
+T16 DISO 151 161 leucocitos
+T17 PROC 65 69 urea
+T18 PROC 171 181 creatinina
+T19 PROC 307 324 bilirrubina total
+T20 PROC 343 361 fosfatasa alcalina
+T21 PROC 321 337 función hepática
+T22 PROC 568 595 tomografía computer izada (
+T23 PROC 309 323 TC ) abdominal
+T24 DISO 93 97 masa
+T25 ANAT 313 326 vasos renales
+T26 ANAT 526 547 sistema pielocalicial
+T27 DISO 79 82 uro
+T28 DISO 460 477 patía obstructiva
+T29 DISO 617 639 afectación metastásica
+T30 PROC 204 211 cirugía
+T31 PROC 871 900 nefrectomía radical izquierda
+T32 PROC 249 257 exéresis
+T33 DISO 129 133 masa
+T34 DISO 265 273 falleció
+T35 PROC 239 246 cirugía
+T36 DISO 736 757 edema agudo de pulmón
+T37 PROC 685 704 anatomía patológica
+T38 DISO 371 381 tumoración
+T39 DISO 381 391 hemorragia
+T40 PROC 430 441 nefrectomía
+T41 DISO 1081 1108 infiltración del parénquima
+T42 DISO 206 211 lipos
+T43 DISO 1261 1291 arcoma mixto enciado mi xo ide

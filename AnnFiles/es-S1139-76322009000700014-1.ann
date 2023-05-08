@@ -1,0 +1,92 @@
+T1 PROC 1 9 consulta
+T2 DISO 10 19 cansancio
+T3 PROC 23 34 exploración
+T4 DISO 73 97 exantema urtic ari forme
+T5 ANAT 93 116 extremidades inferiores
+T6 PROC 41 49 consulta
+T7 DISO 37 43 fiebre
+T8 DISO 43 49 resfri
+T9 DISO 25 28 ada
+T10 DISO 82 91 cansancio
+T11 DISO 181 199 erupción mac ulosa
+T12 ANAT 254 277 extremidades inferiores
+T13 ANAT 121 131 superiores
+T14 ANAT 53 57 cara
+T15 PROC 155 166 exploración
+T16 PROC 31 33 Ex
+T17 PROC 33 35 pl
+T18 PROC 239 253 oración física
+T19 DISO 541 571 edema perior bital y palpebral
+T20 ANAT 96 101 bucal
+T21 DISO 341 358 obstrucción nasal
+T22 DISO 1030 1079 adenopatías sub - ma xil ares y latero cervicales
+T23 DISO 485 507 amígdalas conges tivas
+T24 PROC 438 457 palpación abdominal
+T25 DISO 337 351 esplenomegalia
+T26 DISO 326 339 hepatomegalia
+T27 DISO 573 595 Adenopatías inguinales
+T28 DISO 109 113 Faci
+T29 DISO 421 436 es abo tar gada
+T30 DISO 233 241 exantema
+T31 PROC 541 559 Temperatura axilar
+T32 PROC 342 353 exploración
+T33 PROC 865 892 auscultación cardiopulmonar
+T34 DISO 199 205 signos
+T35 DISO 885 911 insuficiencia respiratoria
+T36 PROC 316 325 Hemograma
+T37 PROC 289 297 hematíes
+T38 PROC 408 419 hemoglobina
+T39 PROC 419 430 hematocrito
+T40 ANAT 352 361 monocitos
+T41 DISO 401 411 linfocitos
+T42 ANAT 1067 1093 células linfo plas máticas
+T43 PROC 379 388 plaquetas
+T44 PROC 216 221 Trans
+T45 PROC 265 271 aminas
+T46 PROC 91 93 as
+T47 PROC 139 142 AST
+T48 PROC 142 145 ALT
+T49 PROC 49 50 -
+T50 PROC 589 601 Paul Bun ell
+T51 PROC 901 919 Analítica de orina
+T52 PROC 1684 1717 radiografía de tórax y de abdomen
+T53 DISO 1093 1114 condensación alveolar
+T54 ANAT 160 163 LSD
+T55 DISO 433 441 neumonía
+T56 DISO 1101 1121 adenopatías hiliares
+T57 DISO 393 400 abdomen
+T58 DISO 799 813 esplenomegalia
+T59 PROC 1219 1240 test de aglutin ación
+T60 DISO 178 181 mon
+T61 DISO 361 367 onucle
+T62 DISO 916 931 osis infecciosa
+T63 PROC 125 127 Hb
+T64 PROC 64 65 H
+T65 PROC 65 66 t
+T66 ANAT 651 661 leucocitos
+T67 ANAT 595 604 monocitos
+T68 DISO 671 681 linfocitos
+T69 PROC 613 622 plaquetas
+T70 PROC 208 211 GOT
+T71 PROC 211 214 GPT
+T72 PROC 1421 1441 radiografía de tórax
+T73 DISO 217 220 con
+T74 DISO 293 297 dens
+T75 DISO 371 376 ación
+T76 ANAT 226 229 LSD
+T77 ANAT 153 155 LM
+T78 ANAT 78 79 D
+T79 PROC 157 159 Ex
+T80 PROC 159 161 pl
+T81 PROC 161 163 or
+T82 PROC 568 575 aciones
+T83 PROC 2133 2159 exudado faringo amigdal ar
+T84 PROC 997 1009 cultivo aero
+T85 PROC 2185 2211 detección de Epstein Bar r
+T86 DISO 171 173 EB
+T87 PROC 87 88 V
+T88 PROC 2350 2377 Ac anti an tic á ps ide IgM
+T89 PROC 177 179 EB
+T90 PROC 713 721 V Ac IgG
+T91 PROC 451 456 Radio
+T92 PROC 1366 1381 grafía de tórax

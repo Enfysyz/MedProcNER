@@ -1,0 +1,67 @@
+T1 DISO 1 29 crisis compleja generalizada
+T2 DISO 6 11 hiper
+T3 DISO 11 16 tonía
+T4 DISO 28 37 sialorrea
+T5 DISO 133 166 movimientos de la comisura labial
+T6 DISO 41 49 mialgias
+T7 DISO 43 50 cefalea
+T8 DISO 127 145 fiebre patológicos
+T9 PROC 89 100 tratamiento
+T10 CHEM 46 51 litio
+T11 DISO 171 188 trastorno bipolar
+T12 DISO 199 217 estado pos crítico
+T13 PROC 85 92 Glasgow
+T14 PROC 144 155 exploración
+T15 PROC 267 286 analítica sanguínea
+T16 PROC 151 161 bioquímica
+T17 PROC 145 154 hemograma
+T18 PROC 171 181 Bioquímica
+T19 PROC 91 96 Trans
+T20 PROC 115 121 aminas
+T21 PROC 561 589 a glu támico - ox alac ética
+T22 PROC 64 67 GOT
+T23 PROC 111 116 Trans
+T24 PROC 139 145 aminas
+T25 PROC 649 676 a glu támico - pir áº v ica
+T26 PROC 76 79 GPT
+T27 PROC 495 514 Proteína C reactiva
+T28 PROC 82 85 PCR
+T29 PROC 253 262 Hemograma
+T30 PROC 291 301 Leucocitos
+T31 PROC 271 280 Plaquetas
+T32 PROC 156 161 Serie
+T33 DISO 577 595 convulsión afebril
+T34 PROC 232 239 ingreso
+T35 PROC 239 246 ingreso
+T36 DISO 351 361 convulsión
+T37 PROC 505 519 administración
+T38 CHEM 334 343 midazolam
+T39 DISO 723 742 parada respiratoria
+T40 PROC 1015 1041 ventilación con pieza en T
+T41 PROC 1201 1231 ingreso en cuidados intensivos
+T42 PROC 411 421 vigilancia
+T43 PROC 589 603 monitorización
+T44 PROC 818 837 cuidados intensivos
+T45 DISO 793 811 estado pos crítico
+T46 PROC 316 323 Glasgow
+T47 PROC 829 847 temperatura axilar
+T48 PROC 1082 1105 exploración neurológica
+T49 DISO 241 246 hiper
+T50 DISO 148 151 ref
+T51 DISO 251 256 lexia
+T52 ANAT 970 989 miembros inferiores
+T53 PROC 313 319 signos
+T54 PROC 1379 1405 tomografía computarizada (
+T55 PROC 649 661 TC ) craneal
+T56 PROC 771 785 punción lumbar
+T57 PROC 897 913 tóxicos en orina
+T58 PROC 115 117 li
+T59 PROC 291 296 temia
+T60 PROC 1299 1321 electroencefalograma (
+T61 PROC 181 184 EEG
+T62 DISO 428 435 meningo
+T63 DISO 683 694 encefalitis
+T64 PROC 568 577 serología
+T65 ANAT 449 456 líquido
+T66 ANAT 196 199 LCR
+T67 PROC 661 671 serologías

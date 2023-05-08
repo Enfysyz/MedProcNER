@@ -1,0 +1,88 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 13 25 osteoporosis
+T3 PROC 7 10 his
+T4 PROC 10 13 ter
+T5 PROC 21 26 ectom
+T6 PROC 26 31 izada
+T7 DISO 13 15 mi
+T8 DISO 57 65 omatosis
+T9 PROC 89 100 Intervenida
+T10 PROC 208 231 resección trans uretral
+T11 DISO 291 320 carcinoma vesical infiltrante
+T12 PROC 133 145 radioterapia
+T13 DISO 145 157 masa tumoral
+T14 ANAT 261 281 ángulo derecho de la
+T15 ANAT 85 91 vejiga
+T16 PROC 166 177 tratamiento
+T17 PROC 465 494 tratamiento con quimioterapia
+T18 DISO 239 253 lesión vesical
+T19 DISO 379 400 metástasis en columna
+T20 PROC 58 61 TAC
+T21 PROC 221 232 seguimiento
+T22 PROC 337 353 gammagrafía ósea
+T23 PROC 155 162 ingresa
+T24 DISO 139 145 rector
+T25 DISO 145 151 ragias
+T26 DISO 1101 1145 sintomatología de inestabilidad hemodinámica
+T27 DISO 287 298 anemización
+T28 PROC 865 897 requerimientos transf us ionales
+T29 PROC 505 523 colonoscopia total
+T30 DISO 117 121 proc
+T31 DISO 451 466 titis ac tínica
+T32 DISO 1024 1057 lesiones neo vasculares fri ables
+T33 DISO 97 100 san
+T34 DISO 232 239 grantes
+T35 PROC 987 1016 tratamiento con arg ón plasma
+T36 PROC 71 73 AP
+T37 PROC 37 38 C
+T38 PROC 408 419 tratamiento
+T39 PROC 77 79 en
+T40 PROC 157 161 emas
+T41 CHEM 401 411 esteroides
+T42 CHEM 42 43 5
+T43 CHEM 43 44 -
+T44 CHEM 87 89 am
+T45 CHEM 177 181 inos
+T46 CHEM 91 93 al
+T47 CHEM 323 330 icílico
+T48 CHEM 142 145 suc
+T49 CHEM 145 148 ral
+T50 CHEM 197 201 fato
+T51 PROC 301 307 rectos
+T52 PROC 970 989 copias terapéuticas
+T53 PROC 1041 1061 tratamiento con AP C
+T54 DISO 319 325 rector
+T55 DISO 325 331 ragias
+T56 DISO 1431 1457 inestabilidad hemodinámica
+T57 PROC 617 628 transfusión
+T58 CHEM 1369 1393 concentrados de hematíes
+T59 PROC 871 886 hospitalización
+T60 PROC 296 301 ferro
+T61 PROC 721 733 terapia oral
+T62 PROC 733 745 tratamientos
+T63 PROC 1117 1135 tratamiento tópico
+T64 CHEM 379 385 formal
+T65 CHEM 193 196 ina
+T66 PROC 1236 1255 anestesia ra quídea
+T67 PROC 991 1006 dilatación anal
+T68 PROC 336 341 trató
+T69 ANAT 953 967 ampolla rectal
+T70 CHEM 1312 1331 solución de form ol
+T71 PROC 911 924 procedimiento
+T72 DISO 853 865 complicación
+T73 DISO 505 512 enferma
+T74 DISO 585 593 exterior
+T75 DISO 1407 1426 ización hemorrágica
+T76 DISO 1951 1977 inestabilidad hemodinámica
+T77 PROC 1065 1079 requerimientos
+T78 PROC 925 937 dada de alta
+T79 PROC 1795 1818 colonoscopia de control
+T80 PROC 870 881 tratamiento
+T81 PROC 561 568 ingresa
+T82 DISO 1459 1477 progresión tumoral
+T83 PROC 1887 1910 tratamiento sintomático
+T84 DISO 416 421 falle
+T85 DISO 505 511 ciendo
+T86 DISO 596 603 enferma
+T87 DISO 517 523 rector
+T88 DISO 523 529 ragias

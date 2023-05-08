@@ -1,0 +1,73 @@
+T1 DISO 1 11 trabajador
+T2 PROC 9 17 consulta
+T3 DISO 11 16 mareo
+T4 PROC 40 53 examen físico
+T5 DISO 61 76 pulso irregular
+T6 PROC 81 97 presión arterial
+T7 PROC 145 169 examen cardio - pulmonar
+T8 PROC 22 25 IMC
+T9 PROC 17 19 áį
+T10 PROC 199 221 ndice de Masa Corporal
+T11 PROC 161 177 examen abdominal
+T12 DISO 45 49 masa
+T13 ANAT 73 79 flanco
+T14 PROC 131 141 evaluación
+T15 PROC 253 271 electrocardiograma
+T16 DISO 121 129 arritmia
+T17 DISO 337 358 fibrilación auricular
+T18 PROC 154 163 hemograma
+T19 PROC 469 495 velocidad de sedimentación
+T20 PROC 191 201 Creatinina
+T21 PROC 181 190 albáºmina
+T22 PROC 358 375 proteínas totales
+T23 PROC 353 369 función hepática
+T24 PROC 714 745 tomografía computada de abdomen
+T25 DISO 313 326 masa quística
+T26 ANAT 326 339 polo inferior
+T27 ANAT 365 379 riá±ón derecho
+T28 PROC 298 309 diagnóstico
+T29 DISO 533 552 tumor renal derecho
+T30 PROC 204 211 cirugía
+T31 PROC 391 404 procedimiento
+T32 PROC 342 353 diagnóstico
+T33 PROC 1505 1552 nefrectomía radical laparoscópica mano asistida
+T34 DISO 397 409 masa tumoral
+T35 PROC 851 876 procedimiento quiráºrgico
+T36 ANAT 211 217 costal
+T37 ANAT 181 186 ectal
+T38 ANAT 260 267 ombligo
+T39 ANAT 381 391 epigastrio
+T40 ANAT 235 241 hígado
+T41 PROC 321 329 incisión
+T42 ANAT 452 463 fosa ilíaca
+T43 PROC 799 818 nefrectomía radical
+T44 ANAT 861 881 glándula suprarrenal
+T45 ANAT 265 271 riá±ón
+T46 PROC 361 369 incisión
+T47 ANAT 507 518 fosa ilíaca
+T48 DISO 377 385 sangrado
+T49 DISO 1249 1275 alteraciones hemodinámicas
+T50 DISO 687 701 complicaciones
+T51 CHEM 1301 1327 analgésicos no esteroideos
+T52 CHEM 52 53 K
+T53 CHEM 53 54 e
+T54 CHEM 160 163 tor
+T55 CHEM 109 111 ol
+T56 CHEM 166 169 aco
+T57 PROC 897 913 control de dolor
+T58 PROC 628 639 alta médica
+T59 PROC 407 414 cirugía
+T60 PROC 1122 1141 control ambulatorio
+T61 PROC 421 428 cirugía
+T62 PROC 489 497 exámenes
+T63 PROC 683 694 hemoglobina
+T64 PROC 631 641 Creatinina
+T65 PROC 129 131 Ni
+T66 PROC 976 991 trógeno ure ico
+T67 PROC 463 470 biopsia
+T68 ANAT 403 409 riá±ón
+T69 ANAT 1701 1726 tejido adiposo perir enal
+T70 ANAT 898 911 polo inferior
+T71 ANAT 421 427 riá±ón
+T72 DISO 356 361 tumor
+T73 DISO 1081 1096 áreas quísticas

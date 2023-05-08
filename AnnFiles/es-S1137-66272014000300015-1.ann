@@ -1,0 +1,75 @@
+T1 DISO 1 3 ex
+T2 DISO 9 17 fumadora
+T3 PROC 19 28 Detección
+T4 DISO 43 57 Cáncer de Mama
+T5 DISO 25 31 nódulo
+T6 ANAT 141 169 cuadrante infer o - inter no
+T7 ANAT 25 29 mama
+T8 DISO 141 161 adenopatías axilares
+T9 PROC 89 100 diagnostica
+T10 PROC 64 71 estudio
+T11 PROC 71 78 biopsia
+T12 PROC 34 37 RNM
+T13 PROC 193 209 ecografía axilar
+T14 DISO 599 645 carcinoma ductal infiltrante de mama izquierda
+T15 DISO 239 256 afectación axilar
+T16 PROC 361 385 tratamiento neoadyuvante
+T17 PROC 497 528 pauta de quimioterapia estándar
+T18 CHEM 52 55 FEC
+T19 CHEM 163 172 docetaxel
+T20 PROC 210 221 tratamiento
+T21 PROC 481 505 intervención quiráºrgica
+T22 PROC 442 463 mastectomía izquierda
+T23 PROC 331 346 linfadenectomía
+T24 PROC 668 697 diagnóstico anatomopatológico
+T25 DISO 673 701 carcinoma ductal infiltrante
+T26 PROC 76 79 Her
+T27 PROC 27 28 2
+T28 PROC 82 85 neu
+T29 PROC 113 117 Rece
+T30 PROC 30 31 p
+T31 PROC 151 156 tores
+T32 CHEM 94 97 Pro
+T33 CHEM 97 100 ges
+T34 CHEM 199 205 terona
+T35 PROC 35 36 P
+T36 PROC 71 73 53
+T37 PROC 73 75 Ki
+T38 PROC 75 77 67
+T39 PROC 115 118 Her
+T40 PROC 40 41 -
+T41 PROC 41 42 2
+T42 PROC 206 211 Quera
+T43 PROC 169 173 tina
+T44 PROC 173 177 EGFR
+T45 PROC 45 46 E
+T46 PROC 46 47 -
+T47 CHEM 93 95 Ca
+T48 CHEM 142 145 der
+T49 CHEM 145 148 ina
+T50 CHEM 197 201 Andr
+T51 CHEM 251 256 ógeno
+T52 PROC 52 53 B
+T53 PROC 105 107 CL
+T54 PROC 54 55 2
+T55 DISO 541 551 metástasis
+T56 ANAT 1046 1065 ganglios linfáticos
+T57 DISO 561 571 hemorragia
+T58 PROC 1312 1335 tratamiento conservador
+T59 PROC 813 827 drenaje axilar
+T60 DISO 237 241 linf
+T61 DISO 901 916 orrea qu il osa
+T62 DISO 428 435 líquido
+T63 PROC 1117 1135 estudio bioquímico
+T64 PROC 64 65 T
+T65 PROC 193 196 rig
+T66 PROC 586 595 licéridos
+T67 PROC 1057 1073 colesterol total
+T68 PROC 1877 1905 dieta con restricción grasas
+T69 CHEM 1973 2002 triglicéridos de cadena media
+T70 CHEM 898 911 somatostatina
+T71 PROC 981 995 drenaje axilar
+T72 DISO 853 865 complicación
+T73 PROC 1585 1607 tratamiento oncológico
+T74 DISO 731 741 enfermedad
+T75 PROC 815 826 seguimiento

@@ -1,0 +1,37 @@
+T1 PROC 1 12 diagnóstico
+T2 DISO 3 5 EM
+T3 DISO 5 7 RR
+T4 CHEM 31 41 interferón
+T5 CHEM 5 6 -
+T6 CHEM 21 25 beta
+T7 CHEM 13 15 na
+T8 CHEM 36 41 taliz
+T9 CHEM 33 37 umab
+T10 PROC 100 111 tratamiento
+T11 CHEM 71 78 fármaco
+T12 PROC 100 109 serología
+T13 PROC 301 326 tratamiento farmacológico
+T14 CHEM 40 43 fin
+T15 CHEM 43 46 gol
+T16 CHEM 46 49 imo
+T17 CHEM 17 18 d
+T18 DISO 171 181 enfermedad
+T19 PROC 523 552 Resonancia Magnética Cerebral
+T20 PROC 20 21 R
+T21 PROC 41 43 MC
+T22 DISO 547 573 lesiones desmielin izantes
+T23 DISO 111 116 brote
+T24 DISO 231 241 enfermedad
+T25 DISO 193 201 lesiones
+T26 ANAT 501 521 centros se mio vales
+T27 DISO 131 136 brote
+T28 CHEM 82 85 fin
+T29 CHEM 85 88 gol
+T30 CHEM 88 91 imo
+T31 CHEM 31 32 d
+T32 CHEM 94 97 fin
+T33 CHEM 97 100 gol
+T34 CHEM 100 103 imo
+T35 CHEM 35 36 d
+T36 DISO 351 361 linfopenia
+T37 ANAT 253 260 células

@@ -1,0 +1,55 @@
+T1 PROC 1 19 valorada consultas
+T2 DISO 19 37 debilidad muscular
+T3 ANAT 39 58 miembros inferiores
+T4 DISO 55 73 debilidad muscular
+T5 DISO 37 46 calambres
+T6 DISO 181 217 parálisis hiper potas émica familiar
+T7 PROC 97 113 estudio genético
+T8 DISO 141 161 calambres musculares
+T9 DISO 193 217 sensación adormecimiento
+T10 ANAT 172 191 miembros inferiores
+T11 DISO 71 78 clínica
+T12 DISO 111 121 afectación
+T13 ANAT 97 105 miembros
+T14 PROC 27 29 Ex
+T15 PROC 29 31 pl
+T16 PROC 436 465 oración clínica y neurológica
+T17 PROC 273 290 valorada consulta
+T18 PROC 443 469 reflejos osteo tendin osos
+T19 DISO 649 685 parálisis hiper potas émica familiar
+T20 PROC 324 341 estudio analítico
+T21 PROC 181 190 hemograma
+T22 PROC 211 221 bioquímica
+T23 PROC 199 208 Hemograma
+T24 PROC 645 673 electrolitos en sangre orina
+T25 PROC 25 26 K
+T26 PROC 801 833 excreción frac cional de potasio
+T27 PROC 53 55 EF
+T28 PROC 28 29 K
+T29 PROC 505 523 análisis de sangre
+T30 PROC 262 271 electromi
+T31 PROC 211 218 ografía
+T32 PROC 63 65 EM
+T33 PROC 33 34 G
+T34 PROC 1255 1293 determinación de creatin fosf ocin asa
+T35 PROC 69 71 CP
+T36 PROC 36 37 K
+T37 PROC 649 667 electrocardiograma
+T38 PROC 112 115 ECG
+T39 DISO 305 313 síntomas
+T40 PROC 352 361 electromi
+T41 PROC 281 288 ografía
+T42 PROC 83 85 EM
+T43 PROC 43 44 G
+T44 PROC 689 705 estudio genético
+T45 DISO 353 361 mutación
+T46 PROC 496 507 diagnóstico
+T47 PROC 507 518 tratamiento
+T48 CHEM 236 241 aceta
+T49 CHEM 145 148 zol
+T50 CHEM 246 251 amida
+T51 DISO 901 919 debilidad muscular
+T52 PROC 1276 1301 valores de potasio sérico
+T53 PROC 1613 1644 controles clínicos y analíticos
+T54 PROC 955 973 tratamiento médico
+T55 PROC 1297 1321 dieta no rica en potasio

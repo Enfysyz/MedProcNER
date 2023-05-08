@@ -1,0 +1,49 @@
+T1 PROC 1 9 consulta
+T2 DISO 6 11 dolor
+T3 ANAT 9 13 hemi
+T4 ANAT 10 13 man
+T5 ANAT 9 11 dí
+T6 ANAT 21 25 bula
+T7 DISO 19 22 par
+T8 DISO 50 57 estesia
+T9 ANAT 113 127 labio inferior
+T10 DISO 154 171 dolor al masticar
+T11 ANAT 71 78 molares
+T12 ANAT 34 37 pre
+T13 ANAT 37 40 mol
+T14 ANAT 53 57 ares
+T15 PROC 183 196 examen físico
+T16 DISO 361 385 asimetría facial volumen
+T17 ANAT 273 290 cuerpo mandibular
+T18 ANAT 392 415 rama ascendente derecha
+T19 ANAT 325 343 tabla ósea externa
+T20 ANAT 248 261 segundo molar
+T21 ANAT 121 127 tablas
+T22 ANAT 547 573 rama ascendente mandibular
+T23 ANAT 265 277 Tercer molar
+T24 DISO 714 745 quiste mandibular odonto génico
+T25 DISO 457 476 tumor odonto génico
+T26 PROC 551 573 estudio imagen ológico
+T27 PROC 183 190 biopsia
+T28 PROC 595 617 radiografía panorámica
+T29 DISO 617 639 lesión radi ol áº cida
+T30 ANAT 755 781 rama ascendente mandibular
+T31 DISO 181 187 lesión
+T32 ANAT 652 673 tercer molar incluido
+T33 PROC 609 628 biopsia incis ional
+T34 DISO 199 205 lesión
+T35 PROC 205 211 descom
+T36 PROC 141 145 pres
+T37 PROC 109 112 ion
+T38 DISO 38 39 a
+T39 DISO 153 157 melo
+T40 DISO 1912 1961 blastoma uni qu ístico de crecimiento intra mural
+T41 PROC 1401 1436 seguimiento clínico - radio gráfico
+T42 PROC 534 547 descompresión
+T43 DISO 1303 1334 lesión quística a melo blástica
+T44 PROC 1033 1057 cirugía de en ucle ación
+T45 PROC 177 181 cure
+T46 PROC 181 185 taje
+T47 ANAT 323 330 cavidad
+T48 PROC 142 145 exo
+T49 PROC 913 932 doncia tercer molar

@@ -1,0 +1,88 @@
+T1 DISO 1 11 meningitis
+T2 PROC 3 5 le
+T3 PROC 41 61 grado embarazo molar
+T4 DISO 25 33 fumadora
+T5 PROC 49 61 antecedentes
+T6 PROC 46 55 ecografía
+T7 DISO 169 197 hidrocefalia fetal bilateral
+T8 DISO 36 41 oligo
+T9 DISO 25 28 amn
+T10 DISO 28 31 ios
+T11 PROC 71 78 cesárea
+T12 PROC 188 205 estudio analítico
+T13 PROC 109 118 serología
+T14 PROC 27 29 Ig
+T15 PROC 15 16 M
+T16 PROC 166 177 exploración
+T17 DISO 209 222 recién nacida
+T18 PROC 120 127 cesárea
+T19 PROC 235 248 test de Apgar
+T20 DISO 172 181 pequeá±os
+T21 DISO 181 190 hematomas
+T22 ANAT 127 133 hombro
+T23 ANAT 155 162 gláºteo
+T24 DISO 116 121 macro
+T25 DISO 169 176 cefalia
+T26 DISO 151 157 fontan
+T27 DISO 313 325 ela anterior
+T28 ANAT 460 477 venas ce fál icas
+T29 PROC 253 262 hemograma
+T30 DISO 88 91 tom
+T31 DISO 31 32 b
+T32 DISO 311 321 ocitopenia
+T33 DISO 65 67 TF
+T34 DISO 67 69 NA
+T35 PROC 273 281 transfun
+T36 PROC 106 109 dió
+T37 CHEM 865 889 concentrado de plaquetas
+T38 PROC 75 77 af
+T39 PROC 229 235 éresis
+T40 PROC 352 361 irradiado
+T41 DISO 81 83 PA
+T42 DISO 42 43 -
+T43 DISO 43 44 1
+T44 PROC 474 485 tratamiento
+T45 CHEM 705 721 inmunoglobulinas
+T46 CHEM 91 93 IG
+T47 CHEM 93 95 IV
+T48 PROC 142 145 pla
+T49 PROC 289 295 quetas
+T50 PROC 344 351 ingreso
+T51 PROC 1401 1429 estudio inmuno hemat ológico
+T52 PROC 460 469 báºsqueda
+T53 ANAT 469 478 plaquetas
+T54 PROC 955 973 ecografía cerebral
+T55 DISO 649 661 hidrocefalia
+T56 DISO 1486 1513 hemorragia intraventricular
+T57 PROC 2577 2623 colocación de un catéter de derivación externo
+T58 DISO 400 407 líquido
+T59 DISO 291 296 ventr
+T60 DISO 473 481 iculitis
+T61 DISO 1081 1099 crisis convulsivas
+T62 PROC 672 683 tratamiento
+T63 CHEM 869 883 antibioterapia
+T64 CHEM 757 769 fenobarbital
+T65 PROC 4033 4096 implantación de una válvula de derivación ventrículo peritoneal
+T66 PROC 456 463 ingreso
+T67 PROC 529 537 transfun
+T68 PROC 202 205 dió
+T69 CHEM 1565 1588 concentrado de hematíes
+T70 PROC 346 351 leuco
+T71 PROC 141 143 de
+T72 PROC 143 145 pl
+T73 PROC 145 147 ec
+T74 PROC 512 519 cionado
+T75 PROC 2073 2101 estudio inmuno hemat ológico
+T76 DISO 151 153 PA
+T77 DISO 77 78 -
+T78 DISO 78 79 1
+T79 DISO 547 554 neonato
+T80 PROC 870 881 anticuerpos
+T81 CHEM 81 82 -
+T82 CHEM 82 83 H
+T83 CHEM 165 167 PA
+T84 CHEM 84 85 -
+T85 CHEM 85 86 1
+T86 CHEM 86 87 a
+T87 ANAT 431 436 suero
+T88 DISO 1132 1145 recién nacida

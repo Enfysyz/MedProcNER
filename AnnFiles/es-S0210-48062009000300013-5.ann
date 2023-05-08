@@ -1,0 +1,46 @@
+T1 DISO 1 18 Litiasis cál cica
+T2 DISO 9 17 litiasis
+T3 ANAT 7 10 cal
+T4 ANAT 16 21 icial
+T5 ANAT 25 31 riá±ón
+T6 PROC 46 55 controles
+T7 DISO 19 22 HTA
+T8 DISO 22 25 IRC
+T9 DISO 9 10 P
+T10 DISO 19 21 io
+T11 DISO 31 34 hid
+T12 DISO 199 217 ronefrosis derecha
+T13 DISO 289 313 litiasis ureteral distal
+T14 PROC 287 309 nefrostomía percutánea
+T15 ANAT 197 211 riá±ón derecho
+T16 PROC 61 65 lito
+T17 PROC 49 52 tri
+T18 PROC 69 73 cias
+T19 ANAT 55 58 ure
+T20 ANAT 134 141 terales
+T21 ANAT 141 148 renales
+T22 ANAT 337 353 riá±ón izquierdo
+T23 DISO 177 185 hematoma
+T24 ANAT 139 145 riá±ón
+T25 PROC 25 26 L
+T26 PROC 51 53 eo
+T27 PROC 53 55 ch
+T28 DISO 136 141 dolor
+T29 PROC 365 378 procedimiento
+T30 PROC 88 91 TAC
+T31 DISO 931 962 hematoma sub capsular izquierdo
+T32 PROC 280 289 analgesia
+T33 PROC 641 661 controles analíticos
+T34 PROC 100 103 Hto
+T35 PROC 69 71 Hb
+T36 DISO 421 433 alteraciones
+T37 PROC 469 482 transfusiones
+T38 PROC 741 761 Ingreso hospitalario
+T39 DISO 305 313 hematoma
+T40 DISO 274 281 dolores
+T41 PROC 81 83 Hb
+T42 PROC 944 967 tratamiento conservador
+T43 DISO 337 345 hematoma
+T44 PROC 388 397 ecografía
+T45 PROC 133 136 TAC
+T46 DISO 361 369 hematoma

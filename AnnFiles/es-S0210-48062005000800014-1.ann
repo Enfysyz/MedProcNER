@@ -1,0 +1,32 @@
+T1 DISO 1 8 fumador
+T2 DISO 3 5 en
+T3 DISO 13 19 olismo
+T4 DISO 64 85 hipertensión arterial
+T5 DISO 109 136 pancreatitis aguda en ólica
+T6 PROC 36 43 ingreso
+T7 PROC 73 85 TC abdominal
+T8 DISO 211 241 inflamación pancreática difusa
+T9 DISO 65 73 exudados
+T10 DISO 109 121 tumoraciones
+T11 ANAT 31 34 val
+T12 ANAT 122 133 va anterior
+T13 ANAT 193 209 riá±ón izquierdo
+T14 DISO 378 407 quiste hemorrágico o proteico
+T15 DISO 239 256 tumoración sólida
+T16 DISO 376 401 cuadro inflamatorio agudo
+T17 DISO 161 171 tumoración
+T18 PROC 256 271 TC abdominal de
+T19 DISO 289 305 lesiones renales
+T20 DISO 191 201 tumoración
+T21 PROC 481 505 intervención quiráºrgica
+T22 PROC 106 111 tumor
+T23 PROC 507 530 ectomía renal izquierda
+T24 PROC 70 73 lum
+T25 PROC 49 51 bo
+T26 PROC 126 131 tomía
+T27 PROC 495 514 anatomía patológica
+T28 ANAT 136 141 pieza
+T29 DISO 841 871 granuloma este aton ec ró tico
+T30 CHEM 494 511 pigmento fér rico
+T31 DISO 451 466 necrosis grasas
+T32 DISO 373 385 pancreatitis

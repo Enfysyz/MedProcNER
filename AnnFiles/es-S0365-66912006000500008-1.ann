@@ -1,0 +1,43 @@
+T1 PROC 1 9 consulta
+T2 DISO 20 39 mala agudeza visual
+T3 DISO 5 7 AV
+T4 PROC 34 45 tratamiento
+T5 PROC 45 56 exploración
+T6 DISO 96 115 cabello amarillento
+T7 ANAT 31 36 cejas
+T8 ANAT 64 73 pestaá±as
+T9 DISO 97 109 piel roj iza
+T10 DISO 19 21 ne
+T11 DISO 31 34 vos
+T12 PROC 155 169 agudeza visual
+T13 ANAT 37 40 ojo
+T14 ANAT 27 29 OD
+T15 ANAT 43 46 ojo
+T16 DISO 46 49 exo
+T17 DISO 97 103 tropía
+T18 DISO 137 145 nistagmo
+T19 ANAT 73 77 ojos
+T20 ANAT 20 21 A
+T21 ANAT 21 22 O
+T22 PROC 400 419 presión intraocular
+T23 ANAT 221 231 conjuntiva
+T24 ANAT 139 145 córnea
+T25 DISO 841 876 depósitos estro males blanque cinos
+T26 ANAT 376 391 cámara anterior
+T27 ANAT 183 190 células
+T28 ANAT 28 29 f
+T29 ANAT 29 30 e
+T30 ANAT 117 121 iris
+T31 ANAT 301 311 cristalino
+T32 DISO 559 577 hipoplasia fo veal
+T33 ANAT 257 265 oculares
+T34 ANAT 331 341 sistémicos
+T35 PROC 409 421 diagnósticos
+T36 DISO 36 37 A
+T37 DISO 73 75 OC
+T38 DISO 75 77 DG
+T39 PROC 685 703 valoración clínica
+T40 DISO 79 81 DG
+T41 DISO 41 42 A
+T42 DISO 83 85 OC
+T43 DISO 85 87 DG

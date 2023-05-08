@@ -1,0 +1,93 @@
+T1 DISO 1 8 ceguera
+T2 PROC 9 17 consulta
+T3 PROC 27 40 diagnosticado
+T4 DISO 52 69 tumor intraocular
+T5 DISO 41 51 hipoacusia
+T6 DISO 86 103 neurofibromatosis
+T7 PROC 67 78 intervenido
+T8 DISO 64 73 cataratas
+T9 ANAT 33 37 ojos
+T10 DISO 73 81 glaucoma
+T11 ANAT 31 34 ojo
+T12 PROC 353 385 exploración oftalmológica visual
+T13 ANAT 61 66 dedos
+T14 ANAT 40 43 ojo
+T15 DISO 43 46 ama
+T16 DISO 91 97 urosis
+T17 DISO 321 341 nistagmus p end ular
+T18 PROC 494 523 estudio del segmento anterior
+T19 DISO 73 77 colo
+T20 DISO 20 21 b
+T21 DISO 221 232 oma de iris
+T22 DISO 127 133 pseudo
+T23 DISO 45 47 fa
+T24 DISO 93 97 quia
+T25 ANAT 169 176 pupilar
+T26 DISO 526 547 ampolla de filtración
+T27 PROC 157 163 trabec
+T28 PROC 55 57 ul
+T29 PROC 197 204 ectomia
+T30 PROC 552 571 presión intraocular
+T31 PROC 361 373 fondo de ojo
+T32 DISO 125 129 colo
+T33 DISO 33 34 b
+T34 DISO 727 749 oma de retina y nervio
+T35 ANAT 69 71 NO
+T36 ANAT 176 181 fondo
+T37 PROC 325 334 ecografía
+T38 DISO 926 951 desprendimiento de retina
+T39 DISO 153 157 masa
+T40 ANAT 664 681 temporal inferior
+T41 PROC 121 124 RNM
+T42 ANAT 493 505 globo ocular
+T43 ANAT 85 87 NO
+T44 DISO 818 837 lesión poli po idea
+T45 ANAT 749 766 temporal inferior
+T46 ANAT 226 231 globo
+T47 CHEM 415 424 contraste
+T48 DISO 1082 1105 melanoma am el an ótico
+T49 ANAT 433 442 cubiertas
+T50 DISO 589 601 lesión extra
+T51 ANAT 51 52 o
+T52 ANAT 256 261 cular
+T53 ANAT 105 107 NO
+T54 CHEM 478 487 contraste
+T55 DISO 919 936 tumor intraocular
+T56 DISO 111 113 NO
+T57 PROC 113 115 en
+T58 PROC 229 233 ucle
+T59 PROC 291 296 ación
+T60 PROC 119 121 or
+T61 PROC 241 245 bito
+T62 PROC 794 807 tomía lateral
+T63 ANAT 745 757 globo ocular
+T64 ANAT 316 321 polos
+T65 DISO 961 976 tumoración ácea
+T66 ANAT 131 133 NO
+T67 PROC 1651 1676 estudio anatomopatológico
+T68 DISO 872 885 proliferación
+T69 ANAT 341 346 globo
+T70 ANAT 415 421 retina
+T71 ANAT 491 498 células
+T72 ANAT 1066 1081 estroma fibroso
+T73 ANAT 361 366 vasos
+T74 ANAT 1096 1111 fibras gli ales
+T75 ANAT 1481 1501 fibras de Ros enthal
+T76 DISO 151 153 qu
+T77 DISO 1369 1387 cambios qu ísticos
+T78 DISO 1156 1171 calcificaciones
+T79 ANAT 157 159 fi
+T80 ANAT 870 881 lete óptico
+T81 PROC 1441 1459 inmunohistoquímica
+T82 CHEM 82 83 S
+T83 CHEM 247 250 100
+T84 CHEM 167 169 en
+T85 CHEM 169 171 ol
+T86 CHEM 1956 1979 asa neuronal específica
+T87 CHEM 87 88 v
+T88 CHEM 349 353 imen
+T89 CHEM 353 357 tina
+T90 CHEM 179 181 GF
+T91 CHEM 181 183 AP
+T92 CHEM 183 185 Ki
+T93 CHEM 185 187 67

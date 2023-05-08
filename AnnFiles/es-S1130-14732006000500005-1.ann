@@ -1,0 +1,72 @@
+T1 DISO 1 33 malformación del cuero cabelludo
+T2 DISO 23 45 masa irregular frontal
+T3 ANAT 17 25 vascular
+T4 ANAT 10 13 cal
+T5 ANAT 45 56 ota craneal
+T6 ANAT 166 199 arterias temporales superficiales
+T7 ANAT 79 92 ramas venosas
+T8 PROC 64 73 anamnesis
+T9 DISO 177 199 antecedente traumático
+T10 DISO 154 171 contusión frontal
+T11 DISO 321 353 hematoma sub g ale al bif rontal
+T12 DISO 155 169 sintomatología
+T13 PROC 385 417 exploración física y neurológica
+T14 DISO 482 519 malformación arteriovenosa traumática
+T15 PROC 239 256 pruebas de imagen
+T16 PROC 166 177 RM cerebral
+T17 PROC 321 341 angiografía cerebral
+T18 ANAT 579 613 arteria carótida interna y externa
+T19 ANAT 325 343 nido vascular epic
+T20 ANAT 267 281 raneal frontal
+T21 ANAT 661 694 arterias temporales superficiales
+T22 ANAT 253 265 intracraneal
+T23 ANAT 485 507 ramas men íngeas trans
+T24 ANAT 484 505 arterias et mo idales
+T25 ANAT 481 501 arterias oftál micas
+T26 PROC 301 313 embolización
+T27 ANAT 365 379 intracraneales
+T28 DISO 82 85 ama
+T29 DISO 169 175 urosis
+T30 ANAT 117 121 ojos
+T31 PROC 271 280 resección
+T32 DISO 63 65 MA
+T33 DISO 33 34 V
+T34 PROC 793 817 intervención quiráºrgica
+T35 PROC 681 701 incisión bic or onal
+T36 ANAT 561 577 ramas nutri cias
+T37 DISO 73 75 MA
+T38 DISO 38 39 V
+T39 PROC 115 118 lig
+T40 PROC 196 201 arlas
+T41 PROC 121 124 sec
+T42 PROC 247 253 cionar
+T43 ANAT 379 388 sanguíneo
+T44 DISO 259 265 lesión
+T45 PROC 397 406 resección
+T46 DISO 361 369 sangrado
+T47 ANAT 139 142 per
+T48 ANAT 95 97 ic
+T49 ANAT 145 148 rán
+T50 ANAT 99 101 eo
+T51 ANAT 1251 1276 tejido celular subcutáneo
+T52 ANAT 154 157 cal
+T53 ANAT 157 160 ota
+T54 ANAT 1061 1081 ramas intracraneales
+T55 PROC 595 606 angiografía
+T56 PROC 1706 1737 coagulación por radiofrecuencia
+T57 ANAT 281 286 hueso
+T58 DISO 571 581 hemorragia
+T59 PROC 523 532 resección
+T60 ANAT 1653 1681 vasos sanguíneos subcutáneos
+T61 ANAT 1021 1038 folículos pilosos
+T62 PROC 428 435 cirugía
+T63 PROC 497 505 transfun
+T64 PROC 190 193 dir
+T65 CHEM 1537 1561 concentrados de hematíes
+T66 ANAT 586 595 sanguíneo
+T67 DISO 1123 1140 pérdida de sangre
+T68 ANAT 1006 1021 cuero cabelludo
+T69 PROC 137 139 su
+T70 PROC 208 211 tur
+T71 PROC 71 72 ó
+T72 ANAT 285 289 piel

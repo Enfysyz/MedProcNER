@@ -1,0 +1,52 @@
+T1 PROC 1 17 consulta externa
+T2 DISO 12 23 disminución
+T3 ANAT 7 10 ojo
+T4 ANAT 7 9 OD
+T5 PROC 57 71 agudeza visual
+T6 PROC 11 13 AV
+T7 ANAT 19 22 ojo
+T8 DISO 106 121 edema de papila
+T9 DISO 177 199 exudado subre tin iano
+T10 PROC 28 31 TAC
+T11 PROC 221 243 RNM ór bito - cerebral
+T12 PROC 199 217 serología lu ética
+T13 CHEM 457 495 enzima conver tidor de la angiotensina
+T14 PROC 183 197 serología Lyme
+T15 PROC 281 301 radiografía de tórax
+T16 PROC 451 481 estudio sistémico por aparatos
+T17 PROC 81 86 manto
+T18 PROC 35 37 ux
+T19 PROC 37 39 PP
+T20 PROC 20 21 D
+T21 DISO 61 64 ind
+T22 DISO 148 155 uración
+T23 DISO 375 392 necrosis d érmica
+T24 PROC 461 481 radiografía de tórax
+T25 PROC 337 351 punción de LCR
+T26 CHEM 26 27 H
+T27 CHEM 27 28 O
+T28 PROC 271 281 bioquímica
+T29 PROC 197 204 cultivo
+T30 PROC 639 661 electroforesis del LCR
+T31 DISO 181 187 bandas
+T32 PROC 311 321 urocultivo
+T33 PROC 545 562 cultivo de esputo
+T34 DISO 628 647 tuberculosis ocular
+T35 PROC 205 211 prueba
+T36 CHEM 71 73 is
+T37 CHEM 109 112 oni
+T38 CHEM 186 191 acida
+T39 PROC 191 196 trató
+T40 CHEM 79 81 is
+T41 CHEM 121 124 oni
+T42 CHEM 206 211 acida
+T43 CHEM 463 474 rifampicina
+T44 CHEM 173 177 pira
+T45 CHEM 133 136 zin
+T46 CHEM 226 231 amida
+T47 CHEM 139 142 eta
+T48 CHEM 95 97 mb
+T49 CHEM 97 99 ut
+T50 CHEM 99 101 ol
+T51 PROC 401 409 consulta
+T52 PROC 562 573 exploración

@@ -1,0 +1,75 @@
+T1 DISO 1 7 fiebre
+T2 PROC 8 15 ingreso
+T3 PROC 23 34 tratamiento
+T4 CHEM 13 17 glic
+T5 CHEM 13 16 laz
+T6 CHEM 16 19 ida
+T7 CHEM 25 29 acar
+T8 CHEM 29 33 bosa
+T9 DISO 193 217 diabetes mellitus tipo 2
+T10 CHEM 118 131 Atorvastatina
+T11 DISO 191 210 hipercolesterolemia
+T12 CHEM 23 25 qu
+T13 CHEM 37 40 ina
+T14 CHEM 40 43 pri
+T15 CHEM 29 31 lo
+T16 DISO 316 337 hipertensión arterial
+T17 CHEM 353 375 ácido acetilsalicílico
+T18 PROC 171 181 profilaxis
+T19 DISO 379 400 accidentes vasculares
+T20 DISO 191 201 patologías
+T21 DISO 561 589 estenosis de válvula aórtica
+T22 DISO 442 463 insuficiencia aórtica
+T23 PROC 375 392 recambio valvular
+T24 PROC 162 169 ingreso
+T25 PROC 241 251 despistaje
+T26 DISO 326 339 cuadro febril
+T27 PROC 209 217 ecocardi
+T28 PROC 622 645 ografia trans esofágica
+T29 DISO 337 349 endocarditis
+T30 DISO 1016 1051 alteraciones funcionales valvulares
+T31 PROC 961 993 tratamiento intravenoso empírico
+T32 CHEM 94 97 Van
+T33 CHEM 257 265 comicina
+T34 ANAT 232 239 válvula
+T35 DISO 341 351 vegetación
+T36 DISO 421 433 asintomático
+T37 DISO 253 260 afebril
+T38 PROC 1629 1673 controles periódicos de temperatura corporal
+T39 PROC 343 352 ingresado
+T40 DISO 469 481 endocarditis
+T41 PROC 1241 1272 ecocardiografía trans esofágica
+T42 DISO 1149 1177 fiebre de origen desconocido
+T43 PROC 295 302 ingreso
+T44 DISO 259 265 fiebre
+T45 PROC 705 721 tensión arterial
+T46 PROC 856 875 frecuencia cardiaca
+T47 PROC 829 847 exploración fisica
+T48 PROC 988 1009 auscultación cardiaca
+T49 DISO 289 295 soplos
+T50 PROC 1030 1051 auscultación pulmonar
+T51 PROC 901 919 murmullo vesicular
+T52 DISO 307 313 roncus
+T53 DISO 573 584 crepitantes
+T54 DISO 531 541 sibilantes
+T55 DISO 379 386 abdomen
+T56 DISO 441 449 doloroso
+T57 DISO 337 343 esplen
+T58 DISO 514 523 omegalias
+T59 PROC 1973 2007 exploración otorrinolaring ológica
+T60 DISO 650 661 infecciosos
+T61 PROC 1381 1404 exploración neurológica
+T62 DISO 367 373 mening
+T63 DISO 249 253 ismo
+T64 DISO 2080 2113 déficit de fuerza ni sensibilidad
+T65 DISO 2817 2861 alteración pares craneales osteo tendin osos
+T66 PROC 716 727 exploración
+T67 DISO 727 738 adenopatías
+T68 PROC 1542 1565 pruebas complementarias
+T69 DISO 1905 1933 fiebre de origen desconocido
+T70 PROC 622 631 protocolo
+T71 PROC 631 640 hemograma
+T72 ANAT 711 721 leucocitos
+T73 ANAT 793 804 neutrófilos
+T74 ANAT 220 223 cay
+T75 ANAT 297 301 ados

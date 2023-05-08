@@ -1,0 +1,95 @@
+T1 PROC 1 9 derivado
+T2 DISO 5 9 hema
+T3 DISO 5 7 te
+T4 DISO 16 21 mesis
+T5 DISO 93 116 sangrado digestivo alto
+T6 CHEM 26 31 aspir
+T7 CHEM 25 29 inas
+T8 DISO 113 129 proceso catarral
+T9 DISO 185 208 crisis reno ure terales
+T10 DISO 19 21 CR
+T11 DISO 11 12 U
+T12 DISO 45 49 asma
+T13 PROC 745 807 tratamiento inhala torio antiinflamatorio - bron co dila tador
+T14 PROC 144 155 tratamiento
+T15 CHEM 127 136 omeprazol
+T16 PROC 151 161 Diagnostic
+T17 PROC 49 52 ado
+T18 DISO 52 55 CRU
+T19 DISO 307 324 dolor lumbar bajo
+T20 ANAT 533 561 cuadrante inferior izquierdo
+T21 ANAT 41 43 CI
+T22 ANAT 22 23 I
+T23 CHEM 243 254 diclofenaco
+T24 CHEM 116 121 aspir
+T25 CHEM 97 101 inas
+T26 DISO 101 105 hema
+T27 DISO 53 55 te
+T28 DISO 136 141 mesis
+T29 PROC 281 291 valoración
+T30 DISO 639 661 dolor lumbar irradiado
+T31 DISO 91 94 CRU
+T32 DISO 528 545 ardor de estómago
+T33 DISO 225 232 temblor
+T34 DISO 430 443 inestabilidad
+T35 DISO 171 176 caída
+T36 DISO 596 613 traumatismo nasal
+T37 DISO 253 260 vómitos
+T38 PROC 667 685 exploración física
+T39 PROC 77 79 TA
+T40 PROC 586 601 relleno capilar
+T41 PROC 81 83 FC
+T42 DISO 206 211 nause
+T43 DISO 127 130 oso
+T44 DISO 302 309 palidez
+T45 DISO 309 316 náuseas
+T46 DISO 271 277 herida
+T47 ANAT 553 565 puente nasal
+T48 DISO 377 385 sangrado
+T49 ANAT 625 638 fosas nasales
+T50 ANAT 246 251 comis
+T51 ANAT 701 715 uras la biales
+T52 DISO 358 365 abdomen
+T53 DISO 417 425 doloroso
+T54 ANAT 54 55 C
+T55 ANAT 109 111 II
+T56 DISO 1541 1569 signos irritación peritoneal
+T57 DISO 281 286 masas
+T58 PROC 685 697 tacto rectal
+T59 DISO 407 414 melenas
+T60 PROC 473 481 muestras
+T61 PROC 541 550 analítica
+T62 PROC 977 993 pruebas cruzadas
+T63 PROC 745 757 sueroterapia
+T64 PROC 379 385 cifras
+T65 PROC 705 716 tensionales
+T66 PROC 586 595 analítica
+T67 PROC 133 135 Hb
+T68 PROC 202 205 Hto
+T69 ANAT 681 691 leucocitos
+T70 PROC 622 631 plaquetas
+T71 PROC 771 782 coagulación
+T72 PROC 285 289 urea
+T73 PROC 721 731 creatinina
+T74 DISO 1899 1925 inestabilidad hemodinámica
+T75 DISO 297 301 hema
+T76 DISO 151 153 te
+T77 DISO 381 386 mesis
+T78 DISO 1541 1561 hemorragia digestiva
+T79 PROC 859 870 tratamiento
+T80 CHEM 1976 2001 fármacos gas trol es ivos
+T81 PROC 801 811 endoscopia
+T82 PROC 811 821 endoscopia
+T83 ANAT 575 582 esófago
+T84 ANAT 499 505 mucosa
+T85 DISO 757 766 isquémico
+T86 DISO 426 431 necró
+T87 DISO 345 349 tico
+T88 ANAT 349 353 fund
+T89 ANAT 177 179 us
+T90 ANAT 1336 1351 cuerpo gástrico
+T91 ANAT 451 456 incis
+T92 ANAT 274 277 ura
+T93 ANAT 461 466 antro
+T94 PROC 931 941 endoscopia
+T95 DISO 2445 2471 parada cardiorrespiratoria

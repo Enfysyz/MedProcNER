@@ -1,0 +1,38 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 4 7 pan
+T3 DISO 33 49 colitis ulcerosa
+T4 DISO 22 29 cortico
+T5 DISO 45 56 dependiente
+T6 DISO 171 205 sobreinfección por citomegalovirus
+T7 PROC 31 36 trató
+T8 CHEM 22 25 gan
+T9 CHEM 65 73 ciclovir
+T10 DISO 208 231 diarrea con sangre roja
+T11 DISO 261 287 anemia ferropénica crónica
+T12 PROC 56 61 trata
+T13 PROC 61 66 ferro
+T14 PROC 92 99 terapia
+T15 PROC 267 286 estudio endoscópico
+T16 DISO 46 49 pan
+T17 DISO 257 273 colitis ulcerosa
+T18 PROC 392 415 tratamiento corticoides
+T19 CHEM 289 305 inmunosupresores
+T20 DISO 400 421 deposiciones líquidas
+T21 DISO 301 316 dolor abdominal
+T22 DISO 127 133 fiebre
+T23 PROC 529 553 tratamiento convencional
+T24 PROC 254 265 tratamiento
+T25 PROC 145 151 granul
+T26 PROC 376 391 ocito a féresis
+T27 CHEM 313 325 ciclosporina
+T28 PROC 244 253 ingresado
+T29 PROC 1037 1074 colocación de un catéter de doble luz
+T30 ANAT 204 211 yugular
+T31 PROC 751 776 cambio de catéter central
+T32 DISO 280 289 infección
+T33 PROC 737 760 aislamiento de contacto
+T34 PROC 364 375 tratamiento
+T35 CHEM 375 386 azatioprina
+T36 CHEM 36 37 I
+T37 CHEM 37 38 m
+T38 CHEM 149 153 urel

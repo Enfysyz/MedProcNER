@@ -1,0 +1,51 @@
+T1 DISO 1 29 traumatismo craneoencefálico
+T2 DISO 23 45 pérdida de consciencia
+T3 PROC 51 76 escala de coma de Glasgow
+T4 DISO 28 37 accidente
+T5 DISO 37 46 disartria
+T6 DISO 31 37 afasia
+T7 DISO 115 134 afección obstétrica
+T8 PROC 15 17 In
+T9 PROC 33 37 gres
+T10 PROC 100 111 ó en la UCI
+T11 DISO 91 100 accidente
+T12 DISO 144 157 afasia motora
+T13 DISO 49 53 hemi
+T14 DISO 79 85 plejía
+T15 DISO 211 226 reflejo cutáneo
+T16 ANAT 211 225 zona abdominal
+T17 ANAT 369 392 región cervical lateral
+T18 PROC 171 181 TC craneal
+T19 PROC 595 628 ecografía - Doppler extrac raneal
+T20 PROC 533 561 resonancia magnética nuclear
+T21 PROC 661 694 RMN ) craneal de columna cervical
+T22 PROC 64 67 ang
+T23 PROC 67 70 ior
+T24 PROC 70 73 res
+T25 PROC 217 226 onancia (
+T26 PROC 126 131 angio
+T27 PROC 27 28 -
+T28 PROC 82 85 RMN
+T29 ANAT 617 639 troncos supra aórticos
+T30 ANAT 581 601 vasos intracraneales
+T31 DISO 391 404 infarto agudo
+T32 ANAT 683 705 arteria cerebral media
+T33 ANAT 481 496 cuerpo estriado
+T34 ANAT 1354 1395 región corticos ub cortical fron ari etal
+T35 ANAT 103 106 ACI
+T36 DISO 316 325 estenosis
+T37 ANAT 1081 1111 segmento supra cl ino ideo C 6
+T38 ANAT 112 115 C 7
+T39 DISO 685 703 disección arterial
+T40 PROC 1015 1041 antiagregación plaquetaria
+T41 CHEM 121 124 AAS
+T42 PROC 370 379 ecografía
+T43 DISO 463 474 feto muerto
+T44 PROC 302 309 cesárea
+T45 PROC 749 766 alta hospitalaria
+T46 DISO 406 415 accidente
+T47 DISO 185 189 disf
+T48 DISO 189 193 asia
+T49 DISO 529 540 hemiparesia
+T50 ANAT 932 951 extremidad superior
+T51 ANAT 951 970 extremidad inferior

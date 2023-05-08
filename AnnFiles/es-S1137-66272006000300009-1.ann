@@ -1,0 +1,77 @@
+T1 DISO 1 6 caída
+T2 ANAT 21 41 extremidad izquierda
+T3 ANAT 15 22 rodilla
+T4 ANAT 19 25 cadera
+T5 ANAT 21 26 condi
+T6 ANAT 66 79 los femorales
+T7 ANAT 37 43 rótula
+T8 DISO 36 41 dolor
+T9 ANAT 49 55 rótula
+T10 DISO 19 21 ti
+T11 DISO 51 56 rante
+T12 DISO 12 13 z
+T13 PROC 61 66 flexo
+T14 PROC 14 15 -
+T15 PROC 127 136 extensión
+T16 DISO 76 81 dolor
+T17 DISO 33 35 ti
+T18 DISO 86 91 rante
+T19 DISO 19 20 z
+T20 ANAT 419 441 tendón cuad ri cipital
+T21 ANAT 281 295 pata de gan so
+T22 PROC 400 419 estudio radiológico
+T23 ANAT 45 47 pa
+T24 ANAT 461 481 zona intercon dí lea
+T25 DISO 193 201 luxación
+T26 ANAT 51 53 pa
+T27 PROC 677 703 reducción por manipulación
+T28 PROC 487 505 anestesia epidural
+T29 ANAT 253 262 rotuliano
+T30 PROC 552 571 tracción rotul iana
+T31 ANAT 211 218 rodilla
+T32 ANAT 187 193 rótula
+T33 PROC 641 661 abordaje quiráºrgico
+T34 ANAT 1189 1225 tendones rotuliano y cuad ri cipital
+T35 DISO 273 281 hematoma
+T36 ANAT 176 181 tuber
+T37 ANAT 793 815 osidad tibial anterior
+T38 ANAT 445 457 articulación
+T39 DISO 609 625 foco hemorrágico
+T40 ANAT 118 121 LLE
+T41 ANAT 81 83 LL
+T42 ANAT 42 43 I
+T43 ANAT 589 603 pata de gan so
+T44 PROC 216 221 artro
+T45 PROC 573 586 tomía externa
+T46 PROC 451 461 extracción
+T47 ANAT 737 753 líquido sinovial
+T48 ANAT 1787 1825 ligamentos cruzados anterior posterior
+T49 DISO 1777 1814 artrosis evidente fé mor o - pa telar
+T50 DISO 246 251 osteo
+T51 DISO 101 103 fi
+T52 DISO 1378 1405 tosis con dí lea y pa telar
+T53 PROC 105 107 ex
+T54 PROC 319 325 cisión
+T55 DISO 271 276 osteo
+T56 ANAT 276 281 fitos
+T57 ANAT 1177 1198 surco intercon dí leo
+T58 PROC 3136 3191 inmovilización mediante ortesis de rodilla en extensión
+T59 PROC 697 709 fisioterapia
+T60 DISO 650 661 traumatismo
+T61 DISO 301 306 dolor
+T62 DISO 550 559 accidente
+T63 PROC 1179 1198 estudio radiológico
+T64 DISO 442 449 rodilla
+T65 DISO 513 521 artrosis
+T66 ANAT 131 133 fé
+T67 ANAT 199 202 mor
+T68 ANAT 68 69 o
+T69 ANAT 69 70 -
+T70 ANAT 139 141 pa
+T71 ANAT 351 356 telar
+T72 DISO 427 433 lesión
+T73 DISO 361 366 hiper
+T74 DISO 293 297 elas
+T75 DISO 519 526 ticidad
+T76 DISO 676 685 molestias
+T77 ANAT 609 617 rodillas

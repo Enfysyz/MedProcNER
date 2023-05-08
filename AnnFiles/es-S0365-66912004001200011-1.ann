@@ -1,0 +1,58 @@
+T1 DISO 1 18 pérdida de visión
+T2 ANAT 4 7 ojo
+T3 PROC 39 58 nefrectomía derecha
+T4 DISO 46 61 carcinoma renal
+T5 PROC 25 31 neumon
+T6 PROC 76 91 ectomía derecha
+T7 DISO 115 134 metástasis pulmonar
+T8 PROC 78 89 tratamiento
+T9 PROC 201 226 exploración oftalmológica
+T10 PROC 127 141 agudeza visual
+T11 ANAT 31 34 ojo
+T12 ANAT 144 157 polo anterior
+T13 PROC 229 248 presión intraocular
+T14 PROC 53 57 fund
+T15 PROC 29 31 us
+T16 PROC 76 81 copia
+T17 ANAT 49 52 ojo
+T18 DISO 239 253 masa coro idea
+T19 ANAT 433 457 arcada temporal inferior
+T20 ANAT 96 101 papil
+T21 ANAT 81 85 ares
+T22 DISO 526 551 desprendimiento de retina
+T23 DISO 45 47 DR
+T24 ANAT 139 145 mácula
+T25 DISO 721 751 signos inflamación intraocular
+T26 ANAT 76 79 ojo
+T27 PROC 417 433 ecografía modo B
+T28 DISO 757 785 masa coro idea cu pul iforme
+T29 DISO 113 117 exca
+T30 DISO 175 181 vación
+T31 ANAT 121 125 coro
+T32 ANAT 125 129 idea
+T33 PROC 353 364 angiografía
+T34 DISO 133 137 masa
+T35 PROC 273 281 consulta
+T36 DISO 211 217 lesión
+T37 DISO 73 75 DR
+T38 ANAT 223 229 mácula
+T39 PROC 989 1015 tratamiento radio terápico
+T40 PROC 79 81 en
+T41 PROC 161 165 ucle
+T42 PROC 206 211 ación
+T43 PROC 463 474 diagnóstico
+T44 PROC 1033 1057 examen anatomopatológico
+T45 PROC 485 496 diagnóstico
+T46 DISO 1171 1197 metástasis carcinoma renal
+T47 ANAT 139 142 cor
+T48 ANAT 236 241 oides
+T49 DISO 241 246 infil
+T50 ANAT 638 651 nervio óptico
+T51 PROC 551 562 seguimiento
+T52 PROC 664 677 inmunoterapia
+T53 CHEM 521 531 interferón
+T54 PROC 584 595 diagnóstico
+T55 DISO 1081 1101 metástasis coro idea
+T56 PROC 386 393 hormono
+T57 PROC 393 400 terapia
+T58 PROC 742 755 quimioterapia

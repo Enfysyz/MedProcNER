@@ -1,0 +1,35 @@
+T1 PROC 1 9 vacunado
+T2 DISO 7 13 fiebre
+T3 DISO 75 112 adenopatías sub ma xil ares dolorosas
+T4 DISO 58 77 faringe eritematosa
+T5 DISO 29 36 exudado
+T6 DISO 116 139 sintomatología catarral
+T7 DISO 259 302 exantema micro pap ular sobre ele vado piel
+T8 ANAT 43 49 tronco
+T9 ANAT 241 271 pliegues inguinales y axilares
+T10 DISO 73 81 prurigin
+T11 DISO 31 34 oso
+T12 DISO 89 97 doloroso
+T13 DISO 61 66 escar
+T14 DISO 27 29 la
+T15 DISO 57 61 tina
+T16 PROC 751 801 test rápido de detección de Streptococcus pyogenes
+T17 PROC 305 324 conducta expectante
+T18 PROC 273 289 revisión clínica
+T19 DISO 109 115 fiebre
+T20 DISO 153 161 exantema
+T21 DISO 101 106 escar
+T22 DISO 43 45 la
+T23 DISO 89 93 tina
+T24 PROC 346 361 frotis faríngeo
+T25 CHEM 265 276 amoxicilina
+T26 PROC 376 391 frotis faríngeo
+T27 CHEM 339 352 amoxicilina /
+T28 CHEM 460 477 ácido clavulánico
+T29 DISO 225 233 exantema
+T30 PROC 320 331 tratamiento
+T31 CHEM 391 404 amoxicilina /
+T32 CHEM 528 545 ácido clavulánico
+T33 DISO 193 199 fiebre
+T34 DISO 958 987 descamación de plantas palmas
+T35 ANAT 477 491 dedo de guante

@@ -1,0 +1,96 @@
+T1 PROC 1 12 seguimiento
+T2 DISO 29 57 espondiloartritis psoriásica
+T3 DISO 25 37 fibromialgia
+T4 PROC 34 45 tratamiento
+T5 CHEM 9 11 le
+T6 CHEM 11 13 fl
+T7 CHEM 43 50 unomida
+T8 CHEM 22 25 cel
+T9 CHEM 49 55 ecoxib
+T10 CHEM 100 111 gabapentina
+T11 DISO 151 166 hábitos tóxicos
+T12 PROC 254 277 índice de masa corporal
+T13 PROC 37 40 IMC
+T14 PROC 105 113 revision
+T15 DISO 71 76 dolor
+T16 ANAT 61 65 pies
+T17 ANAT 129 137 tobillos
+T18 DISO 188 199 traumatismo
+T19 DISO 433 457 claudicación a la marcha
+T20 ANAT 77 81 pies
+T21 DISO 101 106 dolor
+T22 PROC 232 243 exploración
+T23 DISO 243 254 inflamación
+T24 ANAT 185 193 tobillos
+T25 ANAT 97 101 pies
+T26 DISO 451 469 dolor a la presión
+T27 DISO 131 136 fóvea
+T28 PROC 244 253 ecografía
+T29 DISO 309 320 inflamación
+T30 ANAT 726 751 tejido celular subcutáneo
+T31 ANAT 61 63 TC
+T32 ANAT 32 33 S
+T33 DISO 129 133 sino
+T34 DISO 166 171 vitis
+T35 PROC 171 176 Rx de
+T36 ANAT 141 145 pies
+T37 DISO 181 186 edema
+T38 ANAT 75 77 TC
+T39 ANAT 39 40 S
+T40 PROC 391 401 valoración
+T41 PROC 161 165 linf
+T42 PROC 288 295 ografía
+T43 DISO 1387 1420 insuficiencia linfática bilateral
+T44 DISO 560 573 dolor intenso
+T45 DISO 529 541 claudicación
+T46 PROC 136 139 RMN
+T47 ANAT 185 189 pies
+T48 ANAT 142 145 pie
+T49 DISO 145 148 cal
+T50 DISO 687 701 lo de fractura
+T51 ANAT 51 52 3
+T52 ANAT 103 105 er
+T53 ANAT 53 54 4
+T54 ANAT 54 55 o
+T55 ANAT 109 111 MT
+T56 ANAT 56 57 T
+T57 DISO 281 286 edema
+T58 ANAT 58 59 2
+T59 ANAT 59 60 o
+T60 ANAT 119 121 MT
+T61 ANAT 61 62 T
+T62 ANAT 184 187 pie
+T63 DISO 869 883 línea fractura
+T64 ANAT 64 65 1
+T65 ANAT 129 131 er
+T66 ANAT 131 133 MT
+T67 ANAT 67 68 T
+T68 DISO 336 341 edema
+T69 ANAT 69 70 3
+T70 ANAT 277 281 er y
+T71 ANAT 71 72 4
+T72 ANAT 72 73 o
+T73 ANAT 145 147 MT
+T74 ANAT 74 75 T
+T75 ANAT 1333 1351 tejido circundante
+T76 PROC 226 229 RMN
+T77 PROC 609 617 valorada
+T78 PROC 2773 2809 tratamiento conservador con descarga
+T79 PROC 1093 1107 rehabilitación
+T80 PROC 317 321 magn
+T81 PROC 241 244 eto
+T82 PROC 568 575 terapia
+T83 DISO 1641 1661 fracturas por estrés
+T84 PROC 582 589 estudio
+T85 PROC 673 681 análisis
+T86 PROC 1106 1119 función renal
+T87 PROC 2065 2089 calcio sérico y urinario
+T88 PROC 1132 1145 calcio iónico
+T89 PROC 705 713 magnesio
+T90 PROC 268 271 PTH
+T91 PROC 901 911 vitamina D
+T92 PROC 2458 2485 tratamiento con suplementos
+T93 DISO 1749 1768 fracturas de estrés
+T94 ANAT 373 377 pies
+T95 DISO 471 476 dolor
+T96 DISO 2186 2209 insuficiencia linfática

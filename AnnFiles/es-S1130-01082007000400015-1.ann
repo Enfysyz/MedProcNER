@@ -1,0 +1,54 @@
+T1 DISO 1 16 dolor abdominal
+T2 ANAT 20 39 fosa iliaca derecha
+T3 DISO 13 19 fiebre
+T4 DISO 55 73 pérdida de apetito
+T5 DISO 61 76 náuseas vómitos
+T6 DISO 186 223 atresia c ólica del colon descendente
+T7 DISO 7 8 v
+T8 DISO 15 17 ól
+T9 DISO 209 235 vulo intestinal de delgado
+T10 PROC 28 31 des
+T11 PROC 31 34 vol
+T12 PROC 12 13 v
+T13 PROC 217 235 ulación intestinal
+T14 PROC 27 29 ab
+T15 PROC 29 31 oc
+T16 PROC 286 305 amiento del colon a
+T17 ANAT 241 256 pared abdominal
+T18 PROC 52 55 col
+T19 PROC 127 134 ostomía
+T20 DISO 267 281 fístula mucosa
+T21 PROC 681 715 liberación de ambos cab os cólicos
+T22 PROC 631 661 anastomosis término - terminal
+T23 PROC 595 622 apendicectomía profiláctica
+T24 DISO 231 241 febricular
+T25 PROC 433 451 exploración física
+T26 DISO 376 391 dolor abdominal
+T27 ANAT 677 703 cuadrante inferior derecho
+T28 DISO 838 869 signos de irritación peritoneal
+T29 PROC 253 262 analítica
+T30 DISO 349 361 leucocitosis
+T31 PROC 1021 1055 tomografía computarizada abdominal
+T32 DISO 342 353 apendicitis
+T33 ANAT 609 628 muá±ón apendi cular
+T34 ANAT 331 341 estructura
+T35 ANAT 239 246 tubular
+T36 ANAT 176 181 ciego
+T37 DISO 145 149 apen
+T38 DISO 112 115 dic
+T39 DISO 191 196 olito
+T40 PROC 859 881 incisión de Mc Bur ney
+T41 DISO 161 165 plas
+T42 DISO 657 673 trón per ic ecal
+T43 ANAT 799 818 muá±ón apendi cular
+T44 DISO 1033 1057 apendicitis gan gren osa
+T45 PROC 837 856 resección del resto
+T46 ANAT 541 553 apendi cular
+T47 PROC 1151 1176 sutura en bolsa de tabaco
+T48 PROC 330 337 lavados
+T49 PROC 337 344 tratado
+T50 CHEM 687 701 antibioterapia
+T51 CHEM 201 205 erta
+T52 CHEM 256 261 penem
+T53 PROC 625 637 dado de alta
+T54 DISO 743 757 complicaciones

@@ -1,0 +1,60 @@
+T1 DISO 1 9 alérgico
+T2 CHEM 14 27 tetraciclinas
+T3 CHEM 9 13 beta
+T4 CHEM 4 5 -
+T5 CHEM 13 16 lac
+T6 CHEM 36 43 támicos
+T7 DISO 127 148 hipertensión arterial
+T8 PROC 78 89 seguimiento
+T9 DISO 73 82 lumbalgia
+T10 DISO 28 31 lum
+T11 DISO 21 23 bo
+T12 DISO 34 37 cia
+T13 DISO 193 209 talgia izquierda
+T14 DISO 118 127 espondilo
+T15 DISO 29 31 ar
+T16 DISO 31 33 tr
+T17 DISO 33 35 ós
+T18 DISO 52 55 ico
+T19 DISO 181 191 miofascial
+T20 PROC 343 361 tratamiento médico
+T21 CHEM 161 169 tramadol
+T22 CHEM 232 243 pregabalina
+T23 CHEM 23 24 d
+T24 CHEM 208 217 uloxetina
+T25 PROC 913 951 infiltración diagnóstico - terapéutica
+T26 CHEM 401 417 anestésico local
+T27 CHEM 287 298 corticoides
+T28 ANAT 514 533 máºsculos profundos
+T29 ANAT 85 88 pso
+T30 ANAT 59 61 as
+T31 ANAT 451 466 cuadrado lumbar
+T32 PROC 373 385 infiltración
+T33 PROC 289 298 protocolo
+T34 ANAT 496 511 máºsculos psoas
+T35 ANAT 511 526 cuadrado lumbar
+T36 CHEM 981 1009 toxina botulínica serotipo A
+T37 CHEM 37 38 D
+T38 CHEM 75 77 ys
+T39 CHEM 153 157 port
+T40 ANAT 313 321 máºsculo
+T41 DISO 641 657 ptosis palpebral
+T42 PROC 370 379 consultar
+T43 DISO 253 259 ptosis
+T44 PROC 517 529 infiltración
+T45 CHEM 705 721 anestésico local
+T46 CHEM 496 507 corticoides
+T47 ANAT 645 659 puntos gatillo
+T48 ANAT 800 817 cintura escapular
+T49 DISO 769 785 ptosis palpebral
+T50 DISO 393 401 diplopía
+T51 DISO 1001 1021 debilidad mandibular
+T52 PROC 409 417 consulta
+T53 PROC 365 372 estudia
+T54 PROC 690 703 diagnosticado
+T55 DISO 865 881 miastenia gravis
+T56 DISO 111 113 MG
+T57 PROC 1345 1369 tratamiento cortico ideo
+T58 CHEM 172 175 pir
+T59 CHEM 233 237 idos
+T60 CHEM 414 421 tigmina

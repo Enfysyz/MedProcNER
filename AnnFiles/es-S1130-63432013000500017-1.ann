@@ -1,0 +1,77 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 2 3 L
+T3 DISO 5 7 MC
+T4 PROC 10 13 BCR
+T5 PROC 13 16 ABL
+T6 PROC 56 67 diagnóstico
+T7 PROC 67 78 tratamiento
+T8 CHEM 57 65 imatinib
+T9 DISO 65 73 síntomas
+T10 DISO 82 91 cansancio
+T11 DISO 51 56 dolor
+T12 DISO 89 97 quemazón
+T13 DISO 241 261 hinchazón en piernas
+T14 DISO 235 253 edemas en párpados
+T15 DISO 309 331 lesiones blanque cinas
+T16 ANAT 196 209 lecho ungueal
+T17 PROC 145 154 hemograma
+T18 DISO 137 145 mutación
+T19 ANAT 307 324 sangre periférica
+T20 ANAT 39 41 SP
+T21 ANAT 221 232 médula ósea
+T22 ANAT 43 45 MO
+T23 CHEM 177 185 imatinib
+T24 CHEM 24 25 d
+T25 CHEM 73 76 asa
+T26 CHEM 126 131 tinib
+T27 DISO 209 217 mutación
+T28 CHEM 217 225 imatinib
+T29 CHEM 57 59 ni
+T30 CHEM 204 211 lotinib
+T31 CHEM 31 32 d
+T32 CHEM 94 97 asa
+T33 CHEM 161 166 tinib
+T34 PROC 364 375 tratamiento
+T35 CHEM 35 36 d
+T36 CHEM 106 109 asa
+T37 CHEM 181 186 tinib
+T38 DISO 112 115 tos
+T39 DISO 267 274 astenia
+T40 PROC 430 441 tratamiento
+T41 CHEM 41 42 d
+T42 CHEM 124 127 asa
+T43 CHEM 211 216 tinib
+T44 DISO 130 133 pan
+T45 DISO 397 406 citopenia
+T46 DISO 991 1013 infiltración bl ástica
+T47 ANAT 93 95 MO
+T48 PROC 518 529 diagnóstico
+T49 DISO 1201 1226 crisis bl ástica linfoide
+T50 DISO 393 401 mutación
+T51 DISO 801 817 crisis bl ástica
+T52 PROC 715 729 administración
+T53 PROC 1353 1379 quimioterapia de inducción
+T54 CHEM 160 163 vin
+T55 CHEM 55 56 c
+T56 CHEM 386 393 ristina
+T57 CHEM 113 115 da
+T58 CHEM 115 117 un
+T59 CHEM 117 119 or
+T60 CHEM 473 481 rubicina
+T61 CHEM 601 611 esteroides
+T62 PROC 1282 1303 profilaxis intratecal
+T63 CHEM 497 505 imatinib
+T64 CHEM 64 65 d
+T65 CHEM 193 196 asa
+T66 CHEM 326 331 tinib
+T67 PROC 727 738 tratamiento
+T68 CHEM 68 69 p
+T69 CHEM 205 208 ona
+T70 CHEM 346 351 tinib
+T71 DISO 841 853 intolerancia
+T72 DISO 1421 1441 dolor osteomus cular
+T73 DISO 505 512 astenia
+T74 PROC 1169 1185 tensión arterial
+T75 CHEM 815 826 tratamiento
+T76 PROC 1051 1065 TP H alogénico
+T77 ANAT 533 540 hermano

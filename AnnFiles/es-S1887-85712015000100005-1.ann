@@ -1,0 +1,76 @@
+T1 PROC 1 8 ingresó
+T2 DISO 7 13 disnea
+T3 DISO 15 22 fumador
+T4 DISO 22 29 bebedor
+T5 DISO 77 96 enfermedad hepática
+T6 PROC 66 79 diagnosticado
+T7 DISO 31 36 porfi
+T8 DISO 22 25 ria
+T9 CHEM 81 91 medicación
+T10 PROC 91 101 consultado
+T11 DISO 71 78 eritema
+T12 DISO 199 217 descamación facial
+T13 DISO 193 209 fotosensibilidad
+T14 PROC 92 99 tratado
+T15 CHEM 365 391 cremas de protección solar
+T16 DISO 346 369 dificultad respiratoria
+T17 DISO 273 290 tos no productiva
+T18 DISO 103 109 fiebre
+T19 PROC 127 134 ingreso
+T20 PROC 210 221 temperatura
+T21 CHEM 141 148 oxígeno
+T22 PROC 169 177 murmullo
+T23 ANAT 199 208 vesicular
+T24 DISO 139 145 signos
+T25 DISO 529 551 insuficiencia cardiaca
+T26 DISO 126 131 hiper
+T27 DISO 313 325 pigmentación
+T28 ANAT 163 169 frente
+T29 ANAT 477 494 regiones mal ares
+T30 ANAT 146 151 nariz
+T31 DISO 211 218 erosión
+T32 DISO 156 161 hiper
+T33 DISO 193 199 tricos
+T34 DISO 67 69 is
+T35 DISO 579 596 lesiones cutáneas
+T36 PROC 701 721 radiografía de tórax
+T37 DISO 1045 1074 patrón intersticial bilateral
+T38 PROC 815 837 anticuerpos anti - VIH
+T39 PROC 419 430 carga viral
+T40 PROC 79 81 CD
+T41 PROC 41 42 4
+T42 ANAT 288 295 células
+T43 PROC 85 87 CD
+T44 PROC 44 45 8
+T45 ANAT 309 316 células
+T46 PROC 676 691 cociente CD 4 /
+T47 PROC 185 189 CD 8
+T48 PROC 1317 1345 tinción de Z ie hl Ne el sen
+T49 ANAT 289 295 esputo
+T50 ANAT 344 351 muestra
+T51 PROC 1351 1378 inmunofluorescencia directa
+T52 ANAT 307 313 esputo
+T53 DISO 105 107 PN
+T54 PROC 1061 1081 tratamiento empírico
+T55 PROC 595 606 diagnóstico
+T56 DISO 1156 1177 neumonía intersticial
+T57 DISO 337 343 disnea
+T58 PROC 2965 3017 determinación de por fir inas frac cionadas en orina
+T59 DISO 349 355 eritro
+T60 DISO 768 781 dermia facial
+T61 CHEM 181 184 por
+T62 CHEM 184 187 fir
+T63 CHEM 249 253 inas
+T64 ANAT 316 321 orina
+T65 PROC 705 716 diagnóstico
+T66 PROC 2601 2641 serologías a virus B y C de la hepatitis
+T67 PROC 2245 2279 estudio del metabolismo del hierro
+T68 PROC 805 817 transferrina
+T69 PROC 885 898 hierro sérico
+T70 PROC 1105 1121 ferritina sérica
+T71 DISO 701 711 mutaciones
+T72 DISO 285 289 hemo
+T73 DISO 721 731 cromatosis
+T74 PROC 877 889 dado de alta
+T75 PROC 889 901 diagnósticos
+T76 DISO 1276 1293 infección por VIH

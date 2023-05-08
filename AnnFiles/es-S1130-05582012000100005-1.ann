@@ -1,0 +1,58 @@
+T1 PROC 1 12 diagnóstico
+T2 DISO 19 37 fístula or onas al
+T3 PROC 7 10 que
+T4 PROC 10 13 ilo
+T5 PROC 69 86 plastía bilateral
+T6 PROC 16 19 pal
+T7 PROC 19 22 ato
+T8 PROC 183 209 plastía del paladar blando
+T9 PROC 25 28 pal
+T10 PROC 28 31 ato
+T11 PROC 241 265 plastía del paladar duro
+T12 PROC 144 157 procedimiento
+T13 DISO 133 144 dehiscencia
+T14 DISO 40 43 fís
+T15 DISO 211 226 tula or onas al
+T16 DISO 61 65 rino
+T17 DISO 81 86 fonía
+T18 DISO 511 541 reflujo nasal de los alimentos
+T19 PROC 397 419 exploración intra oral
+T20 DISO 343 361 fístula or onas al
+T21 ANAT 181 190 unión del
+T22 ANAT 148 155 paladar
+T23 PROC 441 461 cierre de la fístula
+T24 ANAT 346 361 colgajo lingual
+T25 DISO 169 176 defecto
+T26 PROC 426 443 anestesia general
+T27 PROC 651 676 intubación nas o traqueal
+T28 PROC 163 169 incide
+T29 ANAT 197 204 defecto
+T30 ANAT 175 181 tejido
+T31 PROC 91 94 des
+T32 PROC 63 65 do
+T33 PROC 97 100 bla
+T34 ANAT 199 205 mucosa
+T35 DISO 239 246 fístula
+T36 ANAT 141 145 piso
+T37 ANAT 181 186 nasal
+T38 DISO 260 267 fístula
+T39 ANAT 267 274 colgajo
+T40 PROC 79 81 su
+T41 PROC 201 206 turan
+T42 ANAT 247 253 lengua
+T43 ANAT 253 259 lengua
+T44 ANAT 302 309 colgajo
+T45 ANAT 661 676 colgajo lingual
+T46 PROC 676 691 cierre primario
+T47 ANAT 553 565 área lingual
+T48 ANAT 330 337 colgajo
+T49 DISO 865 883 fístula or onas al
+T50 PROC 295 301 sutura
+T51 PROC 351 358 cirugía
+T52 PROC 970 989 prueba de perfusión
+T53 DISO 417 425 isquemia
+T54 ANAT 425 433 pedículo
+T55 PROC 811 826 anestesia local
+T56 PROC 331 337 cierre
+T57 DISO 393 400 fístula
+T58 DISO 628 639 dehiscencia

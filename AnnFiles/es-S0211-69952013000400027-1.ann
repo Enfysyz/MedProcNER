@@ -1,0 +1,72 @@
+T1 PROC 1 9 consultó
+T2 DISO 22 43 crisis hipertens ivas
+T3 DISO 37 55 sudoración profusa
+T4 DISO 82 109 enrojecimiento generalizado
+T5 DISO 29 36 cefalea
+T6 DISO 61 73 dolor lumbar
+T7 PROC 37 43 cifras
+T8 PROC 78 89 tensionales
+T9 PROC 145 163 exploración física
+T10 DISO 199 221 eritema malar y palmar
+T11 PROC 61 67 digito
+T12 PROC 78 85 presión
+T13 PROC 265 287 pruebas de laboratorio
+T14 PROC 170 183 catecolaminas
+T15 PROC 71 76 metan
+T16 PROC 16 17 e
+T17 PROC 33 35 fr
+T18 PROC 171 181 inas orina
+T19 PROC 469 495 excreción de noradrenalina
+T20 PROC 153 161 dopamina
+T21 PROC 21 22 n
+T22 PROC 85 89 orme
+T23 PROC 89 93 tane
+T24 PROC 47 49 fr
+T25 PROC 97 101 inas
+T26 PROC 476 495 ecografía abdominal
+T27 DISO 521 541 masa retroperitoneal
+T28 PROC 811 841 tomografía axial computarizada
+T29 PROC 757 784 TAC ) ab dó mino - pélv ica
+T30 DISO 581 601 masa retroperitoneal
+T31 ANAT 571 590 bifurcación aórtica
+T32 ANAT 559 577 vena cava inferior
+T33 ANAT 161 166 aorta
+T34 ANAT 925 953 arteria mesentérica inferior
+T35 PROC 103 106 TAC
+T36 PROC 106 109 cav
+T37 PROC 253 260 ografía
+T38 PROC 815 837 valorar reseca bilidad
+T39 DISO 761 781 defecto de repleción
+T40 ANAT 196 201 intra
+T41 ANAT 161 165 cava
+T42 ANAT 206 211 renal
+T43 DISO 169 173 para
+T44 DISO 130 133 gan
+T45 DISO 133 136 gli
+T46 DISO 1441 1473 oma del órgano de Z ucker kan dl
+T47 PROC 1473 1505 bloqueo beta y alfa adren érgico
+T48 PROC 1129 1153 intervención quiráºrgica
+T49 PROC 913 932 resección en bloque
+T50 DISO 491 501 tumoración
+T51 ANAT 651 664 cara anterior
+T52 ANAT 205 209 cava
+T53 PROC 417 425 extirpar
+T54 DISO 266 271 tumor
+T55 ANAT 217 221 cava
+T56 DISO 771 785 complicaciones
+T57 DISO 393 400 clínica
+T58 PROC 1882 1915 determinaciones en plasma y orina
+T59 PROC 755 768 catecolaminas
+T60 PROC 296 301 metan
+T61 PROC 61 62 e
+T62 PROC 123 125 fr
+T63 PROC 249 253 inas
+T64 PROC 1828 1857 diagnóstico anatomopatológico
+T65 DISO 257 261 para
+T66 DISO 196 199 gan
+T67 DISO 199 202 gli
+T68 DISO 939 953 oma caps ulado
+T69 PROC 2041 2071 gammagrafía con 123 I - M IB G
+T70 DISO 1795 1821 signos enfermedad residual
+T71 PROC 2521 2557 tratamiento quimioterápico adyuvante
+T72 PROC 782 793 seguimiento

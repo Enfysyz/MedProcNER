@@ -1,0 +1,24 @@
+T1 DISO 1 17 dolor precordial
+T2 PROC 4 7 ECG
+T3 DISO 45 67 lesión sub ep icárdica
+T4 DISO 37 49 IAM inferior
+T5 PROC 101 126 tratamiento fibrinolítico
+T6 CHEM 16 19 ten
+T7 CHEM 13 15 ec
+T8 CHEM 15 17 te
+T9 CHEM 33 37 plas
+T10 CHEM 10 11 a
+T11 CHEM 91 100 lidocaína
+T12 DISO 485 529 taquicardias ventriculares extras ist ólicas
+T13 PROC 37 40 ECG
+T14 DISO 66 71 dolor
+T15 PROC 43 46 ECG
+T16 PROC 106 113 creatin
+T17 PROC 113 120 quinasa
+T18 PROC 188 199 fracción MB
+T19 PROC 253 267 ecocardiograma
+T20 DISO 20 21 a
+T21 DISO 381 400 cinesia infer basal
+T22 PROC 64 67 ECG
+T23 DISO 45 47 SR
+T24 DISO 24 25 P

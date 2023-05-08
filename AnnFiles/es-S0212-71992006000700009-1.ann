@@ -1,0 +1,109 @@
+T1 PROC 1 8 ingresa
+T2 PROC 17 33 Cirugía Vascular
+T3 DISO 51 76 síndrome post fle b ítico
+T4 PROC 43 57 traslada a UCI
+T5 DISO 25 31 sepsis
+T6 DISO 16 19 HTA
+T7 DISO 49 57 obesidad
+T8 DISO 57 65 artrosis
+T9 PROC 73 82 resección
+T10 DISO 226 251 adenoma tubular de col ón
+T11 PROC 91 100 intervino
+T12 PROC 166 181 colecistectomía
+T13 DISO 265 287 colecistitis litiásica
+T14 DISO 53 57 plas
+T15 DISO 295 316 trón inflamatorio sub
+T16 ANAT 31 33 he
+T17 PROC 545 579 resección sub total de la vesícula
+T18 DISO 171 181 TVP de EII
+T19 DISO 55 58 TEP
+T20 DISO 400 421 fibrilación auricular
+T21 PROC 221 232 tratamiento
+T22 CHEM 211 221 amiodarona
+T23 CHEM 67 70 dic
+T24 CHEM 93 97 umar
+T25 CHEM 145 151 ínicos
+T26 PROC 476 495 estudio ambulatorio
+T27 DISO 443 460 clínica digestiva
+T28 PROC 460 477 control analítico
+T29 PROC 85 88 GGT
+T30 PROC 59 61 FA
+T31 PROC 331 342 exploración
+T32 DISO 125 129 estu
+T33 DISO 97 100 por
+T34 DISO 100 103 osa
+T35 DISO 69 71 ic
+T36 DISO 36 37 t
+T37 DISO 181 186 érica
+T38 DISO 741 761 hipotensión arterial
+T39 PROC 647 664 Saturación de O 2
+T40 PROC 469 481 Auscultación
+T41 ANAT 321 329 cardiaca
+T42 PROC 493 505 Auscultación
+T43 ANAT 337 345 pulmonar
+T44 ANAT 302 309 abdomen
+T45 DISO 397 406 globuloso
+T46 DISO 1036 1059 doloroso a la palpación
+T47 ANAT 507 518 hemiabdomen
+T48 DISO 1317 1345 signos irritación peritoneal
+T49 DISO 145 148 EII
+T50 DISO 442 451 trombosis
+T51 PROC 451 460 analítica
+T52 DISO 613 625 leucocitosis
+T53 DISO 573 584 neutrofilia
+T54 PROC 213 217 urea
+T55 PROC 541 551 creatinina
+T56 PROC 936 953 bilirrubina total
+T57 PROC 897 913 fracción directa
+T58 PROC 172 175 AST
+T59 PROC 175 178 ALT
+T60 PROC 178 181 GGT
+T61 DISO 1381 1404 sepsis de origen biliar
+T62 PROC 672 683 tratamiento
+T63 CHEM 373 379 fluido
+T64 CHEM 505 513 dopamina
+T65 CHEM 705 716 antibiótico
+T66 CHEM 781 793 piperacilina
+T67 CHEM 67 68 /
+T68 CHEM 671 681 tazobactam
+T69 PROC 1429 1450 uebas complementarias
+T70 PROC 1036 1051 TAC - abdominal
+T71 DISO 1401 1421 imágenes hipoden sas
+T72 ANAT 1350 1369 parénquima hepático
+T73 DISO 577 585 abscesos
+T74 PROC 3359 3405 Ecocardiograma transtorácico y trans esofágico
+T75 DISO 889 901 endocarditis
+T76 ANAT 226 229 sub
+T77 ANAT 1141 1156 valvular mitral
+T78 DISO 1002 1015 insuficiencia
+T79 CHEM 859 870 vancomicina
+T80 CHEM 870 881 gentamicina
+T81 PROC 1841 1864 tratamiento antibiótico
+T82 PROC 325 329 PAAF
+T83 DISO 1231 1246 lesión hepática
+T84 PROC 250 253 ERC
+T85 PROC 85 86 P
+T86 DISO 2041 2065 dilatación de via biliar
+T87 PROC 173 175 pa
+T88 PROC 175 177 pi
+T89 PROC 177 179 lo
+T90 PROC 446 451 tomía
+T91 PROC 1261 1275 drenaje biliar
+T92 DISO 183 185 SD
+T93 DISO 185 187 MO
+T94 DISO 559 565 exitus
+T95 PROC 1317 1331 ingreso en UCI
+T96 PROC 476 481 necro
+T97 PROC 385 389 psia
+T98 DISO 777 785 colangio
+T99 DISO 2255 2278 carcinoma multicéntrico
+T100 DISO 694 701 nódulos
+T101 ANAT 601 607 órgano
+T102 ANAT 506 511 lecho
+T103 ANAT 919 928 vesicular
+T104 ANAT 1340 1353 vías biliares
+T105 DISO 2185 2206 metástasis regionales
+T106 ANAT 3991 4029 ganglios linfáticos del hilio hepático
+T107 ANAT 849 857 pulmonar
+T108 DISO 2462 2485 necrosis intra tu moral
+T109 DISO 4537 4579 sobreinfección por Entero bacter clo aca e

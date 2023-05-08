@@ -1,0 +1,74 @@
+T1 DISO 1 15 lesión tumoral
+T2 ANAT 16 31 base del cuello
+T3 DISO 11 16 ulcer
+T4 DISO 10 13 ada
+T5 DISO 21 26 sangr
+T6 DISO 21 25 ante
+T7 ANAT 37 43 planos
+T8 ANAT 64 73 profundos
+T9 PROC 89 100 diagnóstico
+T10 DISO 91 101 neurofibro
+T11 DISO 121 133 ma solitario
+T12 PROC 78 85 tratado
+T13 PROC 253 274 resecciones parciales
+T14 PROC 222 239 cobertura colgajo
+T15 PROC 99 106 injerto
+T16 DISO 436 465 cicatriz que loide retr áctil
+T17 ANAT 97 103 cuello
+T18 PROC 120 127 tratado
+T19 PROC 217 229 radioterapia
+T20 PROC 343 361 estudio por imagen
+T21 DISO 121 127 lesión
+T22 PROC 946 991 resonancia magnética ales ast en T 1 , 2 , RE
+T23 CHEM 199 208 gadolinio
+T24 DISO 277 289 masa sol ida
+T25 DISO 265 276 neoplás ico
+T26 ANAT 201 209 base del
+T27 ANAT 157 163 cuello
+T28 ANAT 892 925 articulación esterno cla v icular
+T29 ANAT 757 784 máºsculo pectoral izquierdo
+T30 ANAT 378 391 inserción del
+T31 ANAT 1081 1117 máºsculo esterno cle id omas to ideo
+T32 ANAT 125 129 zona
+T33 ANAT 353 364 clav icular
+T34 DISO 331 341 compromiso
+T35 ANAT 749 771 estructuras vasculares
+T36 ANAT 211 217 cuello
+T37 ANAT 289 297 torácica
+T38 PROC 519 533 administración
+T39 CHEM 343 352 gadolinio
+T40 DISO 391 401 tumoración
+T41 PROC 1121 1149 intervenido quiráºrgicamente
+T42 PROC 165 169 marc
+T43 PROC 127 130 aje
+T44 PROC 775 793 resección completa
+T45 DISO 441 451 neurofibro
+T46 DISO 91 93 ma
+T47 PROC 1105 1129 reconstrucción inmediata
+T48 PROC 894 913 resección en bloque
+T49 DISO 481 491 neurofibro
+T50 DISO 99 101 ma
+T51 DISO 1301 1327 defecto de tejidos blandos
+T52 ANAT 868 885 máºsculo pectoral
+T53 ANAT 1457 1485 zona para esternal izquierda
+T54 ANAT 584 595 zona medial
+T55 ANAT 973 991 primer arco costal
+T56 ANAT 496 505 clavícula
+T57 DISO 393 400 defecto
+T58 PROC 1198 1219 disección sub fascial
+T59 ANAT 2089 2125 colgajo libre anterolateral de muslo
+T60 ANAT 1063 1081 vasos perfor antes
+T61 ANAT 1141 1160 rama descendente de
+T62 ANAT 2197 2233 arteria femoral lateral circun fleja
+T63 ANAT 497 505 pedículo
+T64 PROC 1891 1921 anastomosis termino - terminal
+T65 CHEM 65 66 n
+T66 CHEM 66 67 y
+T67 CHEM 331 336 lon 0
+T68 ANAT 1743 1769 vasos tiroideos superiores
+T69 DISO 409 415 lesión
+T70 PROC 898 911 transposición
+T71 ANAT 1191 1208 colgajo acro mial
+T72 ANAT 853 865 área donante
+T73 ANAT 2161 2191 colgajo anterolateral de muslo
+T74 PROC 366 371 cerró

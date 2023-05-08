@@ -1,0 +1,93 @@
+T1 PROC 1 11 evaluación
+T2 DISO 12 23 proteinuria
+T3 PROC 23 34 Diagnóstico
+T4 DISO 7 9 HP
+T5 DISO 5 6 N
+T6 DISO 86 103 anemia hemolítica
+T7 PROC 145 169 transfusiones sanguíneas
+T8 DISO 141 161 eventos tromb óticos
+T9 PROC 177 199 pruebas de laboratorio
+T10 DISO 181 201 actividad hemolítica
+T11 PROC 31 34 LDH
+T12 PROC 23 25 ha
+T13 PROC 37 40 pto
+T14 PROC 92 99 globina
+T15 PROC 155 166 hemoglobina
+T16 DISO 151 161 leucopenia
+T17 DISO 241 256 trombocitopenia
+T18 PROC 154 163 ferritina
+T19 DISO 343 362 crisis hemol íticas
+T20 DISO 115 121 fatiga
+T21 DISO 161 169 disfagia
+T22 DISO 316 331 dolor abdominal
+T23 DISO 265 277 orina oscura
+T24 ANAT 116 121 renal
+T25 PROC 409 426 creatinina sérica
+T26 PROC 51 53 FG
+T27 PROC 27 28 M
+T28 PROC 55 57 DR
+T29 PROC 29 30 D
+T30 DISO 117 121 Hemo
+T31 DISO 121 125 glob
+T32 DISO 63 65 in
+T33 DISO 129 133 uria
+T34 PROC 595 613 sedimento urinario
+T35 DISO 375 386 proteinuria
+T36 DISO 386 397 albuminuria
+T37 DISO 181 186 amino
+T38 DISO 112 115 aci
+T39 DISO 77 79 du
+T40 DISO 118 121 ria
+T41 DISO 41 42 D
+T42 DISO 83 85 TP
+T43 PROC 799 818 estado ácido - base
+T44 PROC 302 309 fosfato
+T45 PROC 529 541 ácido áºrico
+T46 DISO 46 47 D
+T47 DISO 93 95 TP
+T48 DISO 518 529 depósito de
+T49 CHEM 241 246 hemos
+T50 CHEM 197 201 ider
+T51 CHEM 151 154 ina
+T52 PROC 154 157 IRM
+T53 DISO 209 213 hipo
+T54 DISO 319 325 intens
+T55 DISO 217 221 idad
+T56 ANAT 441 449 cortical
+T57 ANAT 281 286 renal
+T58 DISO 628 639 depósito de
+T59 CHEM 349 355 hierro
+T60 PROC 414 421 terapia
+T61 CHEM 61 62 e
+T62 CHEM 184 187 cul
+T63 CHEM 373 379 izumab
+T64 PROC 820 833 requerimiento
+T65 PROC 833 846 transfusional
+T66 PROC 131 133 FG
+T67 DISO 1123 1140 crisis hemolítica
+T68 DISO 1676 1701 insuficiencia renal aguda
+T69 DISO 545 553 hemoglob
+T70 DISO 139 141 in
+T71 DISO 281 285 uria
+T72 PROC 498 505 tratado
+T73 PROC 1513 1534 medidas conservadoras
+T74 ANAT 366 371 renal
+T75 PROC 815 826 tratamiento
+T76 CHEM 76 77 e
+T77 CHEM 229 232 cul
+T78 CHEM 463 469 izumab
+T79 PROC 235 238 LDH
+T80 PROC 870 881 hemoglobina
+T81 PROC 561 568 niveles
+T82 PROC 163 165 ha
+T83 PROC 247 250 pto
+T84 PROC 582 589 globina
+T85 DISO 1597 1616 proteinuria tubular
+T86 CHEM 86 87 e
+T87 CHEM 259 262 cul
+T88 CHEM 523 529 izumab
+T89 PROC 265 268 IRM
+T90 ANAT 1158 1171 corteza renal
+T91 ANAT 721 729 riá±ones
+T92 CHEM 547 553 hierro
+T93 ANAT 553 559 riá±ón

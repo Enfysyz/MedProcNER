@@ -1,0 +1,46 @@
+T1 DISO 1 11 DM tipo II
+T2 PROC 12 23 tratamiento
+T3 CHEM 17 25 insulina
+T4 DISO 70 93 complicaciones crónicas
+T5 DISO 57 71 polineuropatía
+T6 DISO 16 19 HTA
+T7 PROC 67 78 tratamiento
+T8 DISO 36 41 obesa
+T9 PROC 121 136 cirugía de P TR
+T10 PROC 226 251 prótesis total de rodilla
+T11 PROC 181 199 técnica anestésica
+T12 PROC 518 565 procedimiento combinado epidural / in trad ural
+T13 ANAT 13 14 L
+T14 ANAT 14 15 L
+T15 CHEM 43 46 bup
+T16 CHEM 121 129 ivacaína
+T17 CHEM 193 205 vasoconstric
+T18 CHEM 52 55 tor
+T19 PROC 433 457 analgesia postoperatoria
+T20 PROC 58 61 PCA
+T21 PROC 21 22 P
+T22 PROC 232 243 CA epidural
+T23 CHEM 67 70 bup
+T24 CHEM 185 193 ivacaína
+T25 CHEM 217 226 fentanilo
+T26 PROC 501 521 PCA por vía epidural
+T27 PROC 79 82 PCA
+T28 CHEM 271 281 medicación
+T29 CHEM 197 204 morfina
+T30 CHEM 262 271 metamizol
+T31 PROC 271 280 analgesia
+T32 DISO 683 705 depresión respiratoria
+T33 DISO 801 826 alteraciones neurológicas
+T34 DISO 628 647 efectos secundarios
+T35 CHEM 239 246 fármaco
+T36 CHEM 246 253 morfina
+T37 CHEM 325 334 metamizol
+T38 PROC 112 115 PCA
+T39 PROC 495 508 ingreso en la
+T40 PROC 274 281 control
+T41 PROC 441 452 seguimiento
+T42 DISO 698 715 efecto secundario
+T43 PROC 505 517 dada de alta
+T44 PROC 517 529 dada de alta
+T45 PROC 353 361 revisión
+T46 PROC 946 967 seguimiento periódico

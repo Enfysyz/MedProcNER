@@ -1,0 +1,55 @@
+T1 DISO 1 24 deformidades congénitas
+T2 DISO 10 19 patología
+T3 PROC 37 55 exploración física
+T4 DISO 31 41 hipoplasia
+T5 ANAT 37 46 antebrazo
+T6 DISO 91 109 desviación cubital
+T7 ANAT 25 29 mano
+T8 ANAT 134 153 dedos pulgar índice
+T9 PROC 193 217 examen de discriminación
+T10 DISO 244 271 hipoplasia cubital y radial
+T11 DISO 31 34 sin
+T12 DISO 23 25 os
+T13 DISO 229 248 tosis radio humeral
+T14 ANAT 209 225 huesos del carpo
+T15 ANAT 71 76 radio
+T16 ANAT 16 17 c
+T17 ANAT 97 103 áºbito
+T18 ANAT 154 163 antebrazo
+T19 ANAT 91 96 radio
+T20 ANAT 20 21 c
+T21 ANAT 121 127 áºbito
+T22 ANAT 106 111 radio
+T23 ANAT 23 24 c
+T24 ANAT 139 145 áºbito
+T25 ANAT 169 176 háºmero
+T26 PROC 276 287 diagnostico
+T27 DISO 131 136 fallo
+T28 ANAT 433 449 miembro superior
+T29 DISO 701 726 acortamiento longitudinal
+T30 ANAT 204 211 humeral
+T31 PROC 451 466 elongación ósea
+T32 ANAT 621 641 huesos del antebrazo
+T33 PROC 33 34 x
+T34 ANAT 166 171 radio
+T35 ANAT 35 36 c
+T36 ANAT 211 217 áºbito
+T37 PROC 397 408 distracción
+T38 ANAT 223 229 huesos
+T39 PROC 229 235 tiempo
+T40 ANAT 118 121 diá
+T41 ANAT 201 206 fisis
+T42 ANAT 247 253 huesos
+T43 PROC 421 431 osteotomía
+T44 ANAT 775 793 cortical posterior
+T45 ANAT 133 136 cla
+T46 PROC 226 231 osteo
+T47 PROC 1151 1176 tomia circular incompleta
+T48 ANAT 377 385 cortical
+T49 DISO 673 687 complicaciones
+T50 PROC 540 551 distracción
+T51 ANAT 251 256 radio
+T52 ANAT 52 53 c
+T53 ANAT 313 319 áºbito
+T54 PROC 584 595 distracción
+T55 ANAT 217 221 ósea

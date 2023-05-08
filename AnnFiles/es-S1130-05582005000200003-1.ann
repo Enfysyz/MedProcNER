@@ -1,0 +1,66 @@
+T1 DISO 1 24 dolor hemi man dí bular
+T2 DISO 7 13 fiebre
+T3 PROC 37 55 exploración física
+T4 DISO 16 21 signo
+T5 DISO 81 101 dolor a la palpación
+T6 ANAT 121 145 tejidos per icor onarios
+T7 ANAT 127 148 tercer molar inferior
+T8 PROC 64 73 analítica
+T9 PROC 33 37 orto
+T10 PROC 28 31 pan
+T11 PROC 101 111 tomografía
+T12 PROC 23 25 OP
+T13 PROC 13 14 G
+T14 ANAT 209 225 terceros molares
+T15 ANAT 253 271 sacos fol iculares
+T16 DISO 451 481 infección de causa odont ógena
+T17 DISO 49 52 per
+T18 DISO 69 73 icor
+T19 DISO 37 39 on
+T20 DISO 58 61 ari
+T21 DISO 61 64 tis
+T22 PROC 484 507 tratamiento antibiótico
+T23 PROC 67 70 exo
+T24 PROC 139 145 doncia
+T25 ANAT 97 101 cord
+T26 ANAT 376 391 ales inferiores
+T27 PROC 495 514 estudio histológico
+T28 ANAT 379 393 saco folicular
+T29 ANAT 85 88 cor
+T30 ANAT 88 91 dal
+T31 ANAT 751 776 epitelio pol ies tificado
+T32 PROC 1427 1473 extracción del tercer molar inferior izquierdo
+T33 PROC 353 364 tratamiento
+T34 PROC 265 273 consulta
+T35 DISO 171 176 dolor
+T36 ANAT 736 757 tercer molar inferior
+T37 PROC 73 75 OP
+T38 PROC 38 39 G
+T39 DISO 837 859 imagen radi ol áº cida
+T40 ANAT 235 241 corona
+T41 ANAT 121 124 cor
+T42 ANAT 493 505 dal inferior
+T43 DISO 757 775 quiste dentí g ero
+T44 ANAT 517 529 tercer molar
+T45 PROC 1057 1081 intervención quiráºrgica
+T46 PROC 136 139 exo
+T47 PROC 829 847 doncia de la pieza
+T48 PROC 283 289 quiste
+T49 PROC 289 295 ctomía
+T50 PROC 1226 1251 estudio anatomopatológico
+T51 PROC 551 562 diagnóstico
+T52 DISO 307 313 lesión
+T53 ANAT 261 266 pared
+T54 ANAT 902 919 tejido conjuntivo
+T55 ANAT 1189 1211 epitelio estratificado
+T56 ANAT 936 953 células cili ares
+T57 ANAT 393 400 células
+T58 CHEM 115 117 mu
+T59 CHEM 233 237 cina
+T60 PROC 473 481 revisión
+T61 ANAT 181 184 tra
+T62 ANAT 123 125 bé
+T63 ANAT 311 316 culas
+T64 ANAT 316 321 óseas
+T65 ANAT 449 456 cavidad
+T66 DISO 391 397 quiste

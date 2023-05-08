@@ -1,0 +1,72 @@
+T1 PROC 1 10 consultas
+T2 DISO 57 113 lesiones nodulares , eritemato - vi ol áceas y dolorosas
+T3 ANAT 15 22 piernas
+T4 ANAT 16 21 dorso
+T5 ANAT 17 21 pies
+T6 DISO 126 151 hinchazón de los tobillos
+T7 DISO 43 50 clínica
+T8 DISO 127 145 pancreatitis aguda
+T9 DISO 33 37 etil
+T10 DISO 109 121 ismo crónico
+T11 PROC 81 89 colangio
+T12 PROC 12 13 -
+T13 PROC 37 40 res
+T14 PROC 222 239 onancia magnética
+T15 DISO 281 301 pancreatitis crónica
+T16 DISO 91 97 pseudo
+T17 DISO 65 69 quis
+T18 DISO 273 289 tes pancreáticos
+T19 PROC 199 210 seguimiento
+T20 PROC 286 301 biopsia cutánea
+T21 PROC 341 358 estudio analítico
+T22 PROC 232 243 tratamiento
+T23 CHEM 705 737 antiinflamatorios no esteroideos
+T24 CHEM 208 217 omeprazol
+T25 PROC 121 126 histo
+T26 PROC 226 235 patología
+T27 DISO 443 460 lesiones cutáneas
+T28 DISO 622 645 infiltrado inflamatorio
+T29 ANAT 57 59 lo
+T30 ANAT 88 91 bul
+T31 ANAT 301 311 illo graso
+T32 ANAT 218 225 polimor
+T33 ANAT 97 100 fon
+T34 ANAT 661 681 ucleares neutrófilos
+T35 DISO 477 491 necrosis grasa
+T36 DISO 351 361 hemorragia
+T37 PROC 613 630 estudio analítico
+T38 PROC 1000 1027 valores amilasa pancreática
+T39 PROC 419 430 diagnóstico
+T40 DISO 118 121 pan
+T41 DISO 801 821 iculitis pancreática
+T42 PROC 288 295 ingreso
+T43 PROC 295 302 estudio
+T44 PROC 431 441 vigilancia
+T45 DISO 881 901 pancreatitis crónica
+T46 DISO 766 783 lesiones cutáneas
+T47 PROC 1289 1317 tratamiento antiinflamatorio
+T48 DISO 612 625 epigastralgia
+T49 DISO 625 638 epigastralgia
+T50 DISO 344 351 náuseas
+T51 DISO 351 358 vómitos
+T52 PROC 919 937 niveles de amilasa
+T53 PROC 365 372 ingreso
+T54 PROC 1326 1351 tomografía computer izada
+T55 PROC 811 826 TC ) de control
+T56 ANAT 1046 1065 cabeza del páncreas
+T57 DISO 561 571 dilatación
+T58 ANAT 457 465 conducto
+T59 DISO 1103 1122 destrucción parcial
+T60 ANAT 1181 1201 glándula pancreática
+T61 DISO 2881 2929 adenopatías peri pancre áticas , celía cas y del
+T62 ANAT 1587 1613 ligamento gastro he pático
+T63 DISO 1613 1639 trombosis de la vena porta
+T64 PROC 1639 1665 tratamiento anticoagulante
+T65 PROC 705 716 diagnóstico
+T66 DISO 196 199 pan
+T67 DISO 1321 1341 iculitis pancreática
+T68 PROC 872 885 TC de control
+T69 DISO 1429 1450 patología pancreática
+T70 DISO 2623 2661 transformación ca vern oma tosa portal
+T71 DISO 771 782 adenopatías
+T72 DISO 1421 1441 pancreatitis crónica

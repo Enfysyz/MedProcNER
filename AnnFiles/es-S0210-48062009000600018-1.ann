@@ -1,0 +1,91 @@
+T1 PROC 1 4 RTU
+T2 PROC 2 3 P
+T3 DISO 23 34 polaquiuria
+T4 DISO 58 77 dolor hipo gástrico
+T5 DISO 25 31 fiebre
+T6 PROC 56 67 intervenido
+T7 DISO 229 267 hernia inguinal derecha in car cer ada
+T8 PROC 127 145 exploración física
+T9 DISO 105 118 globo vesical
+T10 DISO 145 161 secreción serosa
+T11 DISO 151 166 herida inguinal
+T12 DISO 34 37 ind
+T13 DISO 193 209 uración dolorosa
+T14 ANAT 170 183 base pene ana
+T15 PROC 211 226 sondaje uretral
+T16 PROC 136 145 analítica
+T17 DISO 193 205 leucocitosis
+T18 PROC 307 325 sedimento de orina
+T19 PROC 127 134 ingresó
+T20 PROC 647 681 tratamiento antibiótico endovenoso
+T21 PROC 181 190 analítica
+T22 PROC 400 419 ecografía abdominal
+T23 DISO 67 70 ser
+T24 DISO 484 505 oma sub cica tri cial
+T25 ANAT 193 201 inguinal
+T26 PROC 76 79 cis
+T27 PROC 911 946 tografía por sonda de cis tos tomía
+T28 DISO 217 225 extravas
+T29 ANAT 421 436 uretra pene ana
+T30 PROC 204 211 tratada
+T31 DISO 301 311 ITU febril
+T32 PROC 497 513 cultivo de orina
+T33 DISO 449 463 dolor perineal
+T34 CHEM 562 579 antiinflamatorios
+T35 PROC 375 386 intervenido
+T36 DISO 526 541 hernia inguinal
+T37 PROC 181 186 resec
+T38 DISO 1074 1103 adenopatía carcinoma escamoso
+T39 DISO 1065 1093 carcinoma escamoso de uretra
+T40 DISO 742 761 adenopatía inguinal
+T41 PROC 801 821 estudio de extensión
+T42 PROC 534 547 RNM pelvi ana
+T43 DISO 379 388 colección
+T44 ANAT 259 265 uretra
+T45 ANAT 837 856 cuerpos caver nosos
+T46 DISO 1396 1427 adenopatías inguinales derechas
+T47 PROC 1059 1082 TC tó ra co - abdominal
+T48 DISO 800 817 lesión subpleural
+T49 ANAT 1249 1275 lóbulo superior del pulmón
+T50 DISO 491 501 metástasis
+T51 DISO 551 562 adenopatías
+T52 PROC 358 365 ingresó
+T53 DISO 729 743 dolor perineal
+T54 DISO 1432 1459 lesiones nodulares cutáneas
+T55 ANAT 271 276 pubis
+T56 ANAT 276 281 muslo
+T57 PROC 393 400 biopsia
+T58 DISO 457 465 lesiones
+T59 DISO 1045 1063 carcinoma escamoso
+T60 PROC 237 241 poli
+T61 PROC 1381 1404 quimioterapia paliativa
+T62 CHEM 611 621 cisplatino
+T63 CHEM 63 64 5
+T64 CHEM 64 65 -
+T65 CHEM 321 326 fluor
+T66 CHEM 326 331 acilo
+T67 CHEM 133 135 CD
+T68 CHEM 135 137 DP
+T69 CHEM 69 70 5
+T70 CHEM 139 141 FU
+T71 DISO 491 498 astenia
+T72 DISO 143 145 le
+T73 DISO 217 220 táł
+T74 DISO 147 149 li
+T75 DISO 223 226 des
+T76 DISO 1126 1141 lesión pulmonar
+T77 PROC 989 1002 quimioterapia
+T78 DISO 771 781 enfermedad
+T79 DISO 1327 1344 lesiones cutáneas
+T80 PROC 2213 2241 radioterapia paliativa dolor
+T81 DISO 161 163 le
+T82 DISO 163 165 tá
+T83 DISO 165 167 li
+T84 DISO 250 253 des
+T85 PROC 925 936 tratamiento
+T86 CHEM 256 259 mór
+T87 CHEM 431 436 ficos
+T88 PROC 958 969 seguimiento
+T89 PROC 1673 1692 cuidados paliativos
+T90 PROC 980 991 diagnóstico
+T91 DISO 1621 1639 carcinoma escamoso

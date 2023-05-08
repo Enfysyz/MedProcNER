@@ -1,0 +1,56 @@
+T1 PROC 1 12 intervenida
+T2 PROC 44 87 nefrectomía radical laparoscópica izquierda
+T3 DISO 59 88 tumor renal del polo inferior
+T4 PROC 37 49 intervención
+T5 DISO 129 161 adherencias peri tumor ales para
+T6 ANAT 16 19 aór
+T7 ANAT 31 36 ticas
+T8 ANAT 22 25 mes
+T9 ANAT 33 37 ocol
+T10 ANAT 19 21 on
+T11 PROC 31 34 lig
+T12 PROC 45 49 aron
+T13 PROC 49 53 coag
+T14 PROC 53 57 ular
+T15 PROC 29 31 on
+T16 ANAT 361 385 vasos linfáticos gruesos
+T17 PROC 369 392 disección cuidadosa del
+T18 ANAT 86 91 hilio
+T19 PROC 73 77 clip
+T20 PROC 77 81 ó el
+T21 ANAT 121 127 uréter
+T22 DISO 169 177 sangrado
+T23 PROC 639 668 estudio aná tomo - patológico
+T24 DISO 1220 1273 carcinoma renal de células claras , sólido y quístico
+T25 DISO 553 576 sangrado intra tu moral
+T26 PROC 276 287 hemoglobina
+T27 PROC 443 460 alta hospitalaria
+T28 DISO 406 421 metro abdominal
+T29 DISO 169 175 disnea
+T30 DISO 175 181 discon
+T31 DISO 121 125 fort
+T32 PROC 559 577 estudios de imagen
+T33 DISO 225 232 ascitis
+T34 DISO 562 579 ascitis qu il osa
+T35 PROC 69 71 Hb
+T36 PROC 736 757 fórmula leucoci taria
+T37 PROC 793 815 recuento de linfocitos
+T38 PROC 482 495 función renal
+T39 ANAT 305 313 hepática
+T40 DISO 157 161 hipo
+T41 DISO 41 42 -
+T42 DISO 206 211 prote
+T43 DISO 463 474 inemia leve
+T44 PROC 732 749 proteinas totales
+T45 PROC 1321 1351 tratada de manera conservadora
+T46 PROC 226 231 parac
+T47 PROC 1519 1552 entesis diagnóstica o evacu adora
+T48 PROC 1270 1297 dieta baja en sal y lípidos
+T49 CHEM 1153 1177 suplementos de proteinas
+T50 CHEM 736 751 espironolactona
+T51 ANAT 451 460 abdominal
+T52 PROC 868 885 alta hospitalaria
+T53 PROC 1041 1061 ecografía de abdomen
+T54 DISO 425 433 síntomas
+T55 DISO 325 331 signos
+T56 PROC 1046 1065 ecografía abdominal

@@ -1,0 +1,63 @@
+T1 PROC 1 30 colecistectomía laparoscópica
+T2 DISO 23 45 fístula biliar externa
+T3 PROC 35 52 drenaje ambiental
+T4 PROC 52 69 pruebas de imagen
+T5 PROC 9 11 ec
+T6 PROC 36 43 ografía
+T7 PROC 19 22 TAC
+T8 PROC 22 25 TAC
+T9 PROC 137 154 drenaje pig ta il
+T10 ANAT 28 31 bil
+T11 DISO 31 34 oma
+T12 PROC 12 13 c
+T13 PROC 37 40 RMN
+T14 PROC 40 43 ERC
+T15 PROC 183 196 P diagnóstica
+T16 PROC 46 49 ERC
+T17 PROC 17 18 P
+T18 PROC 698 739 colocación incluso de endoprótesis biliar
+T19 DISO 253 267 fístula biliar
+T20 ANAT 666 701 vía biliar intra - y extra hepática
+T21 DISO 441 463 fístula biliar externa
+T22 PROC 190 199 analítica
+T23 PROC 45 47 al
+T24 PROC 47 49 an
+T25 PROC 481 501 ini aminotransferasa
+T26 PROC 176 183 asparta
+T27 PROC 495 514 to aminotransferasa
+T28 PROC 82 85 GGT
+T29 PROC 505 523 fosfatasa alcalina
+T30 PROC 494 511 bilirrubina total
+T31 PROC 661 683 drenaje biliar interno
+T32 ANAT 311 321 vía biliar
+T33 DISO 705 727 fístula biliar externa
+T34 ANAT 265 273 conducto
+T35 PROC 409 421 intervención
+T36 PROC 526 541 colecistectomía
+T37 ANAT 433 445 hilio biliar
+T38 PROC 297 305 colangio
+T39 PROC 229 235 grafía
+T40 DISO 547 561 fístula biliar
+T41 DISO 241 247 lesión
+T42 DISO 739 757 conducto aberrante
+T43 ANAT 757 775 sectorial anterior
+T44 ANAT 1205 1233 árbol biliar intra he pático
+T45 PROC 485 496 tratamiento
+T46 DISO 271 277 lesión
+T47 PROC 139 142 col
+T48 PROC 189 193 angi
+T49 PROC 97 99 ol
+T50 PROC 99 101 oy
+T51 PROC 101 103 ey
+T52 PROC 103 105 un
+T53 PROC 3225 3287 ostomía con asa en Y de Ro ux tutor izada trans anas tom ótica
+T54 PROC 425 433 colangio
+T55 PROC 1081 1101 grafía trans catéter
+T56 PROC 606 617 anastomosis
+T57 DISO 281 286 fugas
+T58 PROC 229 233 dado
+T59 PROC 407 414 cirugía
+T60 PROC 1417 1441 control colangio gráfico
+T61 PROC 661 672 anastomosis
+T62 PROC 550 559 controles
+T63 PROC 1117 1135 pruebas analíticas

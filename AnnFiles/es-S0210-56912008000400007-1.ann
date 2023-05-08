@@ -1,0 +1,30 @@
+T1 PROC 1 8 ingresa
+T2 DISO 11 21 politrauma
+T3 DISO 11 16 tismo
+T4 PROC 25 33 atendido
+T5 DISO 37 46 accidente
+T6 PROC 96 115 Glasgow Com a Scale
+T7 PROC 19 22 TAC
+T8 PROC 78 89 diagnosticó
+T9 DISO 41 46 seudo
+T10 DISO 244 271 aneurisma de aorta torácica
+T11 ANAT 31 34 ist
+T12 ANAT 23 25 mo
+T13 DISO 265 287 hematoma peria ór tico
+T14 DISO 235 253 lesiones asociadas
+T15 PROC 71 76 trató
+T16 CHEM 46 49 lab
+T17 CHEM 65 69 etal
+T18 CHEM 35 37 ol
+T19 PROC 703 742 control estricto de la tensión arterial
+T20 PROC 58 61 ECO
+T21 PROC 21 22 T
+T22 PROC 232 243 seguimiento
+T23 DISO 309 323 lesión aórtica
+T24 PROC 277 289 dado de alta
+T25 DISO 217 226 accidente
+T26 PROC 576 599 colocó una endoprótesis
+T27 ANAT 677 703 aorta torácica descendente
+T28 ANAT 433 449 ilíaca primitiva
+T29 DISO 589 610 oclusión asintomática
+T30 ANAT 494 511 arteria subclavia

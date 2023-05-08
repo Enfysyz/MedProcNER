@@ -1,0 +1,94 @@
+T1 DISO 1 22 hipertensión arterial
+T2 PROC 12 23 tratamiento
+T3 PROC 29 43 apendicectomía
+T4 DISO 40 53 epigastralgia
+T5 DISO 29 36 melenas
+T6 DISO 36 43 astenia
+T7 DISO 49 57 disfagia
+T8 DISO 50 57 pirosis
+T9 DISO 257 289 alteración del hábito intestinal
+T10 PROC 163 181 exploración física
+T11 DISO 51 56 masas
+T12 DISO 166 181 visceromegalias
+T13 ANAT 85 92 abdomen
+T14 DISO 248 267 signos desnutrición
+T15 PROC 127 136 analítica
+T16 DISO 466 497 anemia microc ítica hipo cro ma
+T17 PROC 33 35 Hg
+T18 PROC 18 19 b
+T19 PROC 55 58 Hto
+T20 PROC 400 421 radiografías de tórax
+T21 PROC 141 148 abdomen
+T22 PROC 526 551 endoscopia digestiva alta
+T23 ANAT 155 162 esófago
+T24 ANAT 369 385 cavidad gástrica
+T25 ANAT 145 151 mucosa
+T26 DISO 226 235 erosiones
+T27 ANAT 157 163 mucosa
+T28 ANAT 379 393 bulbo duodenal
+T29 PROC 449 465 toma de biopsias
+T30 ANAT 146 151 antro
+T31 ANAT 181 187 cuerpo
+T32 PROC 249 257 biopsias
+T33 DISO 993 1024 gastritis crónica sin actividad
+T34 PROC 628 647 ecografía abdominal
+T35 ANAT 205 211 hígado
+T36 ANAT 526 541 vesícula biliar
+T37 ANAT 289 297 páncreas
+T38 PROC 408 419 diagnóstico
+T39 DISO 951 976 hemorragia digestiva alta
+T40 DISO 235 241 duoden
+T41 DISO 481 493 itis erosiva
+T42 DISO 247 253 anemia
+T43 DISO 799 818 perdidas digestivas
+T44 PROC 517 529 dado de alta
+T45 PROC 837 856 control ambulatorio
+T46 PROC 496 507 tratamiento
+T47 CHEM 231 236 antis
+T48 CHEM 189 193 ecre
+T49 CHEM 241 246 tores
+T50 PROC 197 201 rein
+T51 PROC 201 205 gres
+T52 PROC 52 53 a
+T53 DISO 365 372 melenas
+T54 PROC 1326 1351 endoscopia digestiva alta
+T55 ANAT 379 386 esófago
+T56 ANAT 331 337 mucosa
+T57 ANAT 897 913 cavidad gástrica
+T58 ANAT 799 813 bulbo duodenal
+T59 ANAT 407 414 segunda
+T60 ANAT 1063 1081 porción de duodeno
+T61 PROC 421 428 enteros
+T62 PROC 1038 1055 copia de pul sión
+T63 ANAT 931 946 yeyuno proximal
+T64 DISO 1198 1217 tumoración fri able
+T65 DISO 321 326 ulcer
+T66 DISO 196 199 ada
+T67 ANAT 397 403 yeyuno
+T68 PROC 269 273 toma
+T69 PROC 545 553 biopsias
+T70 DISO 346 351 tumor
+T71 PROC 1331 1350 tránsito intestinal
+T72 ANAT 1066 1081 yeyuno proximal
+T73 DISO 649 658 estenosis
+T74 CHEM 658 667 contraste
+T75 PROC 1481 1501 estudio de extensión
+T76 PROC 976 989 TAC abdominal
+T77 DISO 305 309 masa
+T78 ANAT 463 469 yeyuno
+T79 DISO 3979 4030 adenopatías lo cor eg ionales ni retro peritoneales
+T80 DISO 2055 2081 lesiones focales hepáticas
+T81 DISO 801 811 metástasis
+T82 DISO 2026 2051 alteraciones radiológicas
+T83 PROC 903 914 diagnóstico
+T84 DISO 250 253 lei
+T85 DISO 169 171 om
+T86 DISO 3741 3785 iosarcoma de bajo grado de intestino delgado
+T87 DISO 1463 1480 extensión tumoral
+T88 DISO 1219 1233 invasión local
+T89 PROC 1585 1603 estudios de imagen
+T90 PROC 2048 2071 tratamiento quiráºrgico
+T91 PROC 811 820 resección
+T92 DISO 456 461 tumor
+T93 PROC 2853 2884 anastomosis duodeno - y ey unal
+T94 PROC 2140 2163 tratamiento coadyuvante

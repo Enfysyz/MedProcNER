@@ -1,0 +1,20 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 19 37 enfermedad celiaca
+T3 PROC 73 109 anticuerpos anti trans glu tamin asa
+T4 PROC 49 65 biopsia duodenal
+T5 DISO 25 31 entero
+T6 DISO 26 31 patía
+T7 DISO 133 155 atrofia vello ci taria
+T8 PROC 148 169 dieta libre de gluten
+T9 DISO 57 64 diarrea
+T10 DISO 109 121 muerte fetal
+T11 PROC 351 386 anticuerpos antic ardi olip ina IgG
+T12 PROC 56 61 antic
+T13 PROC 49 53 ardi
+T14 PROC 53 57 olip
+T15 PROC 99 106 ina IgM
+T16 PROC 301 321 estudio hematológico
+T17 DISO 465 494 alteraciones pro tromb óticas
+T18 PROC 103 109 medica
+T19 CHEM 397 419 ácido acetilsalicílico
+T20 PROC 134 141 cesárea

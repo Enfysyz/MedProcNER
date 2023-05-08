@@ -1,0 +1,23 @@
+T1 PROC 1 27 tratamiento quimioterápico
+T2 DISO 22 43 enfermedad de Hodgkin
+T3 PROC 23 34 tratamiento
+T4 DISO 91 121 signos de hemorragia digestiva
+T5 DISO 13 16 mel
+T6 DISO 21 25 enas
+T7 PROC 79 92 transaminasas
+T8 PROC 225 257 pruebas de coagulación sanguínea
+T9 PROC 201 226 actividad de pro tom bina
+T10 DISO 73 81 falleció
+T11 DISO 281 309 insuficiencia hepática aguda
+T12 DISO 254 277 signos de encefalopatía
+T13 DISO 241 261 hemorragia digestiva
+T14 PROC 66 71 necro
+T15 PROC 57 61 psia
+T16 DISO 316 337 daá±o hepático difuso
+T17 DISO 257 273 lesiones focales
+T18 ANAT 460 487 tercio inferior del esófago
+T19 PROC 343 362 estudio histológico
+T20 ANAT 134 141 órganos
+T21 DISO 381 400 lesión inflamatoria
+T22 DISO 421 441 infección her pética
+T23 DISO 221 231 cuerpos Co

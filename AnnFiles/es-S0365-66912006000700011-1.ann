@@ -1,0 +1,87 @@
+T1 DISO 1 3 ex
+T2 DISO 8 15 fumador
+T3 DISO 11 16 hiper
+T4 DISO 22 29 lipemia
+T5 PROC 193 241 intervención triple by - pass aorto - cor onario
+T6 PROC 36 43 ingresa
+T7 DISO 37 43 disnea
+T8 DISO 183 209 angina pequeá±os esfuerzos
+T9 PROC 121 136 coronariografía
+T10 PROC 181 201 cateterismo cardíaco
+T11 DISO 341 375 enfermedad coronaria de tres vasos
+T12 DISO 122 133 obstrucción
+T13 ANAT 217 235 puente de safena a
+T14 ANAT 53 57 obtu
+T15 ANAT 155 166 sa marginal
+T16 PROC 196 209 procedimiento
+T17 PROC 177 188 tratamiento
+T18 CHEM 426 451 antiagregante plaquetario
+T19 DISO 343 362 insuficiencia renal
+T20 PROC 191 201 creatinina
+T21 PROC 221 232 cateterismo
+T22 DISO 337 353 síndrome general
+T23 DISO 155 162 astenia
+T24 DISO 185 193 anorexia
+T25 PROC 217 226 analítica
+T26 ANAT 126 131 renal
+T27 PROC 261 271 creatinina
+T28 DISO 298 309 eosinofilia
+T29 PROC 253 262 ingresado
+T30 DISO 958 991 insuficiencia renal aguda por CES
+T31 PROC 601 621 cateterismo cardíaco
+T32 PROC 311 321 creatinina
+T33 PROC 385 397 hemodiálisis
+T34 DISO 199 205 signos
+T35 DISO 681 701 manchas pur páº reas
+T36 ANAT 421 433 zona lateral
+T37 ANAT 109 112 pie
+T38 DISO 75 77 lí
+T39 DISO 647 664 vido reticular is
+T40 PROC 274 281 biopsia
+T41 DISO 121 124 émb
+T42 DISO 739 757 olos de colesterol
+T43 PROC 43 44 R
+T44 PROC 130 133 emi
+T45 PROC 177 181 tido
+T46 PROC 1036 1059 estudio de fondo de ojo
+T47 PROC 1151 1176 exploración oftalmológica
+T48 PROC 659 673 agudeza visual
+T49 PROC 97 99 AV
+T50 ANAT 197 201 ojos
+T51 PROC 951 970 presión intraocular
+T52 PROC 52 53 P
+T53 PROC 105 107 IO
+T54 ANAT 1061 1081 fondo de ojo derecho
+T55 ANAT 109 111 OD
+T56 DISO 276 281 micro
+T57 DISO 281 286 hemor
+T58 DISO 286 291 ragia
+T59 ANAT 349 355 papila
+T60 DISO 178 181 émb
+T61 DISO 1081 1099 olos de colesterol
+T62 ANAT 1404 1427 fondo del ojo izquierdo
+T63 ANAT 125 127 OI
+T64 DISO 190 193 émb
+T65 DISO 257 261 olos
+T66 ANAT 1366 1387 rama temporal y nasal
+T67 DISO 1453 1475 insuficiencia cardíaca
+T68 DISO 1341 1361 signos y síntomas de
+T69 DISO 1701 1726 isquemia aguda periférica
+T70 DISO 2209 2241 empeoramiento del estado general
+T71 DISO 141 143 ob
+T72 DISO 143 145 nu
+T73 DISO 217 220 bil
+T74 DISO 366 371 ación
+T75 DISO 963 976 fallecimiento
+T76 PROC 1126 1141 coronariografía
+T77 PROC 381 386 necro
+T78 PROC 309 313 psia
+T79 DISO 235 238 émb
+T80 DISO 1423 1441 olos de colesterol
+T81 ANAT 1761 1783 estructuras vasculares
+T82 ANAT 649 657 tiroides
+T83 ANAT 657 665 páncreas
+T84 ANAT 582 589 corazón
+T85 ANAT 337 341 bazo
+T86 ANAT 511 517 hígado
+T87 ANAT 689 697 riá±ones

@@ -1,0 +1,77 @@
+T1 DISO 1 8 fumador
+T2 DISO 3 5 ul
+T3 DISO 25 37 cus duodenal
+T4 PROC 34 45 intervenido
+T5 DISO 209 261 neoplasia es tenos ante de unión recto - sig mo idea
+T6 DISO 21 25 aden
+T7 DISO 7 8 o
+T8 DISO 64 73 carcinoma
+T9 PROC 145 163 resección anterior
+T10 PROC 271 301 anastomosis término - terminal
+T11 PROC 151 166 sutura mecánica
+T12 PROC 287 313 técnica del doble gra pado
+T13 PROC 145 157 intervención
+T14 DISO 183 197 complicaciones
+T15 PROC 267 286 seguido en consulta
+T16 PROC 181 193 colonoscopia
+T17 PROC 145 154 ecografía
+T18 PROC 103 109 imagen
+T19 ANAT 469 495 región peri anas tom ótica
+T20 PROC 229 241 intervención
+T21 PROC 241 253 intervención
+T22 DISO 253 265 deposiciones
+T23 DISO 111 116 dolor
+T24 DISO 691 721 imiento abdominal intermitente
+T25 ANAT 265 276 hipogastrio
+T26 DISO 151 157 rector
+T27 DISO 157 163 ragias
+T28 PROC 244 253 ingresado
+T29 PROC 365 378 TAC abdominal
+T30 PROC 349 361 colonoscopia
+T31 DISO 271 280 estenosis
+T32 ANAT 342 353 margen anal
+T33 PROC 225 232 biopsia
+T34 DISO 595 613 enfermedad maligna
+T35 DISO 681 701 áºlcera inespecífica
+T36 PROC 981 1009 marcadores tumorales séricos
+T37 DISO 325 334 neoplasia
+T38 PROC 371 381 endoscopia
+T39 PROC 419 430 enema opaco
+T40 PROC 391 401 endoscopia
+T41 PROC 281 288 biopsia
+T42 PROC 452 463 enema opaco
+T43 DISO 757 775 estenosis de colon
+T44 DISO 732 749 estenosis maligna
+T45 DISO 705 721 recidiva tumoral
+T46 PROC 496 507 tratamiento
+T47 PROC 93 95 en
+T48 PROC 189 193 emas
+T49 CHEM 529 540 corticoides
+T50 CHEM 99 101 bu
+T51 CHEM 401 409 desonida
+T52 PROC 256 261 enema
+T53 DISO 573 584 inflamación
+T54 PROC 1220 1243 exploración endoscópica
+T55 DISO 649 661 asintomático
+T56 PROC 551 561 endoscopia
+T57 ANAT 337 343 mucosa
+T58 DISO 514 523 ulcer ada
+T59 DISO 523 532 estenosis
+T60 DISO 355 361 signos
+T61 DISO 541 550 neoplasia
+T62 ANAT 306 311 colon
+T63 PROC 497 505 biopsias
+T64 DISO 2143 2177 signos inflamatorios inespecíficos
+T65 DISO 577 586 estenosis
+T66 DISO 586 595 isquémico
+T67 DISO 793 805 asintomático
+T68 PROC 738 749 seguimiento
+T69 PROC 749 760 seguimiento
+T70 DISO 2347 2381 alteraciones electrocardiográficas
+T71 PROC 1331 1350 consulta cardiólogo
+T72 PROC 711 721 ergometría
+T73 PROC 1081 1096 coronariografía
+T74 DISO 1096 1111 irregularidades
+T75 ANAT 815 826 descendente
+T76 ANAT 451 457 ostium
+T77 ANAT 305 309 ramo

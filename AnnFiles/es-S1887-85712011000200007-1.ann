@@ -1,0 +1,69 @@
+T1 DISO 1 15 visión borrosa
+T2 ANAT 5 9 ojos
+T3 DISO 29 43 hipotiroidismo
+T4 PROC 34 45 tratamiento
+T5 CHEM 49 61 levotiroxina
+T6 DISO 41 49 cefaleas
+T7 PROC 55 64 prescrito
+T8 PROC 78 89 tratamiento
+T9 CHEM 25 28 nad
+T10 CHEM 37 41 olol
+T11 CHEM 21 23 to
+T12 CHEM 89 97 piramato
+T13 PROC 205 222 estudio analítico
+T14 PROC 144 155 tratamiento
+T15 PROC 197 211 agudeza visual
+T16 ANAT 61 65 ojos
+T17 ANAT 49 52 ojo
+T18 ANAT 52 55 ojo
+T19 PROC 343 362 estudio refrac tivo
+T20 ANAT 77 81 ojos
+T21 PROC 521 547 estudio biom ic ros cópico
+T22 DISO 190 199 hiperemia
+T23 DISO 485 507 congestión conjuntival
+T24 ANAT 93 97 ojos
+T25 ANAT 433 451 cámaras anteriores
+T26 ANAT 76 79 cór
+T27 ANAT 105 109 neas
+T28 ANAT 190 197 cristal
+T29 ANAT 113 117 inos
+T30 DISO 813 841 signos inflamatorios clusión
+T31 PROC 211 218 Pupilas
+T32 ANAT 187 193 ocular
+T33 PROC 1793 1849 presión intraocular medida con ton ómetro de aplan ación
+T34 ANAT 100 103 ojo
+T35 PROC 375 386 Exploración
+T36 ANAT 246 253 papilas
+T37 ANAT 505 519 polo posterior
+T38 DISO 741 761 cierre angular agudo
+T39 PROC 609 625 tratamiento oral
+T40 CHEM 1561 1601 inhibidores de la an hid rasa carb ónica
+T41 CHEM 201 206 aceta
+T42 CHEM 124 127 zol
+T43 CHEM 211 216 amida
+T44 CHEM 87 89 bi
+T45 CHEM 177 181 mato
+T46 CHEM 181 185 pros
+T47 CHEM 47 48 t
+T48 CHEM 142 145 mal
+T49 CHEM 97 99 ea
+T50 CHEM 736 751 to de ti mol ol
+T51 CHEM 601 613 medicaciones
+T52 CHEM 52 53 n
+T53 CHEM 105 107 ad
+T54 CHEM 213 217 olol
+T55 CHEM 109 111 to
+T56 CHEM 441 449 piramato
+T57 PROC 505 514 tensiones
+T58 ANAT 229 233 ojos
+T59 ANAT 175 178 ojo
+T60 ANAT 178 181 ojo
+T61 ANAT 901 916 cámara anterior
+T62 PROC 672 683 tratamiento
+T63 CHEM 311 316 aceta
+T64 CHEM 190 193 zol
+T65 CHEM 321 326 amida
+T66 PROC 1171 1189 tratamiento tópico
+T67 PROC 595 604 tensiones
+T68 ANAT 269 273 ojos
+T69 PROC 749 760 tratamiento

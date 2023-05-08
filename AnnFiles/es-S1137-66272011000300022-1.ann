@@ -1,0 +1,74 @@
+T1 DISO 1 8 cefalea
+T2 DISO 5 9 prop
+T3 DISO 11 16 tosis
+T4 DISO 19 25 fiebre
+T5 DISO 29 36 vómitos
+T6 DISO 36 43 cefalea
+T7 DISO 97 113 congestión nasal
+T8 PROC 92 105 diagnosticado
+T9 DISO 73 82 sinusitis
+T10 PROC 208 231 tratamiento antibiótico
+T11 CHEM 111 122 amoxicilina
+T12 CHEM 12 13 -
+T13 CHEM 133 144 clavulánico
+T14 DISO 105 113 síntomas
+T15 DISO 463 496 cefalea intensa fronto - temporal
+T16 DISO 361 385 edema en párpado derecho
+T17 DISO 65 69 prop
+T18 DISO 86 91 tosis
+T19 PROC 325 343 exploración física
+T20 DISO 77 81 prop
+T21 DISO 101 106 tosis
+T22 ANAT 64 67 ojo
+T23 DISO 463 484 tumefacción palpebral
+T24 DISO 254 265 obstrucción
+T25 ANAT 241 251 fosa nasal
+T26 PROC 576 599 exploración neurológica
+T27 DISO 261 271 dificultad
+T28 DISO 244 253 sinusitis
+T29 DISO 533 552 clínica neurológica
+T30 PROC 320 331 TAC craneal
+T31 DISO 751 776 complicación intracraneal
+T32 PROC 94 97 TAC
+T33 DISO 97 100 pan
+T34 DISO 100 103 sin
+T35 DISO 69 71 us
+T36 DISO 141 145 itis
+T37 DISO 109 112 fle
+T38 DISO 741 761 món sub per i óstico
+T39 ANAT 571 586 pared medial de
+T40 ANAT 235 241 órbita
+T41 DISO 201 206 empie
+T42 DISO 780 799 ma subdural frontal
+T43 PROC 127 130 Val
+T44 PROC 216 221 orado
+T45 PROC 1365 1396 tratamiento endovenoso empírico
+T46 CHEM 91 93 ce
+T47 CHEM 369 377 fotaxima
+T48 CHEM 518 529 vancomicina
+T49 CHEM 577 589 metronidazol
+T50 PROC 344 351 drenaje
+T51 DISO 151 154 pan
+T52 DISO 154 157 sin
+T53 DISO 105 107 us
+T54 DISO 213 217 itis
+T55 PROC 919 936 evacuación de los
+T56 ANAT 276 281 senos
+T57 PROC 449 457 cultivos
+T58 DISO 799 813 sintomatología
+T59 PROC 639 650 tratamiento
+T60 PROC 1122 1141 controles de imagen
+T61 PROC 121 123 RM
+T62 PROC 672 683 tratamiento
+T63 PROC 1179 1198 analítica de sangre
+T64 DISO 631 641 leucopenia
+T65 DISO 321 326 hiper
+T66 DISO 326 331 trans
+T67 DISO 265 269 amin
+T68 DISO 403 409 asemia
+T69 PROC 1565 1588 tratamiento antibiótico
+T70 PROC 553 561 suspende
+T71 PROC 1611 1634 tratamiento antibiótico
+T72 PROC 853 865 dado de alta
+T73 PROC 937 950 controlado de
+T74 DISO 1534 1555 secuelas neurológicas

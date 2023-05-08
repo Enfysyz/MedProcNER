@@ -1,0 +1,44 @@
+T1 DISO 1 3 ul
+T2 DISO 13 25 cus duodenal
+T3 DISO 29 43 estreá±imiento
+T4 DISO 82 109 dolor en fosa renal derecha
+T5 DISO 81 101 crisis reno ureteral
+T6 DISO 16 19 nef
+T7 DISO 61 71 rolitiasis
+T8 DISO 64 73 hematuria
+T9 DISO 249 280 infecciones del tracto urinario
+T10 PROC 100 111 exploración
+T11 PROC 51 56 puá±o
+T12 PROC 166 181 percusión renal
+T13 PROC 109 118 ecografía
+T14 DISO 352 379 ectasia pielocalicial renal
+T15 ANAT 141 151 parénquima
+T16 PROC 16 17 U
+T17 PROC 33 35 IV
+T18 ANAT 205 217 unidad renal
+T19 PROC 199 210 exploración
+T20 PROC 96 101 pielo
+T21 PROC 361 379 grafía retro grada
+T22 DISO 757 793 estenosis en la unión pielo ureteral
+T23 PROC 617 645 citología urinaria selectiva
+T24 ANAT 139 145 uréter
+T25 PROC 673 701 cirugía reconstructiva ex er
+T26 PROC 126 131 ética
+T27 PROC 443 460 gammagrafía renal
+T28 ANAT 163 169 riá±ón
+T29 PROC 141 146 pielo
+T30 PROC 610 631 plastia renal derecha
+T31 PROC 721 745 examen anatomopatológico
+T32 DISO 869 897 estenosis de la vía urinaria
+T33 DISO 673 694 hemangioma caver noso
+T34 DISO 364 375 obstrucción
+T35 PROC 1157 1191 control postoperatorio uro gráfico
+T36 ANAT 176 181 renal
+T37 CHEM 325 334 contraste
+T38 ANAT 223 229 riá±ón
+T39 PROC 1293 1327 dada de alta de consultas externas
+T40 PROC 274 281 cirugía
+T41 PROC 881 903 controles uro gráficos
+T42 PROC 206 211 pielo
+T43 PROC 295 302 plastia
+T44 DISO 732 749 clínica urológica

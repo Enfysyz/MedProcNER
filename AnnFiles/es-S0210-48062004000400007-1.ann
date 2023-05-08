@@ -1,0 +1,103 @@
+T1 PROC 1 14 diagnosticada
+T2 PROC 10 19 ecografía
+T3 DISO 23 34 masa sólida
+T4 ANAT 40 53 polo superior
+T5 ANAT 57 71 riá±ón derecho
+T6 PROC 41 49 consulta
+T7 PROC 67 78 tratamiento
+T8 DISO 85 97 asintomática
+T9 PROC 17 19 Ex
+T10 PROC 19 21 pl
+T11 PROC 21 23 or
+T12 PROC 221 241 aciones radiológicas
+T13 PROC 13 14 ó
+T14 ANAT 40 43 rax
+T15 DISO 337 361 adenopatías calcificadas
+T16 ANAT 151 161 mediastino
+T17 ANAT 97 103 tracto
+T18 ANAT 69 73 base
+T19 PROC 235 248 TAC abdominal
+T20 ANAT 77 81 polo
+T21 ANAT 281 295 riá±ón derecho
+T22 DISO 232 243 masa sólida
+T23 ANAT 221 231 seno renal
+T24 ANAT 507 529 estructuras vasculares
+T25 PROC 409 426 administración de
+T26 CHEM 226 235 contraste
+T27 DISO 209 217 cicatriz
+T28 DISO 109 113 masa
+T29 ANAT 449 465 parénquima renal
+T30 ANAT 291 301 vena renal
+T31 ANAT 571 590 espacio perir renal
+T32 DISO 342 353 adenopatías
+T33 DISO 321 331 masa renal
+T34 DISO 133 137 onco
+T35 DISO 205 211 citoma
+T36 PROC 36 37 G
+T37 PROC 145 149 amma
+T38 PROC 408 419 grafía ósea
+T39 ANAT 571 586 vértebra lumbar
+T40 ANAT 313 321 cervical
+T41 DISO 1161 1190 procesos osteo degenera tivos
+T42 PROC 452 463 Tratamiento
+T43 PROC 463 474 diagnóstico
+T44 DISO 861 881 adenocarcinoma renal
+T45 PROC 1233 1261 nefrectomía parcial superior
+T46 PROC 496 507 diagnóstico
+T47 DISO 231 236 tumor
+T48 DISO 1505 1537 adenocarcinoma de células claras
+T49 DISO 529 540 tumor renal
+T50 ANAT 393 401 tiroidea
+T51 PROC 1351 1378 estudio inmunohisto químico
+T52 ANAT 409 417 tiroideo
+T53 DISO 521 531 tumoración
+T54 CHEM 584 595 anticuerpos
+T55 CHEM 55 56 v
+T56 CHEM 221 225 imen
+T57 CHEM 225 229 tina
+T58 CHEM 115 117 AE
+T59 CHEM 349 355 3 - AE
+T60 CHEM 60 61 1
+T61 CHEM 181 184 CAM
+T62 CHEM 245 249 alfa
+T63 CHEM 931 946 1 anti tripsina
+T64 CHEM 694 705 calcitonina
+T65 CHEM 129 131 en
+T66 CHEM 131 133 ol
+T67 CHEM 1387 1408 asa neuro especí fica
+T68 CHEM 2011 2041 antígeno carcino emb ri onario
+T69 ANAT 477 484 células
+T70 CHEM 277 281 anti
+T71 CHEM 281 285 tiro
+T72 CHEM 640 649 globulina
+T73 CHEM 217 220 CAM
+T74 CHEM 74 75 5
+T75 CHEM 75 76 S
+T76 CHEM 76 77 -
+T77 CHEM 229 232 100
+T78 PROC 2234 2263 exploraciones complementarias
+T79 PROC 937 949 tratamientos
+T80 DISO 633 641 disfonía
+T81 DISO 3041 3079 sensación de cuerpo extraá±o en cuello
+T82 PROC 1783 1805 TAC cervico - torácico
+T83 DISO 329 333 masa
+T84 ANAT 2076 2101 lóbulo tiroideo izquierdo
+T85 ANAT 1597 1616 mediastino superior
+T86 ANAT 256 259 ist
+T87 ANAT 947 958 mo tiroideo
+T88 DISO 958 969 adenopatías
+T89 ANAT 2905 2938 grupo yug ulo - caro tí deo medio
+T90 DISO 1603 1621 lesiones nodulares
+T91 ANAT 1531 1548 campos pulmonares
+T92 DISO 456 461 micro
+T93 DISO 185 187 me
+T94 DISO 745 753 tástasis
+T95 PROC 377 381 tiro
+T96 PROC 1426 1441 idectomía total
+T97 PROC 3073 3105 vaciamiento ganglionar funcional
+T98 PROC 583 589 laring
+T99 PROC 197 199 ue
+T100 PROC 1189 1201 ctomía total
+T101 DISO 1401 1415 invasión local
+T102 DISO 910 919 neoplasia
+T103 DISO 4999 5048 carcinoma poco diferenciado folicular de tiroides

@@ -1,0 +1,42 @@
+T1 DISO 1 16 parto a término
+T2 PROC 13 25 uso fór ceps
+T3 DISO 21 31 dilatación
+T4 PROC 16 21 Apgar
+T5 PROC 53 66 exploraciones
+T6 PROC 31 37 reposo
+T7 DISO 97 113 amenaza de parto
+T8 DISO 246 281 retraso en el desarrollo psicomotor
+T9 DISO 153 172 crisis de ausencias
+T10 DISO 163 181 crisis epilépticas
+T11 PROC 111 122 tratamiento
+T12 DISO 155 169 retraso mental
+T13 DISO 361 391 dificultades en el aprendizaje
+T14 DISO 326 351 alteraciones conductuales
+T15 DISO 99 106 autismo
+T16 DISO 526 561 déficit en el control de esfínteres
+T17 DISO 817 868 trastorno de hiperactividad con déficit de atención
+T18 PROC 120 127 tratado
+T19 CHEM 235 248 metilfenidato
+T20 DISO 172 181 trastorno
+T21 DISO 301 316 ansiedad social
+T22 DISO 358 375 fobias extremas a
+T23 DISO 661 691 dificultades en la masticación
+T24 DISO 162 169 vómitos
+T25 DISO 217 226 hipotonía
+T26 DISO 526 547 articulaciones lax as
+T27 DISO 313 325 pies val gos
+T28 PROC 649 673 intervención quiráºrgica
+T29 DISO 589 610 alteración del sueá±o
+T30 PROC 204 211 tratada
+T31 CHEM 301 311 melatonina
+T32 DISO 1520 1569 alteraciones cardi ológicas , ni dis auton ómicas
+T33 DISO 481 496 rasgos faciales
+T34 PROC 430 443 diagnosticado
+T35 DISO 35 36 S
+T36 DISO 36 37 X
+T37 DISO 37 38 F
+T38 PROC 593 609 estudio genético
+T39 PROC 875 898 estudiada genéticamente
+T40 PROC 625 641 consejo genético
+T41 PROC 801 821 diagnóstico prenatal
+T42 PROC 698 715 análisis genético

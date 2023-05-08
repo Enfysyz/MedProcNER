@@ -1,0 +1,87 @@
+T1 PROC 1 9 consultó
+T2 DISO 4 7 dis
+T3 DISO 29 43 estesia facial
+T4 DISO 49 65 ptosis palpebral
+T5 DISO 17 21 prop
+T6 DISO 26 31 tosis
+T7 ANAT 73 85 globo ocular
+T8 DISO 148 169 hipertensión arterial
+T9 PROC 145 163 tratamiento médico
+T10 PROC 100 111 intervenido
+T11 DISO 21 23 ul
+T12 DISO 133 145 cus duodenal
+T13 DISO 217 235 poliposis laríngea
+T14 PROC 40 43 Dia
+T15 PROC 99 106 gnostic
+T16 PROC 46 49 ado
+T17 DISO 401 426 adenocarcinoma prostático
+T18 PROC 358 379 biopsia eco dirig ida
+T19 PROC 55 58 PSA
+T20 PROC 96 101 fosfa
+T21 PROC 61 64 tas
+T22 PROC 274 287 as alcal inas
+T23 PROC 265 277 rastreo óseo
+T24 DISO 369 385 metástasis óseas
+T25 PROC 265 276 tratamiento
+T26 CHEM 526 547 análogos de l h - r h
+T27 CHEM 79 82 flu
+T28 CHEM 163 169 tamida
+T29 CHEM 561 581 ácido z ole dr ómico
+T30 PROC 88 91 PSA
+T31 PROC 211 218 ingreso
+T32 DISO 652 673 adormecimiento facial
+T33 ANAT 97 100 póm
+T34 ANAT 100 103 ulo
+T35 ANAT 477 491 labio superior
+T36 DISO 561 577 ptosis palpebral
+T37 DISO 613 630 protrusión ocular
+T38 DISO 297 305 diplopía
+T39 DISO 837 859 dolor facial ni ocular
+T40 PROC 703 721 exploración física
+T41 DISO 641 657 ptosis palpebral
+T42 ANAT 124 127 ojo
+T43 DISO 211 216 soplo
+T44 DISO 560 573 paresia pares
+T45 DISO 1365 1396 alteraciones en la sensibilidad
+T46 ANAT 226 231 mitad
+T47 ANAT 185 189 cara
+T48 PROC 1975 2017 exploración neurológica motora y sensitiva
+T49 PROC 1105 1128 pruebas complementarias
+T50 ANAT 295 301 sangre
+T51 PROC 151 154 GGT
+T52 PROC 919 937 fosfatasa alcalina
+T53 PROC 157 160 PSA
+T54 PROC 637 649 RMN cerebral
+T55 PROC 487 496 angio RMN
+T56 DISO 2091 2129 lesiones isquémicas supra tent oriales
+T57 DISO 785 799 masa orbitaria
+T58 ANAT 1426 1451 techo orbitario izquierdo
+T59 ANAT 1335 1358 máºsculo recto superior
+T60 ANAT 1299 1321 seno frontal izquierdo
+T61 DISO 241 245 masa
+T62 ANAT 1587 1613 reborde orbitario superior
+T63 DISO 745 757 infiltración
+T64 ANAT 316 321 grasa
+T65 ANAT 1665 1691 grasa extrac onal superior
+T66 DISO 261 265 prop
+T67 DISO 793 805 tosis ocular
+T68 DISO 1006 1021 masa expans iva
+T69 ANAT 1361 1381 seno maxilar derecho
+T70 ANAT 898 911 pared lateral
+T71 ANAT 981 995 partes blandas
+T72 ANAT 1279 1297 suelo de la órbita
+T73 ANAT 1009 1023 espacio extrac
+T74 ANAT 1680 1703 máºsculo recto inferior
+T75 ANAT 1259 1276 senos caver nosos
+T76 PROC 4651 4713 tomografía axial computer izada toraco - ab dom ino - pélv ica
+T77 DISO 837 848 patrón óseo
+T78 DISO 3235 3277 infiltración bl ástico - l ítica vertebral
+T79 DISO 1795 1818 alteraciones viscerales
+T80 PROC 870 881 diagnosticó
+T81 DISO 3121 3160 metástasis de adenocarcinoma prostático
+T82 ANAT 1621 1641 seno maxilar derecho
+T83 ANAT 1805 1827 seno frontal izquierdo
+T84 DISO 831 841 afectación
+T85 ANAT 757 766 orbitaria
+T86 ANAT 681 689 superior
+T87 PROC 1549 1567 radioterapia local

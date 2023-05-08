@@ -1,0 +1,70 @@
+T1 DISO 1 28 diabetes mellitus de tipo 2
+T2 PROC 8 15 tratada
+T3 DISO 63 94 hipertensión arterial sistémica
+T4 PROC 40 53 diagnosticada
+T5 PROC 45 56 tratamiento
+T6 DISO 111 133 insuficiencia cardíaca
+T7 PROC 79 92 diagnosticada
+T8 PROC 78 89 diagnóstico
+T9 DISO 217 244 insuficiencia renal crónica
+T10 PROC 64 71 tratado
+T11 PROC 191 210 diálisis peritoneal
+T12 PROC 144 157 internamiento
+T13 DISO 313 339 descompensación metabólica
+T14 PROC 391 421 colocó una sonda trans uretral
+T15 DISO 211 226 dolor abdominal
+T16 ANAT 166 177 hipogastrio
+T17 ANAT 97 103 glande
+T18 PROC 341 361 tratamientos tópicos
+T19 DISO 91 96 dolor
+T20 PROC 248 261 internamiento
+T21 DISO 121 127 fiebre
+T22 DISO 169 177 síntomas
+T23 PROC 397 415 exploración física
+T24 ANAT 162 169 abdomen
+T25 ANAT 97 101 pene
+T26 DISO 201 209 necrosis
+T27 ANAT 157 163 glande
+T28 DISO 514 533 secreción purulenta
+T29 ANAT 365 378 meato uretral
+T30 DISO 233 241 necrosis
+T31 ANAT 61 63 or
+T32 ANAT 63 65 te
+T33 ANAT 97 100 jos
+T34 ANAT 133 137 pies
+T35 PROC 783 806 exámenes de laboratorio
+T36 PROC 386 397 hemoglobina
+T37 DISO 325 334 plaquetas
+T38 PROC 260 267 glucosa
+T39 PROC 39 40 B
+T40 PROC 79 81 UN
+T41 PROC 401 411 creatinina
+T42 PROC 247 253 calcio
+T43 PROC 295 302 fósforo
+T44 PROC 302 309 potasio
+T45 PROC 89 91 pH
+T46 PROC 136 139 pCO
+T47 PROC 47 48 2
+T48 PROC 142 145 HCO
+T49 PROC 49 50 3
+T50 PROC 148 151 fal
+T51 PROC 351 358 ectomía
+T52 ANAT 409 417 base del
+T53 ANAT 209 213 pene
+T54 ANAT 266 271 meato
+T55 ANAT 433 441 perineal
+T56 DISO 496 505 patología
+T57 DISO 1401 1426 necrosis isquémica distal
+T58 ANAT 343 349 glande
+T59 ANAT 465 473 prepucio
+T60 DISO 296 301 micro
+T61 DISO 301 306 tromb
+T62 DISO 367 373 osis y
+T63 DISO 1489 1513 proliferación bacteriana
+T64 PROC 568 577 resección
+T65 DISO 1601 1626 calcificación dis trófica
+T66 ANAT 911 925 media arterial
+T67 PROC 1321 1341 cultivo de secreción
+T68 PROC 1207 1225 antibioticoterapia
+T69 PROC 885 898 hospitalizado
+T70 PROC 691 701 vigilancia

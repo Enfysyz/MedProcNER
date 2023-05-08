@@ -1,0 +1,63 @@
+T1 DISO 1 9 neumonía
+T2 DISO 8 15 fumador
+T3 DISO 31 46 hábito et ílico
+T4 PROC 40 53 diagnosticado
+T5 DISO 105 131 asma bronquial extríns eco
+T6 DISO 21 25 rino
+T7 DISO 133 155 conjuntivitis alérgica
+T8 DISO 120 137 hipersensibilidad
+T9 CHEM 89 100 corticoides
+T10 DISO 262 291 dolor en el hemitórax derecho
+T11 ANAT 241 265 miembro superior derecho
+T12 DISO 67 73 fiebre
+T13 DISO 217 235 sensación disneica
+T14 PROC 248 267 exploración clínica
+T15 PROC 99 106 ingreso
+T16 DISO 271 289 mal estado general
+T17 DISO 97 103 lesión
+T18 ANAT 290 307 pared del abdomen
+T19 DISO 55 58 for
+T20 DISO 134 141 áºnculo
+T21 ANAT 181 190 vesicular
+T22 PROC 757 793 exploraciones cardiaca y neurológica
+T23 DISO 111 116 organ
+T24 DISO 208 217 omegalias
+T25 DISO 289 301 leucocitosis
+T26 DISO 276 287 neutrofilia
+T27 DISO 287 298 eosinofilia
+T28 PROC 271 281 creatinina
+T29 PROC 197 204 ingreso
+T30 PROC 117 121 urea
+T31 PROC 571 590 valores bioquímicos
+T32 PROC 528 545 bilirrubina total
+T33 PROC 513 529 fracción directa
+T34 PROC 100 103 LDH
+T35 PROC 103 106 GOT
+T36 PROC 106 109 GPT
+T37 PROC 109 112 GGT
+T38 PROC 667 685 fosfatasa alcalina
+T39 PROC 989 1015 velocidad de sedimentación
+T40 PROC 1795 1841 serología para VIH virus B y C de la hepatitis
+T41 PROC 481 493 hemocultivos
+T42 CHEM 83 85 ti
+T43 CHEM 127 130 cil
+T44 PROC 1291 1321 ecocardiografía trans torácica
+T45 DISO 837 856 derrame pericárdico
+T46 PROC 406 415 ingresado
+T47 DISO 1335 1364 lesión eritematosa y caliente
+T48 ANAT 1317 1345 región para esternal derecha
+T49 PROC 241 246 aspir
+T50 ANAT 344 351 líquido
+T51 DISO 301 307 lesión
+T52 PROC 358 365 cultivo
+T53 PROC 1041 1061 ecografía de abdomen
+T54 PROC 637 649 TAC de tórax
+T55 DISO 2053 2091 derrame pleural izquierdo intersticial
+T56 DISO 991 1009 imágenes nodulares
+T57 ANAT 1289 1312 lóbulo superior derecho
+T58 ANAT 1426 1451 lóbulo superior izquierdo
+T59 DISO 1509 1535 abscesos estafilo có cicos
+T60 PROC 827 841 TAC de abdomen
+T61 DISO 661 672 adenopatías
+T62 DISO 1465 1489 líquido en cavidad libre
+T63 PROC 993 1009 gammagrafía ósea

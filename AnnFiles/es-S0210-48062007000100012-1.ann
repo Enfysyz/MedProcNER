@@ -1,0 +1,64 @@
+T1 DISO 1 11 tumoración
+T2 ANAT 4 7 tes
+T3 ANAT 7 10 tes
+T4 PROC 7 9 Ex
+T5 PROC 9 11 pl
+T6 PROC 71 85 oración física
+T7 DISO 55 64 Masa dura
+T8 ANAT 134 153 testículo izquierdo
+T9 ANAT 9 10 T
+T10 ANAT 109 121 este derecho
+T11 PROC 21 23 Ex
+T12 PROC 23 25 pl
+T13 PROC 25 27 or
+T14 PROC 92 99 aciones
+T15 PROC 169 181 Eco escrotal
+T16 DISO 46 49 Tum
+T17 DISO 225 239 oración sólida
+T18 ANAT 86 91 teste
+T19 DISO 289 305 lesiones sólidas
+T20 ANAT 96 101 teste
+T21 ANAT 261 274 teste derecho
+T22 DISO 631 661 neoplasia testicular bilateral
+T23 DISO 67 70 Var
+T24 DISO 162 169 icocele
+T25 PROC 481 501 Marcadores tumorales
+T26 PROC 51 53 AF
+T27 PROC 27 28 P
+T28 PROC 55 57 áŁ
+T29 PROC 29 30 -
+T30 PROC 59 61 HC
+T31 PROC 31 32 G
+T32 PROC 94 97 LDH
+T33 PROC 737 760 Tratamiento quiráºrgico
+T34 PROC 67 69 Or
+T35 PROC 103 106 qui
+T36 PROC 876 901 ectomía radical bilateral
+T37 PROC 109 112 Dia
+T38 PROC 297 305 gnóstico
+T39 DISO 191 196 semin
+T40 DISO 781 801 oma índice mit ótico
+T41 DISO 681 698 invasión vascular
+T42 ANAT 124 127 tes
+T43 ANAT 127 130 tes
+T44 DISO 87 89 se
+T45 DISO 133 136 min
+T46 DISO 676 691 oma ana plásico
+T47 PROC 921 941 Estudio de extensión
+T48 PROC 1411 1441 TAC toraco ab dom ino pélv ico
+T49 DISO 145 148 cre
+T50 DISO 1177 1201 cimientos aden op áticos
+T51 ANAT 751 766 retroperitoneal
+T52 DISO 1633 1665 lesiones metastás icas hepáticas
+T53 PROC 1353 1379 Tratamiento complementario
+T54 PROC 1220 1243 quimioterapia sistémica
+T55 CHEM 55 56 e
+T56 CHEM 166 169 top
+T57 CHEM 281 286 ósido
+T58 CHEM 571 581 cisplatino
+T59 PROC 639 650 seguimiento
+T60 PROC 1181 1201 marcadores tumorales
+T61 DISO 1801 1831 adenopatías retro peritoneales
+T62 DISO 1221 1241 metástasis hepáticas
+T63 ANAT 311 316 semen
+T64 PROC 946 961 cirugía radical

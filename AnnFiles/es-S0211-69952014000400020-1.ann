@@ -1,0 +1,32 @@
+T1 DISO 1 11 hipertensa
+T2 DISO 10 19 diabética
+T3 DISO 11 16 obesa
+T4 DISO 16 21 disli
+T5 DISO 5 6 p
+T6 DISO 26 31 émica
+T7 DISO 145 169 enfermedad renal crónica
+T8 DISO 22 25 ERC
+T9 DISO 65 73 diabetes
+T10 DISO 46 51 nefro
+T11 DISO 31 34 ang
+T12 DISO 34 37 ios
+T13 DISO 97 105 clerosis
+T14 PROC 27 29 HD
+T15 PROC 323 346 fístula arteriovenosa (
+T16 PROC 31 33 FA
+T17 PROC 497 528 V ) hum ero ce fálica izquierda
+T18 PROC 375 397 HD por CVC transitorio
+T19 DISO 793 837 infecciones de puerta de entrada del catéter
+T20 PROC 39 41 In
+T21 PROC 81 85 gres
+T22 PROC 22 23 a
+T23 DISO 441 461 fiebre y escalofríos
+T24 PROC 185 193 diálisis
+T25 DISO 265 276 bacteriemia
+T26 PROC 301 313 hemocultivos
+T27 DISO 443 460 infección en P EC
+T28 PROC 190 197 cultiva
+T29 CHEM 29 30 A
+T30 CHEM 30 31 X
+T31 PROC 631 652 tratamiento combinado
+T32 DISO 528 545 cuadro infeccioso

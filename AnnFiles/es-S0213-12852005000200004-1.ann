@@ -1,0 +1,57 @@
+T1 DISO 1 5 viol
+T2 DISO 4 7 ada
+T3 PROC 17 25 denuncia
+T4 DISO 49 65 lesiones en boca
+T5 PROC 37 46 anamnesis
+T6 PROC 126 151 examen de la mucosa bucal
+T7 DISO 103 120 placas op al inas
+T8 DISO 43 49 secund
+T9 DISO 17 19 ar
+T10 DISO 154 171 ismo si fil ítico
+T11 DISO 161 177 lesiones blancas
+T12 DISO 155 169 placas blancas
+T13 ANAT 61 66 comis
+T14 ANAT 53 57 uras
+T15 ANAT 309 331 mucosa labial inferior
+T16 DISO 91 97 placas
+T17 ANAT 81 86 surco
+T18 DISO 86 91 placa
+T19 ANAT 73 77 semi
+T20 ANAT 115 121 mucosa
+T21 DISO 121 127 placas
+T22 ANAT 106 111 borde
+T23 ANAT 133 139 lengua
+T24 DISO 139 145 placas
+T25 ANAT 121 126 punta
+T26 ANAT 151 157 lengua
+T27 PROC 79 82 ras
+T28 PROC 109 113 pado
+T29 PROC 365 378 diagnosticada
+T30 DISO 146 151 leuco
+T31 DISO 451 466 plasia vel losa
+T32 DISO 63 65 LV
+T33 PROC 353 364 test de VIH
+T34 PROC 34 35 V
+T35 PROC 69 71 DR
+T36 PROC 36 37 L
+T37 PROC 2017 2073 prueba fluorescente de anticuerpos contra el tre pon ema
+T38 PROC 223 229 hemato
+T39 PROC 77 79 ag
+T40 PROC 79 81 lu
+T41 PROC 1001 1026 tinación para tre pon ema
+T42 PROC 83 85 TP
+T43 PROC 85 87 HA
+T44 ANAT 302 309 exudado
+T45 DISO 705 721 lesiones bucales
+T46 PROC 1036 1059 prueba del campo oscuro
+T47 PROC 921 941 biopsia de la mucosa
+T48 PROC 518 529 diagnóstico
+T49 DISO 241 246 leuco
+T50 DISO 736 751 plasia vel losa
+T51 PROC 451 460 serología
+T52 PROC 562 573 tratamiento
+T53 DISO 365 372 sífilis
+T54 CHEM 1273 1297 penicilina ben za tínica
+T55 PROC 703 716 biopsia de LV
+T56 PROC 441 449 consulta
+T57 DISO 169 172 VIH

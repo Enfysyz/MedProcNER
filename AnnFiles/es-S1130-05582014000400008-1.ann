@@ -1,0 +1,47 @@
+T1 PROC 1 9 consulta
+T2 DISO 28 55 masa de consistencia blanda
+T3 ANAT 37 55 región paro tí dea
+T4 DISO 61 81 parálisis periférica
+T5 ANAT 53 66 rama cervical
+T6 ANAT 66 79 nervio facial
+T7 DISO 61 71 tumoración
+T8 PROC 134 153 palpación bi manual
+T9 DISO 89 100 adenopatías
+T10 ANAT 55 61 cuello
+T11 PROC 131 144 examen físico
+T12 PROC 144 157 interconsulta
+T13 DISO 289 313 parálisis facial central
+T14 PROC 469 505 tomografía computarizada del cerebro
+T15 PROC 435 466 ecografía de las partes blandas
+T16 DISO 631 673 masa heterogénea sólida las partes blandas
+T17 ANAT 289 307 región paro tí dea
+T18 ANAT 137 145 ganglios
+T19 ANAT 109 115 cuello
+T20 PROC 628 661 punción aspiración con aguja fina
+T21 PROC 361 379 control ecográfico
+T22 DISO 169 177 hemático
+T23 PROC 507 530 biopsia por congelación
+T24 PROC 392 409 anestesia general
+T25 DISO 241 251 tumoración
+T26 ANAT 276 287 mucosa oral
+T27 ANAT 521 541 conducto de S ten on
+T28 PROC 190 197 incidir
+T29 ANAT 169 175 mucosa
+T30 DISO 639 661 tumor la xo , rojo oso
+T31 ANAT 241 249 vascular
+T32 PROC 156 161 extir
+T33 PROC 65 67 pó
+T34 PROC 265 273 incisión
+T35 ANAT 613 631 tejido paro tí deo
+T36 PROC 806 829 biopsia por congelación
+T37 DISO 217 223 lesión
+T38 DISO 815 837 tumor vascular benigno
+T39 PROC 191 196 cerró
+T40 ANAT 235 241 mucosa
+T41 CHEM 841 862 ácido polig lic ólico
+T42 PROC 534 547 procedimiento
+T43 PROC 715 732 alta hospitalaria
+T44 DISO 689 705 parálisis facial
+T45 DISO 441 451 enfermedad
+T46 PROC 496 507 seguimiento
+T47 DISO 1565 1599 hemangioma capilar de la paró tida

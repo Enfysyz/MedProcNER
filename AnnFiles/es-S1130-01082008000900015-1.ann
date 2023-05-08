@@ -1,0 +1,44 @@
+T1 DISO 1 17 cuadro sin copal
+T2 DISO 21 41 deposición mel énica
+T3 ANAT 15 22 abdomen
+T4 PROC 37 49 tacto rectal
+T5 PROC 37 46 analítica
+T6 PROC 16 19 Hto
+T7 PROC 25 29 urea
+T8 PROC 85 97 gastroscopia
+T9 PROC 97 109 colonoscopia
+T10 ANAT 46 51 ciego
+T11 ANAT 141 155 íleon terminal
+T12 DISO 441 481 lesiones incipientes angio dis plás icas
+T13 ANAT 61 66 colon
+T14 ANAT 66 71 recto
+T15 PROC 267 286 cápsula endoscópica
+T16 PROC 226 241 gammagrafía con
+T17 CHEM 33 35 Tc
+T18 CHEM 35 37 99
+T19 CHEM 19 20 m
+T20 CHEM 58 61 per
+T21 CHEM 61 64 tec
+T22 CHEM 43 45 ne
+T23 CHEM 89 93 tato
+T24 ANAT 438 457 fosa iliaca derecha
+T25 ANAT 529 551 arteria iliaca derecha
+T26 ANAT 376 391 mucosa gástrica
+T27 DISO 599 622 divertículo de M eck el
+T28 PROC 325 337 intervención
+T29 PROC 477 494 anestesia general
+T30 PROC 639 661 incisión de Mc Bur ney
+T31 DISO 691 714 divertículo de M eck el
+T32 ANAT 590 609 válvula ile oc ecal
+T33 ANAT 321 331 intestinal
+T34 DISO 661 681 signos inflamatorios
+T35 PROC 681 701 resección intestinal
+T36 ANAT 386 397 divertículo
+T37 PROC 1333 1370 anastomosis latero - lateral mecánica
+T38 PROC 1000 1027 apendicectomía profiláctica
+T39 PROC 457 469 dado de alta
+T40 PROC 157 161 tran
+T41 PROC 641 657 fusión sanguínea
+T42 PROC 780 799 anatomía patológica
+T43 DISO 967 990 divertículo de M eck el
+T44 ANAT 646 661 mucosa gástrica

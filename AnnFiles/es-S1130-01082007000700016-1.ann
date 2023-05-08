@@ -1,0 +1,49 @@
+T1 DISO 1 27 pancreatitis aguda enólico
+T2 DISO 7 13 fiebre
+T3 DISO 59 88 afectación del estado general
+T4 DISO 46 61 dolor abdominal
+T5 DISO 29 36 náuseas
+T6 DISO 36 43 vómitos
+T7 PROC 43 50 Ingresó
+T8 DISO 183 209 inestabilidad hemodinámica
+T9 DISO 153 172 taquicardia sinusal
+T10 DISO 181 201 hipotensión arterial
+T11 PROC 21 23 TA
+T12 PROC 540 589 trasladado a la Unidad de Cuidados Intensivos UCI
+T13 PROC 217 235 exploración física
+T14 DISO 261 281 distensión abdominal
+T15 DISO 225 241 abdomen doloroso
+T16 DISO 61 65 masa
+T17 ANAT 177 188 epigástrico
+T18 ANAT 188 199 hipocondrio
+T19 PROC 469 495 determinaciones sanguíneas
+T20 DISO 229 241 leucocitosis
+T21 DISO 261 274 hiperglucemia
+T22 PROC 232 243 bilirrubina
+T23 PROC 375 392 enzimas hepáticas
+T24 PROC 300 313 TAC abdominal
+T25 DISO 145 151 pseudo
+T26 DISO 51 53 qu
+T27 DISO 417 433 iste pancreático
+T28 ANAT 460 477 asas intestinales
+T29 ANAT 225 233 estómago
+T30 PROC 639 661 drenaje trans gástrico
+T31 PROC 91 94 eco
+T32 PROC 311 321 endoscopia
+T33 PROC 577 595 drenaje percutáneo
+T34 PROC 727 749 evacuación quiráºrgica
+T35 PROC 103 106 mar
+T36 PROC 71 73 su
+T37 PROC 73 75 pi
+T38 PROC 334 343 alización
+T39 DISO 229 235 pseudo
+T40 DISO 79 81 qu
+T41 DISO 161 165 iste
+T42 PROC 165 169 quis
+T43 PROC 85 87 to
+T44 PROC 130 133 gas
+T45 PROC 177 181 tros
+T46 PROC 226 231 tomía
+T47 DISO 415 424 purulento
+T48 PROC 894 913 dado de alta de UCI
+T49 PROC 337 344 ingreso

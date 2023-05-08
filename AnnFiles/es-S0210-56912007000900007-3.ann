@@ -1,0 +1,71 @@
+T1 PROC 1 23 ingresó en el hospital
+T2 DISO 3 5 ob
+T3 DISO 5 7 nu
+T4 DISO 10 13 bil
+T5 DISO 21 26 ación
+T6 DISO 11 13 an
+T7 DISO 25 29 uria
+T8 DISO 106 121 dolor abdominal
+T9 DISO 57 64 vómitos
+T10 DISO 19 21 DM
+T11 PROC 71 78 tratada
+T12 CHEM 111 121 metformina
+T13 CHEM 37 40 gli
+T14 CHEM 40 43 ben
+T15 CHEM 29 31 cl
+T16 CHEM 76 81 amida
+T17 PROC 257 273 presión arterial
+T18 PROC 324 343 frecuencia cardíaca
+T19 PROC 199 210 temperatura
+T20 PROC 210 221 exploración
+T21 DISO 281 295 deshidratación
+T22 DISO 295 309 desorientación
+T23 DISO 573 599 respiración de K uss ma ul
+T24 DISO 346 361 dolor abdominal
+T25 PROC 313 326 peristaltismo
+T26 DISO 426 443 defensa abdominal
+T27 DISO 131 136 hiper
+T28 DISO 109 113 amil
+T29 DISO 169 175 asemia
+T30 PROC 987 1021 tomografía computarizada abdominal
+T31 ANAT 571 590 cabeza del páncreas
+T32 DISO 559 577 pancreatitis aguda
+T33 PROC 449 463 administración
+T34 CHEM 331 341 metformina
+T35 PROC 137 141 intu
+T36 PROC 1296 1333 bada oro traque almente un respirador
+T37 PROC 1045 1074 tratamiento a base de fluidos
+T38 CHEM 408 419 suplementos
+T39 CHEM 267 274 potasio
+T40 CHEM 508 521 noradrenalina
+T41 CHEM 441 452 bicarbonato
+T42 CHEM 329 337 insulina
+T43 CHEM 421 431 amiodarona
+T44 CHEM 130 133 imi
+T45 CHEM 45 46 p
+T46 CHEM 181 185 enen
+T47 CHEM 461 471 furosemida
+T48 PROC 330 337 ingreso
+T49 CHEM 529 540 bicarbonato
+T50 CHEM 344 351 potasio
+T51 PROC 1301 1327 equilibrio ácido - b ásico
+T52 PROC 562 573 bicarbonato
+T53 PROC 105 107 so
+T54 PROC 160 163 dio
+T55 PROC 379 386 potasio
+T56 PROC 551 561 creatinina
+T57 PROC 393 400 ingreso
+T58 DISO 1141 1161 deposiciones mucosas
+T59 PROC 697 709 colonoscopia
+T60 DISO 1299 1321 formación poli po idea
+T61 ANAT 781 794 esfínter anal
+T62 PROC 1160 1179 muestra endoscópica
+T63 DISO 1551 1576 adenoma vel loso de recto
+T64 PROC 442 449 ingreso
+T65 DISO 449 456 enferma
+T66 PROC 131 133 ex
+T67 PROC 133 135 tu
+T68 PROC 269 273 bada
+T69 PROC 1157 1174 trasladada planta
+T70 PROC 760 771 extirpación
+T71 DISO 491 498 adenoma

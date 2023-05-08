@@ -1,0 +1,61 @@
+T1 PROC 1 10 ecografía
+T2 DISO 18 35 dolor tipo cólico
+T3 ANAT 21 31 fosa renal
+T4 DISO 55 73 masa in trar renal
+T5 ANAT 53 66 polo inferior
+T6 ANAT 71 85 riá±ón derecho
+T7 DISO 139 162 quiste renal complicado
+T8 PROC 15 17 TC
+T9 DISO 89 100 masa sólida
+T10 ANAT 118 131 polo inferior
+T11 ANAT 141 155 riá±ón derecho
+T12 DISO 111 121 compresión
+T13 ANAT 169 183 vía excre tora
+T14 DISO 183 197 trombo tumoral
+T15 ANAT 141 151 vena renal
+T16 ANAT 61 65 cava
+T17 DISO 81 86 hiper
+T18 DISO 35 37 ne
+T19 DISO 55 58 fro
+T20 DISO 39 41 ma
+T21 PROC 101 106 Gamma
+T22 PROC 232 243 grafía ósea
+T23 CHEM 45 47 Tc
+T24 CHEM 47 49 99
+T25 CHEM 25 26 m
+T26 CHEM 26 27 -
+T27 CHEM 27 28 M
+T28 CHEM 55 57 DP
+T29 DISO 113 117 acáº
+T30 DISO 349 361 mulos os eos
+T31 PROC 811 838 nefrectomía radical derecha
+T32 DISO 125 129 masa
+T33 ANAT 417 430 polo inferior
+T34 ANAT 463 477 riá±ón derecho
+T35 DISO 171 176 tumor
+T36 ANAT 211 217 riá±ón
+T37 PROC 325 334 disección
+T38 ANAT 186 191 pieza
+T39 DISO 875 898 Tumor fibroso solitario
+T40 DISO 196 201 tumor
+T41 ANAT 241 247 riá±ón
+T42 ANAT 534 547 vasos renales
+T43 DISO 505 517 masa tumoral
+T44 PROC 1162 1189 estudio inmunohisto químico
+T45 CHEM 89 91 CD
+T46 CHEM 91 93 34
+T47 CHEM 93 95 CD
+T48 CHEM 95 97 99
+T49 CHEM 49 50 V
+T50 CHEM 197 201 imen
+T51 CHEM 201 205 tina
+T52 CHEM 154 157 Des
+T53 CHEM 209 213 mina
+T54 CHEM 849 865 Proteina S - 100
+T55 CHEM 163 166 CAM
+T56 PROC 606 617 intervenido
+T57 PROC 1233 1255 controles ambulatorios
+T58 PROC 172 175 eco
+T59 PROC 175 178 gra
+T60 PROC 237 241 fias
+T61 PROC 121 123 TC

@@ -1,0 +1,58 @@
+T1 PROC 1 9 consultó
+T2 DISO 11 21 odinofagia
+T3 DISO 13 19 fiebre
+T4 PROC 34 45 diagnosticó
+T5 DISO 65 81 faringitis aguda
+T6 PROC 56 67 tratamiento
+T7 CHEM 67 78 amoxicilina
+T8 PROC 141 161 tratamiento Atención
+T9 DISO 49 55 fiebre
+T10 DISO 91 101 odinofagia
+T11 DISO 61 67 lesión
+T12 ANAT 254 277 borde lateral izquierdo
+T13 ANAT 73 79 lengua
+T14 PROC 144 155 exploración
+T15 DISO 225 241 lesión ulcer ada
+T16 ANAT 196 209 borde lateral
+T17 ANAT 97 103 lengua
+T18 DISO 188 199 adenopatías
+T19 DISO 487 514 lesiones nivel orofar íngeo
+T20 DISO 115 121 lesión
+T21 DISO 41 43 af
+T22 DISO 211 221 ta lingual
+T23 DISO 485 507 cuadro pos infec cioso
+T24 PROC 530 553 tratamiento sintomático
+T25 DISO 217 226 molestias
+T26 DISO 151 157 lesión
+T27 PROC 183 190 reinter
+T28 PROC 109 113 roga
+T29 PROC 141 146 torio
+T30 DISO 175 181 lesión
+T31 DISO 511 528 cuadro infeccioso
+T32 PROC 218 225 biopsia
+T33 DISO 193 199 lesión
+T34 PROC 232 239 biopsia
+T35 PROC 375 386 diagnostica
+T36 DISO 736 757 carcinoma epidermoide
+T37 ANAT 613 630 borde quiráºrgico
+T38 DISO 75 77 ne
+T39 DISO 77 79 of
+T40 DISO 703 721 ormación ulcer ada
+T41 PROC 361 370 resección
+T42 DISO 83 85 ne
+T43 ANAT 799 818 células epiteliales
+T44 ANAT 302 309 células
+T45 ANAT 265 271 globos
+T46 PROC 496 507 diagnóstico
+T47 DISO 967 988 carcinoma epidermoide
+T48 PROC 988 1009 resección quiráºrgica
+T49 PROC 337 344 biopsia
+T50 ANAT 1618 1651 fragmento fibro adi poso cervical
+T51 ANAT 951 970 ganglios linfáticos
+T52 DISO 358 365 células
+T53 PROC 1249 1273 intervención quiráºrgica
+T54 PROC 1591 1621 disección funcional del cuello
+T55 PROC 217 221 hemi
+T56 PROC 221 225 glos
+T57 PROC 953 970 ectomía izquierda
+T58 PROC 742 755 láser de CO 2

@@ -1,0 +1,65 @@
+T1 PROC 1 22 consulta ginecológica
+T2 DISO 12 23 metrorragia
+T3 PROC 23 34 exploración
+T4 DISO 67 89 patología ginecológica
+T5 PROC 53 66 histerectomía
+T6 DISO 16 19 lei
+T7 DISO 19 22 omi
+T8 DISO 29 33 omas
+T9 DISO 41 46 dolor
+T10 DISO 82 91 hematuria
+T11 DISO 211 232 infecciones urinarias
+T12 PROC 199 217 estudio u rológico
+T13 PROC 25 27 ci
+T14 PROC 105 113 toscopia
+T15 PROC 239 256 biopsia máºltiple
+T16 DISO 166 177 inflamación
+T17 DISO 305 324 displasia urotelial
+T18 PROC 171 181 revisiones
+T19 PROC 55 58 cit
+T20 PROC 134 141 ologías
+T21 PROC 101 106 citos
+T22 PROC 358 375 copias de control
+T23 PROC 265 277 biopsia fría
+T24 DISO 208 217 neoplasia
+T25 PROC 433 451 estudio ecográfico
+T26 ANAT 151 157 vejiga
+T27 PROC 79 82 TAC
+T28 PROC 298 309 TAC pélvico
+T29 DISO 701 726 tumoración partes blandas
+T30 ANAT 175 181 margen
+T31 ANAT 181 187 vejiga
+T32 ANAT 94 97 luz
+T33 ANAT 225 232 vesical
+T34 DISO 397 409 infiltración
+T35 ANAT 647 666 grasa per ives ical
+T36 ANAT 526 541 pared abdominal
+T37 DISO 613 630 masa prev es ical
+T38 DISO 593 609 quiste des moide
+T39 DISO 1217 1249 tumoración de ura co persistente
+T40 PROC 937 961 intervención quiráºrgica
+T41 PROC 1161 1190 incisión de laparotomía media
+T42 PROC 370 379 resección
+T43 DISO 967 990 proceso ne of orma tivo
+T44 PROC 130 133 cis
+T45 PROC 705 721 tectomía parcial
+T46 PROC 946 967 estudio macros cópico
+T47 ANAT 231 236 pieza
+T48 DISO 847 865 formación quística
+T49 PROC 961 981 estudio microscópico
+T50 ANAT 246 251 pared
+T51 ANAT 351 358 cavidad
+T52 ANAT 1072 1093 tejido fibro muscular
+T53 DISO 2445 2492 neoplasia papilar III de epitelio trans icional
+T54 ANAT 160 163 duc
+T55 ANAT 109 111 to
+T56 ANAT 276 281 pared
+T57 DISO 281 286 tumor
+T58 ANAT 799 813 pared muscular
+T59 ANAT 349 355 vejiga
+T60 PROC 532 541 resección
+T61 ANAT 361 367 mucosa
+T62 DISO 1160 1179 neoplasia urotelial
+T63 ANAT 2047 2080 epitelio de revestimiento vesical
+T64 PROC 757 769 intervención
+T65 PROC 1601 1626 dada de alta hospitalaria

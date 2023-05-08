@@ -1,0 +1,82 @@
+T1 DISO 1 3 ex
+T2 DISO 8 15 fumador
+T3 PROC 27 40 diagnosticado
+T4 DISO 82 109 válvula aórtica bic áºspide
+T5 PROC 45 56 intervenido
+T6 DISO 146 175 diverticulitis de sigma aguda
+T7 DISO 67 78 perforación
+T8 DISO 78 89 peritonitis
+T9 PROC 97 109 intervención
+T10 DISO 244 271 trombosis venosa profunda (
+T11 DISO 11 12 T
+T12 DISO 375 409 VP ) fé mor o - po plí tea derecha
+T13 PROC 133 144 tratamiento
+T14 CHEM 157 169 acenocumarol
+T15 DISO 477 511 síndrome de hiper coag ula bilidad
+T16 PROC 316 337 tiempo de protrombina
+T17 PROC 33 35 TP
+T18 PROC 715 757 tiempo de trombo plastina parcial activada
+T19 PROC 37 39 TP
+T20 PROC 39 41 TA
+T21 PROC 181 190 plaquetas
+T22 PROC 925 969 anticuerpos antic ardi olip ina de tipo Ig G
+T23 PROC 969 1013 anticuerpos antic ardi olip inas de tipo IgM
+T24 PROC 829 865 niveles séricos de anti trombina III
+T25 PROC 241 251 proteína S
+T26 PROC 251 261 proteína C
+T27 DISO 183 190 astenia
+T28 DISO 163 169 fiebre
+T29 PROC 197 204 ingreso
+T30 DISO 755 781 expectoración hemo pto ica
+T31 DISO 481 497 disnea esfuerzos
+T32 DISO 187 193 fiebre
+T33 PROC 577 595 exploración física
+T34 PROC 364 375 temperatura
+T35 PROC 307 316 analítica
+T36 PROC 386 397 hemoglobina
+T37 ANAT 289 297 hematíes
+T38 PROC 963 989 volumen corpus cular medio
+T39 PROC 381 391 náºmero de
+T40 ANAT 391 401 leucocitos
+T41 PROC 881 903 recuento de leucocitos
+T42 PROC 124 127 VSG
+T43 PROC 127 130 INR
+T44 CHEM 517 529 acenocumarol
+T45 PROC 441 451 bioquímica
+T46 PROC 226 231 iones
+T47 PROC 599 612 transaminasas
+T48 PROC 847 865 sedimento urinario
+T49 PROC 817 834 Factor reumatoide
+T50 PROC 148 151 cri
+T51 PROC 251 256 oglob
+T52 PROC 307 313 ulinas
+T53 PROC 1353 1379 anticuerpos antin ucleares
+T54 PROC 160 163 ANA
+T55 PROC 2431 2476 anticuerpos anti cito plasma del neu tró filo
+T56 PROC 221 225 ANCA
+T57 PROC 225 229 anti
+T58 PROC 1426 1451 membrana basal glomerular
+T59 PROC 233 237 anti
+T60 PROC 178 181 per
+T61 PROC 421 428 oxidasa
+T62 PROC 245 249 anti
+T63 PROC 249 253 hist
+T64 PROC 190 193 ona
+T65 PROC 257 261 anti
+T66 PROC 66 67 -
+T67 PROC 133 135 Ro
+T68 PROC 738 749 anti - S SA
+T69 PROC 477 484 anti SM
+T70 PROC 1726 1751 Gasometría arterial FiO 2
+T71 PROC 141 143 pO
+T72 DISO 72 73 2
+T73 PROC 217 220 pCO
+T74 DISO 74 75 2
+T75 PROC 1333 1351 electrocardiograma
+T76 PROC 1051 1065 ecocardiograma
+T77 DISO 2053 2080 válvula aórtica bic áºspide
+T78 PROC 1541 1561 radiografía de tórax
+T79 DISO 2653 2687 infiltrados alveolares bilaterales
+T80 ANAT 633 641 cardiaca
+T81 PROC 961 973 hemocultivos
+T82 PROC 1378 1395 cultivo de esputo

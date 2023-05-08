@@ -1,0 +1,86 @@
+T1 PROC 1 46 ingresada en la Unidad de Cuidados Intensivos
+T2 DISO 7 13 sepsis
+T3 DISO 67 100 meningitis por meningococo tipo B
+T4 PROC 58 77 cultivos sanguíneos
+T5 ANAT 29 36 líquido
+T6 PROC 116 139 soporte fluido terápico
+T7 CHEM 67 78 ceftriaxona
+T8 CHEM 78 89 vancomicina
+T9 DISO 49 55 sepsis
+T10 DISO 55 61 fiebre
+T11 DISO 201 221 focalidad infecciosa
+T12 PROC 254 277 pruebas complementarias
+T13 PROC 145 157 hemocultivos
+T14 PROC 131 141 urocultivo
+T15 PROC 281 301 radiografía de tórax
+T16 PROC 286 305 ecografía abdominal
+T17 PROC 209 222 TAC de cráneo
+T18 PROC 35 37 In
+T19 PROC 73 77 gres
+T20 PROC 20 21 a
+T21 DISO 121 127 fiebre
+T22 ANAT 127 133 venoso
+T23 ANAT 133 139 subcla
+T24 DISO 208 217 infección
+T25 DISO 217 226 petequias
+T26 ANAT 301 313 extremidades
+T27 PROC 807 838 exploración general neurológica
+T28 PROC 244 253 hemograma
+T29 PROC 281 291 hemostasia
+T30 PROC 987 1021 perfil renal , hepático , tiroideo
+T31 PROC 241 249 lipídico
+T32 PROC 559 577 valor de ferritina
+T33 PROC 97 100 VSG
+T34 PROC 100 103 PCR
+T35 PROC 35 36 V
+T36 PROC 36 37 N
+T37 PROC 505 519 procalcitonina
+T38 PROC 667 685 serología virus de
+T39 DISO 115 118 VIH
+T40 DISO 118 121 VEB
+T41 DISO 121 124 CMV
+T42 DISO 288 295 VHS 1 2
+T43 PROC 547 560 autoinmunidad
+T44 PROC 130 133 ANA
+T45 PROC 177 181 ANCA
+T46 PROC 766 783 factor reumatoide
+T47 PROC 737 753 inmunoglobulinas
+T48 PROC 565 577 complementos
+T49 PROC 1009 1030 Reacción de Man to ux
+T50 PROC 1373 1401 hemocultivos catéter central
+T51 ANAT 301 307 sangre
+T52 PROC 154 157 uro
+T53 PROC 417 425 cultivos
+T54 ANAT 372 379 líquido
+T55 PROC 379 386 protein
+T56 PROC 221 225 orra
+T57 PROC 225 229 quia
+T58 PROC 400 407 bacilos
+T59 PROC 291 296 copia
+T60 PROC 414 421 cultivo
+T61 PROC 721 733 fondo de ojo
+T62 PROC 1099 1117 electrocardiograma
+T63 PROC 931 946 ecocardiografía
+T64 PROC 2395 2433 TAC tó ra co - abdominal con contraste
+T65 PROC 1345 1366 RMN craneal contraste
+T66 ANAT 196 199 men
+T67 ANAT 331 336 íngea
+T68 DISO 537 545 lesiones
+T69 ANAT 1701 1726 sustancia blanca temporal
+T70 ANAT 1036 1051 cápsula externa
+T71 ANAT 1051 1066 periventricular
+T72 ANAT 498 505 frontal
+T73 ANAT 577 585 parietal
+T74 CHEM 658 667 contraste
+T75 ANAT 445 451 anillo
+T76 DISO 1351 1369 edema perilesional
+T77 DISO 1445 1464 abscesos cerebrales
+T78 DISO 540 547 meningo
+T79 DISO 157 159 co
+T80 DISO 396 401 cemia
+T81 PROC 1841 1864 báºsqueda bibliográfica
+T82 PROC 1864 1887 revisiones sistemáticas
+T83 DISO 985 997 complicación
+T84 PROC 250 253 PET
+T85 PROC 85 86 -
+T86 PROC 256 259 TAC

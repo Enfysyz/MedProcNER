@@ -1,0 +1,64 @@
+T1 PROC 1 18 consultas médicas
+T2 DISO 9 17 síntomas
+T3 DISO 7 10 tos
+T4 DISO 31 41 estornudos
+T5 DISO 65 81 sensación fatiga
+T6 DISO 31 37 fiebre
+T7 DISO 79 92 expectoración
+T8 DISO 190 217 cefalea frontal tensionales
+T9 DISO 25 28 tos
+T10 DISO 172 191 sensación de fatiga
+T11 DISO 71 78 alergia
+T12 DISO 89 97 Fumadora
+T13 DISO 133 144 dependencia
+T14 PROC 274 295 test de F ag ers trom
+T15 CHEM 155 166 medicamento
+T16 DISO 136 145 patología
+T17 DISO 497 528 lesiones pap ulares , ros áceas
+T18 ANAT 307 325 dedos de las manos
+T19 DISO 73 77 Gran
+T20 DISO 229 241 uloma anular
+T21 PROC 141 148 tratada
+T22 CHEM 211 221 corticoide
+T23 PROC 243 254 exploración
+T24 PROC 622 649 auscultación cardiopulmonar
+T25 DISO 697 726 signos afectación neurológica
+T26 DISO 376 391 cuadro alérgico
+T27 PROC 287 298 tratamiento
+T28 CHEM 460 477 broncodilatadores
+T29 CHEM 309 320 analgésicos
+T30 DISO 204 211 cefalea
+T31 CHEM 181 187 bronco
+T32 CHEM 32 33 -
+T33 CHEM 129 133 dila
+T34 CHEM 166 171 tador
+T35 PROC 273 281 revisión
+T36 CHEM 596 613 broncodilatadores
+T37 DISO 109 112 tos
+T38 DISO 704 723 sensación de disnea
+T39 DISO 115 118 tos
+T40 DISO 742 761 sensación de fatiga
+T41 PROC 1041 1067 exploración cardiopulmonar
+T42 PROC 493 505 espirometría
+T43 PROC 841 861 Radiografía de torax
+T44 PROC 517 529 espirometría
+T45 PROC 881 901 Radiografía de tórax
+T46 DISO 316 323 nódulos
+T47 PROC 921 941 Radiografía de tórax
+T48 PROC 1035 1057 TAC de alta resolución
+T49 PROC 145 148 TAC
+T50 PROC 99 101 AR
+T51 PROC 651 664 interconsulta
+T52 PROC 1378 1405 Pruebas de difusión de CO 2
+T53 ANAT 521 531 pulmonares
+T54 PROC 160 163 TAC
+T55 PROC 109 111 AR
+T56 DISO 1596 1625 afectación pulmonar bilateral
+T57 DISO 1177 1198 engrosamiento paredes
+T58 ANAT 628 639 bronquiales
+T59 DISO 59 60 N
+T60 DISO 1004 1021 ódulos cav itados
+T61 DISO 1081 1099 imágenes quísticas
+T62 PROC 1648 1675 pruebas de difusión de CO 2
+T63 ANAT 621 631 pulmonares
+T64 PROC 568 577 analítica

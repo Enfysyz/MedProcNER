@@ -1,0 +1,63 @@
+T1 DISO 1 8 náuseas
+T2 DISO 7 13 regurg
+T3 DISO 5 7 it
+T4 DISO 22 29 aciones
+T5 DISO 29 36 vómitos
+T6 PROC 161 193 derivado desde Atención Primaria
+T7 DISO 139 162 recién nacido a término
+T8 DISO 29 33 poli
+T9 DISO 41 46 hidra
+T10 DISO 19 21 mn
+T11 DISO 31 34 ios
+T12 DISO 320 349 afectación del estado general
+T13 ANAT 85 92 mucosas
+T14 DISO 14 15 o
+T15 DISO 43 46 jer
+T16 DISO 46 49 oso
+T17 PROC 241 256 relleno capilar
+T18 DISO 256 271 palidez cutánea
+T19 PROC 325 343 exploración física
+T20 PROC 343 361 constantes vitales
+T21 PROC 221 232 temperatura
+T22 PROC 400 419 frecuencia cardiaca
+T23 PROC 353 369 presión arterial
+T24 PROC 392 409 saturación de O 2
+T25 PROC 553 576 frecuencia respiratoria
+T26 PROC 201 209 glucemia
+T27 CHEM 443 460 suero fisiológico
+T28 PROC 514 533 analítica sanguínea
+T29 PROC 253 262 hemograma
+T30 PROC 291 301 bioquímica
+T31 PROC 61 63 Cl
+T32 PROC 528 545 gasometría venosa
+T33 PROC 97 100 pCO
+T34 PROC 34 35 2
+T35 PROC 375 386 bicarbonato
+T36 PROC 456 469 calcio iónico
+T37 DISO 685 704 acidosis metabólica
+T38 PROC 112 115 ion
+T39 PROC 1407 1444 tira reactiva en orina de una micción
+T40 PROC 937 961 sueroterapia intravenosa
+T41 CHEM 281 288 potasio
+T42 CHEM 452 463 bicarbonato
+T43 PROC 505 517 dado de alta
+T44 PROC 689 705 tratamiento oral
+T45 CHEM 793 811 bicarbonato sódico
+T46 CHEM 766 783 citrato po tásico
+T47 PROC 691 706 ecografía renal
+T48 DISO 236 241 hiper
+T49 DISO 97 99 ec
+T50 DISO 1373 1401 ogenicidad papilar bilateral
+T51 DISO 251 256 nefro
+T52 DISO 256 261 calci
+T53 DISO 261 266 nosis
+T54 PROC 1273 1297 valoración oftalmológica
+T55 PROC 541 551 serie ósea
+T56 PROC 1156 1177 potenciales auditivos
+T57 PROC 617 628 seguimiento
+T58 PROC 628 639 tratamiento
+T59 PROC 523 532 analítica
+T60 PROC 1181 1201 ecografía de control
+T61 DISO 301 306 nefro
+T62 DISO 306 311 calci
+T63 DISO 311 316 nosis

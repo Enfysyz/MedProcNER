@@ -1,0 +1,49 @@
+T1 DISO 1 11 protrusión
+T2 ANAT 11 21 raíz nasal
+T3 PROC 15 22 ingreso
+T4 DISO 31 41 alteración
+T5 DISO 33 41 ansiedad
+T6 PROC 91 109 exploración física
+T7 DISO 13 15 ab
+T8 DISO 29 33 ulta
+T9 DISO 113 127 miento frontal
+T10 ANAT 91 101 raíz nasal
+T11 DISO 201 221 dolor a la palpación
+T12 PROC 287 313 tomografía computarizada (
+T13 PROC 145 157 TC ) craneal
+T14 PROC 261 281 resonancia magnética
+T15 PROC 29 31 RM
+T16 DISO 151 161 deformidad
+T17 ANAT 193 205 seno frontal
+T18 ANAT 120 127 paredes
+T19 ANAT 73 77 seno
+T20 DISO 438 461 lesiones intracraneales
+T21 DISO 301 316 lesión parietal
+T22 DISO 358 375 displasia fibrosa
+T23 PROC 353 369 estudio hormonal
+T24 PROC 645 673 intervenida quiráºrgicamente
+T25 PROC 385 401 incisión coronal
+T26 ANAT 326 339 hueso frontal
+T27 ANAT 261 271 raíz nasal
+T28 ANAT 325 337 seno frontal
+T29 PROC 141 146 multi
+T30 PROC 117 121 frag
+T31 PROC 271 280 mentación
+T32 PROC 373 385 remodelación
+T33 ANAT 449 463 pared anterior
+T34 ANAT 133 137 seno
+T35 ANAT 205 211 mucosa
+T36 CHEM 701 721 bisturí ultras ónico
+T37 PROC 289 297 reconstr
+T38 PROC 112 115 uye
+T39 DISO 457 469 defecto óseo
+T40 CHEM 1483 1521 ácidos pol il áctico y polig lic ólico
+T41 PROC 1081 1108 resección y remodel amiento
+T42 DISO 616 631 lesión parietal
+T43 ANAT 673 689 cortical interna
+T44 DISO 1334 1365 complicaciones pos quiráºrgicas
+T45 PROC 837 856 estudio histológico
+T46 DISO 676 691 lesión parietal
+T47 PROC 875 894 seguimiento clínico
+T48 DISO 424 433 molestias
+T49 PROC 577 589 intervención

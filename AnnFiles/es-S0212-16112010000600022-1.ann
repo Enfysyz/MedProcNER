@@ -1,0 +1,70 @@
+T1 DISO 1 5 etil
+T2 DISO 5 9 ismo
+T3 DISO 57 85 hepatopatía crónica et ílica
+T4 PROC 34 45 Intervenido
+T5 DISO 149 186 adenocarcinoma es tenos ante de sigma
+T6 PROC 26 31 colec
+T7 PROC 91 106 tomía sub total
+T8 PROC 22 25 ile
+T9 PROC 129 145 ostomía terminal
+T10 ANAT 172 191 fosa iliaca derecha
+T11 PROC 381 419 reconstrucción del tránsito intestinal
+T12 PROC 331 361 anastomosis término - terminal
+T13 PROC 253 274 cierre de ile ostomía
+T14 PROC 92 99 ingresa
+T15 DISO 337 361 peritonitis fec alo idea
+T16 PROC 136 145 resección
+T17 ANAT 273 290 intestino delgado
+T18 PROC 52 55 ile
+T19 PROC 289 305 ostomía terminal
+T20 ANAT 248 261 muá±ón rectal
+T21 ANAT 121 127 pelvis
+T22 PROC 295 309 reconstrucción
+T23 PROC 265 277 intervención
+T24 PROC 162 169 ingresa
+T25 DISO 601 626 insuficiencia renal aguda
+T26 DISO 826 859 alteraciones hidroelectrol íticas
+T27 PROC 287 298 tratamiento
+T28 CHEM 217 225 Tramadol
+T29 CHEM 309 320 Paracetamol
+T30 CHEM 175 181 Hierro
+T31 CHEM 481 497 diurético de asa
+T32 CHEM 32 33 F
+T33 CHEM 289 298 urosemida
+T34 DISO 1090 1123 edemas en extremidades inferiores
+T35 DISO 647 666 insuficiencia renal
+T36 DISO 491 505 deshidratación
+T37 DISO 1189 1222 alteraciones hidroelectrol íticas
+T38 PROC 741 761 ingreso hospitalario
+T39 DISO 267 274 astenia
+T40 DISO 118 121 pos
+T41 DISO 281 288 tración
+T42 DISO 1272 1303 dificultad para la deambulación
+T43 DISO 337 345 oliguria
+T44 PROC 388 397 analítica
+T45 PROC 441 451 Creatinina
+T46 PROC 226 231 Sodio
+T47 PROC 323 330 Potasio
+T48 PROC 424 433 Albáºmina
+T49 PROC 817 834 Calcio plasmático
+T50 PROC 1471 1501 Calcio corregido con albáºmina
+T51 CHEM 401 409 Magnesio
+T52 CHEM 52 53 F
+T53 CHEM 313 319 osfato
+T54 PROC 478 487 pH venoso
+T55 PROC 55 56 B
+T56 PROC 551 561 icarbonato
+T57 PROC 1009 1027 ingresado Medicina
+T58 DISO 1426 1451 insuficiencia renal aguda
+T59 DISO 2437 2479 acidosis metabólica hiper lac taci d émica
+T60 DISO 1653 1681 alteraciones electrol íticas
+T61 DISO 721 733 pérdidas ile
+T62 PROC 1282 1303 tratamiento diurético
+T63 PROC 1489 1513 rehidratación parenteral
+T64 CHEM 568 577 diurético
+T65 PROC 705 716 tratamiento
+T66 CHEM 1756 1783 Sales de rehidratación oral
+T67 CHEM 133 135 Lo
+T68 CHEM 202 205 per
+T69 CHEM 341 346 amida
+T70 CHEM 1174 1191 sales de Magnesio

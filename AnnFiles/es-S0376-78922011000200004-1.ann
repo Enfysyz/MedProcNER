@@ -1,0 +1,79 @@
+T1 DISO 1 28 insuficiencia renal crónica
+T2 PROC 29 57 tratamiento con hemodiálisis
+T3 PROC 33 49 trasplante renal
+T4 PROC 79 105 tratamiento inmunosupresor
+T5 DISO 25 31 fiebre
+T6 DISO 161 193 empeoramiento del estado general
+T7 DISO 127 148 lesiones eritematosas
+T8 ANAT 43 49 flanco
+T9 DISO 9 10 f
+T10 DISO 28 31 lic
+T11 DISO 51 56 tenas
+T12 DISO 177 193 necrosis cutánea
+T13 PROC 85 92 biopsia
+T14 PROC 92 99 cultivo
+T15 DISO 113 121 lesiones
+T16 DISO 301 321 fascitis necros ante
+T17 PROC 497 528 terapia antibiótica intravenosa
+T18 PROC 443 469 desbridamiento quiráºrgico
+T19 ANAT 91 96 plano
+T20 ANAT 153 161 muscular
+T21 ANAT 121 127 flanco
+T22 ANAT 316 331 parrilla costal
+T23 PROC 573 599 tratamiento inmunosupresor
+T24 CHEM 70 73 Pro
+T25 CHEM 97 101 graf
+T26 CHEM 26 27 T
+T27 CHEM 53 55 ac
+T28 CHEM 190 197 rolimus
+T29 CHEM 113 117 Mico
+T30 CHEM 233 241 fenolato
+T31 CHEM 31 32 D
+T32 CHEM 125 129 acor
+T33 CHEM 97 100 tín
+T34 PROC 1783 1837 tratamiento antibiótico intravenoso de amplio espectro
+T35 CHEM 477 491 Ciprofloxacino
+T36 CHEM 71 73 Te
+T37 CHEM 361 371 icoplanina
+T38 CHEM 149 153 Clin
+T39 CHEM 305 313 damicina
+T40 CHEM 79 81 To
+T41 CHEM 361 370 bramicina
+T42 PROC 288 295 cultivo
+T43 PROC 589 603 desbridamiento
+T44 PROC 646 661 tratamiento con
+T45 PROC 1189 1216 terapia de presión negativa
+T46 PROC 226 231 curas
+T47 DISO 415 424 infección
+T48 ANAT 189 193 zona
+T49 PROC 673 687 desbridamiento
+T50 PROC 442 451 cobertura
+T51 PROC 2301 2347 injertos aut ólogos de piel de espesor parcial
+T52 PROC 562 573 terapia VAC
+T53 PROC 209 213 cura
+T54 PROC 902 919 cura tras injerto
+T55 DISO 1513 1541 signos de complicación aguda
+T56 DISO 441 449 hematoma
+T57 DISO 505 514 infección
+T58 PROC 1312 1335 tratamiento antibiótico
+T59 PROC 1509 1535 tratamiento inmunosupresor
+T60 PROC 886 901 hospitalización
+T61 PROC 721 733 dada de alta
+T62 PROC 2441 2481 régimen de curas oclus ivas ambulatorias
+T63 CHEM 63 64 t
+T64 CHEM 127 129 ul
+T65 CHEM 257 261 gras
+T66 CHEM 846 859 o antibiótico
+T67 CHEM 133 135 po
+T68 CHEM 872 885 vidona yodada
+T69 PROC 1701 1726 consulta externa Plástica
+T70 PROC 1174 1191 alta hospitalaria
+T71 ANAT 281 285 zona
+T72 PROC 498 505 control
+T73 CHEM 865 877 antibióticos
+T74 CHEM 1169 1185 inmunosupresores
+T75 PROC 1259 1276 transplante renal
+T76 PROC 1951 1977 desbridamiento quiráºrgico
+T77 PROC 837 848 terapia VAC
+T78 DISO 463 469 herida
+T79 PROC 1483 1502 injertos aut ólogos

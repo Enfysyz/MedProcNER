@@ -1,0 +1,47 @@
+T1 PROC 1 8 ingresa
+T2 DISO 6 11 dolor
+T3 ANAT 9 13 hemo
+T4 ANAT 16 21 tórax
+T5 DISO 13 16 tos
+T6 DISO 46 55 febrícula
+T7 PROC 103 120 analítica general
+T8 DISO 85 97 leucocitosis
+T9 PROC 25 28 VSG
+T10 PROC 361 401 pruebas complementarias microbi ológicas
+T11 PROC 201 221 radiografía de tórax
+T12 DISO 45 49 masa
+T13 ANAT 169 183 hilio pulmonar
+T14 PROC 144 155 TC de tórax
+T15 DISO 57 61 masa
+T16 ANAT 286 305 mediastino anterior
+T17 ANAT 337 358 estructuras cardíacas
+T18 PROC 120 127 biopsia
+T19 PROC 361 381 video tor acos copia
+T20 DISO 77 81 masa
+T21 DISO 781 820 proliferación de células de Langer hans
+T22 CHEM 232 243 eosinófilos
+T23 PROC 67 70 tin
+T24 PROC 484 505 ciones histo químicas
+T25 CHEM 25 26 S
+T26 CHEM 26 27 -
+T27 CHEM 79 82 100
+T28 CHEM 55 57 CD
+T29 CHEM 29 30 1
+T30 CHEM 30 31 a
+T31 CHEM 601 621 marcadores linfoides
+T32 PROC 342 353 diagnóstico
+T33 DISO 33 34 H
+T34 DISO 67 69 CL
+T35 PROC 885 911 tratamiento quimioterápico
+T36 PROC 771 793 terapia radio terápica
+T37 DISO 361 371 adenopatía
+T38 ANAT 556 571 supraclavicular
+T39 PROC 191 196 biops
+T40 PROC 157 161 iada
+T41 DISO 1801 1846 enfermedad de Hodgkin tipo esclerosis nodular
+T42 DISO 42 43 H
+T43 DISO 85 87 CL
+T44 PROC 1033 1057 tratamiento convencional
+T45 PROC 177 181 auto
+T46 PROC 2791 2853 trasplante de precursores hematopoyéticos de sangre periférica
+T47 DISO 553 565 enfermedades

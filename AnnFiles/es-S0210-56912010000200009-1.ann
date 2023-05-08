@@ -1,0 +1,100 @@
+T1 DISO 1 4 HTA
+T2 PROC 14 27 diagnosticada
+T3 DISO 47 70 neoplasia de recto bajo
+T4 PROC 22 29 tratada
+T5 PROC 53 66 quimioterapia
+T6 CHEM 11 13 an
+T7 CHEM 55 64 álogo del
+T8 CHEM 8 9 5
+T9 CHEM 9 10 -
+T10 CHEM 127 141 fluoro uracilo
+T11 PROC 121 133 radioterapia
+T12 PROC 78 85 cirugía
+T13 PROC 169 183 Ingresa en UCI
+T14 PROC 313 337 intervención quiráºrgica
+T15 PROC 29 31 am
+T16 PROC 31 33 pu
+T17 PROC 401 426 tación abdomino per ineal
+T18 DISO 273 289 broncoaspiración
+T19 PROC 361 381 inducción anestésica
+T20 DISO 381 401 dificultades ventila
+T21 PROC 221 232 sedoanalges
+T22 PROC 85 89 iada
+T23 PROC 89 93 intu
+T24 PROC 93 97 bada
+T25 PROC 49 51 VM
+T26 DISO 276 287 infiltrados
+T27 DISO 885 919 afectación pulmonar parenquimatosa
+T28 PROC 55 57 ex
+T29 PROC 57 59 tu
+T30 PROC 59 61 ba
+T31 DISO 121 125 afec
+T32 DISO 1086 1121 tación parenquimatosa basal derecha
+T33 PROC 1025 1057 ventilación mecánica no invasiva
+T34 PROC 67 69 VM
+T35 PROC 69 71 NI
+T36 PROC 141 145 puls
+T37 PROC 361 371 ioximetría
+T38 DISO 75 77 ta
+T39 DISO 153 157 quip
+T40 DISO 118 121 nea
+T41 PROC 161 165 rein
+T42 PROC 83 85 tu
+T43 PROC 85 87 ba
+T44 DISO 259 265 fiebre
+T45 CHEM 529 541 antitérmicos
+T46 PROC 676 691 medidas físicas
+T47 PROC 737 753 muestras microbi
+T48 PROC 189 193 hemo
+T49 PROC 337 344 cultivo
+T50 PROC 491 501 urocultivo
+T51 PROC 301 307 bronco
+T52 PROC 256 261 aspir
+T53 PROC 157 160 ado
+T54 PROC 1220 1243 tratamiento antibiótico
+T55 PROC 487 496 analítico
+T56 DISO 1156 1177 reacción inflamatoria
+T57 PROC 1065 1084 proteína C reactiva
+T58 DISO 1255 1277 reacción leucoci taria
+T59 PROC 233 237 intu
+T60 PROC 237 241 bada
+T61 PROC 121 123 VM
+T62 DISO 367 373 fiebre
+T63 DISO 683 694 infiltrados
+T64 PROC 1576 1601 muestras microbi ológicas
+T65 PROC 769 781 TC abdominal
+T66 DISO 781 793 complicación
+T67 PROC 463 470 cirugía
+T68 PROC 135 137 ex
+T69 PROC 137 139 tu
+T70 PROC 139 141 ba
+T71 PROC 701 711 gasometría
+T72 PROC 1492 1513 pruebas respiratorias
+T73 PROC 721 731 extubación
+T74 PROC 293 297 rein
+T75 PROC 149 151 tu
+T76 PROC 226 229 bar
+T77 DISO 1521 1541 fracaso respiratorio
+T78 DISO 463 469 fiebre
+T79 PROC 625 633 cultivos
+T80 PROC 396 401 fibro
+T81 PROC 321 325 bron
+T82 PROC 649 657 coscopia
+T83 PROC 2789 2823 recogida de lavado bronco alveolar
+T84 PROC 84 85 B
+T85 PROC 169 171 AL
+T86 PROC 681 689 muestras
+T87 PROC 603 610 cultivo
+T88 PROC 262 265 PCR
+T89 PROC 705 713 anatomía
+T90 PROC 2137 2161 traqueostomía percutánea
+T91 PROC 271 274 BAL
+T92 PROC 820 829 PCR VHS 1
+T93 PROC 369 373 test
+T94 ANAT 652 659 células
+T95 ANAT 847 856 cromatina
+T96 PROC 476 481 inmun
+T97 PROC 865 874 ocito quí
+T98 PROC 2038 2059 tratamiento antiviral
+T99 CHEM 883 892 aciclovir
+T100 DISO 595 601 fiebre

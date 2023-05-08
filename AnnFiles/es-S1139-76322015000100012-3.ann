@@ -1,0 +1,18 @@
+T1 PROC 1 9 consulta
+T2 DISO 17 33 eritema perianal
+T3 PROC 27 40 frotis rectal
+T4 PROC 157 209 test de detección rápida de antígeno estreptocó cico
+T5 PROC 45 56 tratamiento
+T6 CHEM 16 19 clo
+T7 CHEM 19 22 tri
+T8 CHEM 15 17 ma
+T9 CHEM 25 28 zol
+T10 PROC 307 341 frotis rectal y faringo amigdal ar
+T11 PROC 441 485 detección rápida de antígeno estreptocó cico
+T12 ANAT 155 169 muestra rectal
+T13 ANAT 85 92 faringo
+T14 ANAT 92 99 amigdal
+T15 ANAT 29 31 ar
+T16 PROC 466 497 cultivo de de la muestra rectal
+T17 PROC 177 188 tratamiento
+T18 CHEM 171 181 penicilina

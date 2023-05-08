@@ -1,0 +1,43 @@
+T1 DISO 1 16 diabetes tipo 2
+T2 PROC 12 23 tratamiento
+T3 CHEM 21 31 metformina
+T4 CHEM 10 13 gli
+T5 CHEM 9 11 me
+T6 CHEM 31 37 pirida
+T7 DISO 43 50 fumador
+T8 DISO 50 57 bebedor
+T9 DISO 249 280 pancreatitis aguda no litiásica
+T10 PROC 64 71 ingreso
+T11 DISO 161 177 cuadro sin copal
+T12 DISO 78 85 astenia
+T13 DISO 49 53 hipo
+T14 DISO 79 85 orexia
+T15 DISO 225 241 malestar general
+T16 DISO 76 81 ortos
+T17 DISO 33 35 ta
+T18 DISO 86 91 tismo
+T19 PROC 289 305 presión arterial
+T20 PROC 305 321 glucemia capilar
+T21 CHEM 161 169 glucagón
+T22 DISO 232 243 hipotensión
+T23 DISO 947 990 signos de depleción de volumen extracelular
+T24 DISO 208 217 taquipnea
+T25 PROC 217 226 analítica
+T26 PROC 326 339 Cr plasmática
+T27 PROC 209 217 glucemia
+T28 PROC 352 365 ácido láctico
+T29 PROC 533 552 gasometría arterial
+T30 PROC 59 61 pH
+T31 PROC 331 342 bicarbonato
+T32 PROC 683 705 intubación orotraqueal
+T33 PROC 545 562 ingresó en la UCI
+T34 PROC 661 681 ventilación asistida
+T35 PROC 477 491 administración
+T36 CHEM 106 109 ino
+T37 CHEM 289 297 trópicos
+T38 PROC 445 457 hemodiálisis
+T39 PROC 153 157 hemo
+T40 PROC 1210 1241 filtración veno venosa continua
+T41 PROC 81 83 Cr
+T42 PROC 83 85 pH
+T43 PROC 463 474 bicarbonato

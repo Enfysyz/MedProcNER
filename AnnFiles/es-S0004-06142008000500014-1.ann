@@ -1,0 +1,50 @@
+T1 PROC 1 25 interrupción de embarazo
+T2 PROC 3 5 le
+T3 PROC 35 52 grado endometrial
+T4 CHEM 16 21 cobre
+T5 PROC 85 106 método anticonceptivo
+T6 DISO 171 205 sintomatología urinaria irritativa
+T7 DISO 79 92 ardor uretral
+T8 DISO 239 273 dolor uretral y en el bajo vientre
+T9 DISO 89 100 polaquiuria
+T10 DISO 163 181 urgencia miccional
+T11 PROC 151 166 consulta médica
+T12 PROC 188 205 cultivos de orina
+T13 PROC 133 144 tratamiento
+T14 CHEM 157 169 antibióticos
+T15 DISO 267 286 cistitis infecciosa
+T16 DISO 121 129 síntomas
+T17 PROC 193 205 tratamientos
+T18 ANAT 137 145 urinario
+T19 DISO 109 115 dispar
+T20 DISO 20 21 e
+T21 DISO 81 85 unia
+T22 CHEM 106 111 cobre
+T23 DISO 397 415 síntomas urinarios
+T24 DISO 415 433 síntomas urinarios
+T25 PROC 193 201 consulta
+T26 PROC 826 859 ultrasonido de las vías urinarias
+T27 ANAT 209 217 riá±ones
+T28 ANAT 163 169 vejiga
+T29 DISO 225 233 litiasis
+T30 PROC 1277 1321 radiografía án tero - posterior de la pelvis
+T31 DISO 241 249 litiasis
+T32 ANAT 373 385 pelvis menor
+T33 CHEM 161 166 cobre
+T34 PROC 100 103 cis
+T35 PROC 103 106 tol
+T36 PROC 106 109 ito
+T37 PROC 721 741 tomía supra páº bica
+T38 ANAT 519 533 mucosa vesical
+T39 DISO 419 430 eritematosa
+T40 DISO 313 321 sangrado
+T41 DISO 321 329 litiasis
+T42 ANAT 534 547 fondo vesical
+T43 PROC 925 947 maniobra de extracción
+T44 CHEM 216 221 cobre
+T45 DISO 265 271 incrus
+T46 DISO 901 921 taciones liti ásicas
+T47 DISO 691 706 cuerpo extraá±o
+T48 PROC 518 529 tratamiento
+T49 CHEM 673 687 Ciprofloxacino
+T50 DISO 687 701 sintomatología

@@ -1,0 +1,55 @@
+T1 PROC 1 9 consultó
+T2 DISO 11 21 tumoración
+T3 ANAT 33 49 párpado inferior
+T4 ANAT 10 13 ojo
+T5 PROC 45 56 exploración
+T6 DISO 76 91 tumoración dura
+T7 ANAT 97 113 párpado inferior
+T8 DISO 36 41 ulcer
+T9 DISO 57 64 aciones
+T10 ANAT 163 181 superficie cutánea
+T11 ANAT 61 67 mucosa
+T12 ANAT 78 85 párpado
+T13 DISO 133 144 adenopatías
+T14 ANAT 79 85 cuello
+T15 PROC 155 166 exploración
+T16 PROC 361 385 cultivos microbiológicos
+T17 PROC 337 358 cobertura antibiótica
+T18 DISO 307 325 proceso infeccioso
+T19 CHEM 199 210 amoxicilina
+T20 CHEM 324 341 ácido clavulánico
+T21 CHEM 41 43 to
+T22 CHEM 190 199 bramicina
+T23 CHEM 199 208 aciclovir
+T24 DISO 162 169 síntoma
+T25 DISO 241 251 tumoración
+T26 DISO 551 573 adenopatías regionales
+T27 DISO 599 622 proceso ne of orma tivo
+T28 DISO 595 617 dermatitis de contacto
+T29 PROC 421 436 biopsia cutánea
+T30 PROC 726 751 estudio anatomopatológico
+T31 DISO 211 218 exudado
+T32 CHEM 218 225 fibrina
+T33 CHEM 161 166 polin
+T34 CHEM 265 273 ucleares
+T35 DISO 239 246 áºlcera
+T36 ANAT 736 757 tejido de granulación
+T37 DISO 181 186 histi
+T38 ANAT 223 229 ocitos
+T39 ANAT 723 742 células multin ucle
+T40 ANAT 274 281 cuerpos
+T41 ANAT 801 821 máºsculo esquelético
+T42 PROC 288 295 biopsia
+T43 DISO 883 904 reacción inflamatoria
+T44 PROC 603 617 tinción de PAS
+T45 PROC 485 496 diagnóstico
+T46 DISO 721 737 lesión ulcer ada
+T47 DISO 1197 1223 infección por herpes virus
+T48 DISO 1834 1873 sobreinfección probablemente bacteriana
+T49 DISO 481 491 tumoración
+T50 ANAT 785 801 párpado inferior
+T51 DISO 151 154 ind
+T52 DISO 358 365 uración
+T53 DISO 261 266 ulcer
+T54 DISO 372 379 aciones
+T55 PROC 541 551 reparación

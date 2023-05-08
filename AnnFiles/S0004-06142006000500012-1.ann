@@ -1,0 +1,73 @@
+T1 PROC 1 8 ingresa
+T2 DISO 25 49 tromboembolismo pulmonar
+T3 DISO 33 49 neoplasia oculta
+T4 DISO 28 37 hematuria
+T5 PROC 77 96 Ecografía abdominal
+T6 DISO 91 109 masa renal derecha
+T7 PROC 19 22 TAC
+T8 PROC 15 17 RM
+T9 DISO 177 199 tumoración heterogénea
+T10 ANAT 64 71 tercios
+T11 ANAT 61 67 riá±ón
+T12 ANAT 45 49 seno
+T13 ANAT 133 144 hilio renal
+T14 DISO 222 239 trombosis tumoral
+T15 ANAT 141 151 vena renal
+T16 ANAT 286 305 cava infra hepática
+T17 DISO 177 188 adenopatías
+T18 DISO 171 181 metástasis
+T19 PROC 505 533 intervenido quiráºrgicamente
+T20 PROC 666 701 nefrectomía radical con ca vo tomía
+T21 PROC 161 169 exéresis
+T22 DISO 127 133 trombo
+T23 PROC 617 645 linfadenectomía aorto - cava
+T24 DISO 806 841 carcinoma de células renales claras
+T25 ANAT 265 276 hilio renal
+T26 ANAT 451 469 grasa periné frica
+T27 ANAT 261 271 vena renal
+T28 DISO 595 617 afectación metastásica
+T29 ANAT 225 233 ganglios
+T30 ANAT 146 151 grasa
+T31 ANAT 151 156 hilio
+T32 ANAT 187 193 uréter
+T33 PROC 801 826 dado de alta hospitalaria
+T34 PROC 397 409 intervención
+T35 DISO 171 176 dolor
+T36 DISO 596 613 ind uración en el
+T37 ANAT 145 149 pene
+T38 PROC 334 343 palpación
+T39 DISO 533 547 masa ind urada
+T40 PROC 469 481 RM de pelvis
+T41 DISO 161 165 masa
+T42 ANAT 1108 1135 cuerpo caver noso izquierdo
+T43 DISO 1219 1248 metástasis de carcinoma renal
+T44 PROC 302 309 biopsia
+T45 DISO 265 271 lesión
+T46 PROC 271 277 cortes
+T47 ANAT 783 800 células tumorales
+T48 DISO 1928 1969 metástasis de carcinoma de células claras
+T49 DISO 529 540 dolor local
+T50 PROC 148 151 pen
+T51 PROC 651 664 ectomía total
+T52 DISO 511 521 enfermedad
+T53 PROC 365 372 ingresa
+T54 DISO 107 109 ob
+T55 DISO 109 111 nu
+T56 DISO 166 169 bil
+T57 DISO 281 286 ación
+T58 DISO 1654 1683 alteración motora y sensitiva
+T59 PROC 581 591 TC craneal
+T60 DISO 1004 1021 lesiones cerebelo
+T61 ANAT 1621 1648 hemisferio cerebral derecho
+T62 DISO 611 621 metástasis
+T63 PROC 683 694 TC torácico
+T64 DISO 1135 1153 nódulos pulmonares
+T65 DISO 321 326 micro
+T66 DISO 261 265 aden
+T67 DISO 2377 2413 opatías para traque ales bilaterales
+T68 DISO 671 681 metástasis
+T69 DISO 477 484 fallece
+T70 PROC 829 841 intervención
+T71 DISO 1051 1066 carcinoma renal
+T72 PROC 782 793 diagnóstico
+T73 DISO 1297 1315 metástasis en pene

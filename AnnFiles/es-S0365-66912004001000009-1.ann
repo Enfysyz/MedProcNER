@@ -1,0 +1,84 @@
+T1 DISO 1 16 edema bilateral
+T2 ANAT 20 39 párpados superiores
+T3 PROC 51 76 exploración oftalmológica
+T4 ANAT 16 21 nasal
+T5 ANAT 77 96 párpados superiores
+T6 DISO 41 49 lesiones
+T7 ANAT 55 64 epidermis
+T8 ANAT 92 105 zona temporal
+T9 ANAT 137 154 pliegue palpebral
+T10 DISO 46 51 masas
+T11 DISO 91 100 dolorosas
+T12 ANAT 188 205 reborde orbitario
+T13 PROC 133 144 exploración
+T14 PROC 144 155 diagnóstico
+T15 DISO 85 91 pseudo
+T16 DISO 226 241 tumor orbitario
+T17 DISO 369 392 enfermedad del colágeno
+T18 DISO 188 199 sarcoidosis
+T19 PROC 379 400 exploración sistémica
+T20 PROC 533 561 Resonancia Nuclear Magnética
+T21 PROC 21 22 R
+T22 PROC 43 45 NM
+T23 ANAT 133 139 órbita
+T24 DISO 116 121 masas
+T25 ANAT 937 976 máºsculo elev ador del párpado superior
+T26 DISO 251 261 afectación
+T27 ANAT 313 325 globo ocular
+T28 PROC 649 673 tratamiento cortico ideo
+T29 DISO 561 581 proceso inflamatorio
+T30 ANAT 262 271 palpebral
+T31 CHEM 511 528 metilprednisolona
+T32 CHEM 63 65 Ur
+T33 CHEM 97 100 bas
+T34 CHEM 67 69 on
+T35 DISO 409 421 tumoraciones
+T36 CHEM 351 361 medicación
+T37 PROC 397 408 diagnóstico
+T38 PROC 704 723 biopsia incis ional
+T39 ANAT 229 235 piezas
+T40 ANAT 235 241 tejido
+T41 PROC 761 780 estudio histológico
+T42 ANAT 903 925 tejido conectivo la xo
+T43 DISO 421 431 infiltrado
+T44 ANAT 1033 1057 células histi oci tarias
+T45 DISO 45 46 x
+T46 DISO 181 185 anto
+T47 DISO 185 189 gran
+T48 DISO 95 97 ul
+T49 DISO 385 393 omatosis
+T50 DISO 687 701 granuloma toso
+T51 PROC 151 154 tin
+T52 PROC 2041 2081 ciones inmunohisto químicas para células
+T53 PROC 261 266 CD 68
+T54 PROC 584 595 diagnóstico
+T55 DISO 55 56 x
+T56 DISO 221 225 anto
+T57 DISO 225 229 gran
+T58 DISO 115 117 ul
+T59 DISO 1045 1063 omatosis palpebral
+T60 DISO 1476 1501 afectación multiorg ánica
+T61 PROC 1321 1343 TC abdomino - torácico
+T62 PROC 1343 1365 TC craneal y orbitario
+T63 PROC 683 694 Rx torácica
+T64 PROC 1828 1857 ecografía abdomino - pélv ica
+T65 PROC 577 586 Scan óseo
+T66 CHEM 131 133 Tc
+T67 DISO 67 68 x
+T68 DISO 269 273 anto
+T69 DISO 273 277 gran
+T70 DISO 139 141 ul
+T71 DISO 561 569 omatosis
+T72 DISO 2557 2593 enfermedad de Er d heim - Ch ester ,
+T73 DISO 1873 1899 manifestaciones sistémicas
+T74 CHEM 804 815 corticoides
+T75 CHEM 371 376 metil
+T76 CHEM 901 913 prednisolona
+T77 CHEM 153 155 Ur
+T78 CHEM 232 235 bas
+T79 CHEM 157 159 on
+T80 CHEM 396 401 metil
+T81 CHEM 961 973 prednisolona
+T82 CHEM 163 165 Ur
+T83 CHEM 247 250 bas
+T84 CHEM 167 169 on

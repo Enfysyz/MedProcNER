@@ -1,0 +1,96 @@
+T1 DISO 1 26 dolor en hombro izquierdo
+T2 ANAT 8 15 columna
+T3 PROC 27 40 examen físico
+T4 PROC 28 37 analítica
+T5 PROC 77 96 estudio radiológico
+T6 DISO 116 139 lesiones óseas lí ticas
+T7 PROC 133 155 TAC torácico abdominal
+T8 DISO 64 73 neoplasia
+T9 ANAT 65 73 visceral
+T10 PROC 28 31 Gas
+T11 PROC 91 100 troscopia
+T12 PROC 122 133 enema opaco
+T13 PROC 541 586 ecografía abdominal , testicular y prostática
+T14 PROC 144 155 diagnóstico
+T15 PROC 309 331 biopsia de médula ósea
+T16 ANAT 196 209 cresta ilíaca
+T17 ANAT 177 188 médula ósea
+T18 ANAT 120 127 celular
+T19 ANAT 73 77 idad
+T20 DISO 172 181 neoplasia
+T21 ANAT 101 106 nidos
+T22 ANAT 232 243 epiteliales
+T23 ANAT 331 346 estroma fibroso
+T24 ANAT 254 265 médula ósea
+T25 ANAT 169 176 células
+T26 ANAT 126 131 nucle
+T27 PROC 183 190 mitosis
+T28 PROC 730 757 estudio inmunohisto químico
+T29 CHEM 673 697 receptores estro génicos
+T30 CHEM 465 481 proteína S - 100
+T31 CHEM 61 63 HM
+T32 CHEM 32 33 B
+T33 CHEM 65 67 45
+T34 CHEM 34 35 p
+T35 CHEM 69 71 53
+T36 CHEM 36 37 b
+T37 CHEM 37 38 c
+T38 CHEM 38 39 1
+T39 CHEM 39 40 -
+T40 CHEM 40 41 2
+T41 CHEM 121 124 sin
+T42 CHEM 83 85 ap
+T43 CHEM 85 87 to
+T44 CHEM 130 133 fis
+T45 CHEM 133 136 ina
+T46 CHEM 46 47 M
+T47 CHEM 93 95 IB
+T48 CHEM 48 49 -
+T49 CHEM 49 50 1
+T50 CHEM 50 51 p
+T51 CHEM 101 103 27
+T52 CHEM 1327 1353 receptores de progesterona
+T53 CHEM 261 266 cromo
+T54 CHEM 213 217 gran
+T55 CHEM 271 276 ina A
+T56 CHEM 111 113 en
+T57 CHEM 113 115 ol
+T58 CHEM 1312 1335 asa neuronal específica
+T59 CHEM 1741 1771 antígeno carcino emb ri onario
+T60 ANAT 414 421 células
+T61 CHEM 661 672 calcitonina
+T62 CHEM 489 497 amiloide
+T63 PROC 1303 1324 tinción de Rojo Congo
+T64 PROC 694 705 diagnóstico
+T65 DISO 961 976 metástasis ósea
+T66 DISO 2016 2047 Carcinoma Med ular de Tiro ides
+T67 PROC 2311 2346 determinación sérica de calcitonina
+T68 PROC 202 205 CEA
+T69 PROC 1701 1726 niveles séricos de Ca 125
+T70 PROC 622 631 Ca 19 . 9
+T71 PROC 211 214 PSA
+T72 PROC 214 217 eco
+T73 DISO 1585 1607 nódulo tiroideo sólido
+T74 ANAT 1169 1185 lóbulo izquierdo
+T75 PROC 371 376 extir
+T76 PROC 151 153 pa
+T77 DISO 1369 1387 patología tiroidea
+T78 PROC 1002 1015 quimioterapia
+T79 CHEM 157 159 CD
+T80 CHEM 159 161 DP
+T81 CHEM 81 82 -
+T82 CHEM 163 165 AD
+T83 CHEM 83 84 R
+T84 CHEM 84 85 -
+T85 CHEM 169 171 VP
+T86 CHEM 171 173 16
+T87 PROC 1893 1915 radioterapia paliativa
+T88 ANAT 1741 1761 columna dorso lumbar
+T89 PROC 1145 1158 quimioterapia
+T90 CHEM 179 181 CT
+T91 CHEM 91 92 X
+T92 CHEM 92 93 D
+T93 CHEM 277 280 TIC
+T94 DISO 2140 2163 metástasis a nivel óseo
+T95 DISO 1787 1806 metástasis pulmonar
+T96 DISO 666 673 fallece

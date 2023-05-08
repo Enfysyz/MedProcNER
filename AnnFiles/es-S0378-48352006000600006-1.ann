@@ -1,0 +1,66 @@
+T1 DISO 1 18 diabetes mellitus
+T2 DISO 22 43 cardiopatía isquémica
+T3 DISO 33 49 hábito tabáquico
+T4 DISO 25 33 alergias
+T5 DISO 77 96 molestias rec tales
+T6 PROC 46 55 analítica
+T7 PROC 19 22 PSA
+T8 PROC 29 33 tido
+T9 PROC 137 154 Atención Primaria
+T10 PROC 118 131 diagnosticado
+T11 PROC 71 78 biopsia
+T12 DISO 452 493 Adenocarcinoma de Próstata lóbulo derecho
+T13 PROC 349 378 bloqueo andro génico completo
+T14 PROC 14 15 B
+T15 PROC 29 31 AC
+T16 CHEM 46 49 Bic
+T17 CHEM 49 52 alu
+T18 CHEM 103 109 tamida
+T19 CHEM 37 39 Le
+T20 CHEM 39 41 up
+T21 CHEM 61 64 ror
+T22 CHEM 106 111 elina
+T23 PROC 507 530 TC tó ra co - abdominal
+T24 PROC 116 121 estad
+T25 PROC 49 51 je
+T26 DISO 251 261 enfermedad
+T27 PROC 365 379 tratamiento RT
+T28 ANAT 217 225 próstata
+T29 ANAT 561 581 vesículas semin ales
+T30 PROC 320 331 tratamiento
+T31 PROC 61 63 TC
+T32 DISO 745 769 masa sólida mediastínica
+T33 ANAT 129 133 para
+T34 ANAT 298 307 esofágica
+T35 ANAT 477 491 cayado aórtico
+T36 DISO 631 649 masa aden op ática
+T37 DISO 685 704 neoplasia primitiva
+T38 DISO 926 951 masa sólida renal derecha
+T39 DISO 305 313 necrosis
+T40 DISO 196 201 hiper
+T41 DISO 81 83 ne
+T42 DISO 124 127 fro
+T43 DISO 85 87 ma
+T44 DISO 990 1013 alteraciones vasculares
+T45 DISO 1321 1351 adenopatías retro peritoneales
+T46 ANAT 271 277 pelvis
+T47 PROC 93 95 TC
+T48 ANAT 377 385 próstata
+T49 PROC 529 540 tratamiento
+T50 DISO 491 501 masa renal
+T51 DISO 751 766 lesión torácica
+T52 PROC 307 313 medias
+T53 PROC 261 266 tinos
+T54 PROC 266 271 copia
+T55 PROC 865 881 toma de biopsias
+T56 DISO 1486 1513 carcinoma de células claras
+T57 DISO 1625 1654 metástasis de Carcinoma Renal
+T58 PROC 172 175 Nef
+T59 PROC 639 650 rectomía NF
+T60 DISO 1653 1681 carcinoma de células renales
+T61 ANAT 1561 1587 tejido adiposo perir renal
+T62 PROC 428 435 cirugía
+T63 DISO 1427 1450 metástasis mediastínica
+T64 PROC 127 129 TC
+T65 DISO 833 846 masa pulmonar
+T66 ANAT 1236 1255 región mediastínica

@@ -1,0 +1,77 @@
+T1 PROC 1 9 consulta
+T2 DISO 18 35 pérdida de visión
+T3 ANAT 7 10 ojo
+T4 DISO 49 65 resfriado comáºn
+T5 PROC 77 96 exploración clínica
+T6 PROC 146 175 agudeza visual sin corrección
+T7 PROC 13 15 AV
+T8 PROC 15 17 SC
+T9 ANAT 25 28 ojo
+T10 ANAT 28 31 ojo
+T11 DISO 41 45 meta
+T12 DISO 34 37 mor
+T13 DISO 25 27 fo
+T14 DISO 53 57 psia
+T15 DISO 281 301 signos inflamatorios
+T16 ANAT 76 81 fondo
+T17 DISO 209 222 engrosamiento
+T18 ANAT 120 127 macular
+T19 ANAT 91 96 papil
+T20 ANAT 77 81 ares
+T21 DISO 621 652 hemorragias in trar retin ianas
+T22 ANAT 106 111 fondo
+T23 DISO 133 139 lesión
+T24 ANAT 139 145 papila
+T25 ANAT 145 151 mácula
+T26 PROC 726 755 exploraciones complementarias
+T27 PROC 729 757 angiografía fluores ce ínica
+T28 PROC 55 57 AG
+T29 PROC 29 30 F
+T30 PROC 639 661 verde de indo ci anina
+T31 PROC 31 32 A
+T32 PROC 63 65 VI
+T33 PROC 993 1024 tomografía de coherencia óptica
+T34 PROC 100 103 OCT
+T35 PROC 545 561 ecografía modo B
+T36 PROC 946 973 análisis sanguíneo completo
+T37 PROC 73 75 AG
+T38 PROC 38 39 F
+T39 ANAT 77 79 OI
+T40 ANAT 547 561 polo posterior
+T41 PROC 41 42 A
+T42 PROC 83 85 VI
+T43 ANAT 589 603 polo posterior
+T44 PROC 216 221 angio
+T45 PROC 353 361 gráficos
+T46 PROC 136 139 OCT
+T47 ANAT 93 95 fo
+T48 ANAT 189 193 veal
+T49 DISO 1777 1814 quiste in trar retin iano sub fo veal
+T50 DISO 1961 2001 desprendimiento de retina neurosensorial
+T51 DISO 101 103 DR
+T52 DISO 103 105 NS
+T53 PROC 469 478 ecografía
+T54 PROC 902 919 estudio analítico
+T55 DISO 811 826 lesión ill enta
+T56 DISO 661 673 inflamatorio
+T57 ANAT 1569 1597 interfase cor ior retin iana
+T58 DISO 457 465 epitelio
+T59 DISO 1509 1535 patía pl aco ide posterior
+T60 DISO 768 781 pérdida de AV
+T61 PROC 2281 2319 tratamiento con corticoides sistémicos
+T62 CHEM 611 621 prednisona
+T63 CHEM 559 568 omeprazol
+T64 ANAT 127 129 OI
+T65 PROC 129 131 AV
+T66 PROC 781 793 fondo de ojo
+T67 DISO 529 537 lesiones
+T68 DISO 336 341 signo
+T69 PROC 205 208 OCT
+T70 ANAT 70 71 E
+T71 ANAT 141 143 PR
+T72 ANAT 143 145 fo
+T73 ANAT 289 293 veal
+T74 ANAT 147 149 OI
+T75 DISO 149 151 DR
+T76 DISO 151 153 NS
+T77 PROC 1369 1387 pauta cortico idea

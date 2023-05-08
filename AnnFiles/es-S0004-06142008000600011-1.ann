@@ -1,0 +1,94 @@
+T1 DISO 1 11 masa renal
+T2 ANAT 4 7 mes
+T3 ANAT 5 7 or
+T4 ANAT 16 21 renal
+T5 PROC 37 46 ecografía
+T6 DISO 101 121 crisis reno ureteral
+T7 DISO 79 92 hiperuricemia
+T8 DISO 64 73 hematuria
+T9 PROC 89 100 diagnosticó
+T10 PROC 181 201 estudio de extensión
+T11 PROC 201 221 radiografía de tórax
+T12 PROC 100 109 hemograma
+T13 PROC 121 131 bioquímica
+T14 PROC 586 631 tomografía computer izada abdomino - pélv ica
+T15 DISO 197 211 trombo tumoral
+T16 ANAT 151 161 vena renal
+T17 ANAT 241 256 vena cava retro
+T18 ANAT 307 325 vena cava inferior
+T19 PROC 217 229 embolización
+T20 DISO 115 121 trombo
+T21 PROC 641 673 tratamiento quiráºrgico cardiaca
+T22 PROC 64 67 uro
+T23 PROC 705 737 grafías por resonancia magnética
+T24 PROC 24 25 U
+T25 PROC 49 51 ro
+T26 PROC 26 27 -
+T27 PROC 27 28 R
+T28 PROC 55 57 NM
+T29 PROC 561 581 estudio angiográfico
+T30 PROC 88 91 tom
+T31 PROC 661 683 ografia computer izada
+T32 PROC 156 161 angio
+T33 PROC 33 34 -
+T34 PROC 67 69 TC
+T35 PROC 103 106 cav
+T36 PROC 246 253 ografía
+T37 DISO 217 223 trombo
+T38 DISO 1074 1103 infiltración vascular tumoral
+T39 DISO 229 235 trombo
+T40 DISO 820 841 infiltración vascular
+T41 DISO 441 452 adenopatías
+T42 DISO 247 253 trombo
+T43 DISO 85 87 ne
+T44 DISO 87 89 of
+T45 DISO 617 631 ormación renal
+T46 DISO 631 645 trombo tumoral
+T47 PROC 875 894 intervenir cardiaca
+T48 PROC 330 337 esterno
+T49 PROC 241 246 tomía
+T50 PROC 1079 1101 laparotomía sub costal
+T51 PROC 501 511 liberación
+T52 ANAT 1327 1353 ángulo esplénico del colon
+T53 ANAT 469 478 peritoneo
+T54 ANAT 160 163 mes
+T55 ANAT 379 386 enterio
+T56 PROC 1046 1065 nefrectomía radical
+T57 PROC 617 628 nefrectomía
+T58 ANAT 571 581 vena renal
+T59 DISO 407 414 trombos
+T60 DISO 178 181 ada
+T61 PROC 1501 1526 circulación extracorpórea
+T62 PROC 1160 1179 hipotermia profunda
+T63 PROC 311 316 retro
+T64 PROC 1135 1153 perfusión cerebral
+T65 PROC 513 521 tracción
+T66 PROC 1431 1453 control fluoros cópico
+T67 ANAT 463 470 yugular
+T68 ANAT 403 409 pulmón
+T69 DISO 477 484 trombos
+T70 PROC 622 631 resección
+T71 ANAT 701 711 vena renal
+T72 ANAT 427 433 ostium
+T73 DISO 865 877 infiltración
+T74 PROC 1826 1851 trombectomía por tracción
+T75 DISO 519 526 defecto
+T76 CHEM 226 229 Gor
+T77 CHEM 229 232 ete
+T78 CHEM 78 79 x
+T79 PROC 1171 1186 anticoagulación
+T80 CHEM 238 241 dic
+T81 CHEM 321 325 umar
+T82 CHEM 487 493 ínicos
+T83 PROC 329 333 endo
+T84 PROC 250 253 tel
+T85 PROC 589 596 ización
+T86 ANAT 596 603 injerto
+T87 PROC 1635 1654 anatomía patológica
+T88 DISO 1741 1761 adenocarcinoma renal
+T89 ANAT 1145 1158 cápsula renal
+T90 ANAT 891 901 vena renal
+T91 DISO 451 456 infil
+T92 ANAT 456 461 trada
+T93 ANAT 829 838 vena cava
+T94 DISO 559 565 trombo

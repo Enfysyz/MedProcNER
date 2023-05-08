@@ -1,0 +1,35 @@
+T1 PROC 1 14 diagnosticado
+T2 PROC 12 23 intervenido
+T3 PROC 15 22 tratado
+T4 DISO 64 85 adenocarcinoma rectal
+T5 DISO 29 36 aumento
+T6 ANAT 21 25 pene
+T7 ANAT 19 22 ano
+T8 DISO 57 65 doloroso
+T9 DISO 433 487 lesiones eritematosas , exc rec entes y san grantes al
+T10 ANAT 136 151 piel prepu cial
+T11 PROC 111 122 exploración
+T12 DISO 342 373 linfedema hipo gástrico , de la
+T13 ANAT 157 170 piel pene ana
+T14 ANAT 92 99 escroto
+T15 PROC 113 121 exéresis
+T16 PROC 181 193 circuncisión
+T17 PROC 401 426 estudio anatomopatológico
+T18 DISO 613 649 metástasis subcu táneas prepu ciales
+T19 DISO 451 476 adenocarcinoma intestinal
+T20 PROC 115 121 imagen
+T21 PROC 101 106 macro
+T22 PROC 64 67 mic
+T23 PROC 67 70 ros
+T24 PROC 139 145 cópica
+T25 DISO 481 501 infiltración tumoral
+T26 ANAT 1001 1041 epitelio de revestimiento plano escamoso
+T27 DISO 79 82 exc
+T28 DISO 82 85 rec
+T29 DISO 561 581 encia carcinoma tosa
+T30 DISO 349 361 inflamatorio
+T31 DISO 511 528 tumor infiltrante
+T32 DISO 435 449 adenocarcinoma
+T33 PROC 705 727 tratamiento oncológico
+T34 DISO 265 273 falleció
+T35 PROC 375 386 diagnóstico

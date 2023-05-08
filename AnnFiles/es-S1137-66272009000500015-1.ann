@@ -1,0 +1,64 @@
+T1 DISO 1 11 odinofagia
+T2 DISO 14 27 sangrado oral
+T3 PROC 37 55 exploración física
+T4 DISO 88 117 áºlcera de aspecto necró tico
+T5 ANAT 69 86 pilar amigdal ino
+T6 ANAT 41 49 amígdala
+T7 PROC 31 36 biops
+T8 PROC 15 17 ió
+T9 DISO 169 190 carcinoma epidermoide
+T10 PROC 28 31 TAC
+T11 DISO 291 320 adenopatías latero cervicales
+T12 ANAT 34 37 sub
+T13 ANAT 25 27 ma
+T14 ANAT 40 43 xil
+T15 ANAT 57 61 ares
+T16 ANAT 46 49 yug
+T17 ANAT 49 52 ulo
+T18 ANAT 52 55 dig
+T19 ANAT 37 39 ás
+T20 ANAT 115 121 tricas
+T21 PROC 381 400 analítica sanguínea
+T22 PROC 274 287 exploraciones
+T23 PROC 243 254 diagnóstico
+T24 DISO 484 505 carcinoma epidermoide
+T25 ANAT 241 251 orofaringe
+T26 PROC 876 911 tratamiento quimi or radio terápico
+T27 PROC 287 298 tratamiento
+T28 PROC 838 869 radioterapia hiper frac cionada
+T29 CHEM 281 291 cisplatino
+T30 PROC 523 541 perfusión continua
+T31 PROC 331 342 tratamiento
+T32 PROC 342 353 tratamiento
+T33 PROC 577 595 exploración física
+T34 PROC 100 103 TAC
+T35 DISO 239 246 astenia
+T36 DISO 456 469 inestabilidad
+T37 DISO 541 556 dolor abdominal
+T38 DISO 149 153 hema
+T39 DISO 77 79 te
+T40 DISO 196 201 mesis
+T41 DISO 1241 1272 afectación clínica hematológica
+T42 PROC 83 85 Hb
+T43 PROC 463 474 hematocrito
+T44 PROC 517 529 gastroscopia
+T45 DISO 881 901 tumoración ulcer ada
+T46 ANAT 631 645 esófago distal
+T47 ANAT 231 236 cardi
+T48 ANAT 95 97 as
+T49 ANAT 721 736 curvatura mayor
+T50 ANAT 1128 1151 cara anterior posterior
+T51 ANAT 401 409 estómago
+T52 PROC 358 365 biopsia
+T53 DISO 1093 1114 carcinoma epidermoide
+T54 DISO 1803 1837 metástasis de carcinoma de laringe
+T55 PROC 703 716 transfusiones
+T56 PROC 606 617 tratamiento
+T57 CHEM 729 742 somatostatina
+T58 DISO 457 465 sangrado
+T59 PROC 1509 1535 tratamiento radio terápico
+T60 ANAT 532 541 digestiva
+T61 DISO 481 489 sangrado
+T62 PROC 733 745 dado de alta
+T63 DISO 497 505 falleció
+T64 DISO 1513 1537 diseminación metastásica

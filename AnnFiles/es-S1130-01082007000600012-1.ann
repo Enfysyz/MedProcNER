@@ -1,0 +1,95 @@
+T1 DISO 1 16 dolor abdominal
+T2 DISO 3 5 Al
+T3 DISO 13 19 érgica
+T4 CHEM 31 41 penicilina
+T5 PROC 29 36 amigdal
+T6 PROC 26 31 ectom
+T7 PROC 31 36 izada
+T8 PROC 36 41 adeno
+T9 PROC 25 28 ide
+T10 PROC 10 11 c
+T11 PROC 31 34 tom
+T12 PROC 56 61 izada
+T13 DISO 181 196 hábitos tóxicos
+T14 CHEM 131 141 medicación
+T15 DISO 561 601 dolor en hipocondrio izquierdo abdominal
+T16 DISO 106 113 náuseas
+T17 DISO 97 103 fiebre
+T18 DISO 341 361 focalidad infecciosa
+T19 DISO 271 286 síndrome tóxico
+T20 DISO 609 641 alteración del hábito intestinal
+T21 PROC 221 232 exploración
+T22 DISO 526 551 palidez de piel y mucosas
+T23 PROC 463 484 Auscultación cardiaca
+T24 ANAT 185 193 pulmonar
+T25 ANAT 169 176 abdomen
+T26 DISO 351 365 esplenomegalia
+T27 DISO 105 109 dura
+T28 DISO 217 225 dolorosa
+T29 DISO 309 320 adenopatías
+T30 ANAT 349 361 extremidades
+T31 PROC 211 218 ingreso
+T32 ANAT 311 321 leucocitos
+T33 PROC 65 67 HB
+T34 PROC 100 103 RDW
+T35 DISO 137 141 plaq
+T36 PROC 71 73 qu
+T37 PROC 109 112 ick
+T38 PROC 186 191 cefal
+T39 PROC 115 118 ina
+T40 PROC 391 401 bioquímica
+T41 PROC 321 329 glicemia
+T42 PROC 534 547 función renal
+T43 PROC 379 388 ionograma
+T44 ANAT 173 177 hemi
+T45 ANAT 309 316 diafrag
+T46 ANAT 136 139 mas
+T47 ANAT 139 142 hil
+T48 ANAT 659 673 ios pulmonares
+T49 ANAT 193 197 asas
+T50 ANAT 589 601 intestinales
+T51 DISO 551 562 efecto masa
+T52 ANAT 562 573 hipocondrio
+T53 PROC 573 584 diagnóstico
+T54 DISO 743 757 esplenomegalia
+T55 DISO 163 166 pan
+T56 DISO 496 505 citopenia
+T57 PROC 505 514 ingresada
+T58 PROC 1084 1103 ecografía abdominal
+T59 DISO 2495 2538 hematomas intraparenquimatos os espl énicos
+T60 PROC 1181 1201 TAC toraco abdominal
+T61 PROC 1441 1465 estudios cito gen éticos
+T62 PROC 1526 1551 serología hepática vírica
+T63 PROC 311 316 manto
+T64 PROC 127 129 ux
+T65 PROC 1025 1041 estudio hormonal
+T66 PROC 716 727 metabolitos
+T67 PROC 1453 1475 estudio de coagulación
+T68 DISO 738 749 trombopenia
+T69 PROC 137 139 ha
+T70 PROC 208 211 pto
+T71 PROC 491 498 globina
+T72 PROC 143 145 co
+T73 PROC 145 147 om
+T74 PROC 3140 3183 bs directo eritroci tario pol ies pecí fico
+T75 PROC 519 526 protein
+T76 PROC 451 457 ograma
+T77 CHEM 381 386 gamma
+T78 CHEM 694 703 globulina
+T79 CHEM 469 475 hierro
+T80 PROC 1581 1601 marcadores tumorales
+T81 PROC 801 811 despistaje
+T82 DISO 568 575 tumores
+T83 PROC 247 250 mam
+T84 PROC 582 589 ografía
+T85 PROC 1009 1021 colonoscopia
+T86 PROC 1446 1463 citología genital
+T87 PROC 1893 1915 biopsia de médula ósea
+T88 PROC 958 969 transfusión
+T89 CHEM 3697 3739 concentrado de hematíes des le uco tizados
+T90 DISO 1336 1351 dolor abdominal
+T91 CHEM 991 1002 analgésicos
+T92 PROC 1002 1013 diagnóstico
+T93 DISO 2669 2698 síndrome de hiper esplen ismo
+T94 PROC 559 565 esplen
+T95 PROC 1975 1996 ectomía laparoscópica

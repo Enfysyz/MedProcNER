@@ -1,0 +1,72 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 40 79 carcinoma ductal infiltrante multifocal
+T3 ANAT 9 13 mama
+T4 PROC 85 113 intervenida quiráºrgicamente
+T5 PROC 121 151 mastectomía radical modificada
+T6 PROC 111 133 linfadenectomía axilar
+T7 PROC 145 169 reconstrucción inmediata
+T8 ANAT 50 57 colgajo
+T9 ANAT 137 154 máºsculo pectoral
+T10 ANAT 109 121 dorsal ancho
+T11 PROC 241 265 mamoplastia de reducción
+T12 ANAT 265 289 complejo areola - pe zón
+T13 PROC 253 274 tratamiento adyuvante
+T14 PROC 170 183 quimioterapia
+T15 PROC 155 166 diagnóstico
+T16 DISO 136 145 carcinoma
+T17 PROC 193 205 radioterapia
+T18 DISO 579 613 adenopatías axilares metastás icas
+T19 PROC 127 134 cirugía
+T20 PROC 229 241 radioterapia
+T21 PROC 141 148 cirugía
+T22 PROC 190 199 radiación
+T23 DISO 111 116 radio
+T24 DISO 70 73 der
+T25 DISO 121 126 mitis
+T26 DISO 76 79 ser
+T27 DISO 365 379 oma espontáneo
+T28 PROC 190 197 drenaje
+T29 PROC 113 117 expl
+T30 PROC 59 61 an
+T31 PROC 181 187 tación
+T32 PROC 218 225 cirugía
+T33 PROC 353 364 diagnóstico
+T34 PROC 529 545 consejo genético
+T35 PROC 817 841 mastectomía profiláctica
+T36 PROC 246 253 biopsia
+T37 ANAT 181 186 pieza
+T38 DISO 1000 1027 hiperplasia ductal ati pias
+T39 ANAT 267 274 colgajo
+T40 DISO 313 321 secuelas
+T41 DISO 481 493 radioterapia
+T42 PROC 862 883 microcirugía vascular
+T43 PROC 925 947 reconstrucción mamaria
+T44 ANAT 302 309 colgajo
+T45 PROC 177 181 expl
+T46 PROC 91 93 an
+T47 PROC 277 283 tación
+T48 PROC 1552 1585 mastectomía profiláctica indicada
+T49 ANAT 193 197 mama
+T50 PROC 1569 1601 reconstrucción micro quiráºrgica
+T51 ANAT 351 358 colgajo
+T52 DISO 919 937 infección pulmonar
+T53 PROC 2237 2280 ingreso en la Unidad de Cuidados Intensivos
+T54 DISO 743 757 necrosis total
+T55 ANAT 757 771 colgajos DI EP
+T56 DISO 551 561 cicatrices
+T57 DISO 449 457 secuelas
+T58 DISO 286 291 radio
+T59 DISO 175 178 der
+T60 DISO 296 301 mitis
+T61 DISO 1201 1221 adherencias cutáneas
+T62 ANAT 916 931 parrilla costal
+T63 ANAT 993 1009 cubierta cutánea
+T64 PROC 253 257 auto
+T65 PROC 1217 1236 trasplante de grasa
+T66 ANAT 261 265 ores
+T67 ANAT 595 604 tisulares
+T68 ANAT 336 341 mamas
+T69 PROC 1837 1864 injertos de grasa aut óloga
+T70 PROC 1312 1331 régimen ambulatorio
+T71 ANAT 351 356 grasa
+T72 ANAT 498 505 abdomen

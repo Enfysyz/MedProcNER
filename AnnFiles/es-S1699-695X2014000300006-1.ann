@@ -1,0 +1,78 @@
+T1 DISO 1 9 obesidad
+T2 DISO 22 43 hipertensión arterial
+T3 DISO 7 10 HTA
+T4 DISO 73 97 diabetes mellitus tipo 2
+T5 DISO 85 106 cardiopatía isquémica
+T6 DISO 11 13 FA
+T7 DISO 235 274 enfermedad pulmonar obstructiva crónica
+T8 DISO 29 33 EPOC
+T9 DISO 225 253 síndrome de apnea del sueá±o
+T10 PROC 73 81 consulta
+T11 PROC 171 188 Atención Primaria
+T12 DISO 419 457 mareo con sensación de giro de objetos
+T13 DISO 73 79 disnea
+T14 DISO 287 309 pérdida de consciencia
+T15 DISO 197 211 dolor torácico
+T16 DISO 106 113 vómitos
+T17 DISO 241 256 sudoración fría
+T18 PROC 188 199 tratamiento
+T19 CHEM 181 191 amlodipino
+T20 CHEM 77 81 repa
+T21 CHEM 41 43 gl
+T22 CHEM 106 111 inida
+T23 CHEM 309 323 nitroglicerina
+T24 CHEM 277 289 acenocumarol
+T25 CHEM 313 326 atorvastatina
+T26 CHEM 201 209 atenolol
+T27 CHEM 573 595 ácido acetilsalicílico
+T28 CHEM 406 421 espironolactona
+T29 CHEM 841 871 insulina isof ánica pro tamina
+T30 CHEM 320 331 paracetamol
+T31 CHEM 31 32 -
+T32 CHEM 94 97 tra
+T33 CHEM 161 166 madol
+T34 CHEM 298 307 omeprazol
+T35 PROC 613 631 exploración física
+T36 DISO 281 289 arritmia
+T37 PROC 757 778 auscultación cardiaca
+T38 ANAT 223 229 pulsos
+T39 ANAT 305 313 radiales
+T40 PROC 820 841 auscultación pulmonar
+T41 DISO 601 616 hipoventilación
+T42 DISO 247 253 ruidos
+T43 PROC 967 990 exploración neurológica
+T44 DISO 689 705 edemas con fóvea
+T45 ANAT 353 361 rodillas
+T46 DISO 406 415 signos de
+T47 DISO 1289 1317 insuficiencia venosa crónica
+T48 ANAT 377 385 miembros
+T49 PROC 913 932 frecuencia cardiaca
+T50 PROC 1030 1051 saturación de oxígeno
+T51 DISO 151 154 mar
+T52 DISO 1786 1821 eo con sensación de giro de objetos
+T53 DISO 729 743 sintomatología
+T54 ANAT 425 433 cardiaca
+T55 PROC 163 166 ECG
+T56 PROC 386 393 valorar
+T57 PROC 169 172 ECG
+T58 DISO 172 175 HTA
+T59 DISO 1219 1240 cardiopatía isquémica
+T60 PROC 178 181 ECG
+T61 PROC 421 428 ingreso
+T62 DISO 1160 1179 agudización de EPOC
+T63 PROC 1923 1954 registros electrocardiográficos
+T64 DISO 694 705 bradicardia
+T65 PROC 193 196 ECG
+T66 PROC 456 463 derivar
+T67 DISO 529 537 FA lenta
+T68 CHEM 2145 2177 tratamiento crono tropo negativo
+T69 PROC 1497 1519 ingreso en Cardiología
+T70 PROC 484 491 estudio
+T71 PROC 771 782 diagnóstico
+T72 DISO 143 145 FA
+T73 DISO 2233 2264 bloqueo aur ículo - ventricular
+T74 DISO 1680 1703 bloqueo de rama derecha
+T75 DISO 815 826 sintomático
+T76 PROC 2476 2509 implante de marcapasos permanente
+T77 DISO 533 540 clínica
+T78 PROC 1464 1483 frecuencia cardiaca

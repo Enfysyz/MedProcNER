@@ -1,0 +1,54 @@
+T1 DISO 1 8 astenia
+T2 DISO 16 31 pérdida de peso
+T3 DISO 13 19 fiebre
+T4 DISO 16 21 picos
+T5 DISO 33 41 febriles
+T6 PROC 56 67 exploración
+T7 DISO 103 120 hábito as t énico
+T8 DISO 64 73 mucosidad
+T9 ANAT 25 28 cav
+T10 ANAT 19 21 um
+T11 PROC 111 122 exploración
+T12 PROC 100 109 analítica
+T13 PROC 85 92 ingreso
+T14 ANAT 131 141 leucocitos
+T15 ANAT 127 136 monocitos
+T16 PROC 31 33 Hb
+T17 PROC 49 52 Hto
+T18 PROC 154 163 plaquetas
+T19 PROC 109 115 frotis
+T20 ANAT 153 161 hematíes
+T21 DISO 201 211 linfocitos
+T22 ANAT 232 243 neutrófilos
+T23 PROC 67 70 PCR
+T24 DISO 254 265 proteinuria
+T25 PROC 433 451 sedimento de orina
+T26 PROC 176 183 ingresa
+T27 PROC 287 298 tratamiento
+T28 CHEM 298 309 amoxicilina
+T29 CHEM 29 30 -
+T30 CHEM 320 331 clavulánico
+T31 PROC 181 187 frotis
+T32 PROC 745 769 reactantes de fase aguda
+T33 PROC 225 232 ingreso
+T34 PROC 232 239 ingreso
+T35 DISO 171 176 micro
+T36 DISO 141 145 pete
+T37 DISO 181 186 quias
+T38 ANAT 704 723 miembros inferiores
+T39 ANAT 647 664 dorso de los pies
+T40 DISO 898 921 sangrado de mucosa oral
+T41 PROC 681 698 control analítico
+T42 ANAT 370 379 plaquetas
+T43 CHEM 211 216 gamma
+T44 CHEM 388 397 globulina
+T45 PROC 485 496 tratamiento
+T46 PROC 811 829 cifra de plaquetas
+T47 PROC 323 330 estudio
+T48 DISO 706 721 fiebre sin foco
+T49 PROC 961 981 IgM par vovirus B 19
+T50 PROC 540 551 diagnóstico
+T51 DISO 1501 1531 infección por par vovirus B 19
+T52 DISO 664 677 plaquetopenia
+T53 DISO 573 584 proteinuria
+T54 PROC 690 703 función renal

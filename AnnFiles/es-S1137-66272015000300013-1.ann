@@ -1,0 +1,89 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 30 59 carcinoma escamoso de laringe
+T3 PROC 11 16 trató
+T4 PROC 40 53 quimioterapia
+T5 PROC 25 31 laring
+T6 PROC 111 133 ectomía supra gl ótica
+T7 PROC 181 211 vaciamiento radical incompleto
+T8 PROC 134 153 anatomía patológica
+T9 DISO 241 271 carcinoma escamoso infiltrante
+T10 ANAT 37 41 hemi
+T11 ANAT 21 23 ep
+T12 ANAT 23 25 ig
+T13 ANAT 25 27 lo
+T14 ANAT 40 43 tis
+T15 ANAT 267 286 ganglios linfáticos
+T16 ANAT 331 353 cadena yugular interna
+T17 ANAT 49 52 sub
+T18 ANAT 52 55 dig
+T19 ANAT 37 39 ás
+T20 ANAT 115 121 tricos
+T21 ANAT 121 127 suprac
+T22 ANAT 64 67 lav
+T23 ANAT 177 185 iculares
+T24 PROC 300 313 quimioterapia
+T25 PROC 289 301 radioterapia
+T26 ANAT 76 79 sup
+T27 ANAT 79 82 rag
+T28 ANAT 55 57 lo
+T29 ANAT 85 88 tis
+T30 ANAT 117 121 hipo
+T31 ANAT 211 218 faringe
+T32 ANAT 931 961 áreas ganglionares bilaterales
+T33 PROC 225 232 cirugía
+T34 DISO 232 239 cefalea
+T35 DISO 613 631 diplopia binocular
+T36 DISO 491 505 visión borrosa
+T37 ANAT 109 112 ojo
+T38 DISO 186 191 oftal
+T39 DISO 77 79 mo
+T40 DISO 274 281 paresia
+T41 ANAT 121 124 III
+T42 ANAT 83 85 IV
+T43 ANAT 85 87 VI
+T44 ANAT 646 661 pares craneales
+T45 PROC 881 901 resonancia magnética
+T46 PROC 181 185 RM )
+T47 ANAT 369 377 cerebral
+T48 DISO 189 193 masa
+T49 ANAT 721 736 seno caver noso
+T50 ANAT 148 151 cis
+T51 ANAT 851 868 terna prepon tina
+T52 CHEM 460 469 gadolinio
+T53 ANAT 209 213 ósea
+T54 PROC 160 163 TAC
+T55 DISO 919 936 lesiones lí ticas
+T56 DISO 441 449 invasión
+T57 ANAT 169 172 ala
+T58 ANAT 913 929 seno esfeno idal
+T59 PROC 1973 2007 TAC toraco - ab dom ino - pélv ica
+T60 PROC 650 661 diagnóstico
+T61 DISO 181 184 sch
+T62 DISO 245 249 wann
+T63 DISO 187 190 oma
+T64 DISO 631 641 meningioma
+T65 DISO 641 651 metástasis
+T66 PROC 976 991 biopsia abierta
+T67 ANAT 859 872 pared lateral
+T68 ANAT 1006 1021 seno caver noso
+T69 DISO 1089 1105 invasión tumoral
+T70 ANAT 1312 1331 espacio intrad ural
+T71 DISO 1261 1279 carcinoma escamoso
+T72 PROC 853 865 radioterapia
+T73 PROC 505 512 cirugía
+T74 DISO 877 889 dolor dorsal
+T75 DISO 1407 1426 clínica neurológica
+T76 PROC 1726 1749 estudio de RM de raquis
+T77 DISO 1217 1233 lesiones focales
+T78 ANAT 694 703 cuerpos D
+T79 ANAT 79 80 D
+T80 DISO 1739 1761 implantes metastásicos
+T81 PROC 2081 2107 tratamiento radio terápico
+T82 DISO 568 575 cefalea
+T83 DISO 411 416 oftal
+T84 DISO 167 169 mo
+T85 DISO 505 511 plejía
+T86 ANAT 256 259 ojo
+T87 DISO 689 697 falleció
+T88 PROC 958 969 diagnóstico
+T89 DISO 2817 2849 metástasis en el seno caver noso

@@ -1,0 +1,109 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 7 13 poliar
+T3 DISO 13 19 trosis
+T4 DISO 31 41 distensión
+T5 DISO 61 76 dolor abdominal
+T6 DISO 71 85 estreá±imiento
+T7 DISO 55 64 febrícula
+T8 DISO 57 65 síntomas
+T9 PROC 57 64 ingreso
+T10 PROC 46 51 fibro
+T11 PROC 251 276 endoscopia digestiva alta
+T12 ANAT 23 25 es
+T13 ANAT 61 66 ófago
+T14 ANAT 105 113 estómago
+T15 ANAT 99 106 duodeno
+T16 PROC 181 193 colonoscopia
+T17 ANAT 257 273 ángulo esplénico
+T18 PROC 307 325 exploración física
+T19 DISO 163 172 febrícula
+T20 DISO 343 361 abdomen distendido
+T21 DISO 361 379 doloroso palpación
+T22 DISO 85 89 timp
+T23 DISO 45 47 an
+T24 DISO 116 121 izado
+T25 PROC 217 226 percusión
+T26 DISO 76 79 bor
+T27 DISO 79 82 bor
+T28 DISO 55 57 ig
+T29 DISO 85 88 mos
+T30 DISO 320 331 peritonismo
+T31 PROC 631 652 auscultación pulmonar
+T32 ANAT 280 289 hemitórax
+T33 DISO 545 562 dolor a palpación
+T34 PROC 298 307 percusión
+T35 ANAT 953 981 apófisis espin osas dorsales
+T36 PROC 281 289 análisis
+T37 PROC 397 408 hemoglobina
+T38 PROC 334 343 plaquetas
+T39 PROC 305 313 glucemia
+T40 PROC 157 161 urea
+T41 PROC 401 411 creatinina
+T42 PROC 452 463 bilirrubina
+T43 PROC 547 560 transaminasas
+T44 PROC 216 221 gamma
+T45 PROC 133 136 glu
+T46 PROC 91 93 ta
+T47 PROC 691 706 mil trans pepti
+T48 PROC 189 193 dasa
+T49 PROC 241 246 sodio
+T50 PROC 344 351 potasio
+T51 PROC 251 256 cloro
+T52 PROC 307 313 calcio
+T53 PROC 365 372 fósforo
+T54 PROC 372 379 creatin
+T55 PROC 163 166 fos
+T56 PROC 111 113 fo
+T57 PROC 393 400 quinasa
+T58 PROC 400 407 amilasa
+T59 PROC 407 414 láctico
+T60 PROC 119 121 de
+T61 PROC 661 672 hidrogenasa
+T62 PROC 184 187 LDH
+T63 PROC 435 442 proteín
+T64 PROC 379 385 ograma
+T65 PROC 2049 2081 dosificación de inmunoglobulinas
+T66 PROC 261 265 alfa
+T67 PROC 67 68 -
+T68 PROC 135 137 fe
+T69 PROC 137 139 to
+T70 PROC 553 561 proteína
+T71 PROC 1331 1350 antígenos CA 19 . 9
+T72 PROC 427 433 CA 125
+T73 PROC 1801 1826 análisis general de orina
+T74 PROC 220 223 VSG
+T75 PROC 1407 1426 proteína C reactiva
+T76 PROC 376 381 intra
+T77 PROC 229 232 der
+T78 PROC 232 235 mor
+T79 PROC 157 159 re
+T80 PROC 1502 1521 acción de Man to ux
+T81 CHEM 161 163 RT
+T82 CHEM 82 83 -
+T83 CHEM 165 167 23
+T84 DISO 250 253 ind
+T85 DISO 589 596 uración
+T86 PROC 1701 1721 radiografía de tórax
+T87 DISO 1549 1567 atelectasia lóbulo
+T88 DISO 1306 1321 derrame pleural
+T89 DISO 969 980 adenopatías
+T90 ANAT 2404 2431 silueta cardio per icárdica
+T91 PROC 1801 1821 TAC toraco abdominal
+T92 DISO 1366 1381 derrame pleural
+T93 DISO 1933 1954 cambios degenerativos
+T94 ANAT 1768 1787 raquis dorsol umbar
+T95 DISO 847 856 erosiones
+T96 ANAT 1996 2017 platillos vertebrales
+T97 ANAT 1345 1359 espacio discal
+T98 PROC 1650 1667 resonancia lumbar
+T99 DISO 491 496 hipos
+T100 PROC 1090 1101 adas en T 2
+T101 ANAT 901 910 vértebras
+T102 ANAT 506 511 disco
+T103 DISO 919 928 espondilo
+T104 DISO 310 313 dis
+T105 DISO 1665 1681 citis infecciosa
+T106 PROC 1261 1273 hemocultivos
+T107 ANAT 849 857 muestras
+T108 PROC 2034 2053 punción aspira tiva
+T109 ANAT 973 982 espacio D

@@ -1,0 +1,26 @@
+T1 PROC 1 12 diagnóstico
+T2 DISO 30 59 esguince de tobillo izquierdo
+T3 PROC 15 22 tratado
+T4 PROC 40 53 diagnosticada
+T5 DISO 9 11 SD
+T6 DISO 146 175 RC de tobillo y pie izquierdo
+T7 PROC 151 176 tratamiento farmacológico
+T8 PROC 92 105 derivada a la
+T9 PROC 217 244 tratada farmac ológicamente
+T10 DISO 46 51 dolor
+T11 PROC 111 122 implantar ,
+T12 PROC 485 529 anestesia general un catéter epidural lumbar
+T13 PROC 433 469 infusión continua de anestesia local
+T14 DISO 66 71 dolor
+T15 PROC 463 496 administración de anestesia local
+T16 PROC 211 225 implantación ,
+T17 PROC 529 562 anestesia general de un electrodo
+T18 ANAT 511 541 cordones medulares posteriores
+T19 PROC 217 229 estimulación
+T20 ANAT 115 121 pierna
+T21 DISO 221 232 parestesias
+T22 DISO 106 111 dolor
+T23 DISO 309 323 sintomatología
+T24 PROC 1197 1249 implantación de un generador de impulsos implantable
+T25 PROC 265 276 tratamiento
+T26 PROC 501 521 estimulación medular

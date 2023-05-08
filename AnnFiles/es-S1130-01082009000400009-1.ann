@@ -1,0 +1,89 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 20 39 enfermedad de Crohn
+T3 DISO 57 85 afectación ile al y perianal
+T4 PROC 79 105 tratamiento inmunosupresor
+T5 DISO 25 31 fiebre
+T6 DISO 96 115 supuración perianal
+T7 DISO 43 50 diarrea
+T8 PROC 50 57 terapia
+T9 CHEM 49 55 salici
+T10 CHEM 46 51 latos
+T11 CHEM 111 122 azatioprina
+T12 PROC 188 205 niveles de T PM T
+T13 CHEM 121 131 infliximab
+T14 PROC 274 295 tratamiento biológico
+T15 PROC 99 106 ingreso
+T16 PROC 271 289 exploración física
+T17 DISO 177 188 mal general
+T18 DISO 103 109 febril
+T19 DISO 73 77 hipo
+T20 DISO 96 101 tenso
+T21 DISO 81 85 taqu
+T22 DISO 169 177 icárdico
+T23 DISO 243 254 taquipneico
+T24 ANAT 438 457 fosa iliaca derecha
+T25 DISO 457 476 orificio fist uloso
+T26 ANAT 426 443 gláºteo izquierdo
+T27 DISO 79 82 ind
+T28 DISO 190 197 urada ,
+T29 DISO 309 320 eritematosa
+T30 DISO 233 241 caliente
+T31 DISO 241 249 dolorosa
+T32 PROC 280 289 analítica
+T33 DISO 193 199 anemia
+T34 PROC 67 69 Hb
+T35 DISO 647 666 insuficiencia renal
+T36 PROC 351 361 creatinina
+T37 PROC 865 889 reactantes de fase aguda
+T38 PROC 112 115 PCR
+T39 PROC 343 352 plaquetas
+T40 PROC 430 441 diagnóstico
+T41 DISO 241 247 sepsis
+T42 DISO 780 799 insuficiencia renal
+T43 CHEM 127 130 sal
+T44 CHEM 130 133 ici
+T45 CHEM 221 226 latos
+T46 DISO 631 645 deshidratación
+T47 PROC 1289 1317 tratamiento con sueroterapia
+T48 PROC 659 673 antibioterapia
+T49 DISO 673 687 desorientación
+T50 DISO 442 451 agitación
+T51 DISO 1451 1480 deterioro de su función renal
+T52 DISO 2398 2445 alteraciones metabólicas e hidroelectrol íticas
+T53 PROC 209 213 urea
+T54 PROC 531 541 creatinina
+T55 PROC 271 276 sodio
+T56 PROC 386 393 potasio
+T57 PROC 673 685 calcio total
+T58 PROC 400 407 fósforo
+T59 PROC 175 178 LDH
+T60 CHEM 60 61 u
+T61 CHEM 241 245 rato
+T62 PROC 1404 1427 ecografia Doppler renal
+T63 DISO 807 820 fracaso renal
+T64 CHEM 1387 1409 cristales ácido áºrico
+T65 PROC 2113 2146 tratamiento con hiper hidratación
+T66 PROC 326 331 alcal
+T67 PROC 991 1006 inización orina
+T68 PROC 805 817 hemodiálisis
+T69 CHEM 681 691 alopurinol
+T70 CHEM 208 211 ras
+T71 CHEM 211 214 bur
+T72 CHEM 285 289 icas
+T73 CHEM 73 74 a
+T74 PROC 1242 1259 niveles de u rato
+T75 PROC 223 226 ura
+T76 PROC 151 153 to
+T77 PROC 1597 1618 TAC abdomino pélv ico
+T78 DISO 1541 1561 masa retroperitoneal
+T79 DISO 469 475 lesión
+T80 ANAT 475 481 flanco
+T81 DISO 241 244 ado
+T82 ANAT 325 329 asas
+T83 DISO 739 748 neoplasia
+T84 DISO 914 925 adenopatías
+T85 ANAT 1513 1531 cadena mesentérica
+T86 ANAT 256 259 ili
+T87 ANAT 345 349 acas
+T88 ANAT 871 881 inguinales
+T89 DISO 1673 1692 lesión perir rectal

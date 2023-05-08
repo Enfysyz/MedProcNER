@@ -1,0 +1,58 @@
+T1 PROC 1 14 examen médico
+T2 PROC 10 19 anamnesis
+T3 DISO 27 40 palpitaciones
+T4 PROC 10 13 ECG
+T5 DISO 21 26 preex
+T6 DISO 11 13 ci
+T7 DISO 37 43 tación
+T8 PROC 162 185 valoración cardiológica
+T9 PROC 81 91 evaluación
+T10 DISO 109 121 asintomático
+T11 PROC 31 34 ECG
+T12 DISO 89 97 arritmia
+T13 PROC 37 40 abl
+T14 PROC 66 71 acion
+T15 PROC 43 46 ado
+T16 PROC 196 209 ECG de reposo
+T17 DISO 369 392 cardiopatía estructural
+T18 PROC 256 271 ecocardiografía
+T19 PROC 55 58 hol
+T20 PROC 229 241 ter de ritmo
+T21 DISO 101 106 preex
+T22 DISO 43 45 ci
+T23 DISO 133 139 tación
+T24 DISO 208 217 arritmias
+T25 PROC 649 676 prueba de esfuerzo en cinta
+T26 PROC 451 469 protocolo de Bruce
+T27 DISO 235 244 arritmias
+T28 ANAT 244 253 cardíacas
+T29 PROC 757 784 estudio electrofisi ológico
+T30 PROC 30 31 E
+T31 PROC 61 63 EF
+T32 PROC 714 737 ablación de vía anómala
+T33 PROC 417 430 procedimiento
+T34 PROC 364 375 diagnóstico
+T35 PROC 545 561 registro del His
+T36 PROC 176 181 mapeo
+T37 PROC 289 297 ablación
+T38 ANAT 852 875 región septal peri iana
+T39 PROC 229 235 indujo
+T40 DISO 976 1001 taquicardia orto dr ómica
+T41 PROC 601 616 radiofrecuencia
+T42 PROC 83 85 RF
+T43 ANAT 127 130 vía
+T44 DISO 474 485 taquicardia
+T45 DISO 221 226 preex
+T46 DISO 91 93 ci
+T47 DISO 277 283 tación
+T48 PROC 612 625 procedimiento
+T49 DISO 1105 1128 bloqueo de rama derecha
+T50 DISO 99 101 BR
+T51 DISO 51 52 D
+T52 DISO 358 365 clínica
+T53 PROC 417 425 ablación
+T54 DISO 637 649 taquicardias
+T55 PROC 163 166 ECG
+T56 DISO 661 673 taquicardias
+T57 PROC 449 457 consulta
+T58 PROC 628 639 tratamiento

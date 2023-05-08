@@ -1,0 +1,97 @@
+T1 PROC 1 9 consultó
+T2 DISO 2 3 g
+T3 DISO 31 46 onalgia derecha
+T4 DISO 61 81 signos inflamatorios
+T5 DISO 49 61 traumatismos
+T6 PROC 26 31 trató
+T7 CHEM 61 71 ibuprofeno
+T8 PROC 57 65 consulta
+T9 DISO 137 154 dolor inflamación
+T10 ANAT 181 201 quinto metatarsi ano
+T11 ANAT 31 34 pie
+T12 DISO 188 205 dolor inflamación
+T13 ANAT 61 66 dorso
+T14 ANAT 53 57 mano
+T15 DISO 113 121 síntomas
+T16 DISO 256 273 procesos gripales
+T17 DISO 417 443 infección gastrointestinal
+T18 DISO 273 289 clínica urinaria
+T19 PROC 145 153 consulta
+T20 DISO 153 161 síntomas
+T21 DISO 201 211 impotencia
+T22 PROC 400 419 frecuencia cardiaca
+T23 PROC 243 254 exploración
+T24 ANAT 162 169 rodilla
+T25 DISO 121 126 dolor
+T26 DISO 276 287 inflamación
+T27 DISO 131 136 dolor
+T28 PROC 109 113 pelo
+T29 PROC 85 88 teo
+T30 ANAT 262 271 rotuliano
+T31 DISO 331 342 inflamación
+T32 DISO 156 161 dolor
+T33 ANAT 897 925 quinto metacar po falán gico
+T34 ANAT 133 137 mano
+T35 ANAT 103 106 pie
+T36 DISO 1366 1405 aumento de la sensibilidad a la presión
+T37 ANAT 289 297 base del
+T38 ANAT 741 761 quinto metatarsi ano
+T39 DISO 419 430 inflamación
+T40 DISO 196 201 dolor
+T41 DISO 401 411 deformidad
+T42 DISO 452 463 crepitación
+T43 DISO 1135 1162 déficit vas cul on ervi oso
+T44 PROC 1033 1057 exploración por aparatos
+T45 DISO 265 271 exante
+T46 DISO 136 139 mas
+T47 DISO 507 518 adenopatías
+T48 DISO 706 721 visceromegalias
+T49 PROC 577 589 radiografías
+T50 DISO 246 251 tromb
+T51 DISO 401 409 ocitosis
+T52 DISO 613 625 leucocitosis
+T53 DISO 573 584 neutrofilia
+T54 PROC 1008 1027 proteína C reactiva
+T55 PROC 1891 1926 velocidad de sedimentación globular
+T56 PROC 1431 1457 anticuerpos antin ucleares
+T57 PROC 169 172 ANA
+T58 PROC 970 987 factor reumatoide
+T59 PROC 233 237 anti
+T60 PROC 296 301 - DNA
+T61 PROC 301 306 artro
+T62 PROC 489 497 centesis
+T63 PROC 187 190 bio
+T64 PROC 442 449 cultivo
+T65 DISO 1281 1301 líquido inflamatorio
+T66 ANAT 456 463 células
+T67 CHEM 463 470 glucosa
+T68 PROC 604 613 proteínas
+T69 PROC 477 484 cultivo
+T70 PROC 760 771 tratamiento
+T71 CHEM 701 711 ibuprofeno
+T72 PROC 711 721 valoración
+T73 PROC 649 658 analítica
+T74 PROC 1534 1555 estudio oftalmológico
+T75 PROC 815 826 tratamiento
+T76 CHEM 226 229 def
+T77 CHEM 229 232 laz
+T78 CHEM 155 157 ac
+T79 CHEM 235 238 ort
+T80 PROC 712 721 analítica
+T81 PROC 4161 4213 anticuerpos anti p éptidos c íclicos ci tr ul inados
+T82 PROC 163 165 EN
+T83 PROC 83 84 A
+T84 PROC 665 673 HLA B 27
+T85 PROC 2101 2126 serología hepatitis B y C
+T86 PROC 1446 1463 pruebas tiroideas
+T87 PROC 259 262 uro
+T88 PROC 697 705 análisis
+T89 PROC 969 980 coagulación
+T90 DISO 2404 2431 artritis de rodilla derecha
+T91 DISO 181 183 AI
+T92 DISO 92 93 J
+T93 DISO 1013 1024 inflamación
+T94 DISO 466 471 dolor
+T95 ANAT 659 666 rodilla
+T96 ANAT 286 289 tar
+T97 ANAT 193 195 so

@@ -1,0 +1,76 @@
+T1 DISO 1 8 pérdida
+T2 DISO 8 15 astenia
+T3 DISO 17 25 anorexia
+T4 DISO 19 25 anemia
+T5 PROC 49 61 colonoscopia
+T6 DISO 106 127 cambios inflamatorios
+T7 ANAT 91 106 mucosa colónica
+T8 PROC 85 97 gastroscopia
+T9 DISO 145 163 neoplasia gástrica
+T10 DISO 55 61 gastro
+T11 DISO 121 133 patía antral
+T12 PROC 177 193 toma de biopsias
+T13 PROC 121 131 histología
+T14 PROC 209 225 biopsia gástrica
+T15 DISO 337 361 proliferación neoplásica
+T16 DISO 16 17 G
+T17 DISO 49 52 IST
+T18 PROC 307 325 inmunohistoquímica
+T19 CHEM 37 39 CD
+T20 CHEM 58 61 117
+T21 DISO 181 190 depósitos
+T22 CHEM 232 243 amiloide AA
+T23 PROC 177 185 biopsias
+T24 ANAT 346 361 mucosa gástrica
+T25 DISO 121 126 tumor
+T26 ANAT 376 391 mucosa colónica
+T27 DISO 859 892 edemas en los miembros inferiores
+T28 DISO 190 197 diarrea
+T29 PROC 253 262 analítica
+T30 PROC 320 331 hemoglobina
+T31 PROC 331 342 hematocrito
+T32 PROC 807 833 volumen corpus cular medio
+T33 PROC 545 562 creatinina sérica
+T34 PROC 562 579 proteínas totales
+T35 PROC 307 316 albáºmina
+T36 PROC 351 361 colesterol
+T37 PROC 1297 1333 índice de saturación de transferrina
+T38 DISO 260 267 Protein
+T39 DISO 153 157 uria
+T40 PROC 352 361 sedimento
+T41 DISO 321 329 hematíes
+T42 PROC 534 547 biopsia renal
+T43 DISO 463 474 amiloidosis
+T44 PROC 1162 1189 biopsias gastrointestinales
+T45 DISO 793 811 síndrome nefrótico
+T46 DISO 316 323 diarrea
+T47 DISO 921 941 amiloidosis cardíaca
+T48 PROC 659 673 ecocardiograma
+T49 PROC 529 540 tratamiento
+T50 CHEM 2500 2551 inhibidor selectivo de la tirosina cinasa de c K it
+T51 CHEM 151 154 Ima
+T52 CHEM 256 261 tinib
+T53 CHEM 53 54 G
+T54 CHEM 54 55 l
+T55 CHEM 109 111 iv
+T56 CHEM 111 113 ec
+T57 PROC 617 628 diagnóstico
+T58 PROC 1312 1335 extirpación quiráºrgica
+T59 DISO 697 709 masa tumoral
+T60 PROC 2951 3001 estudio por tomografía por emisión de positrones /
+T61 PROC 1441 1465 tomografía computarizada
+T62 PROC 1160 1179 anatomía patológica
+T63 ANAT 497 505 estómago
+T64 ANAT 1639 1665 ángulo esplénico del colon
+T65 PROC 321 326 extir
+T66 PROC 326 331 pados
+T67 DISO 67 68 G
+T68 DISO 202 205 IST
+T69 DISO 477 484 mitosis
+T70 ANAT 346 351 renal
+T71 PROC 1541 1563 hemodiálisis periódica
+T72 DISO 72 73 G
+T73 DISO 217 220 IST
+T74 PROC 804 815 diagnóstico
+T75 DISO 1999 2026 insuficiencia renal crónica
+T76 DISO 1051 1065 amiloidosis AA

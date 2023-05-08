@@ -1,0 +1,56 @@
+T1 PROC 1 12 diagnóstico
+T2 DISO 16 31 muerte cerebral
+T3 DISO 31 46 intento suicida
+T4 DISO 115 153 herida por proyec til de arma de fuego
+T5 ANAT 37 46 occipital
+T6 PROC 76 91 ultrasonografía
+T7 DISO 175 204 malformaciones macros cópicas
+T8 PROC 85 97 maniobras de
+T9 PROC 169 190 apoyo vital avanzadas
+T10 ANAT 64 71 órganos
+T11 PROC 291 320 apoyo vital básico y somático
+T12 PROC 166 181 apoyo nutri cio
+T13 PROC 409 443 apoyo nutri cio y metabólico mixto
+T14 PROC 40 43 Gas
+T15 PROC 211 226 to En erg ético
+T16 PROC 16 17 G
+T17 PROC 161 171 fórmula de
+T18 PROC 426 451 monitorización bioquímica
+T19 DISO 487 514 síndrome de real imentación
+T20 PROC 229 241 aporte mixto
+T21 PROC 321 337 apoyo parenteral
+T22 PROC 295 309 aporte enteral
+T23 CHEM 111 116 macro
+T24 CHEM 70 73 mic
+T25 CHEM 169 176 ronutri
+T26 CHEM 151 157 mentos
+T27 CHEM 729 757 fórmula polim érica estándar
+T28 CHEM 676 701 fórmula alta en proteínas
+T29 CHEM 393 407 oligoelementos
+T30 PROC 204 211 monitor
+T31 PROC 331 342 izó el peso
+T32 PROC 342 353 ultrasonido
+T33 PROC 961 991 vigilancia del bienestar fetal
+T34 PROC 991 1021 medición del perfil bio físico
+T35 PROC 375 386 ultrasonido
+T36 DISO 596 613 actividad uterina
+T37 DISO 613 630 sufrimiento fetal
+T38 PROC 1000 1027 monitorización toco gráfica
+T39 PROC 571 586 apoyo nutri cio
+T40 DISO 937 961 descontrol hipertens ivo
+T41 ANAT 281 288 uterina
+T42 DISO 862 883 sangrado transvaginal
+T43 PROC 925 947 ultrasonido obstétrico
+T44 DISO 1205 1233 desprendimiento plac entario
+T45 DISO 529 541 muerte fetal
+T46 PROC 1216 1243 manejo vital y somático UCI
+T47 PROC 185 189 expl
+T48 PROC 95 97 an
+T49 PROC 625 638 tación de los
+T50 ANAT 344 351 órganos
+T51 ANAT 101 103 hí
+T52 ANAT 205 209 gado
+T53 ANAT 365 372 corazón
+T54 ANAT 319 325 riá±ón
+T55 ANAT 325 331 córnea
+T56 PROC 771 785 autopsia fetal

@@ -1,0 +1,73 @@
+T1 PROC 1 8 ingresó
+T2 DISO 20 39 rotura de membranas
+T3 PROC 23 34 exploración
+T4 PROC 40 53 diagnosticada
+T5 DISO 21 26 condi
+T6 DISO 6 7 l
+T7 DISO 97 113 omatosis vaginal
+T8 PROC 78 89 Exploración
+T9 PROC 57 64 ingreso
+T10 DISO 19 21 ap
+T11 DISO 21 23 ir
+T12 DISO 56 61 ética
+T13 PROC 433 469 inspección de los genitales externos
+T14 DISO 66 71 condi
+T15 DISO 15 16 l
+T16 DISO 346 369 omas vulvo per ine ales
+T17 PROC 33 35 TV
+T18 ANAT 103 109 cérvix
+T19 PROC 163 172 Ecografía
+T20 ANAT 77 81 feto
+T21 PROC 541 568 índice de líquido amniótico
+T22 PROC 22 23 F
+T23 PROC 23 24 .
+T24 PROC 24 25 C
+T25 PROC 25 26 .
+T26 PROC 26 27 F
+T27 ANAT 131 136 fetal
+T28 PROC 298 309 tratamiento
+T29 CHEM 337 349 antibióticos
+T30 PROC 668 691 pruebas complementarias
+T31 PROC 961 993 analítica completa con P . C . R
+T32 PROC 280 289 serología
+T33 PROC 1537 1585 cultivos vaginal y rectal y de líquido amniótico
+T34 PROC 925 953 test de hibridación para HPV
+T35 PROC 375 386 diagnóstico
+T36 DISO 106 109 cor
+T37 DISO 73 75 io
+T38 DISO 112 115 amn
+T39 DISO 115 118 ion
+T40 DISO 157 161 itis
+T41 DISO 201 206 parto
+T42 DISO 124 127 cor
+T43 DISO 85 87 io
+T44 DISO 130 133 amn
+T45 DISO 133 136 ion
+T46 DISO 181 185 itis
+T47 DISO 691 706 inmadurez fetal
+T48 ANAT 189 193 feto
+T49 PROC 625 638 pH de arteria
+T50 PROC 491 501 pH de vena
+T51 PROC 651 664 Test de Apgar
+T52 DISO 205 209 enta
+T53 DISO 261 266 hiper
+T54 DISO 319 325 madura
+T55 DISO 325 331 signos
+T56 DISO 166 169 cor
+T57 DISO 113 115 io
+T58 DISO 172 175 amn
+T59 DISO 175 178 ion
+T60 DISO 237 241 itis
+T61 PROC 661 672 biopsias de
+T62 ANAT 367 373 vagina
+T63 ANAT 373 379 periné
+T64 DISO 316 321 condi
+T65 DISO 65 66 l
+T66 DISO 1106 1123 oma acum inado de
+T67 ANAT 397 403 vagina
+T68 DISO 336 341 condi
+T69 DISO 69 70 l
+T70 DISO 1174 1191 oma acum inado de
+T71 ANAT 421 427 periné
+T72 DISO 498 505 neonato
+T73 DISO 577 585 falleció

@@ -1,0 +1,24 @@
+T1 DISO 1 8 vómitos
+T2 DISO 16 31 dolor abdominal
+T3 DISO 13 19 signos
+T4 DISO 43 57 deshidratación
+T5 DISO 89 111 dolor difuso abdominal
+T6 DISO 71 85 sintomatología
+T7 DISO 43 50 vómitos
+T8 DISO 99 113 dolor torácico
+T9 DISO 169 190 crepitación en cuello
+T10 PROC 91 101 evaluación
+T11 PROC 201 221 radiografía de tórax
+T12 DISO 45 49 neum
+T13 DISO 85 92 omedias
+T14 DISO 53 57 tino
+T15 DISO 267 286 enfisema subcutáneo
+T16 ANAT 91 97 cuello
+T17 ANAT 401 426 región superior del tórax
+T18 PROC 205 217 sueroterapia
+T19 CHEM 109 115 antiem
+T20 CHEM 115 121 éticos
+T21 DISO 141 148 vómitos
+T22 PROC 148 155 ingreso
+T23 PROC 177 185 consulta
+T24 DISO 323 337 complicaciones

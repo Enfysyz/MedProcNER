@@ -1,0 +1,43 @@
+T1 DISO 1 13 hipertensión
+T2 DISO 16 31 hernia de hiato
+T3 PROC 37 55 tratamiento médico
+T4 PROC 25 33 consulta
+T5 DISO 37 46 hematuria
+T6 PROC 91 109 exploración física
+T7 PROC 223 260 determinaciones analíticas sanguíneas
+T8 PROC 22 25 uro
+T9 PROC 145 163 grafía intravenosa
+T10 DISO 199 221 defecto de repl ección
+T11 ANAT 121 133 pelvis renal
+T12 PROC 386 421 tomografía computer izada abdominal
+T13 DISO 85 92 masa en
+T14 ANAT 79 85 pelvis
+T15 ANAT 43 46 amp
+T16 ANAT 46 49 cál
+T17 ANAT 129 137 iz medio
+T18 PROC 52 55 cit
+T19 PROC 127 134 ologías
+T20 PROC 96 101 nefro
+T21 PROC 61 64 ure
+T22 PROC 379 397 terectomía derecha
+T23 PROC 67 70 des
+T24 PROC 70 73 ins
+T25 PROC 649 676 erción ureteral endoscópica
+T26 PROC 126 131 nefro
+T27 PROC 79 82 ure
+T28 PROC 271 281 terectomía
+T29 PROC 757 784 incisión sub costal derecha
+T30 ANAT 146 151 pieza
+T31 DISO 1231 1272 lesión vege tante , ex of ítica y papilar
+T32 ANAT 94 97 cál
+T33 ANAT 257 265 iz medio
+T34 ANAT 397 409 pelvis renal
+T35 DISO 171 176 infil
+T36 ANAT 141 145 trar
+T37 ANAT 361 371 parénquima
+T38 PROC 112 115 ros
+T39 DISO 191 196 tumor
+T40 DISO 742 761 carcinoma urotelial
+T41 ANAT 521 534 lámina propia
+T42 PROC 452 463 seguimiento
+T43 DISO 421 431 enfermedad

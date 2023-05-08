@@ -1,0 +1,56 @@
+T1 DISO 1 10 accidente
+T2 PROC 10 19 protocolo
+T3 PROC 29 43 examen clínico
+T4 DISO 52 69 herida penetrante
+T5 ANAT 85 106 región sub mandibular
+T6 ANAT 61 73 intracraneal
+T7 DISO 115 134 déficit neurológico
+T8 DISO 57 65 sangrado
+T9 DISO 145 163 coágulos de sangre
+T10 ANAT 217 241 canal auditivo izquierdo
+T11 ANAT 71 78 líquido
+T12 DISO 67 73 herida
+T13 ANAT 301 326 conducto auditivo externo
+T14 PROC 378 407 radiografía lateral de cráneo
+T15 PROC 43 46 TAC
+T16 ANAT 286 305 región sub max ilar
+T17 ANAT 33 35 si
+T18 ANAT 239 253 fón caroti deo
+T19 ANAT 37 39 pe
+T20 ANAT 77 81 á±as
+T21 ANAT 41 43 co
+T22 ANAT 505 529 hueso temporal izquierdo
+T23 ANAT 287 300 seno pe troso
+T24 ANAT 645 673 cóndilo mandibular izquierdo
+T25 PROC 409 426 anestesia general
+T26 PROC 626 651 intubación nas o traqueal
+T27 ANAT 157 163 cabeza
+T28 ANAT 757 785 cóndilo mandibular izquierdo
+T29 ANAT 757 784 pilar amigdal ino izquierdo
+T30 PROC 233 241 incisión
+T31 PROC 781 807 ligadura con hilo de acero
+T32 ANAT 218 225 líquido
+T33 DISO 193 199 herida
+T34 PROC 67 69 su
+T35 PROC 103 106 tur
+T36 PROC 36 37 ó
+T37 CHEM 109 112 vic
+T38 CHEM 75 77 ry
+T39 CHEM 39 40 l
+T40 ANAT 235 241 herida
+T41 CHEM 121 124 vic
+T42 CHEM 83 85 ry
+T43 CHEM 43 44 l
+T44 ANAT 431 441 subcutáneo
+T45 CHEM 133 136 pro
+T46 CHEM 46 47 l
+T47 CHEM 139 142 ene
+T48 DISO 988 1009 herida sub mandibular
+T49 PROC 433 442 operación
+T50 PROC 687 701 TAC de control
+T51 DISO 251 256 neumo
+T52 DISO 409 417 encéfalo
+T53 PROC 573 584 observación
+T54 DISO 1114 1135 focalidad neurológica
+T55 PROC 649 661 dado de alta
+T56 DISO 1156 1177 trastorno neurológico

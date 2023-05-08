@@ -1,0 +1,58 @@
+T1 DISO 1 10 diabético
+T2 DISO 8 15 fumador
+T3 PROC 33 49 consulta externa
+T4 DISO 94 125 dolor en el hipocondrio derecho
+T5 DISO 141 176 sintomatología urinaria obstructiva
+T6 DISO 101 121 polaquiuria urinario
+T7 DISO 121 141 goteo pos mic cional
+T8 PROC 64 73 PSA total
+T9 PROC 89 100 hemoglobina
+T10 PROC 28 31 VSG
+T11 PROC 41 45 hemo
+T12 PROC 78 85 química
+T13 PROC 25 27 ci
+T14 PROC 66 71 turia
+T15 PROC 463 496 examen físico general y abdominal
+T16 PROC 181 193 tacto rectal
+T17 DISO 129 137 próstata
+T18 PROC 307 325 biopsia prostática
+T19 DISO 253 267 adenocarcinoma
+T20 PROC 400 421 ultrasonido abdominal
+T21 DISO 101 106 tumor
+T22 ANAT 274 287 polo inferior
+T23 ANAT 133 139 riá±ón
+T24 ANAT 93 97 polo
+T25 ANAT 145 151 riá±ón
+T26 PROC 751 781 TAC renal simple y contrastada
+T27 PROC 287 298 ultrasonido
+T28 PROC 379 393 administración
+T29 CHEM 477 494 contraste yo dado
+T30 DISO 668 691 adenopatías abdominales
+T31 DISO 541 559 lesiones tumorales
+T32 ANAT 218 225 órganos
+T33 PROC 673 694 radiografía del tórax
+T34 PROC 529 545 gammagrafía ósea
+T35 DISO 341 351 metástasis
+T36 PROC 386 397 diagnóstico
+T37 DISO 541 556 tumores renales
+T38 PROC 482 495 laparoscópica
+T39 DISO 305 313 cicatriz
+T40 PROC 430 441 laparotomía
+T41 DISO 1121 1149 apendicitis aguda perfor ada
+T42 DISO 985 1009 peritonitis generalizada
+T43 DISO 589 603 complicaciones
+T44 PROC 1463 1497 biopsia aspira tiva con aguja fina
+T45 DISO 1101 1126 lesión del riá±ón derecho
+T46 PROC 361 369 muestras
+T47 PROC 507 518 diagnóstico
+T48 PROC 1928 1969 procedimiento investigativo o terapéutico
+T49 DISO 865 883 padecimiento renal
+T50 PROC 540 551 tratamiento
+T51 DISO 851 868 cáncer prostático
+T52 CHEM 919 937 análogos de L HR H
+T53 CHEM 209 213 anti
+T54 CHEM 213 217 andr
+T55 CHEM 325 331 ógenos
+T56 PROC 606 617 tratamiento
+T57 DISO 953 970 cáncer prostático
+T58 PROC 514 523 TAC renal

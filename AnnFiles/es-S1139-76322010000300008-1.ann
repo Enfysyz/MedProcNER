@@ -1,0 +1,32 @@
+T1 DISO 1 7 lesión
+T2 ANAT 7 13 pierna
+T3 DISO 29 43 sintomatología
+T4 DISO 34 45 traumatismo
+T5 DISO 49 61 asintomático
+T6 ANAT 21 25 ósea
+T7 ANAT 19 22 mal
+T8 ANAT 8 9 é
+T9 ANAT 89 100 olo interno
+T10 DISO 154 171 inflamación local
+T11 DISO 81 89 hematoma
+T12 DISO 221 241 dolor a la palpación
+T13 DISO 457 495 alteraciones neuro vasculares distales
+T14 DISO 261 281 impotencia funcional
+T15 PROC 253 271 radiografía simple
+T16 ANAT 91 97 pierna
+T17 DISO 177 188 lesión óseo
+T18 PROC 630 667 radiografía anteroposterior y lateral
+T19 ANAT 127 134 tobillo
+T20 ANAT 77 81 óseo
+T21 ANAT 161 169 cortical
+T22 DISO 589 617 afectación de partes blandas
+T23 ANAT 89 93 cara
+T24 ANAT 300 313 tercio distal
+T25 ANAT 121 126 tibia
+T26 DISO 126 131 osteo
+T27 DISO 79 82 con
+T28 DISO 82 85 dro
+T29 DISO 57 59 ma
+T30 DISO 494 511 masa asintomática
+T31 PROC 481 497 prueba de imagen
+T32 PROC 249 257 revisión

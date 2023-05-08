@@ -1,0 +1,75 @@
+T1 PROC 1 11 ingresó al
+T2 DISO 14 27 masa dolorosa
+T3 ANAT 29 43 tercio externo
+T4 ANAT 49 65 párpado superior
+T5 PROC 9 11 AV
+T6 DISO 21 25 masa
+T7 PROC 43 50 ingreso
+T8 PROC 127 145 tratamiento médico
+T9 PROC 201 226 exploración oftalmológica
+T10 PROC 19 21 AV
+T11 ANAT 31 34 ojo
+T12 ANAT 34 37 ojo
+T13 ANAT 169 183 tercio externo
+T14 ANAT 209 225 párpado superior
+T15 DISO 57 61 masa
+T16 DISO 121 129 dolorosa
+T17 DISO 97 103 ptosis
+T18 ANAT 205 217 globo ocular
+T19 ANAT 37 39 OI
+T20 PROC 39 41 ex
+T21 PROC 41 43 of
+T22 PROC 85 89 talm
+T23 PROC 155 162 ometría
+T24 ANAT 93 97 ojos
+T25 ANAT 217 226 palpebral
+T26 ANAT 701 729 máºsculo elev ador izquierdo
+T27 PROC 521 541 tomografía computada
+T28 ANAT 55 57 ór
+T29 ANAT 141 146 bitas
+T30 DISO 639 661 masa temporal quístico
+T31 DISO 481 497 destrucción ósea
+T32 ANAT 187 193 órbita
+T33 ANAT 385 397 globo ocular
+T34 ANAT 397 409 seno frontal
+T35 PROC 341 351 aspiración
+T36 DISO 141 145 masa
+T37 PROC 217 223 frotis
+T38 ANAT 334 343 contenido
+T39 DISO 1179 1210 leucocitos polimor fon ucleares
+T40 ANAT 157 161 moco
+T41 PROC 441 452 tratamiento
+T42 CHEM 411 421 ampicilina
+T43 CHEM 211 216 diclo
+T44 CHEM 345 353 xacilina
+T45 CHEM 397 406 naproxeno
+T46 CHEM 136 139 sul
+T47 CHEM 139 142 fac
+T48 CHEM 142 145 eta
+T49 CHEM 193 197 mida
+T50 PROC 834 851 drenaje contenido
+T51 ANAT 751 766 seno paranas al
+T52 ANAT 256 261 pared
+T53 PROC 1197 1220 preparaciones teá± idas
+T54 CHEM 319 325 hemato
+T55 CHEM 163 166 xil
+T56 CHEM 276 281 ina y
+T57 CHEM 57 58 e
+T58 CHEM 286 291 osina
+T59 ANAT 465 473 epitelio
+T60 ANAT 473 481 epitelio
+T61 ANAT 301 306 pared
+T62 ANAT 428 435 estroma
+T63 ANAT 993 1009 tejido conectivo
+T64 DISO 631 641 hemorragia
+T65 DISO 1473 1496 infiltrado inflamatorio
+T66 ANAT 651 661 linfocitos
+T67 ANAT 1255 1274 células plasmáticas
+T68 ANAT 2078 2109 leucocitos polimor fon ucleares
+T69 CHEM 749 760 eosinófilos
+T70 DISO 208 211 muc
+T71 DISO 981 995 ocele del seno
+T72 CHEM 782 793 eosinófilos
+T73 DISO 1657 1680 infiltrado inflamatorio
+T74 DISO 585 593 alérgico
+T75 DISO 1259 1276 hipersensibilidad

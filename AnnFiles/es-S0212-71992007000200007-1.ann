@@ -1,0 +1,87 @@
+T1 PROC 1 8 ingresa
+T2 DISO 8 15 cefalea
+T3 DISO 13 19 fiebre
+T4 DISO 10 13 pan
+T5 DISO 37 46 citopenia
+T6 DISO 11 13 LN
+T7 DISO 67 78 H di tipo B
+T8 PROC 50 57 tratado
+T9 CHEM 25 28 que
+T10 CHEM 91 101 mioterapia
+T11 PROC 21 23 CH
+T12 PROC 23 25 OP
+T13 PROC 13 14 -
+T14 PROC 14 15 R
+T15 CHEM 197 211 ciclofosfamida
+T16 ANAT 301 321 células esta minales
+T17 PROC 65 69 auto
+T18 PROC 171 181 trasplante
+T19 PROC 253 267 TAC total body
+T20 DISO 438 461 enfermedad linfoma tosa
+T21 PROC 441 463 biopsia oste omed ular
+T22 DISO 169 177 mielodis
+T23 DISO 133 139 plasia
+T24 DISO 530 553 infiltración neoplásica
+T25 PROC 529 551 ingreso en el hospital
+T26 PROC 451 469 exploración física
+T27 DISO 157 163 fiebre
+T28 DISO 676 701 palidez cu tane om uc osa
+T29 DISO 393 407 esplenomegalia
+T30 PROC 59 61 PA
+T31 PROC 571 590 frecuencia cardiaca
+T32 PROC 559 577 exploración física
+T33 PROC 65 67 Ex
+T34 PROC 67 69 pl
+T35 PROC 69 71 or
+T36 PROC 806 829 aciones complementarias
+T37 PROC 289 297 análisis
+T38 DISO 112 115 pan
+T39 DISO 343 352 citopenia
+T40 DISO 430 441 neutropenia
+T41 PROC 841 862 exámenes vi rológicos
+T42 PROC 493 505 hemocultivos
+T43 PROC 547 560 TAC de cráneo
+T44 DISO 990 1013 lesiones focales agudas
+T45 DISO 1277 1306 signos i per tensión cerebral
+T46 PROC 226 231 trata
+T47 PROC 783 800 terapia de sostén
+T48 CHEM 1881 1921 factores de crecimiento granul oci tario
+T49 CHEM 337 344 antimic
+T50 CHEM 295 301 óticos
+T51 CHEM 601 613 antibióticos
+T52 DISO 970 989 cuadro hematológico
+T53 DISO 313 319 fiebre
+T54 DISO 372 379 cefalea
+T55 DISO 919 936 signos men íngeos
+T56 PROC 1431 1457 punción lumbar diagnóstica
+T57 PROC 1177 1198 análisis microscópico
+T58 ANAT 172 175 LCR
+T59 ANAT 407 414 células
+T60 ANAT 650 661 neutrófilos
+T61 ANAT 181 184 meg
+T62 ANAT 123 125 ac
+T63 ANAT 249 253 ario
+T64 ANAT 316 321 citos
+T65 ANAT 1153 1171 células mielo ides
+T66 ANAT 456 463 medular
+T67 PROC 2641 2681 análisis cit ológico inmunohisto químico
+T68 DISO 1274 1293 metaplasia mieloide
+T69 CHEM 749 760 factor VIII
+T70 PROC 346 351 mielo
+T71 PROC 211 214 per
+T72 PROC 498 505 oxidasa
+T73 PROC 577 585 análisis
+T74 ANAT 220 223 LCR
+T75 ANAT 1259 1276 sangre periférica
+T76 DISO 151 153 ra
+T77 DISO 153 155 qu
+T78 DISO 155 157 ic
+T79 DISO 157 159 én
+T80 DISO 396 401 tesis
+T81 DISO 801 811 traumática
+T82 PROC 892 903 hemocultivo
+T83 PROC 1887 1910 tratamiento antibiótico
+T84 PROC 582 589 ingreso
+T85 DISO 2017 2041 condiciones neurológicas
+T86 DISO 1106 1119 coma cerebral
+T87 DISO 603 610 fallece

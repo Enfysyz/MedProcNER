@@ -1,0 +1,49 @@
+T1 DISO 1 20 abortos espontáneos
+T2 ANAT 8 15 embrión
+T3 PROC 47 70 estudios de esterilidad
+T4 PROC 34 45 diagnóstico
+T5 DISO 65 81 Factor V Le iden
+T6 CHEM 131 157 factor V de la coagulación
+T7 DISO 283 330 trastorno de hiper coag ula bilidad hereditario
+T8 CHEM 113 129 factor V Le iden
+T9 CHEM 153 172 proteína C activada
+T10 PROC 244 271 administración profiláctica
+T11 CHEM 311 342 heparina de bajo peso molecular
+T12 CHEM 23 25 HP
+T13 CHEM 25 27 BM
+T14 PROC 92 99 diagnos
+T15 PROC 71 76 tique
+T16 DISO 91 97 aborto
+T17 PROC 177 188 tratamiento
+T18 CHEM 69 73 HBPM
+T19 PROC 307 324 pauta terapéutica
+T20 CHEM 77 81 HBPM
+T21 CHEM 221 232 enoxaparina
+T22 PROC 421 441 estudio inmunológico
+T23 PROC 463 484 valores de células NK
+T24 ANAT 507 529 células NK periféricas
+T25 PROC 49 51 CD
+T26 PROC 51 53 56
+T27 PROC 27 28 +
+T28 PROC 55 57 CD
+T29 PROC 57 59 16
+T30 ANAT 291 301 linfocitos
+T31 DISO 691 714 alteración inmunológica
+T32 DISO 559 577 fallo reproductivo
+T33 PROC 769 793 porcentaje de células NK
+T34 DISO 661 681 fracaso reproductivo
+T35 PROC 1089 1121 valores de células CD 56 + CD 16
+T36 DISO 701 721 pérdida de embarazos
+T37 CHEM 253 260 fármaco
+T38 PROC 889 913 consentimiento informado
+T39 PROC 533 547 administración
+T40 PROC 196 201 pauta
+T41 CHEM 81 83 IG
+T42 CHEM 42 43 s
+T43 CHEM 85 87 IG
+T44 CHEM 44 45 s
+T45 CHEM 89 91 IG
+T46 CHEM 46 47 s
+T47 ANAT 369 377 placenta
+T48 CHEM 95 97 IG
+T49 CHEM 49 50 s

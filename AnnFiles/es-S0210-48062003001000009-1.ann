@@ -1,0 +1,83 @@
+T1 DISO 1 15 goteo terminal
+T2 DISO 4 7 mic
+T3 DISO 31 46 ción b abe ante
+T4 DISO 19 25 dispar
+T5 DISO 5 6 e
+T6 DISO 21 25 unia
+T7 DISO 127 148 infecciones urinarias
+T8 PROC 22 25 uro
+T9 PROC 145 163 grafía intravenosa
+T10 PROC 28 31 cis
+T11 PROC 181 199 tografía miccional
+T12 DISO 210 229 divertículo uretral
+T13 DISO 121 131 frecuencia
+T14 ANAT 105 113 urinaria
+T15 DISO 43 46 nic
+T16 DISO 76 81 turia
+T17 DISO 513 545 incontinencia urinaria de estrés
+T18 DISO 290 307 urgencia urinaria
+T19 DISO 451 476 incontinencia de urgencia
+T20 DISO 419 441 micción entre cor tada
+T21 DISO 781 820 sensación de presión vesical incompleto
+T22 DISO 190 199 hematuria
+T23 DISO 903 944 síntomas signos de cáncer genitour inario
+T24 ANAT 231 241 intestinal
+T25 DISO 409 426 disfunción sexual
+T26 DISO 151 157 dispar
+T27 DISO 27 28 e
+T28 DISO 784 813 unia patológicos neurológicos
+T29 DISO 589 610 Hipertensión arterial
+T30 DISO 117 121 Asma
+T31 DISO 511 528 Dolor lumbos acro
+T32 PROC 218 225 Colecis
+T33 PROC 705 727 tectomía laparoscópica
+T34 PROC 265 273 cesáreas
+T35 PROC 953 981 tratamiento antihipertensivo
+T36 CHEM 281 289 atenolol
+T37 CHEM 73 75 ch
+T38 CHEM 112 115 lor
+T39 CHEM 115 118 tal
+T40 CHEM 196 201 idona
+T41 CHEM 401 411 amlodipino
+T42 DISO 329 337 alergias
+T43 DISO 337 345 diabetes
+T44 DISO 173 177 fuma
+T45 PROC 89 91 Ex
+T46 PROC 91 93 pl
+T47 PROC 645 659 oración física
+T48 DISO 753 769 Obesidad mórbida
+T49 PROC 2401 2451 Exploración de cabeza , cuello y cardio - pulmonar
+T50 PROC 785 801 Tensión arterial
+T51 DISO 351 358 Abdomen
+T52 DISO 256 261 obeso
+T53 DISO 417 425 doloroso
+T54 DISO 319 325 hepato
+T55 DISO 325 331 esplen
+T56 DISO 441 449 omegalia
+T57 PROC 1121 1141 Examen pélvico tomía
+T58 ANAT 286 291 Intro
+T59 ANAT 639 650 ito vaginal
+T60 DISO 119 121 ab
+T61 DISO 241 245 ulta
+T62 DISO 367 373 miento
+T63 ANAT 993 1009 área sub uretral
+T64 ANAT 883 897 cuello vesical
+T65 ANAT 769 781 uretra media
+T66 DISO 1236 1255 divertículo uretral
+T67 DISO 199 202 pus
+T68 DISO 1542 1565 incontinencia de estrés
+T69 PROC 1905 1933 resonancia magnética nuclear
+T70 PROC 208 211 RMN
+T71 ANAT 421 427 pelvis
+T72 DISO 1421 1441 formaciones líquidas
+T73 ANAT 433 439 pelvis
+T74 DISO 658 667 colección
+T75 ANAT 445 451 uretra
+T76 DISO 1426 1445 divertículo uretral
+T77 DISO 2661 2696 quiste de la glándula de Bartol ino
+T78 PROC 386 391 cisto
+T79 PROC 235 238 ure
+T80 PROC 1423 1441 troscopia flexible
+T81 PROC 721 730 anestesia
+T82 DISO 1540 1559 divertículo uretral
+T83 ANAT 1149 1163 cuello vesical

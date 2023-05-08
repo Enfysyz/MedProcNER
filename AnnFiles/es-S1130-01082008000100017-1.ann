@@ -1,0 +1,104 @@
+T1 DISO 1 6 angio
+T2 DISO 5 9 dema
+T3 PROC 15 22 cirugía
+T4 PROC 64 85 tratamientos crónicos
+T5 DISO 101 126 diarrea con moco y sangre
+T6 PROC 91 109 exploración física
+T7 DISO 85 99 esplenomegalia
+T8 DISO 92 105 hepatomegalia
+T9 DISO 65 73 dolorosa
+T10 PROC 82 91 hemograma
+T11 PROC 111 122 hemoglobina
+T12 ANAT 100 109 plaquetas
+T13 ANAT 121 131 leucocitos
+T14 PROC 92 99 fórmula
+T15 PROC 225 241 función hepática
+T16 PROC 256 273 enzimas hepáticas
+T17 PROC 49 52 GOT
+T18 PROC 52 55 GPT
+T19 PROC 433 457 actividad de protrombina
+T20 PROC 115 121 inmuno
+T21 PROC 141 148 química
+T22 PROC 190 199 IgE total
+T23 PROC 23 24 V
+T24 PROC 944 985 estudio de extensión de sangre periférica
+T25 DISO 49 51 an
+T26 DISO 51 53 is
+T27 DISO 209 217 ocitosis
+T28 ANAT 298 309 neutrófilos
+T29 ANAT 449 465 células atípicas
+T30 PROC 639 661 serología virus hepato
+T31 DISO 91 94 VIH
+T32 DISO 125 129 Toxo
+T33 DISO 193 199 plasma
+T34 DISO 496 511 citomegalovirus
+T35 DISO 137 141 Bruc
+T36 DISO 141 145 ella
+T37 DISO 145 149 hida
+T38 DISO 186 191 tidos
+T39 DISO 77 79 is
+T40 DISO 313 321 leishman
+T41 DISO 201 206 iosis
+T42 DISO 206 211 fasci
+T43 DISO 85 87 ol
+T44 DISO 173 177 osis
+T45 DISO 133 136 ame
+T46 DISO 91 93 bi
+T47 DISO 185 189 asis
+T48 PROC 1129 1153 serología Sch is tos oma
+T49 PROC 97 99 Ig
+T50 PROC 50 51 G
+T51 PROC 1251 1276 cultivos de heces , orina
+T52 PROC 1480 1509 estudio de parásitos en heces
+T53 PROC 989 1008 ecografía abdominal
+T54 DISO 1008 1027 hepatopatía crónica
+T55 DISO 757 771 esplenomegalia
+T56 DISO 386 393 varices
+T57 ANAT 841 856 hilio esplénico
+T58 PROC 1426 1451 endoscopia digestiva alta
+T59 DISO 407 414 varices
+T60 ANAT 414 421 esófago
+T61 ANAT 481 489 estómago
+T62 ANAT 916 931 mucosa gástrica
+T63 DISO 621 631 congestiva
+T64 ANAT 316 321 antro
+T65 ANAT 961 976 cuerpo gástrico
+T66 DISO 456 463 varices
+T67 ANAT 331 336 cardi
+T68 ANAT 738 749 as gástrico
+T69 PROC 817 829 colonoscopia
+T70 DISO 208 211 rec
+T71 DISO 1121 1137 titis pete quial
+T72 DISO 427 433 pólipo
+T73 PROC 361 366 extir
+T74 PROC 147 149 pa
+T75 PROC 1851 1876 estudio anatomopatológico
+T76 ANAT 601 609 biopsias
+T77 DISO 2205 2234 infiltrado inflamatorio mixto
+T78 DISO 617 625 abscesos
+T79 CHEM 859 870 eosinófilos
+T80 ANAT 1739 1761 células cal ici formes
+T81 DISO 1281 1297 formación po ide
+T82 ANAT 730 739 submucosa
+T83 ANAT 903 914 estructuras
+T84 ANAT 167 169 cu
+T85 ANAT 505 511 tícula
+T86 DISO 1106 1119 calcificación
+T87 DISO 517 523 esquis
+T88 DISO 262 265 tos
+T89 DISO 617 624 omiasis
+T90 DISO 1692 1711 afectación rectal y
+T91 ANAT 721 729 hepática
+T92 PROC 1002 1013 tratamiento
+T93 CHEM 277 280 pra
+T94 CHEM 187 189 zi
+T95 CHEM 189 191 qu
+T96 CHEM 381 385 ante
+T97 CHEM 97 98 l
+T98 PROC 874 883 hemograma
+T99 PROC 2451 2476 endoscopia digestiva alta
+T100 PROC 1882 1901 ecografía abdominal
+T101 PROC 1101 1112 tratamiento
+T102 DISO 2728 2755 varices eso fago g á tricas
+T103 DISO 613 619 signos
+T104 DISO 1958 1977 hepatopatía crónica

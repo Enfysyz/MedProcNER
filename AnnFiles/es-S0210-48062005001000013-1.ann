@@ -1,0 +1,79 @@
+T1 DISO 1 12 hepatitis B
+T2 DISO 12 23 polaquiuria
+T3 DISO 31 46 tenesmo vesical
+T4 DISO 55 73 hematuria coágulos
+T5 PROC 73 91 exploración física
+T6 ANAT 36 43 abdomen
+T7 DISO 91 106 visceromegalias
+T8 DISO 85 97 alteraciones
+T9 PROC 97 109 tacto rectal
+T10 ANAT 73 81 próstata
+T11 PROC 181 199 Análisis de sangre
+T12 PROC 100 109 hemograma
+T13 PROC 121 131 bioquímica
+T14 PROC 144 155 coagulación
+T15 PROC 43 46 PSA
+T16 PROC 256 273 Análisis de orina
+T17 PROC 289 307 Sedimento urinario
+T18 DISO 171 181 leucocitos
+T19 DISO 73 77 moco
+T20 PROC 191 201 Urocultivo
+T21 PROC 361 379 citología de orina
+T22 DISO 547 573 células tumorales malignas
+T23 PROC 837 875 ecografía renal , vesical y prostática
+T24 ANAT 185 193 próstata
+T25 PROC 73 76 uro
+T26 PROC 501 521 grafías intravenosas
+T27 ANAT 209 217 riá±ones
+T28 ANAT 55 57 ur
+T29 ANAT 169 175 éteres
+T30 ANAT 175 181 vejiga
+T31 DISO 361 373 masa pélvica
+T32 ANAT 218 225 vesical
+T33 DISO 609 628 defectos de relleno
+T34 ANAT 298 307 vesicales
+T35 PROC 171 176 cisto
+T36 PROC 106 109 ure
+T37 PROC 109 112 tro
+T38 PROC 223 229 grafía
+T39 DISO 1103 1132 compresión vesical extrínseca
+T40 PROC 118 121 cis
+T41 PROC 321 329 toscopia
+T42 DISO 698 715 alteraciones endo
+T43 ANAT 127 130 ves
+T44 PROC 1033 1057 TAC ab dó min op élv ica
+T45 DISO 529 541 masa pélvica
+T46 ANAT 271 277 vejiga
+T47 ANAT 277 283 vejiga
+T48 ANAT 800 817 asas intestinales
+T49 DISO 193 197 masa
+T50 ANAT 295 301 vejiga
+T51 PROC 701 715 administración
+T52 CHEM 460 469 contraste
+T53 DISO 209 213 masa
+T54 PROC 160 163 RNM
+T55 ANAT 325 331 vejiga
+T56 DISO 221 225 masa
+T57 ANAT 393 400 cápsula
+T58 PROC 172 175 RNM
+T59 DISO 291 296 fibro
+T60 DISO 1063 1081 adenoma del ura co
+T61 ANAT 361 367 tejido
+T62 PROC 1343 1365 inyección de contraste
+T63 PROC 683 694 diagnóstico
+T64 PROC 253 257 PAAF
+T65 DISO 1153 1171 tumor morf benigno
+T66 DISO 911 925 adenoma to ide
+T67 PROC 727 738 extirpación
+T68 DISO 336 341 tumor
+T69 PROC 1021 1036 tacto bi manual
+T70 DISO 277 281 masa
+T71 DISO 701 711 compresión
+T72 ANAT 711 721 prostática
+T73 PROC 2161 2191 incisión media infra umbilical
+T74 PROC 439 445 acceso
+T75 DISO 889 901 masa pélvica
+T76 ANAT 451 457 vejiga
+T77 ANAT 1825 1849 cara anterior prostática
+T78 ANAT 1695 1717 fascia endo pel vi ana
+T79 ANAT 1483 1502 pedículo prostático

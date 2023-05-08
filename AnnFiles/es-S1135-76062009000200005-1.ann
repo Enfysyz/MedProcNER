@@ -1,0 +1,46 @@
+T1 PROC 1 19 control pediátrico
+T2 DISO 27 53 catarro de vías superiores
+T3 DISO 13 19 fiebre
+T4 DISO 94 125 molestia abdominal intestinales
+T5 DISO 105 131 sensación nauseosa vómitos
+T6 PROC 41 49 valorado
+T7 DISO 55 64 patología
+T8 PROC 85 97 dieta blanda
+T9 DISO 121 136 dolor abdominal
+T10 DISO 181 201 sensación de naus ea
+T11 DISO 61 67 vómito
+T12 DISO 56 61 débil
+T13 DISO 49 53 frío
+T14 DISO 339 365 parada cardiorrespiratoria
+T15 PROC 253 271 maniobras de RC PA
+T16 PROC 256 273 autopsia judicial
+T17 DISO 97 103 signos
+T18 DISO 137 145 obesidad
+T19 DISO 217 229 malnutrición
+T20 DISO 476 501 palidez de piel y mucosas
+T21 PROC 161 169 autopsia
+T22 ANAT 190 199 cavidades
+T23 ANAT 507 530 plano cervical anterior
+T24 DISO 553 577 alteraciones patológicas
+T25 DISO 577 601 anomalías del desarrollo
+T26 PROC 201 209 autopsia
+T27 PROC 521 541 examen de la cavidad
+T28 ANAT 217 225 estómago
+T29 ANAT 197 204 duodeno
+T30 ANAT 204 211 paredes
+T31 ANAT 91 94 pap
+T32 ANAT 125 129 illa
+T33 ANAT 321 331 intestinal
+T34 ANAT 859 885 ángulo duodeno - y ey unal
+T35 ANAT 681 701 paredes intestinales
+T36 ANAT 771 793 válvula i leo - c ecal
+T37 ANAT 181 186 íleon
+T38 DISO 260 267 estrech
+T39 ANAT 647 664 intestino delgado
+T40 ANAT 664 681 asas intestinales
+T41 ANAT 121 124 mes
+T42 ANAT 288 295 enterio
+T43 ANAT 211 216 ciego
+T44 ANAT 216 221 ciego
+T45 ANAT 749 766 intestino delgado
+T46 ANAT 766 783 colon descendente

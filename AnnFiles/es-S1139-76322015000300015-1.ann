@@ -1,0 +1,49 @@
+T1 PROC 1 8 operado
+T2 PROC 17 33 cri ptor qui dia
+T3 PROC 17 25 vacunado
+T4 DISO 70 93 inflamación paro tí dea
+T5 DISO 29 36 eritema
+T6 DISO 46 55 hinchazón
+T7 DISO 31 36 dolor
+T8 DISO 43 49 fiebre
+T9 CHEM 89 100 amoxicilina
+T10 CHEM 10 11 -
+T11 CHEM 111 122 clavulánico
+T12 CHEM 188 205 antiinflamatorios
+T13 PROC 241 261 ingreso hospitalario
+T14 DISO 378 407 afectación del estado general
+T15 PROC 155 166 tratamiento
+T16 CHEM 166 177 amoxicilina
+T17 CHEM 17 18 -
+T18 CHEM 188 199 clavulánico
+T19 PROC 325 343 exploración física
+T20 DISO 495 521 tumoración latero cervical
+T21 ANAT 341 358 ángulo mandibular
+T22 DISO 232 243 fluctuación
+T23 DISO 199 208 secreción
+T24 DISO 461 481 signos inflamatorios
+T25 ANAT 481 501 conducto de S ten on
+T26 PROC 476 495 analítica sanguínea
+T27 DISO 313 325 leucocitosis
+T28 DISO 298 309 neutrofilia
+T29 PROC 533 552 proteína C reactiva
+T30 PROC 88 91 PCR
+T31 PROC 61 63 Î±
+T32 PROC 32 33 -
+T33 PROC 129 133 amil
+T34 PROC 100 103 asa
+T35 PROC 239 246 ingreso
+T36 PROC 316 325 ecografía
+T37 ANAT 145 149 paró
+T38 ANAT 186 191 tidas
+T39 PROC 419 430 tratamiento
+T40 CHEM 430 441 amoxicilina
+T41 CHEM 41 42 -
+T42 CHEM 452 463 clavulánico
+T43 PROC 379 388 analgesia
+T44 CHEM 732 749 antiinflamatorios
+T45 PROC 485 496 seguimiento
+T46 PROC 901 921 estudio de inmunidad
+T47 PROC 967 988 pruebas reumatoide as
+T48 PROC 847 865 estudio serológico
+T49 PROC 1681 1716 serología vacunal anti paro tiditis

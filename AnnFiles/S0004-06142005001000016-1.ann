@@ -1,0 +1,40 @@
+T1 PROC 1 9 consulta
+T2 PROC 3 5 ba
+T3 DISO 69 103 síndrome obstructivo infra vesical
+T4 DISO 52 69 tumoración blanda
+T5 ANAT 17 21 hemi
+T6 ANAT 16 19 esc
+T7 ANAT 13 15 ro
+T8 ANAT 71 81 to derecho
+T9 PROC 145 163 exploración física
+T10 ANAT 127 141 bolsa escrotal
+T11 DISO 151 166 hernia inguinal
+T12 PROC 133 145 tacto rectal
+T13 DISO 97 105 próstata
+T14 DISO 92 99 adenoma
+T15 DISO 71 76 tosas
+T16 PROC 436 465 exploraciones complementarias
+T17 PROC 145 154 PSA total
+T18 PROC 511 541 ecografía vesico - pros tática
+T19 ANAT 145 153 próstata
+T20 PROC 381 401 ecografía testicular
+T21 DISO 101 106 herni
+T22 DISO 274 287 ación vesical
+T23 PROC 67 70 cis
+T24 PROC 438 457 tografía retrógrada
+T25 DISO 337 351 hernia vesical
+T26 ANAT 101 105 hemi
+T27 ANAT 79 82 esc
+T28 ANAT 55 57 ro
+T29 ANAT 281 291 to derecho
+T30 PROC 784 811 tratamiento fue quiráºrgico
+T31 PROC 271 280 resección
+T32 ANAT 187 193 vejiga
+T33 ANAT 321 331 peritoneal
+T34 PROC 331 341 corrección
+T35 DISO 511 526 hernia inguinal
+T36 CHEM 106 109 mar
+T37 CHEM 109 112 lex
+T38 PROC 556 571 RTU de próstata
+T39 PROC 267 274 Control
+T40 PROC 118 121 ado

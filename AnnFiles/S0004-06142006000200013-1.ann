@@ -1,0 +1,57 @@
+T1 PROC 1 4 his
+T2 PROC 4 7 ter
+T3 PROC 11 16 ectom
+T4 PROC 16 21 izada
+T5 DISO 13 16 lei
+T6 DISO 16 19 omi
+T7 DISO 25 29 omas
+T8 DISO 134 153 dolor en fosa renal
+T9 DISO 129 145 malestar general
+T10 DISO 82 91 hematuria
+T11 PROC 241 265 estudios cit ológicos de
+T12 ANAT 56 61 orina
+T13 DISO 85 92 células
+T14 PROC 235 253 Estudios de imagen
+T15 PROC 337 361 intervención quiráºrgica
+T16 ANAT 91 97 riá±ón
+T17 DISO 193 205 masa tumoral
+T18 ANAT 375 397 arteria iliaca interna
+T19 ANAT 289 305 uréter izquierdo
+T20 ANAT 286 301 saco de Douglas
+T21 ANAT 101 106 recto
+T22 ANAT 484 507 cara lateral peritoneal
+T23 PROC 45 47 en
+T24 PROC 93 97 ucle
+T25 PROC 121 126 ación
+T26 DISO 151 157 lesión
+T27 ANAT 417 433 muestra ureteral
+T28 PROC 730 757 diagnóstico histopatológico
+T29 DISO 505 523 carcinoma ureteral
+T30 PROC 610 631 estudio macros cópico
+T31 ANAT 181 187 tejido
+T32 PROC 187 193 cortes
+T33 PROC 609 628 estudio histológico
+T34 ANAT 265 273 segmento
+T35 ANAT 273 281 ureteral
+T36 ANAT 386 397 estructuras
+T37 ANAT 433 445 gland ulares
+T38 ANAT 334 343 dilatadas
+T39 ANAT 191 196 intra
+T40 ANAT 391 401 musculares
+T41 ANAT 801 821 epitelio endometrial
+T42 PROC 1067 1093 tinción inmunohistoquímica
+T43 CHEM 169 173 cito
+T44 CHEM 216 221 quera
+T45 CHEM 221 226 tinas
+T46 CHEM 1081 1105 receptores de estrógenos
+T47 CHEM 1197 1223 receptores de progesterona
+T48 ANAT 659 673 pared ureteral
+T49 ANAT 289 295 tejido
+T50 DISO 491 501 hemorragia
+T51 PROC 551 562 diagnóstico
+T52 DISO 1123 1145 endometriosis ureteral
+T53 ANAT 365 372 tisular
+T54 ANAT 425 433 ureteral
+T55 DISO 325 331 signos
+T56 DISO 551 561 hemorragia
+T57 ANAT 1345 1369 estructuras gland ulares

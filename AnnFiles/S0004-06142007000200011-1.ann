@@ -1,0 +1,47 @@
+T1 DISO 1 9 fumadora
+T2 PROC 14 27 diagnosticada
+T3 DISO 13 19 lipoma
+T4 ANAT 16 21 muslo
+T5 PROC 77 96 ecografía abdominal
+T6 CHEM 66 79 catecolaminas
+T7 CHEM 19 22 nor
+T8 CHEM 71 81 adrenalina
+T9 CHEM 65 73 dopamina
+T10 DISO 190 211 hipertensión arterial
+T11 ANAT 111 122 suprarrenal
+T12 DISO 331 361 lesión nodular hipo an eco ica
+T13 DISO 469 508 lesión sólida con degeneración quística
+T14 DISO 79 85 lesión
+T15 PROC 43 46 TAC
+T16 PROC 166 177 gammagrafía
+T17 PROC 449 477 intervenida quiráºrgicamente
+T18 DISO 239 253 feocromocitoma
+T19 DISO 559 590 adenoma de glándula suprarrenal
+T20 ANAT 267 281 tejido adiposo
+T21 PROC 121 127 cortes
+T22 ANAT 127 133 tejido
+T23 DISO 397 415 formación quística
+T24 DISO 507 529 formaciones papil ares
+T25 DISO 73 76 exc
+T26 DISO 76 79 rec
+T27 DISO 157 163 encias
+T28 PROC 514 533 estudio histológico
+T29 DISO 505 523 formación quística
+T30 DISO 233 241 hemático
+T31 ANAT 421 435 células planas
+T32 PROC 559 577 inmunohistoquímica
+T33 CHEM 161 166 CD 31
+T34 CHEM 166 171 CD 34
+T35 CHEM 103 106 cal
+T36 CHEM 36 37 r
+T37 CHEM 73 75 re
+T38 CHEM 223 229 tinina
+T39 ANAT 153 157 endo
+T40 ANAT 196 201 telio
+T41 DISO 161 165 Form
+T42 DISO 698 715 aciones quísticas
+T43 ANAT 757 775 parénquima adrenal
+T44 PROC 474 485 diagnóstico
+T45 DISO 177 181 linf
+T46 DISO 181 185 angi
+T47 DISO 553 565 oma quístico

@@ -1,0 +1,70 @@
+T1 DISO 1 30 disminución de agudeza visual
+T2 DISO 3 5 AV
+T3 ANAT 27 40 ojo izquierdo
+T4 ANAT 7 9 OI
+T5 DISO 33 41 mutación
+T6 DISO 91 109 enfermedad de VH L
+T7 DISO 211 246 manifestaciones sistémicas síndrome
+T8 PROC 78 89 exploración
+T9 PROC 17 19 AV
+T10 ANAT 19 21 OI
+T11 PROC 121 133 fondo de ojo
+T12 DISO 254 277 tumoración endo f ítica
+T13 ANAT 73 79 papila
+T14 ANAT 313 337 arcada temporal superior
+T15 ANAT 225 241 vasos nutri cios
+T16 PROC 466 497 tomografía de coherencia óptica
+T17 PROC 49 52 OCT
+T18 DISO 239 253 edema quístico
+T19 ANAT 253 267 polo posterior
+T20 PROC 210 221 angiografía
+T21 PROC 41 43 AF
+T22 PROC 22 23 G
+T23 DISO 133 139 lesión
+T24 PROC 392 409 estudio sistémico
+T25 DISO 361 376 nódulos sólidos
+T26 ANAT 201 209 riá±ones
+T27 DISO 131 136 hiper
+T28 DISO 55 57 ne
+T29 DISO 85 88 fro
+T30 DISO 349 361 ma bilateral
+T31 PROC 571 590 nefrectomía radical
+T32 DISO 652 673 nódulo hipercap tante
+T33 ANAT 353 364 suprarrenal
+T34 DISO 1090 1123 tumor neuroendo crino pancreático
+T35 DISO 69 71 he
+T36 DISO 106 109 man
+T37 DISO 109 112 gio
+T38 DISO 149 153 blas
+T39 DISO 191 196 tomas
+T40 ANAT 508 521 protuberancia
+T41 ANAT 561 575 médula espinal
+T42 DISO 534 547 edema medular
+T43 PROC 169 173 foto
+T44 PROC 1205 1233 coagulación con láser arg ón
+T45 DISO 1101 1126 hemorragia subre tin iana
+T46 ANAT 676 691 arcada vascular
+T47 DISO 829 847 hemorragia ví trea
+T48 DISO 48 49 H
+T49 DISO 49 50 V
+T50 DISO 50 51 H
+T51 DISO 51 52 V
+T52 PROC 154 157 vit
+T53 PROC 677 690 rectomía 23 G
+T54 PROC 584 595 tratamiento
+T55 DISO 325 331 lesión
+T56 PROC 166 169 end
+T57 PROC 113 115 ol
+T58 PROC 229 233 áser
+T59 PROC 407 414 cirugía
+T60 PROC 119 121 AV
+T61 PROC 181 184 OCT
+T62 ANAT 123 125 fo
+T63 ANAT 249 253 veal
+T64 DISO 820 833 edema macular
+T65 PROC 129 131 AF
+T66 PROC 66 67 G
+T67 ANAT 1057 1073 vasos nutri cios
+T68 DISO 403 409 lesión
+T69 ANAT 341 346 vasos
+T70 DISO 415 421 lesión

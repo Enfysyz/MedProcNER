@@ -1,0 +1,97 @@
+T1 PROC 1 9 consulta
+T2 PROC 19 37 remitido urgencias
+T3 DISO 35 52 dolor inflamación
+T4 ANAT 28 37 testículo
+T5 DISO 129 161 inflamación testicular izquierda
+T6 DISO 31 37 fiebre
+T7 DISO 121 141 síntomas u rológicos
+T8 DISO 204 233 afectación del estado general
+T9 PROC 73 82 palpación
+T10 ANAT 172 191 testículo izquierdo
+T11 DISO 31 34 ind
+T12 DISO 56 61 urado
+T13 DISO 97 105 doloroso
+T14 ANAT 53 57 epid
+T15 ANAT 43 46 ídi
+T16 ANAT 31 33 mo
+T17 ANAT 145 154 testículo
+T18 PROC 341 361 ecografía testicular
+T19 DISO 253 267 lesión nodular
+T20 ANAT 362 381 testículo izquierdo
+T21 DISO 181 190 quísticas
+T22 DISO 547 573 lesiones nodulares sólidas
+T23 ANAT 375 392 testículo derecho
+T24 DISO 691 721 neoplasia testicular bilateral
+T25 PROC 481 501 marcadores tumorales
+T26 PROC 51 53 Î±
+T27 PROC 27 28 -
+T28 PROC 28 29 F
+T29 PROC 57 59 TP
+T30 PROC 59 61 Î²
+T31 PROC 31 32 -
+T32 PROC 63 65 HC
+T33 PROC 33 34 G
+T34 PROC 100 103 LDH
+T35 PROC 1157 1191 TAC toraco - ab dó mino - pélv ico
+T36 PROC 281 289 criopres
+T37 PROC 577 593 ervación seminal
+T38 PROC 75 77 or
+T39 PROC 115 118 qui
+T40 PROC 1015 1041 ectomía inguinal izquierda
+T41 PROC 921 944 ligadura alta de cordón
+T42 PROC 1067 1093 biopsia testicular derecha
+T43 PROC 85 87 cl
+T44 PROC 130 133 amp
+T45 PROC 1189 1216 aje del cordón esper mático
+T46 DISO 1216 1243 células malignas germinales
+T47 PROC 323 330 cirugía
+T48 PROC 95 97 or
+T49 PROC 145 148 qui
+T50 PROC 1177 1201 ectomía inguinal derecha
+T51 PROC 1251 1276 estudio anatomopatológico
+T52 ANAT 154 157 Tes
+T53 ANAT 833 849 tículo izquierdo
+T54 DISO 531 541 tumoración
+T55 DISO 487 496 quísticas
+T56 DISO 1101 1121 tumor germinal mixto
+T57 DISO 1569 1597 carcinoma embrionario adulto
+T58 DISO 229 233 tera
+T59 DISO 233 237 toma
+T60 ANAT 119 121 al
+T61 ANAT 121 123 bu
+T62 ANAT 62 63 g
+T63 ANAT 249 253 ínea
+T64 ANAT 64 65 T
+T65 ANAT 129 131 es
+T66 ANAT 911 925 tículo derecho
+T67 DISO 1321 1341 tumoración gris ácea
+T68 DISO 336 341 semin
+T69 DISO 205 208 oma
+T70 DISO 1657 1681 neoplasia intra tu bular
+T71 ANAT 141 143 al
+T72 ANAT 143 145 bu
+T73 ANAT 73 74 g
+T74 ANAT 293 297 ínea
+T75 ANAT 297 301 epid
+T76 ANAT 226 229 ídi
+T77 ANAT 153 155 mo
+T78 ANAT 1464 1483 cordón esper mático
+T79 PROC 2887 2924 tratamiento qui mo terápico adyuvante
+T80 PROC 80 81 B
+T81 PROC 1041 1054 EP modificado
+T82 PROC 811 821 marcadores
+T83 PROC 165 167 Î±
+T84 PROC 84 85 -
+T85 PROC 85 86 F
+T86 PROC 171 173 TP
+T87 PROC 173 175 Î²
+T88 PROC 88 89 -
+T89 PROC 177 179 HC
+T90 PROC 90 91 G
+T91 PROC 271 274 LDH
+T92 PROC 1002 1013 diagnóstico
+T93 DISO 2853 2884 tumoración testicular bilateral
+T94 PROC 1861 1881 marcadores tumorales
+T95 PROC 1975 1996 estudios radiológicos
+T96 PROC 3041 3073 tratamiento hormonal sustitutivo
+T97 PROC 2113 2135 cifras de testosterona

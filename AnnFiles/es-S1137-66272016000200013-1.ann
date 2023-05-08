@@ -1,0 +1,89 @@
+T1 PROC 1 8 colecis
+T2 PROC 7 13 tectom
+T3 PROC 11 16 izada
+T4 DISO 13 17 cole
+T5 DISO 9 11 do
+T6 DISO 21 25 coli
+T7 DISO 37 43 tiasis
+T8 PROC 120 137 endos cópicamente
+T9 PROC 57 64 ingresa
+T10 DISO 316 351 dolor epigástrico irradiado espalda
+T11 DISO 151 166 náuseas vómitos
+T12 DISO 67 73 fiebre
+T13 DISO 241 261 sensación distérmica
+T14 PROC 157 169 dada de alta
+T15 DISO 57 61 cole
+T16 DISO 31 33 do
+T17 DISO 65 69 coli
+T18 DISO 103 109 tiasis
+T19 PROC 145 153 colangio
+T20 PROC 115 121 pancre
+T21 PROC 61 64 ato
+T22 PROC 610 639 grafía retróg ada endoscópica
+T23 PROC 23 24 C
+T24 PROC 70 73 PRE
+T25 PROC 265 276 exploración
+T26 DISO 976 1015 dolor en hipocondrio derecho epigastrio
+T27 DISO 287 298 peritonismo
+T28 DISO 190 197 abdomen
+T29 DISO 281 291 distendido
+T30 DISO 813 841 leucocitosis con neutrofilia
+T31 DISO 571 590 hiperbilirrubinemia
+T32 PROC 404 417 transaminasas
+T33 PROC 225 232 amilasa
+T34 PROC 100 103 VSG
+T35 PROC 1191 1226 anticuerpos antic élulas parietales
+T36 PROC 106 109 IgG
+T37 PROC 289 297 4 sérica
+T38 PROC 445 457 hemocultivos
+T39 PROC 267 274 ingreso
+T40 PROC 352 361 ecografía
+T41 DISO 1201 1231 lesiones ocup antes de espacio
+T42 DISO 739 757 abscesos hepáticos
+T43 PROC 841 861 resonancia magnética
+T44 DISO 345 353 lesiones
+T45 ANAT 749 766 lóbulos hepáticos
+T46 PROC 2251 2301 secuencias potenci adas en T 2 con supresión grasa
+T47 PROC 1703 1740 estudio dinámico contraste endovenoso
+T48 DISO 847 865 abscesos hepáticos
+T49 DISO 481 491 dilatación
+T50 ANAT 981 1001 vía biliar principal
+T51 DISO 1151 1174 defectos de repl ección
+T52 ANAT 766 781 colédoco distal
+T53 ANAT 105 107 el
+T54 ANAT 796 811 hepático comáºn
+T55 DISO 487 496 estenosis
+T56 ANAT 991 1009 confluencia hiliar
+T57 PROC 1009 1027 drenaje percutáneo
+T58 PROC 514 523 ecografía
+T59 DISO 175 178 lic
+T60 DISO 119 121 ue
+T61 PROC 2041 2075 tratamiento antibiótico endovenoso
+T62 PROC 1404 1427 resonancia magnética de
+T63 DISO 1117 1135 lesiones hepáticas
+T64 DISO 442 449 neoplás
+T65 ANAT 833 846 rama hepática
+T66 DISO 781 793 inflamatorio
+T67 DISO 463 470 tumoral
+T68 DISO 269 273 cole
+T69 DISO 137 139 do
+T70 DISO 277 281 coli
+T71 DISO 421 427 tiasis
+T72 PROC 285 289 CPRE
+T73 ANAT 433 439 microc
+T74 ANAT 147 149 ál
+T75 ANAT 371 376 culos
+T76 DISO 676 685 estenosis
+T77 ANAT 989 1002 rama hepática
+T78 ANAT 617 625 muestras
+T79 PROC 1483 1502 estudio cit ológico
+T80 DISO 791 801 malignidad
+T81 PROC 561 568 biopsia
+T82 PROC 730 739 ecografía
+T83 DISO 657 665 lesiones
+T84 PROC 1578 1597 estudio histológico
+T85 DISO 505 511 lesión
+T86 DISO 1106 1119 proliferación
+T87 ANAT 603 610 células
+T88 ANAT 610 617 náºcleo
+T89 ANAT 881 891 citoplasma

@@ -1,0 +1,98 @@
+T1 DISO 1 2 g
+T2 DISO 18 35 onalgia bilateral
+T3 DISO 13 19 dorsal
+T4 DISO 10 13 gia
+T5 DISO 37 46 lumbalgia
+T6 PROC 56 67 exploración
+T7 DISO 31 36 dolor
+T8 ANAT 134 153 miembros inferiores
+T9 ANAT 17 19 MM
+T10 ANAT 19 21 II
+T11 DISO 91 100 fracturas
+T12 DISO 276 301 alteraciones neurológicas
+T13 PROC 193 209 reposo deportivo
+T14 PROC 131 141 frío local
+T15 PROC 393 421 tratamiento antiinflamatorio
+T16 DISO 76 81 dolor
+T17 DISO 273 290 pérdida de fuerza
+T18 DISO 188 199 parestesias
+T19 ANAT 73 77 MMII
+T20 DISO 419 441 incontinencia urinaria
+T21 PROC 361 379 exploración física
+T22 DISO 505 529 disminución de la fuerza
+T23 DISO 639 668 alteración de la sensibilidad
+T24 ANAT 93 97 MMII
+T25 DISO 97 101 miel
+T26 DISO 376 391 itis transversa
+T27 PROC 183 190 ingreso
+T28 PROC 514 533 analítica sanguínea
+T29 PROC 981 1016 estudio del líquido cefalorraquídeo
+T30 DISO 88 91 ple
+T31 DISO 241 249 ocitosis
+T32 DISO 187 193 bandas
+T33 CHEM 97 100 IgG
+T34 PROC 661 681 electroencefalograma
+T35 PROC 681 701 potenciales evocados
+T36 DISO 316 325 parálisis
+T37 DISO 433 445 espasticidad
+T38 ANAT 149 153 MMII
+T39 DISO 191 196 hipor
+T40 DISO 118 121 ref
+T41 DISO 201 206 lexia
+T42 ANAT 452 463 abdominales
+T43 ANAT 253 259 cremas
+T44 ANAT 44 45 t
+T45 ANAT 265 271 éricos
+T46 DISO 316 323 hiperal
+T47 DISO 231 236 gesia
+T48 DISO 142 145 dis
+T49 DISO 337 344 estesia
+T50 ANAT 295 301 tronco
+T51 ANAT 201 205 MMII
+T52 PROC 460 469 electromi
+T53 PROC 313 319 ograma
+T54 DISO 531 541 alteración
+T55 ANAT 379 386 medular
+T56 ANAT 1101 1121 cordones posteriores
+T57 ANAT 337 343 cordón
+T58 ANAT 343 349 cordón
+T59 PROC 1161 1181 resonancia magnética
+T60 PROC 768 781 RM ) cerebral
+T61 PROC 601 611 RM medular
+T62 DISO 1038 1055 lesión expans iva
+T63 ANAT 435 442 medular
+T64 ANAT 64 65 D
+T65 DISO 257 261 miel
+T66 DISO 976 991 itis transversa
+T67 PROC 463 470 ingreso
+T68 DISO 872 885 dolor intenso
+T69 ANAT 205 208 ojo
+T70 PROC 553 561 valorado
+T71 PROC 701 711 diagnostic
+T72 DISO 1634 1657 neuritis óptica derecha
+T73 DISO 289 293 miel
+T74 DISO 1096 1111 itis transversa
+T75 DISO 1111 1126 neuritis óptica
+T76 PROC 826 837 RM cerebral
+T77 DISO 1521 1541 esclerosis máºltiple
+T78 PROC 771 781 RM medular
+T79 DISO 469 475 lesión
+T80 ANAT 1502 1521 segmentos medulares
+T81 PROC 3521 3565 estudio del anticuerpo anti acu o porina - 4
+T82 PROC 811 821 anticuerpo
+T83 PROC 903 914 diagnosticó
+T84 DISO 416 421 neuro
+T85 DISO 169 171 mi
+T86 DISO 1106 1119 elitis óptica
+T87 DISO 1721 1741 enfermedad de De vic
+T88 PROC 610 617 tratado
+T89 CHEM 1497 1514 metilprednisolona
+T90 PROC 1158 1171 plasmaféresis
+T91 PROC 631 638 seguido
+T92 PROC 1275 1289 corticoterapia
+T93 ANAT 369 373 MMII
+T94 DISO 1117 1129 espasticidad
+T95 DISO 565 571 ataxia
+T96 DISO 856 865 dismetría
+T97 DISO 481 486 hiper
+T98 DISO 2232 2255 estesia lumbar dolorosa

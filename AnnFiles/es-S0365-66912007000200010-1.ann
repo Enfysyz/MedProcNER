@@ -1,0 +1,63 @@
+T1 DISO 1 18 pérdida de visión
+T2 PROC 44 87 cirugía de derivación ventrículo peritoneal
+T3 DISO 7 10 hig
+T4 DISO 7 9 ro
+T5 DISO 81 101 ma subdural temporal
+T6 DISO 126 151 absceso occipital craneal
+T7 DISO 175 204 complicación post quiráºrgica
+T8 PROC 78 89 intervenida
+T9 PROC 257 289 descompresión preventiva medular
+T10 DISO 28 31 Mal
+T11 DISO 311 342 formación de Arnold - Chi ari I
+T12 DISO 89 97 cefaleas
+T13 DISO 157 170 inestabilidad
+T14 DISO 235 253 mareos rota torios
+T15 DISO 99 106 vómitos
+T16 DISO 271 289 nistagmus vertical
+T17 PROC 177 188 diagnóstico
+T18 DISO 375 397 malformación congénita
+T19 DISO 253 267 sintomatología
+T20 DISO 305 321 colitis ulcerosa
+T21 PROC 281 295 agudeza visual
+T22 PROC 43 45 AV
+T23 PROC 243 254 exploración
+T24 ANAT 116 121 manos
+T25 ANAT 97 101 ojos
+T26 DISO 626 651 defecto pupilar a ferente
+T27 DISO 885 919 nistagmus en sacu dida hacia abajo
+T28 PROC 325 337 fondo de ojo
+T29 DISO 1457 1509 hemorragia retro h ial o idea pre mac ular y ví trea
+T30 PROC 900 931 tomografía óptica de coherencia
+T31 PROC 91 94 OCT
+T32 PROC 497 513 ecografía ocular
+T33 DISO 65 67 ST
+T34 PROC 67 69 hi
+T35 PROC 103 106 alo
+T36 PROC 666 685 idectomía posterior
+T37 ANAT 397 408 ojo derecho
+T38 ANAT 75 77 OD
+T39 PROC 115 118 ins
+T40 PROC 313 321 tilación
+T41 CHEM 721 739 colirio anestésico
+T42 PROC 534 547 uso láser N d
+T43 DISO 337 345 hematoma
+T44 ANAT 87 89 hi
+T45 ANAT 133 136 alo
+T46 ANAT 631 645 ides posterior
+T47 PROC 185 189 dren
+T48 PROC 48 49 ó
+T49 ANAT 289 295 sangre
+T50 ANAT 736 751 cavidad ví trea
+T51 PROC 351 358 actitud
+T52 ANAT 664 677 ojo izquierdo
+T53 ANAT 105 107 OI
+T54 PROC 107 109 AV
+T55 PROC 541 551 revisiones
+T56 PROC 166 169 OCT
+T57 DISO 1681 1711 membrana ep ir retin iana ular
+T58 ANAT 115 117 OI
+T59 DISO 523 532 nistagmus
+T60 DISO 237 241 hemo
+T61 DISO 121 123 ví
+T62 DISO 855 869 treo bilateral
+T63 PROC 869 883 cirugía ocular

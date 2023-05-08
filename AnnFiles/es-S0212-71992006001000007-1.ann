@@ -1,0 +1,93 @@
+T1 PROC 1 8 ingresa
+T2 DISO 6 11 ictus
+T3 DISO 7 10 dis
+T4 DISO 4 5 n
+T5 DISO 17 21 omia
+T6 DISO 76 91 paresia derecha
+T7 PROC 25 29 scan
+T8 PROC 22 25 ner
+T9 PROC 161 181 resonancia magnética
+T10 DISO 46 51 focos
+T11 DISO 101 111 isquémicos
+T12 PROC 78 85 ingreso
+T13 PROC 193 209 tensión arterial
+T14 PROC 300 323 exploración neurológica
+T15 DISO 57 61 para
+T16 DISO 91 97 facial
+T17 DISO 497 528 déficit motor braquio - cr ural
+T18 PROC 358 379 exploración sistémica
+T19 DISO 163 172 petequias
+T20 ANAT 248 261 región tibial
+T21 ANAT 381 400 extremidad inferior
+T22 DISO 484 507 hemorragias en as tilla
+T23 ANAT 111 116 dedos
+T24 ANAT 116 121 manos
+T25 PROC 217 226 analítica
+T26 PROC 251 261 reactantes
+T27 PROC 469 487 electrocardiograma
+T28 PROC 541 561 doppler transcraneal
+T29 PROC 729 755 doppler continuo carotídeo
+T30 PROC 349 361 fondo de ojo
+T31 PROC 1591 1644 ecografía cardiaca , trans torácica y trans esofágica
+T32 DISO 435 449 foramen oval e
+T33 DISO 481 496 prolapso mitral
+T34 DISO 232 239 verruga
+T35 ANAT 919 946 velo posterior de la mitral
+T36 DISO 771 793 insuficiencia mitral (
+T37 DISO 145 149 IM )
+T38 DISO 1185 1217 endocarditis bacteriana subaguda
+T39 PROC 1217 1249 tratamiento antibiótico empírico
+T40 CHEM 118 121 Van
+T41 CHEM 321 329 comicina
+T42 CHEM 42 43 G
+T43 CHEM 421 431 entamicina
+T44 PROC 517 529 hemocultivos
+T45 PROC 309 316 ingreso
+T46 PROC 901 921 radiografia de tórax
+T47 DISO 277 283 nódulo
+T48 ANAT 1176 1201 lóbulo inferior izquierdo
+T49 ANAT 49 50 L
+T50 ANAT 99 101 II
+T51 PROC 201 205 scan
+T52 PROC 154 157 ner
+T53 DISO 209 213 masa
+T54 ANAT 160 163 LII
+T55 DISO 919 936 nódulos satélites
+T56 DISO 606 617 adenopatías
+T57 DISO 225 229 linf
+T58 DISO 1255 1277 angitis carcinoma tosa
+T59 DISO 1103 1122 proceso neoplás ico
+T60 PROC 1358 1381 tratamiento antibiótico
+T61 PROC 481 489 cultivos
+T62 PROC 1526 1551 ecocardiograma de control
+T63 DISO 435 442 verruga
+T64 DISO 442 449 verruga
+T65 PROC 769 781 hemocultivos
+T66 DISO 781 793 endocarditis
+T67 PROC 529 537 cultivos
+T68 PROC 671 681 serologías
+T69 PROC 749 760 tratamiento
+T70 DISO 3175 3221 dolor inespecífico en el hipocondrio izquierdo
+T71 PROC 1331 1350 ecografía abdominal
+T72 DISO 1208 1225 embolia esplénica
+T73 DISO 649 658 patología
+T74 DISO 1169 1185 cuadro sin copal
+T75 DISO 2295 2326 accidente isquémico transitorio
+T76 DISO 151 153 de
+T77 DISO 3953 4005 bilidad transitoria de extremidad superior izquierda
+T78 DISO 1310 1327 deterioro clínico
+T79 DISO 1015 1028 cuadro ic tal
+T80 ANAT 870 881 circulación
+T81 ANAT 1761 1783 arteria cerebral media
+T82 DISO 82 83 a
+T83 DISO 985 997 fasia global
+T84 DISO 250 253 ina
+T85 DISO 1177 1191 tención visual
+T86 DISO 341 345 hemi
+T87 DISO 1205 1219 plejía derecha
+T88 PROC 2176 2201 ecocardiograma de control
+T89 DISO 705 713 lesiones
+T90 DISO 624 631 verruga
+T91 ANAT 1531 1548 cara auricular de
+T92 ANAT 183 185 la
+T93 ANAT 553 559 mitral

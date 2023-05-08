@@ -1,0 +1,68 @@
+T1 DISO 1 24 alergias medicamentosas
+T2 DISO 35 69 herida abdominal por arma de fuego
+T3 PROC 15 22 ingresa
+T4 DISO 46 61 dolor abdominal
+T5 PROC 73 91 exploración física
+T6 ANAT 106 127 fosa iliaca izquierda
+T7 ANAT 103 120 gláºteo izquierdo
+T8 DISO 106 121 dolor abdominal
+T9 DISO 225 253 signos irritación peritoneal
+T10 ANAT 100 111 hipogastrio
+T11 ANAT 111 122 fosa iliaca
+T12 ANAT 199 217 genitales externos
+T13 DISO 37 40 ure
+T14 DISO 118 127 trorragia
+T15 PROC 407 436 cateterismo ure tro - vesical
+T16 DISO 331 353 hematuria macroscópica
+T17 PROC 273 290 analítica ingreso
+T18 DISO 103 109 anemia
+T19 PROC 37 39 Hb
+T20 PROC 172 181 hemograma
+T21 PROC 221 232 coagulación
+T22 PROC 358 375 pruebas de imagen
+T23 PROC 155 162 cirugía
+T24 DISO 737 769 herida vesical por arma de fuego
+T25 DISO 241 251 afectación
+T26 ANAT 176 183 órganos
+T27 PROC 625 649 TC ab dó mino - pélv ico
+T28 PROC 460 477 TC - cis tografía
+T29 PROC 113 117 repl
+T30 PROC 407 421 ección vesical
+T31 CHEM 631 652 material de contraste
+T32 PROC 745 769 TC ab dó mino - pélv ico
+T33 PROC 65 67 TC
+T34 PROC 34 35 -
+T35 PROC 103 106 cis
+T36 PROC 281 289 tografía
+T37 DISO 505 519 rotura vesical
+T38 DISO 482 495 extravasación
+T39 CHEM 343 352 contraste
+T40 DISO 391 401 dilatación
+T41 ANAT 641 657 sistema colector
+T42 DISO 247 253 Herida
+T43 ANAT 883 904 fosa iliaca izquierda
+T44 DISO 431 441 hemorragia
+T45 ANAT 221 226 mesos
+T46 ANAT 181 185 igma
+T47 ANAT 1381 1411 cara lateral izquierda vesical
+T48 ANAT 753 769 vesícula seminal
+T49 ANAT 1777 1814 áreas perir rectal e is qui or rectal
+T50 PROC 1177 1201 laparotomía explor adora
+T51 PROC 2101 2143 laparotomía media supra - inf ra umbilical
+T52 PROC 511 521 reparación
+T53 DISO 573 584 perforación
+T54 ANAT 266 271 mesos
+T55 ANAT 217 221 igma
+T56 ANAT 771 785 asa sigmo idea
+T57 PROC 561 571 reparación
+T58 DISO 343 349 lesión
+T59 ANAT 1219 1240 vena iliaca primitiva
+T60 ANAT 1594 1621 eje il íaco arterial venoso
+T61 PROC 301 306 cisto
+T62 PROC 2014 2047 tomía media longitudinal anterior
+T63 DISO 1179 1198 perforación vesical
+T64 ANAT 820 833 fondo vesical
+T65 ANAT 1345 1366 región retro me ática
+T66 ANAT 1496 1519 uréter distal izquierdo
+T67 ANAT 1255 1274 conducto de ferente
+T68 PROC 872 885 sutura en dos

@@ -1,0 +1,19 @@
+T1 PROC 1 9 consulta
+T2 DISO 19 37 lesión eritematosa
+T3 DISO 21 31 eritematos
+T4 DISO 19 25 lesión
+T5 ANAT 21 26 muslo
+T6 PROC 16 19 Tra
+T7 PROC 25 29 tada
+T8 PROC 78 89 hidratación
+T9 DISO 65 73 lesiones
+T10 ANAT 46 51 tórax
+T11 ANAT 61 67 cuello
+T12 ANAT 56 61 muslo
+T13 PROC 85 92 cultivo
+T14 DISO 105 113 lesiones
+T15 DISO 99 106 prurito
+T16 PROC 166 177 hidratación
+T17 DISO 241 256 eccema a tópico
+T18 PROC 256 271 tratamiento con
+T19 CHEM 181 191 corticoide

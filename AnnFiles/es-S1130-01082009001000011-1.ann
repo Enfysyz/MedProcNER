@@ -1,0 +1,61 @@
+T1 DISO 1 10 dispepsia
+T2 PROC 32 63 tratamiento médico - diet ético
+T3 PROC 21 31 endoscopia
+T4 DISO 49 65 lesión submucosa
+T5 ANAT 17 21 cara
+T6 ANAT 71 85 antro gástrico
+T7 DISO 61 71 ulceración
+T8 PROC 50 57 biopsia
+T9 DISO 81 91 congestión
+T10 DISO 46 51 edema
+T11 ANAT 131 144 lámina propia
+T12 ANAT 67 73 antral
+T13 PROC 301 326 tránsito gastrointestinal
+T14 PROC 14 15 T
+T15 PROC 29 31 GI
+T16 PROC 376 401 tomografía computer izada
+T17 PROC 49 52 TAC
+T18 DISO 341 361 defecto de repleción
+T19 ANAT 145 153 pliegues
+T20 ANAT 153 161 muc osos
+T21 DISO 201 211 tumoración
+T22 PROC 232 243 seguimiento
+T23 PROC 67 70 eco
+T24 PROC 24 25 -
+T25 PROC 121 126 endos
+T26 PROC 151 157 copias
+T27 PROC 53 55 EE
+T28 DISO 163 169 lesión
+T29 ANAT 561 581 capa muscular propia
+T30 DISO 639 661 tumor del estroma tipo
+T31 DISO 91 94 lei
+T32 DISO 94 97 omi
+T33 DISO 97 100 oma
+T34 DISO 331 341 malignidad
+T35 DISO 375 386 adenopatías
+T36 PROC 141 145 PAAF
+T37 DISO 109 112 cel
+T38 DISO 75 77 ul
+T39 DISO 115 118 ari
+T40 DISO 469 481 ad epitelial
+T41 DISO 241 247 lesión
+T42 DISO 329 337 síntomas
+T43 PROC 463 474 diagnóstico
+T44 DISO 431 441 malignidad
+T45 PROC 1013 1036 extirpación quiráºrgica
+T46 PROC 1306 1335 extirpación vía laparoscópica
+T47 DISO 277 283 lesión
+T48 PROC 471 481 endoscopia
+T49 PROC 1105 1128 tinción con tinta china
+T50 PROC 344 351 cirugía
+T51 PROC 601 613 gastrostomía
+T52 PROC 460 469 resección
+T53 PROC 313 319 cierra
+T54 ANAT 637 649 gastrostomía
+T55 PROC 1243 1266 sutura continua de seda
+T56 DISO 331 337 lesión
+T57 PROC 393 400 estudio
+T58 ANAT 1027 1045 tejido pancreático
+T59 ANAT 175 178 duc
+T60 ANAT 178 181 tos
+T61 PROC 721 733 dada de alta

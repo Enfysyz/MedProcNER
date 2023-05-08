@@ -1,0 +1,79 @@
+T1 PROC 1 9 consulta
+T2 DISO 9 17 dolor en
+T3 ANAT 15 22 muá±eca
+T4 DISO 31 41 traumático
+T5 DISO 21 26 dolor
+T6 ANAT 36 43 muá±eca
+T7 PROC 181 211 tratamiento médico sintomático
+T8 ANAT 36 41 inter
+T9 ANAT 25 28 lín
+T10 ANAT 325 361 ea articular radio car pi ana dorsal
+T11 ANAT 41 45 polo
+T12 ANAT 111 121 escafoides
+T13 DISO 109 118 dolorosos
+T14 DISO 131 141 tumoración
+T15 ANAT 99 106 muá±eca
+T16 PROC 91 97 imagen
+T17 DISO 353 375 lesión radi ol uc ente
+T18 ANAT 103 109 tercio
+T19 ANAT 181 191 escafoides
+T20 PROC 58 61 TAC
+T21 DISO 121 127 lesión
+T22 DISO 316 331 calcificaciones
+T23 PROC 45 47 RM
+T24 DISO 231 241 edema óseo
+T25 ANAT 241 251 escafoides
+T26 DISO 101 105 sino
+T27 DISO 131 136 vitis
+T28 PROC 298 309 diagnóstico
+T29 DISO 393 407 lesión benigna
+T30 DISO 59 61 en
+T31 DISO 91 94 con
+T32 DISO 94 97 dro
+T33 DISO 65 67 ma
+T34 DISO 166 171 gangl
+T35 DISO 511 526 ión intra ó seo
+T36 PROC 806 829 tratamiento quiráºrgico
+T37 DISO 217 223 lesión
+T38 ANAT 371 381 escafoides
+T39 ANAT 647 664 cápsula articular
+T40 ANAT 157 161 cara
+T41 ANAT 121 124 epí
+T42 ANAT 903 925 fisis distal del radio
+T43 ANAT 421 431 escafoides
+T44 DISO 431 441 tumoración
+T45 ANAT 573 586 cresta dorsal
+T46 ANAT 721 737 hueso nav icular
+T47 PROC 93 95 le
+T48 PROC 236 241 grado
+T49 DISO 289 295 lesión
+T50 PROC 344 351 relleno
+T51 ANAT 351 358 defecto
+T52 PROC 2041 2081 injerto óseo espon joso de cresta iliaca
+T53 ANAT 365 372 islotes
+T54 ANAT 1114 1135 matriz cartila ginosa
+T55 ANAT 757 771 tejido celular
+T56 ANAT 1926 1961 células pseudo - con dro bl ásticas
+T57 ANAT 393 400 células
+T58 ANAT 1084 1103 membrana plasmática
+T59 ANAT 407 414 celular
+T60 ANAT 414 421 células
+T61 CHEM 361 367 hierro
+T62 ANAT 2014 2047 células pseudo con dro bl ásticas
+T63 ANAT 993 1009 células gigantes
+T64 DISO 820 833 calcificación
+T65 DISO 1473 1496 transformación quística
+T66 DISO 1496 1519 quistes aneuris máticos
+T67 PROC 727 738 diagnóstico
+T68 DISO 403 409 condro
+T69 DISO 2109 2140 blastoma de escafoides carpiano
+T70 PROC 1588 1611 tratamiento quiráºrgico
+T71 PROC 491 498 inmovil
+T72 PROC 427 433 izó la
+T73 ANAT 505 512 muá±eca
+T74 PROC 585 593 revisión
+T75 ANAT 519 526 muá±eca
+T76 ANAT 301 305 ósea
+T77 PROC 305 309 auto
+T78 PROC 1849 1873 injerto de cresta iliaca
+T79 PROC 1795 1818 tratamiento quiráºrgico

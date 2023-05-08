@@ -1,0 +1,42 @@
+T1 PROC 1 12 mastectomía
+T2 PROC 17 33 disección axilar
+T3 DISO 69 103 carcinoma lo bul illar infiltrante
+T4 DISO 43 57 tumor primario
+T5 ANAT 21 26 axila
+T6 ANAT 41 49 ganglios
+T7 DISO 67 78 infiltrados
+T8 DISO 36 41 tumor
+T9 CHEM 169 190 receptores hormonales
+T10 PROC 109 121 intervención
+T11 PROC 281 309 quimioterapia complementaria
+T12 CHEM 34 37 FEC
+T13 DISO 229 248 dolor en epigastrio
+T14 DISO 196 211 pérdida de peso
+T15 PROC 169 181 gastroscopia
+T16 DISO 346 369 masa de aspecto tumoral
+T17 ANAT 241 256 cuerpo gástrico
+T18 PROC 120 127 biopsia
+T19 DISO 937 989 adenocarcinoma difuso con células en anillo de sello
+T20 PROC 210 221 laparotomía
+T21 DISO 141 148 ascitis
+T22 DISO 379 397 neoplasia gástrica
+T23 ANAT 397 415 pared del estómago
+T24 ANAT 185 193 infiltra
+T25 ANAT 457 476 cabeza del páncreas
+T26 PROC 226 235 citología
+T27 ANAT 443 460 líquido asc ítico
+T28 DISO 1054 1093 invasión por células en anillo de sello
+T29 PROC 673 697 tratamiento citos tático
+T30 PROC 378 391 quimioterapia
+T31 DISO 361 373 dolor dorsal
+T32 PROC 497 513 gammagrafía ósea
+T33 DISO 513 529 metástasis óseas
+T34 PROC 661 681 resonancia magnética
+T35 PROC 239 246 tratada
+T36 PROC 876 901 radioterapia anti ál gica
+T37 PROC 469 482 quimioterapia
+T38 PROC 741 761 tratamiento hormonal
+T39 PROC 609 625 biopsia gástrica
+T40 CHEM 898 921 receptores de estrógeno
+T41 CHEM 481 493 progesterona
+T42 ANAT 1067 1093 células en anillo de sello

@@ -1,0 +1,79 @@
+T1 PROC 1 9 consulta
+T2 DISO 33 65 lesión nodular gingival superior
+T3 PROC 17 25 consulta
+T4 PROC 73 97 tomografía computarizada
+T5 PROC 9 11 TC
+T6 DISO 131 157 tumoración maxilar derecha
+T7 ANAT 31 36 antro
+T8 ANAT 92 105 cavidad nasal
+T9 PROC 89 100 diagnóstico
+T10 PROC 163 181 resección marginal
+T11 DISO 181 199 tumoración maxilar
+T12 PROC 78 85 informó
+T13 ANAT 61 66 pieza
+T14 PROC 118 127 resección
+T15 DISO 43 46 con
+T16 DISO 61 65 dros
+T17 DISO 225 239 arcoma maxilar
+T18 PROC 443 469 tratamiento complementario
+T19 PROC 397 419 radioterapia adyuvante
+T20 PROC 77 81 rein
+T21 PROC 81 85 gres
+T22 PROC 22 23 a
+T23 DISO 111 116 tumor
+T24 DISO 116 121 tumor
+T25 PROC 73 76 TAC
+T26 ANAT 76 79 max
+T27 ANAT 79 82 ila
+T28 ANAT 82 85 max
+T29 ANAT 85 88 ila
+T30 PROC 755 781 tratamiento quimioterápico
+T31 PROC 61 63 ci
+T32 PROC 156 161 torre
+T33 PROC 481 496 ducción tumoral
+T34 CHEM 34 35 D
+T35 CHEM 69 71 ox
+T36 CHEM 71 73 ur
+T37 CHEM 289 297 rubicina
+T38 ANAT 297 305 corporal
+T39 CHEM 39 40 V
+T40 CHEM 118 121 inc
+T41 CHEM 281 288 ristina
+T42 CHEM 124 127 Mes
+T43 CHEM 85 87 na
+T44 CHEM 216 221 Ciclo
+T45 CHEM 397 406 fosfamida
+T46 PROC 451 461 valoración
+T47 PROC 1197 1223 Cirugía de Cabeza y Cuello
+T48 PROC 1129 1153 intervención quiráºrgica
+T49 PROC 625 638 traqueostomía
+T50 PROC 246 251 maxil
+T51 PROC 1551 1582 ectomía bilateral sub total con
+T52 PROC 205 209 pala
+T53 PROC 417 425 tectomía
+T54 DISO 266 271 tumor
+T55 ANAT 757 771 paladar blando
+T56 ANAT 276 281 pieza
+T57 PROC 505 514 resección
+T58 ANAT 343 349 mucosa
+T59 DISO 639 650 hemorrágica
+T60 DISO 473 481 necrosis
+T61 PROC 1381 1404 estudio histopatológico
+T62 PROC 306 311 micro
+T63 PROC 125 127 fo
+T64 PROC 946 961 tografía de luz
+T65 PROC 2241 2276 tinción de hemato xil ina / eos ina
+T66 PROC 716 727 diagnóstico
+T67 DISO 199 202 con
+T68 DISO 269 273 dros
+T69 DISO 409 415 arcoma
+T70 ANAT 484 491 celular
+T71 DISO 351 356 tumor
+T72 DISO 356 361 perme
+T73 DISO 1009 1023 ación vascular
+T74 PROC 1826 1851 procedimiento quiráºrgico
+T75 PROC 3701 3751 reconstrucción maxilar parcial y de forma temporal
+T76 PROC 1651 1673 prótesis alo pl ástica
+T77 PROC 837 848 seguimiento
+T78 PROC 1156 1171 cirugía radical
+T79 DISO 1327 1344 actividad tumoral

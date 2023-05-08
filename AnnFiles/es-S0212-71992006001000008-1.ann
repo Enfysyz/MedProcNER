@@ -1,0 +1,84 @@
+T1 DISO 1 26 hipotiroidismo subclínico
+T2 PROC 18 35 Atención Primaria
+T3 DISO 31 46 coloración ácea
+T4 ANAT 43 57 falange distal
+T5 ANAT 37 46 segundo ,
+T6 ANAT 101 121 tercer y cuarto dedo
+T7 ANAT 31 36 manos
+T8 DISO 127 145 sensación frialdad
+T9 ANAT 41 46 zonas
+T10 DISO 73 81 lesiones
+T11 DISO 71 78 palidez
+T12 DISO 56 61 rubor
+T13 CHEM 337 365 medicación vasoconstric tora
+T14 PROC 235 253 exploración física
+T15 DISO 281 301 coloración viol ácea
+T16 DISO 121 129 frialdad
+T17 ANAT 273 290 extremos distales
+T18 ANAT 86 91 manos
+T19 ANAT 127 134 segundo
+T20 ANAT 343 361 tercer cuarto dedo
+T21 ANAT 121 127 pulsos
+T22 ANAT 169 177 distales
+T23 ANAT 353 369 zonas anatómicas
+T24 DISO 162 169 esclero
+T25 DISO 193 201 dactilia
+T26 DISO 251 261 cicatrices
+T27 DISO 339 352 esclerodermia
+T28 PROC 703 729 exploración cardiopulmonar
+T29 PROC 1345 1393 pruebas complementarias , analíticas y de imagen
+T30 PROC 262 271 Hemograma
+T31 PROC 361 373 electrolitos
+T32 PROC 342 353 coagulación
+T33 PROC 513 529 función hepática
+T34 PROC 430 443 función renal
+T35 PROC 647 666 gasometría arterial
+T36 PROC 596 613 análisis de orina
+T37 PROC 1261 1296 velocidad de sedimentación globular
+T38 PROC 815 837 niveles de complemento
+T39 PROC 609 625 inmunoglobulinas
+T40 PROC 157 161 crio
+T41 PROC 81 83 ag
+T42 PROC 83 85 lu
+T43 PROC 127 130 tin
+T44 PROC 173 177 inas
+T45 PROC 133 136 cri
+T46 PROC 226 231 oglob
+T47 PROC 277 283 ulinas
+T48 PROC 941 961 marcadores tumorales
+T49 PROC 1297 1324 estudio de función tiroidea
+T50 DISO 1226 1251 hipotiroidismo subclínico
+T51 PROC 1551 1582 anticuerpos anti tiro globulina
+T52 PROC 409 417 anti per
+T53 PROC 365 372 oxidasa
+T54 PROC 1114 1135 serologías de VHB VHC
+T55 DISO 163 166 VIH
+T56 DISO 386 393 sífilis
+T57 PROC 1121 1141 estudio inmunológico
+T58 PROC 172 175 ANA
+T59 PROC 1567 1594 anticuerpos anti DNA , EN A
+T60 PROC 1712 1741 antic ardi olip ina , s cl 70
+T61 PROC 301 306 antic
+T62 PROC 245 249 entr
+T63 PROC 311 316 ómero
+T64 PROC 1072 1089 factor reumatoide
+T65 PROC 705 716 TC torácico
+T66 DISO 456 463 esclero
+T67 DISO 529 537 dactilia
+T68 DISO 1542 1565 cicatrices pun tiformes
+T69 ANAT 205 208 pul
+T70 ANAT 139 141 pe
+T71 ANAT 841 853 jos de dedos
+T72 DISO 214 217 ind
+T73 DISO 505 512 uración
+T74 ANAT 1242 1259 piel pre esternal
+T75 ANAT 1629 1651 región latero cervical
+T76 PROC 826 837 tratamiento
+T77 CHEM 77 78 p
+T78 CHEM 309 313 ento
+T79 CHEM 157 159 xi
+T80 CHEM 475 481 filina
+T81 CHEM 881 892 corticoides
+T82 PROC 406 411 pauta
+T83 CHEM 903 914 azatioprina
+T84 DISO 748 757 patología

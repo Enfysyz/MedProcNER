@@ -1,0 +1,114 @@
+T1 PROC 1 7 esplen
+T2 PROC 8 15 ectomía
+T3 DISO 3 4 B
+T4 DISO 4 5 -
+T5 DISO 13 16 tal
+T6 DISO 31 37 asemia
+T7 DISO 127 148 riesgo cardiovascular
+T8 DISO 50 57 Fumador
+T9 DISO 57 64 bebedor
+T10 DISO 19 21 Al
+T11 DISO 61 67 érgico
+T12 CHEM 45 49 pira
+T13 CHEM 37 40 zol
+T14 CHEM 53 57 onas
+T15 PROC 57 61 gres
+T16 DISO 241 257 infección dental
+T17 DISO 113 120 cefalea
+T18 DISO 239 253 malestar bucal
+T19 DISO 289 305 parálisis facial
+T20 DISO 267 281 sintomatología
+T21 PROC 381 400 exploración general
+T22 DISO 85 89 angi
+T23 DISO 67 70 oma
+T24 ANAT 139 145 frente
+T25 ANAT 73 76 ojo
+T26 DISO 576 599 tumefacción paro tí dea
+T27 PROC 599 622 exploración neurológica
+T28 DISO 730 757 parálisis facial periférica
+T29 DISO 253 262 disartria
+T30 DISO 378 391 signo de Bell
+T31 DISO 601 621 Alteración del gusto
+T32 ANAT 187 193 tercio
+T33 ANAT 193 199 lengua
+T34 PROC 232 239 ingreso
+T35 DISO 375 386 parestesias
+T36 ANAT 596 613 dedos de la manos
+T37 ANAT 685 704 extremidad superior
+T38 DISO 630 647 pérdida de fuerza
+T39 ANAT 457 469 extremidades
+T40 PROC 898 921 exploración neurológica
+T41 DISO 281 288 paresia
+T42 ANAT 780 799 extremidad superior
+T43 ANAT 799 818 extremidad superior
+T44 DISO 173 177 arre
+T45 DISO 133 136 fle
+T46 DISO 136 139 xia
+T47 ANAT 323 330 cipital
+T48 DISO 330 337 paresia
+T49 ANAT 1105 1128 extremidades inferiores
+T50 ANAT 197 201 flex
+T51 ANAT 201 205 ores
+T52 ANAT 307 313 cadera
+T53 PROC 417 425 reflejos
+T54 ANAT 266 271 osteo
+T55 ANAT 325 331 tendin
+T56 ANAT 221 225 osos
+T57 ANAT 281 286 rotul
+T58 ANAT 286 291 ianos
+T59 ANAT 233 237 leos
+T60 DISO 414 421 torpeza
+T61 DISO 541 550 debilidad
+T62 ANAT 306 311 cuadr
+T63 ANAT 311 316 iceps
+T64 PROC 505 513 Rx tórax
+T65 PROC 577 586 hemograma
+T66 PROC 651 661 bioquímica
+T67 PROC 727 738 coagulación
+T68 PROC 202 205 Ser
+T69 PROC 477 484 ologías
+T70 DISO 277 281 orre
+T71 DISO 211 214 lia
+T72 DISO 285 289 Bruc
+T73 DISO 289 293 ella
+T74 DISO 293 297 toxo
+T75 DISO 445 451 plasma
+T76 DISO 526 533 rubéola
+T77 DISO 229 232 láº
+T78 DISO 155 157 es
+T79 DISO 235 238 VEB
+T80 DISO 238 241 CMV
+T81 DISO 241 244 VHS
+T82 DISO 244 247 VIH
+T83 DISO 247 250 Var
+T84 DISO 416 421 icela
+T85 DISO 757 766 - Z oster
+T86 DISO 766 775 sarampión
+T87 DISO 947 958 parotiditis
+T88 ANAT 523 529 sangre
+T89 ANAT 265 268 LCR
+T90 PROC 268 271 ECA
+T91 ANAT 541 547 sangre
+T92 PROC 3277 3313 cuantificación de immun oglob ulinas
+T93 PROC 2025 2047 pruebas de neuroimagen
+T94 PROC 187 189 TC
+T95 PROC 1129 1141 RNM cerebral
+T96 ANAT 286 289 LCR
+T97 CHEM 865 874 proteínas
+T98 ANAT 971 981 leucocitos
+T99 ANAT 197 199 dy
+T100 PROC 892 901 citología
+T101 DISO 1201 1213 bandas oligo
+T102 PROC 1819 1837 Test de T ens ilon
+T103 PROC 205 207 EN
+T104 PROC 104 105 G
+T105 PROC 729 736 ingreso
+T106 DISO 2836 2863 respuesta facial periférica
+T107 DISO 3605 3639 polineuropatía sensitivo - mo tora
+T108 ANAT 1285 1297 extremidades
+T109 DISO 5725 5778 alteraciones de la conducción motora desmielin izante
+T110 DISO 1854 1871 afectación facial
+T111 ANAT 2531 2554 extremidades superiores
+T112 PROC 1222 1233 tratamiento
+T113 CHEM 1233 1244 corticoides
+T114 PROC 1244 1255 tratamiento

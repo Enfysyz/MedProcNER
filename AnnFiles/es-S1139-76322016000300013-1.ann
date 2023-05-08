@@ -1,0 +1,30 @@
+T1 PROC 1 9 vacunado
+T2 DISO 11 21 fallecidos
+T3 DISO 21 31 fallecidos
+T4 DISO 58 77 cuadro respiratorio
+T5 DISO 45 56 infecciones
+T6 DISO 51 61 fallecidos
+T7 PROC 115 134 analítica sanguínea
+T8 PROC 407 465 cifra absoluta de inmunoglobulinas y de sub cl ases descen
+T9 PROC 25 28 IgG
+T10 PROC 28 31 IgA
+T11 PROC 31 34 IgM
+T12 PROC 34 37 IgE
+T13 PROC 229 248 citometría de flujo
+T14 PROC 534 575 estudio de sub poblaciones linfoci tarias
+T15 ANAT 141 151 linfocitos
+T16 ANAT 181 193 linfocitos T
+T17 PROC 177 188 diagnóstico
+T18 DISO 562 595 inmunodeficiencia de tipo humoral
+T19 DISO 379 400 enfermedad de Bru ton
+T20 PROC 305 321 estudio genético
+T21 PROC 221 232 tratamiento
+T22 CHEM 106 111 gamma
+T23 CHEM 199 208 globulina
+T24 PROC 438 457 vacunación completa
+T25 CHEM 361 376 antineumocócica
+T26 PROC 676 703 tratamiento sustitutivo con
+T27 CHEM 131 136 gamma
+T28 CHEM 244 253 globulina
+T29 DISO 393 407 complicaciones
+T30 DISO 697 721 procesos intercur rentes

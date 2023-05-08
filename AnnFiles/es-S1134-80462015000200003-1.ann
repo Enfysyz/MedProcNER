@@ -1,0 +1,37 @@
+T1 DISO 1 10 diabético
+T2 DISO 11 21 hipertenso
+T3 DISO 49 73 enfermedad renal crónica
+T4 PROC 7 9 FG
+T5 PROC 145 181 artroplastia total de cadera derecha
+T6 DISO 16 19 cox
+T7 DISO 49 57 artrosis
+T8 PROC 85 97 hemodiálisis
+T9 PROC 97 109 intervención
+T10 PROC 262 291 anestesia ra quídea con aguja
+T11 CHEM 31 34 bup
+T12 CHEM 89 97 ivacaína
+T13 PROC 85 92 bloqueo
+T14 CHEM 118 127 fentanilo
+T15 PROC 169 181 intervención
+T16 PROC 136 145 perfusión
+T17 CHEM 145 154 metamizol
+T18 CHEM 290 307 suero fisiológico
+T19 CHEM 163 172 fentanilo
+T20 DISO 96 101 dolor
+T21 CHEM 541 568 fentanilo oral trans mucosa
+T22 PROC 85 89 alta
+T23 PROC 507 530 escala visual analógica
+T24 PROC 70 73 EVA
+T25 DISO 121 126 dolor
+T26 CHEM 351 365 fentanilo oral
+T27 PROC 313 325 intervención
+T28 DISO 136 141 dolor
+T29 CHEM 253 262 fentanilo
+T30 PROC 88 91 EVA
+T31 DISO 211 218 náuseas
+T32 CHEM 63 65 on
+T33 CHEM 161 166 danse
+T34 CHEM 133 137 trón
+T35 DISO 239 246 vómitos
+T36 DISO 246 253 prurito
+T37 DISO 505 519 estreá±imiento

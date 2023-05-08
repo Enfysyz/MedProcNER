@@ -1,0 +1,95 @@
+T1 PROC 1 16 prótesis mitral
+T2 PROC 3 5 an
+T3 PROC 45 67 uloplastia tricuspídea
+T4 DISO 67 89 valvulopatía reumática
+T5 DISO 117 146 fibrilación auricular crónica
+T6 DISO 6 7 F
+T7 DISO 13 15 AC
+T8 DISO 22 25 HTA
+T9 DISO 265 298 insuficiencia cardiaca congestiva
+T10 DISO 28 31 ICC
+T11 PROC 111 122 tratamiento
+T12 CHEM 133 145 acenocumarol
+T13 DISO 73 79 fiebre
+T14 DISO 144 155 escalofríos
+T15 DISO 85 91 disnea
+T16 DISO 121 129 ortopnea
+T17 DISO 225 239 edemas en MMII
+T18 PROC 324 343 exploración clínica
+T19 DISO 55 58 ICC
+T20 ANAT 58 61 ven
+T21 ANAT 261 274 as yug ulares
+T22 DISO 85 89 gurg
+T23 PROC 111 116 pulso
+T24 DISO 967 1009 crepitantes basales bilaterales pulmonares
+T25 DISO 313 326 hepatomegalia
+T26 PROC 451 469 reflejo hepato yug
+T27 ANAT 105 109 ular
+T28 DISO 784 813 edemas pre tibiales con fóvea
+T29 ANAT 113 117 MMII
+T30 PROC 262 271 analítica
+T31 PROC 331 342 hemoglobina
+T32 ANAT 311 321 leucocitos
+T33 ANAT 353 364 neutrófilos
+T34 PROC 661 681 radiografía de tórax
+T35 DISO 103 106 ICC
+T36 PROC 421 433 hemocultivos
+T37 PROC 397 408 tratamiento
+T38 CHEM 112 115 Pen
+T39 CHEM 609 625 icilina G sódica
+T40 PROC 742 761 perfusión contín ua
+T41 CHEM 41 42 G
+T42 CHEM 411 421 entamicina
+T43 PROC 463 474 tratamiento
+T44 PROC 302 309 ingreso
+T45 DISO 1277 1306 lesiones roj izas y dolorosas
+T46 ANAT 136 139 pul
+T47 ANAT 93 95 pe
+T48 ANAT 471 481 jos de los
+T49 ANAT 241 246 dedos
+T50 ANAT 246 251 manos
+T51 DISO 1201 1225 fenómenos vas cul íticos
+T52 PROC 562 573 diagnóstico
+T53 DISO 209 213 Endo
+T54 DISO 1061 1081 carditis Infec ciosa
+T55 DISO 109 111 EI
+T56 PROC 166 169 Eco
+T57 PROC 281 286 cardi
+T58 PROC 1255 1277 ografia Trans torácica
+T59 PROC 175 178 ETT
+T60 PROC 237 241 Tran
+T61 PROC 181 184 ses
+T62 PROC 306 311 ágica
+T63 PROC 63 64 E
+T64 PROC 127 129 TE
+T65 ANAT 385 391 mitral
+T66 DISO 196 199 veg
+T67 DISO 133 135 et
+T68 DISO 470 477 aciones
+T69 PROC 749 760 tratamiento
+T70 DISO 1174 1191 pérdida de fuerza
+T71 ANAT 701 711 hemicuerpo
+T72 PROC 782 793 TAC craneal
+T73 DISO 217 220 ima
+T74 ANAT 585 593 temporal
+T75 ANAT 297 301 etal
+T76 ANAT 676 685 occipital
+T77 ANAT 837 848 hemisferios
+T78 DISO 925 937 hemorrágicos
+T79 PROC 79 80 I
+T80 PROC 1186 1201 anticoagulación
+T81 PROC 1201 1216 anticoagulación
+T82 CHEM 1216 1231 heparina sódica
+T83 PROC 1887 1910 tratamiento antibiótico
+T84 CHEM 665 673 heparina
+T85 PROC 1009 1021 TAC cerebral
+T86 PROC 936 947 tratamiento
+T87 DISO 2151 2176 hematoma occi pi top etal
+T88 DISO 1045 1057 hemorrágicos
+T89 DISO 265 268 res
+T90 DISO 179 181 an
+T91 DISO 451 456 grado
+T92 PROC 1093 1105 dado de alta
+T93 CHEM 185 187 be
+T94 CHEM 187 189 mi
+T95 CHEM 565 571 parina

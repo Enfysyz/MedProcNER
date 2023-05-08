@@ -1,0 +1,99 @@
+T1 DISO 1 3 ex
+T2 DISO 2 3 -
+T3 DISO 15 22 fumador
+T4 PROC 52 69 ingresa en la UCI
+T5 DISO 77 96 estatus convuls ivo
+T6 DISO 46 55 irritable
+T7 DISO 133 155 pesadez adormecimiento
+T8 ANAT 57 65 miembros
+T9 DISO 49 55 crisis
+T10 CHEM 82 91 fenitoína
+T11 PROC 91 100 analítica
+T12 PROC 34 37 ECG
+T13 PROC 133 144 TC cerebral
+T14 DISO 326 351 atelectasia basal derecha
+T15 PROC 155 166 Rx de tórax
+T16 PROC 211 225 punción lumbar
+T17 ANAT 49 52 LCR
+T18 DISO 86 91 hiper
+T19 DISO 127 134 protein
+T20 DISO 77 81 orra
+T21 DISO 81 85 quia
+T22 CHEM 190 199 proteínas
+T23 PROC 67 70 EEG
+T24 DISO 208 217 actividad
+T25 DISO 553 576 lesión de hiper seá± al
+T26 ANAT 376 391 lóbulo temporal
+T27 PROC 365 379 administración
+T28 CHEM 703 729 contraste par ama gn ético
+T29 DISO 281 291 hemorragia
+T30 PROC 320 331 tratamiento
+T31 CHEM 271 280 fenitoína
+T32 CHEM 280 289 aciclovir
+T33 PROC 97 100 PCR
+T34 DISO 199 205 herpes
+T35 PROC 477 491 antibioterapia
+T36 DISO 71 73 ne
+T37 DISO 217 223 umonía
+T38 CHEM 75 77 Ta
+T39 CHEM 77 79 zo
+T40 CHEM 118 121 cel
+T41 CHEM 81 83 Te
+T42 CHEM 411 421 icoplanina
+T43 DISO 505 517 convulsiones
+T44 PROC 431 441 trasladado
+T45 PROC 309 316 ingreso
+T46 PROC 811 829 exploración física
+T47 DISO 185 189 disf
+T48 DISO 565 577 asia nominal
+T49 DISO 913 932 déficit de atención
+T50 DISO 540 551 hemiparesia
+T51 DISO 351 358 paresia
+T52 DISO 154 157 mor
+T53 DISO 105 107 ia
+T54 DISO 1273 1297 síndrome de Kor sa k off
+T55 PROC 595 606 tratamiento
+T56 CHEM 56 57 A
+T57 CHEM 449 457 ciclovir
+T58 PROC 172 175 PCR
+T59 DISO 175 178 VHS
+T60 PROC 827 841 antibioterapia
+T61 PROC 1141 1160 estudios analíticos
+T62 PROC 184 187 CEA
+T63 PROC 1303 1324 anticuerpos anti - Hu
+T64 PROC 883 897 anti tiro ides
+T65 PROC 2625 2666 serologías l áº es VIH virus neuro tropos
+T66 PROC 651 661 despistaje
+T67 DISO 1057 1073 neoplasia oculta
+T68 PROC 1341 1361 TAC toraco abdominal
+T69 DISO 749 760 atelectasia
+T70 DISO 139 141 ne
+T71 DISO 421 427 umonía
+T72 PROC 498 505 broncos
+T73 PROC 361 366 copio
+T74 PROC 1607 1629 lavado bronco alveolar
+T75 PROC 2369 2401 endoscopia digestiva alta y baja
+T76 PROC 1426 1445 tránsito intestinal
+T77 PROC 1521 1541 valoración urológica
+T78 PROC 232 235 gam
+T79 PROC 157 159 mo
+T80 PROC 870 881 grafía ósea
+T81 PROC 1761 1783 biopsia de médula ósea
+T82 PROC 892 903 diagnóstico
+T83 DISO 165 167 EL
+T84 DISO 84 85 P
+T85 PROC 2605 2636 estudio de TEP de cuerpo entero
+T86 DISO 681 689 hipercap
+T87 CHEM 431 436 fluor
+T88 CHEM 436 441 ogluc
+T89 CHEM 265 268 osa
+T90 ANAT 268 271 far
+T91 ANAT 271 274 ing
+T92 ANAT 365 369 olar
+T93 ANAT 461 466 íngeo
+T94 DISO 1024 1035 adenopatías
+T95 DISO 283 286 TEP
+T96 PROC 1331 1345 TAC del cuello
+T97 PROC 2689 2717 estudio anatomo - patológico
+T98 DISO 583 589 lesión
+T99 DISO 4019 4060 carcinoma epidermoide del seno piri forme

@@ -1,0 +1,55 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 8 15 querato
+T3 DISO 31 46 patía lipo idea
+T4 DISO 109 145 pérdida progresiva de agudeza visual
+T5 PROC 9 11 AV
+T6 PROC 126 151 exploración oftalmológica
+T7 PROC 13 15 AV
+T8 ANAT 22 25 ojo
+T9 ANAT 25 28 ojo
+T10 PROC 37 41 biom
+T11 PROC 21 23 ic
+T12 PROC 34 37 ros
+T13 PROC 61 66 copía
+T14 DISO 209 225 opacidad corneal
+T15 ANAT 99 106 estroma
+T16 ANAT 91 97 córnea
+T17 DISO 49 52 neo
+T18 DISO 256 271 vascularización
+T19 ANAT 109 115 córnea
+T20 PROC 495 521 niveles séricos de lípidos
+T21 PROC 521 547 intervino quiráºrgicamente
+T22 PROC 148 155 querato
+T23 PROC 397 415 plastia penetrante
+T24 PROC 852 889 extracción extra capsular de catarata
+T25 PROC 697 726 implante de lente intraocular
+T26 PROC 651 677 tratamiento postoperatorio
+T27 CHEM 261 271 esteroides
+T28 CHEM 325 337 antibióticos
+T29 CHEM 57 59 To
+T30 CHEM 88 91 bra
+T31 CHEM 91 94 dex
+T32 CHEM 373 385 ciclosporina
+T33 CHEM 321 331 prednisona
+T34 PROC 166 171 pauta
+T35 PROC 137 141 biom
+T36 PROC 71 73 ic
+T37 PROC 109 112 ros
+T38 PROC 186 191 copía
+T39 DISO 115 118 neo
+T40 DISO 898 921 vascularización corneal
+T41 ANAT 201 206 lecho
+T42 ANAT 288 295 injerto
+T43 ANAT 85 87 hu
+T44 ANAT 216 221 ésped
+T45 DISO 881 901 opacidad blanquecina
+T46 ANAT 226 231 vasos
+T47 PROC 1105 1129 consentimiento informado
+T48 PROC 847 865 tratamiento tópico
+T49 CHEM 529 540 bevacizumab
+T50 PROC 246 251 pauta
+T51 CHEM 551 562 bevacizumab
+T52 DISO 154 157 neo
+T53 DISO 1197 1220 vascularización corneal
+T54 PROC 372 379 injerto
+T55 PROC 109 111 AV

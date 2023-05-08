@@ -1,0 +1,28 @@
+T1 PROC 1 8 ingreso
+T2 PROC 17 33 cirugía vascular
+T3 PROC 57 85 reemplazo aorto - bi il íaco
+T4 DISO 121 161 aneurisma aórtico abdominal infrar renal
+T5 PROC 29 36 ingreso
+T6 DISO 21 25 proc
+T7 DISO 19 22 tor
+T8 DISO 36 41 ragia
+T9 DISO 225 253 descompensación hemodinámica
+T10 PROC 361 401 ingreso en el Servicio Terapia Intensiva
+T11 DISO 431 474 dolor cólico peri umbilical e hipo gástrico
+T12 PROC 122 133 hematocrito
+T13 DISO 205 222 sangrado erci ble
+T14 PROC 378 407 cirugía abdominal de urgencia
+T15 DISO 29 31 FA
+T16 DISO 16 17 E
+T17 PROC 305 324 ecografía abdominal
+T18 ANAT 307 325 cicatriz umbilical
+T19 ANAT 145 153 vascular
+T20 PROC 457 481 laparotomía explor adora
+T21 DISO 481 505 hematoma retroperitoneal
+T22 PROC 43 45 FA
+T23 PROC 23 24 E
+T24 ANAT 139 145 yeyuno
+T25 ANAT 385 401 colon sigmo ideo
+T26 DISO 626 651 paro cardiorres piratorio
+T27 DISO 27 28 ó
+T28 DISO 109 113 bito

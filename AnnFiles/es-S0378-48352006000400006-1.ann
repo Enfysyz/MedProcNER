@@ -1,0 +1,86 @@
+T1 DISO 1 3 ex
+T2 DISO 9 17 fumadora
+T3 PROC 27 40 diagnosticada
+T4 DISO 37 49 hipertensión
+T5 DISO 25 31 polimi
+T6 DISO 76 91 algia reumática
+T7 DISO 145 169 arteritis de la temporal
+T8 PROC 50 57 estudio
+T9 DISO 17 19 me
+T10 DISO 19 21 tr
+T11 DISO 21 23 or
+T12 DISO 67 73 ragias
+T13 DISO 229 248 tumor de endometrio
+T14 PROC 170 183 histerectomía
+T15 PROC 141 151 doble anex
+T16 PROC 106 113 ectomía
+T17 PROC 401 426 estudio anatomopatológico
+T18 DISO 239 253 adenocarcinoma
+T19 DISO 217 229 infiltración
+T20 ANAT 343 361 tercio interno del
+T21 ANAT 41 43 mi
+T22 ANAT 64 67 ome
+T23 ANAT 89 93 trio
+T24 DISO 277 289 infiltración
+T25 ANAT 121 126 vasos
+T26 PROC 501 521 estudio de extensión
+T27 PROC 313 325 radioterapia
+T28 CHEM 55 57 co
+T29 CHEM 85 88 bal
+T30 CHEM 59 61 to
+T31 CHEM 31 32 -
+T32 CHEM 63 65 60
+T33 ANAT 193 199 pelvis
+T34 PROC 430 443 braquiterapia
+T35 ANAT 511 526 cáºpula vaginal
+T36 PROC 351 361 revisiones
+T37 DISO 505 519 tos irritativa
+T38 DISO 1148 1179 expectoración leve hemo pto ica
+T39 PROC 685 703 RX simple de tórax
+T40 DISO 157 161 masa
+T41 ANAT 601 616 lóbulo superior
+T42 DISO 944 967 neoplasia bronco génica
+T43 PROC 1513 1549 TAC tó ra co - ab dom ino - pélv ico
+T44 DISO 646 661 masa necró tica
+T45 ANAT 133 136 LSI
+T46 DISO 496 507 atelectasia
+T47 ANAT 277 283 lóbulo
+T48 PROC 565 577 broncoscopia
+T49 DISO 241 246 tumor
+T50 ANAT 393 401 segmento
+T51 ANAT 301 307 lóbulo
+T52 PROC 154 157 BAS
+T53 PROC 885 902 Biopsia bronquial
+T54 DISO 1114 1135 carcinoma epidermoide
+T55 PROC 595 606 diagnóstico
+T56 DISO 1816 1849 Carcinoma Epi der moide de Pulmón
+T57 PROC 1457 1483 quimioterapia neoadyuvante
+T58 CHEM 286 291 Carbo
+T59 CHEM 407 414 platino
+T60 CHEM 178 181 Pac
+T61 CHEM 421 428 litaxel
+T62 PROC 672 683 tratamiento
+T63 PROC 1303 1324 estudios radiológicos
+T64 PROC 190 193 lob
+T65 PROC 1665 1691 ectomía superior izquierda
+T66 PROC 976 991 linfadenectomía
+T67 ANAT 1123 1140 pieza quiráºrgica
+T68 DISO 671 681 tumoración
+T69 DISO 953 967 adenocarcinoma
+T70 ANAT 484 491 escamos
+T71 DISO 71 72 a
+T72 CHEM 711 721 estrógenos
+T73 CHEM 865 877 progesterona
+T74 CHEM 147 149 TT
+T75 CHEM 75 76 F
+T76 CHEM 76 77 -
+T77 CHEM 77 78 1
+T78 CHEM 155 157 CK
+T79 CHEM 157 159 20
+T80 DISO 1818 1841 tumor primario pulmonar
+T81 DISO 1281 1297 recaída pulmonar
+T82 DISO 1378 1395 tumor endometrial
+T83 PROC 903 914 tratamiento
+T84 CHEM 1827 1849 acetato de me ges trol
+T85 DISO 841 851 enfermedad
+T86 PROC 936 947 seguimiento

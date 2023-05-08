@@ -1,0 +1,83 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 4 7 LES
+T3 DISO 51 76 síndrome antifosfol ípido
+T4 PROC 31 41 controlada
+T5 PROC 73 91 consultas externas
+T6 PROC 56 67 tratamiento
+T7 CHEM 61 71 prednisona
+T8 CHEM 22 25 AAS
+T9 CHEM 49 55 calcio
+T10 CHEM 91 101 vitamina D
+T11 CHEM 91 100 omeprazol
+T12 DISO 67 73 fiebre
+T13 DISO 169 183 sintomatología
+T14 PROC 235 253 exploración física
+T15 DISO 85 91 hepato
+T16 DISO 91 97 esplen
+T17 DISO 129 137 omegalia
+T18 DISO 188 199 adenopatías
+T19 PROC 523 552 exploraciones complementarias
+T20 PROC 229 241 hemocultivos
+T21 PROC 41 43 ur
+T22 PROC 64 67 ino
+T23 PROC 155 162 cultivo
+T24 PROC 116 121 manto
+T25 PROC 49 51 ux
+T26 PROC 76 79 Eco
+T27 PROC 27 28 -
+T28 PROC 55 57 Do
+T29 PROC 113 117 pler
+T30 PROC 581 601 radiografía de tórax
+T31 PROC 661 683 TAC toraco - abdominal
+T32 DISO 187 193 hepato
+T33 DISO 193 199 esplen
+T34 DISO 265 273 omegalia
+T35 DISO 545 561 lesiones focales
+T36 PROC 316 325 analítica
+T37 PROC 73 75 Hb
+T38 DISO 371 381 leucocitos
+T39 ANAT 419 430 neutrófilos
+T40 ANAT 391 401 linfocitos
+T41 PROC 361 370 plaquetas
+T42 PROC 124 127 ANA
+T43 PROC 169 173 anti
+T44 PROC 130 133 DNA
+T45 PROC 749 766 factor reumatoide
+T46 PROC 136 139 PCR
+T47 PROC 47 48 C
+T48 PROC 518 529 3 122 / C 4
+T49 PROC 337 344 protein
+T50 PROC 295 301 ograma
+T51 PROC 251 256 gamma
+T52 PROC 460 469 globulina
+T53 PROC 521 531 serologías
+T54 DISO 160 163 LES
+T55 PROC 1945 1981 transfusión concentrados de hematíes
+T56 PROC 606 617 inyecciones
+T57 CHEM 57 58 C
+T58 CHEM 115 117 SF
+T59 PROC 291 296 bolos
+T60 CHEM 1004 1021 metilprednisolona
+T61 CHEM 181 184 ami
+T62 CHEM 123 125 ka
+T63 CHEM 249 253 zina
+T64 CHEM 190 193 cef
+T65 CHEM 513 521 tazidima
+T66 PROC 1301 1321 tratamiento empírico
+T67 DISO 727 738 neutropenia
+T68 PROC 738 749 tratamiento
+T69 DISO 409 415 fiebre
+T70 PROC 622 631 analítica
+T71 PROC 141 143 Hb
+T72 ANAT 711 721 leucocitos
+T73 ANAT 793 804 neutrófilos
+T74 ANAT 731 741 linfocitos
+T75 PROC 667 676 plaquetas
+T76 PROC 1201 1217 punción esternal
+T77 PROC 837 848 tratamiento
+T78 CHEM 1926 1951 anfotericina B lipos omal
+T79 PROC 1561 1581 Analítica de control
+T80 PROC 870 881 tratamiento
+T81 PROC 161 163 Hb
+T82 DISO 811 821 leucocitos
+T83 PROC 739 748 plaquetas

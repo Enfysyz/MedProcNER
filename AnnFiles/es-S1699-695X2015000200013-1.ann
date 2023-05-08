@@ -1,0 +1,75 @@
+T1 DISO 1 21 síndrome de Asperger
+T2 DISO 50 99 trastorno de déficit de atención e hiperactividad
+T3 DISO 29 43 hipotiroidismo
+T4 PROC 34 45 tratamiento
+T5 CHEM 53 66 metilfenidato
+T6 CHEM 56 67 risperidona
+T7 CHEM 73 85 levotiroxina
+T8 PROC 57 65 consulta
+T9 DISO 49 55 lesión
+T10 ANAT 217 241 miembro inferior derecho
+T11 DISO 121 133 asintomática
+T12 DISO 78 85 clínica
+T13 DISO 61 66 dolor
+T14 DISO 92 99 prurito
+T15 PROC 155 166 tratamiento
+T16 PROC 166 177 exploración
+T17 DISO 81 86 placa
+T18 DISO 154 163 ind urada
+T19 ANAT 217 229 tercio medio
+T20 ANAT 229 241 zona externa
+T21 ANAT 101 106 muslo
+T22 DISO 358 375 lesiones cutáneas
+T23 DISO 375 392 clínica sistémica
+T24 PROC 208 217 analítica
+T25 PROC 217 226 hemograma
+T26 PROC 251 261 bioquímica
+T27 PROC 677 703 anticuerpos antin ucleares
+T28 PROC 82 85 ANA
+T29 PROC 281 291 serologías
+T30 PROC 436 451 examen de orina
+T31 PROC 211 218 biopsia
+T32 DISO 187 193 lesión
+T33 PROC 97 100 ANA
+T34 PROC 133 137 anti
+T35 PROC 35 36 -
+T36 PROC 71 73 Sm
+T37 PROC 145 149 anti
+T38 PROC 38 39 -
+T39 PROC 39 40 R
+T40 PROC 79 81 NP
+T41 PROC 161 165 anti
+T42 PROC 42 43 -
+T43 PROC 43 44 S
+T44 PROC 87 89 SA
+T45 PROC 177 181 anti
+T46 PROC 46 47 -
+T47 PROC 93 95 SS
+T48 PROC 48 49 B
+T49 PROC 193 197 anti
+T50 PROC 50 51 -
+T51 CHEM 101 103 Jo
+T52 PROC 205 209 anti
+T53 PROC 53 54 -
+T54 PROC 54 55 S
+T55 PROC 109 111 cl
+T56 PROC 111 113 70
+T57 PROC 2241 2281 serología para Borre lia bur g dor fer i
+T58 PROC 970 987 análisis de orina
+T59 PROC 291 296 histo
+T60 PROC 532 541 patología
+T61 PROC 661 672 diagnóstico
+T62 DISO 245 249 morf
+T63 DISO 125 127 ea
+T64 DISO 253 257 morf
+T65 DISO 577 586 ea lineal
+T66 DISO 1301 1321 afectación articular
+T67 DISO 1255 1274 deformidad estética
+T68 PROC 2078 2109 tratamiento cortico ideo tópico
+T69 CHEM 341 346 propi
+T70 CHEM 1450 1471 onato de flu ticasona
+T71 CHEM 351 356 calci
+T72 CHEM 143 145 po
+T73 CHEM 361 366 triol
+T74 PROC 804 815 seguimiento
+T75 DISO 593 601 lesiones

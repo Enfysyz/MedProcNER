@@ -1,0 +1,29 @@
+T1 DISO 1 3 ex
+T2 DISO 2 3 -
+T3 DISO 9 13 adic
+T4 DISO 91 121 to a drogas por vía parenteral
+T5 PROC 53 66 diagnosticado
+T6 DISO 146 175 hepatitis crónica por virus C
+T7 PROC 67 78 carga viral
+T8 PROC 78 89 tratamiento
+T9 CHEM 209 235 IFN pe gil ado alpha - 2 b
+T10 CHEM 91 101 ribavirina
+T11 PROC 111 122 tratamiento
+T12 DISO 155 169 visión borrosa
+T13 DISO 37 40 man
+T14 DISO 339 365 chas Â» en el campo visual
+T15 PROC 351 376 exploración oftalmológica
+T16 PROC 31 33 AV
+T17 ANAT 65 69 ojos
+T18 DISO 375 397 exudados algo don osos
+T19 ANAT 253 267 polo posterior
+T20 PROC 210 221 diagnosticó
+T21 DISO 221 232 retinopatía
+T22 CHEM 64 67 IFN
+T23 PROC 529 553 suspendió el tratamiento
+T24 PROC 208 217 controles
+T25 PROC 49 51 AV
+T26 ANAT 101 105 ojos
+T27 PROC 53 55 FO
+T28 DISO 541 561 exudado algo don oso
+T29 ANAT 141 146 fóvea

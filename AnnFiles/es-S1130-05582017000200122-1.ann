@@ -1,0 +1,80 @@
+T1 DISO 1 6 hiper
+T2 DISO 2 3 é
+T3 DISO 35 52 mesis gra ví dica
+T4 DISO 22 29 vómitos
+T5 DISO 145 181 tumefacción supra orbi taria derecha
+T6 DISO 21 25 prop
+T7 DISO 73 85 tosis ocular
+T8 DISO 148 169 alteraciones visuales
+T9 ANAT 25 28 ojo
+T10 CHEM 91 101 medicación
+T11 DISO 111 122 traumatismo
+T12 PROC 276 301 exploración oftalmológica
+T13 DISO 25 27 ex
+T14 DISO 27 29 of
+T15 DISO 43 46 tal
+T16 DISO 46 49 mos
+T17 DISO 81 86 hipof
+T18 DISO 52 55 tal
+T19 DISO 55 58 mos
+T20 ANAT 58 61 ojo
+T21 ANAT 141 148 pupilar
+T22 DISO 169 177 diplopia
+T23 DISO 67 70 mio
+T24 DISO 93 97 deso
+T25 DISO 121 126 psias
+T26 DISO 1076 1119 edema palpebral superior doloroso palpación
+T27 PROC 729 757 exploración del fondo de ojo
+T28 PROC 514 533 presión intraocular
+T29 DISO 141 146 edema
+T30 DISO 581 601 anomalías vasculares
+T31 ANAT 301 311 conjuntiva
+T32 PROC 869 897 resonancia magnética nuclear
+T33 PROC 481 496 RMN ) orbitaria
+T34 PROC 364 375 diagnóstico
+T35 DISO 1259 1296 hematoma intra orbi tario extrac onal
+T36 PROC 631 649 análisis sanguíneo
+T37 PROC 325 334 hemograma
+T38 PROC 371 381 bioquímica
+T39 PROC 419 430 coagulación
+T40 PROC 1054 1081 intervenir quiráºrgicamente
+T41 PROC 281 288 evacuar
+T42 DISO 329 337 hematoma
+T43 PROC 253 259 descom
+T44 PROC 130 133 pri
+T45 PROC 133 136 mir
+T46 ANAT 271 277 órbita
+T47 PROC 783 800 anestesia general
+T48 PROC 1082 1105 blefaroplastia superior
+T49 ANAT 1345 1373 máºsculo or b icular del ojo
+T50 ANAT 295 301 perios
+T51 ANAT 151 154 tio
+T52 ANAT 2143 2185 reborde óseo sáº pero - ex terno orbitario
+T53 ANAT 313 319 perios
+T54 ANAT 160 163 tio
+T55 ANAT 757 771 cara orbitaria
+T56 ANAT 716 729 hueso frontal
+T57 DISO 337 343 sangre
+T58 DISO 1141 1161 hematoma extrac onal
+T59 PROC 581 591 evacuación
+T60 DISO 473 481 hematoma
+T61 DISO 1081 1099 puntos san grantes
+T62 ANAT 245 249 vaso
+T63 ANAT 373 379 región
+T64 PROC 757 769 drenaje fino
+T65 PROC 705 716 tratamiento
+T66 DISO 326 331 hiper
+T67 DISO 67 68 é
+T68 DISO 1140 1157 mesis gra ví dica
+T69 CHEM 205 208 pir
+T70 CHEM 208 211 ido
+T71 CHEM 281 285 xina
+T72 CHEM 143 145 ti
+T73 CHEM 361 366 amina
+T74 CHEM 1023 1037 metoclopramida
+T75 PROC 519 526 cirugía
+T76 DISO 676 685 midriasis
+T77 DISO 1597 1618 alteraciones visuales
+T78 PROC 540 547 drenaje
+T79 PROC 547 554 cirugía
+T80 DISO 633 641 secuelas

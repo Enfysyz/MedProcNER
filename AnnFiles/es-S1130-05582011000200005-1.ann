@@ -1,0 +1,56 @@
+T1 DISO 1 5 para
+T2 DISO 4 7 gan
+T3 DISO 7 10 gli
+T4 DISO 70 93 oma de cuerpo carotídeo
+T5 PROC 21 26 trató
+T6 PROC 106 127 resección quiráºrgica
+T7 DISO 37 43 lesión
+T8 DISO 190 217 aumento de volumen cervical
+T9 ANAT 57 64 esterno
+T10 ANAT 28 31 cle
+T11 ANAT 21 23 id
+T12 ANAT 45 49 omas
+T13 ANAT 25 27 to
+T14 ANAT 53 57 ideo
+T15 DISO 141 151 odinofagia
+T16 DISO 121 129 disfonía
+T17 PROC 385 409 tomografía computarizada
+T18 CHEM 86 91 medio
+T19 ANAT 361 381 bifurcación carótida
+T20 DISO 381 401 afectación vía aérea
+T21 PROC 221 232 angiografía
+T22 DISO 127 133 lesión
+T23 CHEM 199 208 contraste
+T24 ANAT 484 505 bifurcación carotídea
+T25 PROC 145 151 imagen
+T26 PROC 276 287 diagnóstico
+T27 DISO 105 109 para
+T28 DISO 82 85 gan
+T29 DISO 85 88 gli
+T30 DISO 668 691 oma de cuerpo carotídeo
+T31 DISO 181 187 lesión
+T32 PROC 683 705 embolización selectiva
+T33 CHEM 193 199 espuma
+T34 CHEM 100 103 pol
+T35 CHEM 103 106 ido
+T36 CHEM 106 109 can
+T37 CHEM 73 75 ol
+T38 PROC 630 647 anestesia general
+T39 PROC 837 859 intubación orotraqueal
+T40 PROC 820 841 resección quiráºrgica
+T41 DISO 241 247 lesión
+T42 ANAT 1477 1513 máºsculo esterno cle id omas to ideo
+T43 PROC 841 861 disección por planos
+T44 DISO 259 265 lesión
+T45 PROC 265 271 reseca
+T46 PROC 1171 1197 disección sub ad ven ticia
+T47 ANAT 1335 1364 ramos carotí deos colaterales
+T48 ANAT 847 865 arterias carótidas
+T49 ANAT 193 197 espé
+T50 PROC 1128 1151 estudio histopatológico
+T51 ANAT 751 766 células ov ales
+T52 ANAT 817 833 estroma vascular
+T53 DISO 209 213 para
+T54 DISO 160 163 gan
+T55 DISO 163 166 gli
+T56 DISO 1266 1289 oma de cuerpo carotídeo

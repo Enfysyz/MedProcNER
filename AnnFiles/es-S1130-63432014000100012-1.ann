@@ -1,0 +1,76 @@
+T1 DISO 1 9 tos seca
+T2 DISO 23 45 molestias precordiales
+T3 DISO 35 52 diarreas acu osas
+T4 DISO 19 25 fiebre
+T5 PROC 45 56 exploración
+T6 DISO 116 139 crepitantes bilaterales
+T7 DISO 157 183 insuficiencia respiratoria
+T8 PROC 15 17 sa
+T9 PROC 153 172 turación de oxígeno
+T10 PROC 181 201 radiografía de tórax
+T11 DISO 261 287 infiltrados intersticiales
+T12 DISO 221 241 neumotórax bilateral
+T13 DISO 49 53 neum
+T14 DISO 92 99 omedias
+T15 DISO 57 61 tino
+T16 PROC 136 145 analítica
+T17 DISO 193 205 leucocitosis
+T18 PROC 52 55 PCR
+T19 PROC 55 58 LDH
+T20 PROC 457 481 estudios microbiológicos
+T21 PROC 241 253 hemocultivos
+T22 PROC 43 45 ur
+T23 PROC 67 70 ino
+T24 PROC 162 169 cultivo
+T25 PROC 169 176 antigen
+T26 PROC 751 781 uria para Legionella neumococo
+T27 PROC 391 406 frotis faríngeo
+T28 PROC 244 253 detección
+T29 PROC 477 494 muestra sanguínea
+T30 PROC 262 271 detección
+T31 DISO 511 528 infección por VIH
+T32 PROC 683 705 anticuerpos anti - VIH
+T33 PROC 65 67 Ag
+T34 DISO 859 885 neumonía extrahospitalaria
+T35 PROC 1259 1296 tratamiento intravenoso iv ) empírico
+T36 CHEM 386 397 ceftriaxona
+T37 CHEM 469 482 levofloxacino
+T38 PROC 519 533 oxigenoterapia
+T39 PROC 647 664 ingresó en la UCI
+T40 DISO 859 881 deterioro respiratorio
+T41 PROC 881 903 intubación orotraqueal
+T42 PROC 821 841 ventilación mecánica
+T43 CHEM 463 474 antibiótico
+T44 CHEM 388 397 meropenem
+T45 CHEM 397 406 linezolid
+T46 CHEM 1126 1151 anfotericina B lipos omal
+T47 DISO 231 236 histo
+T48 DISO 424 433 plasmosis
+T49 CHEM 433 442 aciclovir
+T50 DISO 834 851 cuadro diarre ico
+T51 DISO 451 460 deterioro
+T52 CHEM 562 573 doxiciclina
+T53 CHEM 885 902 metilprednisolona
+T54 DISO 1114 1135 neumonía organizativa
+T55 DISO 541 551 vasculitis
+T56 DISO 1211 1233 deterioro hemodinámico
+T57 DISO 113 115 IR
+T58 DISO 742 755 shock séptico
+T59 DISO 291 296 nefro
+T60 DISO 532 541 toxicidad
+T61 PROC 121 123 CL
+T62 PROC 672 683 cr en orina
+T63 PROC 435 442 ingreso
+T64 PROC 2017 2049 fórmula de C ock cro ft - Ga ult
+T65 PROC 1089 1106 creatinina sérica
+T66 PROC 1171 1189 estudio etiológico
+T67 PROC 2113 2145 determinación de autoanticuerpos
+T68 DISO 2212 2245 síndrome reno pulmonar autoinmune
+T69 PROC 3333 3382 anticuerpos anti - cito plasma de los neutrófilos
+T70 PROC 277 281 anti
+T71 CHEM 561 569 membrana
+T72 PROC 3977 4033 determinación del antígeno de galac tom an ano en sangre
+T73 PROC 1585 1607 lavado bronco alveolar
+T74 PROC 74 75 L
+T75 PROC 149 151 BA
+T76 PROC 2476 2509 cultivos bacterianos y fáºn gicos

@@ -1,0 +1,72 @@
+T1 DISO 1 9 alérgica
+T2 CHEM 18 35 contraste yo dado
+T3 DISO 17 25 fumadora
+T4 PROC 10 13 his
+T5 PROC 13 16 ter
+T6 PROC 26 31 ectom
+T7 PROC 31 36 izada
+T8 PROC 8 9 o
+T9 PROC 9 10 o
+T10 PROC 28 31 fer
+T11 PROC 51 56 ectom
+T12 PROC 144 157 izada derecha
+T13 DISO 157 170 endometriosis
+T14 PROC 92 99 estudio
+T15 DISO 169 181 leucocitosis
+T16 PROC 286 305 ecografía abdominal
+T17 ANAT 97 103 riá±ón
+T18 DISO 307 325 imágenes quísticas
+T19 DISO 235 248 hidronefrosis
+T20 PROC 267 281 interrogatorio
+T21 PROC 141 148 ingreso
+T22 DISO 253 265 dolor lumbar
+T23 DISO 199 208 hematuria
+T24 PROC 254 265 diagnóstico
+T25 DISO 385 401 dolores lumbares
+T26 DISO 176 183 astenia
+T27 PROC 53 55 Ex
+T28 PROC 55 57 pl
+T29 PROC 393 407 oración física
+T30 PROC 610 631 uebas complementarias
+T31 PROC 271 280 hemograma
+T32 DISO 373 385 leucocitosis
+T33 PROC 673 694 fórmula leucoci taria
+T34 PROC 331 341 bioquímica
+T35 PROC 375 386 coagulación
+T36 PROC 36 37 R
+T37 PROC 73 75 en
+T38 PROC 1000 1027 ograma MA G - 3 - Tc - 99 m
+T39 ANAT 533 547 riá±ón derecho
+T40 DISO 235 241 tación
+T41 ANAT 641 657 riá±ón izquierdo
+T42 DISO 903 925 dilatación cal ici lar
+T43 ANAT 547 560 polo superior
+T44 PROC 44 45 Ċ
+T45 PROC 705 721 TC sin contraste
+T46 DISO 856 875 masa quística renal
+T47 ANAT 369 377 páncreas
+T48 ANAT 189 193 bazo
+T49 DISO 337 344 quistes
+T50 DISO 246 251 nefro
+T51 DISO 1301 1327 ma quístico mul tino dular
+T52 DISO 1888 1925 carcinoma de células renales quístico
+T53 PROC 573 584 nefrectomía
+T54 PROC 1326 1351 linfadenectomía izquierda
+T55 PROC 1351 1376 estudio anatomopatológico
+T56 ANAT 276 281 pieza
+T57 ANAT 337 343 riá±ón
+T58 DISO 571 581 tumoración
+T59 ANAT 349 355 riá±ón
+T60 DISO 355 361 quiste
+T61 DISO 301 306 tumor
+T62 ANAT 428 435 cápsula
+T63 ANAT 559 568 cavidades
+T64 ANAT 946 961 epitelio simple
+T65 ANAT 449 456 células
+T66 ANAT 1366 1387 estroma inter celular
+T67 ANAT 463 470 fibroso
+T68 DISO 403 409 Lesión
+T69 ANAT 1089 1105 parénquima renal
+T70 PROC 2002 2031 Diagnóstico anatomopatológico
+T71 DISO 2591 2628 tumor quístico multi lo cular benigno
+T72 ANAT 427 433 riá±ón

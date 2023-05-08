@@ -1,0 +1,81 @@
+T1 DISO 1 11 faringitis
+T2 DISO 7 13 fiebre
+T3 DISO 21 31 artralgias
+T4 PROC 22 29 ingreso
+T5 PROC 29 36 ingresa
+T6 DISO 11 13 ob
+T7 DISO 13 15 nu
+T8 DISO 22 25 bil
+T9 DISO 25 28 ado
+T10 DISO 244 271 rash pete quial pun tiforme
+T11 ANAT 161 177 raíz de miembros
+T12 DISO 276 301 mala perfusión periférica
+T13 DISO 133 144 hipotensión
+T14 DISO 144 155 taquicardia
+T15 DISO 281 301 trabajo respiratorio
+T16 DISO 181 193 desaturación
+T17 DISO 81 86 oligo
+T18 DISO 35 37 an
+T19 DISO 73 77 uria
+T20 PROC 552 581 exploraciones complementarias
+T21 DISO 201 211 leucopenia
+T22 DISO 274 287 plaquetopenia
+T23 PROC 419 438 proteína C reactiva
+T24 PROC 47 49 Na
+T25 PROC 25 26 +
+T26 PROC 251 261 creatinina
+T27 DISO 53 55 an
+T28 DISO 109 113 uria
+T29 DISO 337 349 coagulopatía
+T30 PROC 1219 1261 tiempo de trombo plastina parcial activado
+T31 PROC 631 652 tiempo de protrombina
+T32 PROC 497 513 índice de Qu ick
+T33 PROC 353 364 fibrinógeno
+T34 PROC 1057 1089 actividad de anti trombina - III
+T35 DISO 647 666 disfunción hepática
+T36 PROC 71 73 as
+T37 PROC 181 186 parta
+T38 PROC 704 723 to aminotransferasa
+T39 PROC 77 79 al
+T40 PROC 79 81 an
+T41 PROC 801 821 ino aminotransferasa
+T42 PROC 698 715 bilirrubina total
+T43 PROC 799 818 bilirrubina directa
+T44 DISO 818 837 acidosis metabólica
+T45 PROC 89 91 pH
+T46 PROC 136 139 HCO
+T47 PROC 47 48 3
+T48 PROC 48 49 -
+T49 PROC 97 99 EB
+T50 PROC 344 351 lactato
+T51 PROC 1001 1021 radiografía de tórax
+T52 DISO 2245 2289 afectación alveolo - intersti cial bilateral
+T53 PROC 469 478 expansión
+T54 PROC 743 757 administración
+T55 CHEM 973 991 bicarbonato sódico
+T56 CHEM 661 673 antibióticos
+T57 CHEM 113 115 ce
+T58 CHEM 457 465 fotaxima
+T59 CHEM 697 709 teicoplanina
+T60 PROC 532 541 perfusión
+T61 CHEM 781 794 catecolaminas
+T62 CHEM 184 187 dop
+T63 CHEM 311 316 amina
+T64 CHEM 820 833 noradrenalina
+T65 PROC 641 651 intubación
+T66 PROC 1301 1321 ventilación mecánica
+T67 PROC 1519 1542 asistencia respiratoria
+T68 PROC 269 273 hemo
+T69 PROC 2245 2278 filtración veno - venosa continua
+T70 DISO 1312 1331 insuficiencia renal
+T71 DISO 1541 1563 sobrecarga de vol emia
+T72 DISO 1492 1513 fracaso multiorgánico
+T73 DISO 73 74 F
+T74 DISO 147 149 MO
+T75 DISO 667 676 asistolia
+T76 DISO 1951 1977 parada cardiorrespiratoria
+T77 PROC 229 232 éxi
+T78 PROC 232 235 tus
+T79 PROC 547 554 ingreso
+T80 PROC 870 881 hemocultivo
+T81 PROC 1441 1459 aspirado bronquial

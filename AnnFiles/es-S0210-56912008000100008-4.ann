@@ -1,0 +1,33 @@
+T1 PROC 1 14 ingresa en el
+T2 DISO 17 33 dolor precordial
+T3 PROC 7 10 ECG
+T4 PROC 31 41 Diagnostic
+T5 PROC 13 16 ado
+T6 DISO 106 127 IAM infer o posterior
+T7 PROC 151 176 tratamiento tromb olítico
+T8 CHEM 15 17 re
+T9 CHEM 17 19 te
+T10 CHEM 37 41 plas
+T11 CHEM 11 12 a
+T12 PROC 34 37 ECG
+T13 DISO 169 183 BRD incompleto
+T14 PROC 144 155 diagnóstico
+T15 DISO 43 46 IAM
+T16 PROC 106 113 ingreso
+T17 PROC 49 52 ECG
+T18 PROC 52 55 ECG
+T19 DISO 37 39 SR
+T20 DISO 20 21 P
+T21 PROC 141 148 creatin
+T22 PROC 148 155 quinasa
+T23 PROC 243 254 fracción MB
+T24 PROC 323 337 ecocardiograma
+T25 DISO 25 26 a
+T26 DISO 176 183 cinesia
+T27 PROC 599 622 arteriografía coronaria
+T28 DISO 244 253 estenosis
+T29 ANAT 701 726 arteria coronaria derecha
+T30 ANAT 581 601 arteria circun fleja
+T31 PROC 661 683 colocación de un stent
+T32 ANAT 776 801 arteria coronaria derecha
+T33 DISO 385 397 asintomático

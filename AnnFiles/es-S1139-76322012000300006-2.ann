@@ -1,0 +1,44 @@
+T1 PROC 1 9 consulta
+T2 DISO 16 31 edema palpebral
+T3 PROC 19 28 anamnesis
+T4 DISO 22 29 cefalea
+T5 DISO 41 51 odinofagia
+T6 DISO 31 37 fiebre
+T7 PROC 109 127 exploración física
+T8 DISO 106 121 edema palpebral
+T9 DISO 137 154 afectación ocular
+T10 DISO 55 61 edemas
+T11 DISO 211 232 hipertrofia amigdalar
+T12 DISO 89 97 exudados
+T13 PROC 109 118 consultar
+T14 DISO 196 211 edema palpebral
+T15 DISO 197 211 sintomatología
+T16 PROC 331 353 tira reactiva de orina
+T17 DISO 177 188 proteinuria
+T18 PROC 460 487 cultivo de exudado faríngeo
+T19 PROC 127 134 pruebas
+T20 PROC 324 341 estudio analítico
+T21 PROC 181 190 hemograma
+T22 PROC 421 441 bioquímica sanguínea
+T23 PROC 331 346 perfil hepático
+T24 PROC 415 433 sedimento de orina
+T25 DISO 289 301 leucocitosis
+T26 PROC 326 339 transaminasas
+T27 PROC 79 82 GOT
+T28 PROC 82 85 GPT
+T29 DISO 421 436 edema palpebral
+T30 DISO 175 181 fiebre
+T31 DISO 331 342 adenopatías
+T32 DISO 187 193 hepato
+T33 DISO 193 199 esplen
+T34 DISO 265 273 omegalia
+T35 PROC 579 596 control analítico
+T36 PROC 316 325 hemograma
+T37 PROC 469 482 transaminasas
+T38 PROC 112 115 GOT
+T39 PROC 115 118 GPT
+T40 DISO 976 1001 síndrome mononucle ós ico
+T41 PROC 1281 1313 serología de VEB citomegalovirus
+T42 CHEM 83 85 CM
+T43 CHEM 43 44 V
+T44 PROC 130 133 IgM

@@ -1,0 +1,85 @@
+T1 PROC 1 8 ingresa
+T2 DISO 29 57 deterioro del estado general
+T3 DISO 15 22 astenia
+T4 DISO 25 33 anorexia
+T5 DISO 61 76 pérdida de peso
+T6 PROC 56 67 Intervenido
+T7 DISO 157 183 adenocarcinoma de próstata
+T8 PROC 85 97 radioterapia
+T9 PROC 57 64 ingreso
+T10 PROC 280 311 tratamiento con hormono terapia
+T11 PROC 261 287 tratamiento radio terápico
+T12 ANAT 111 121 intestinal
+T13 DISO 85 92 diarrea
+T14 DISO 183 197 estreá±imiento
+T15 DISO 211 226 dolores cólicos
+T16 DISO 436 465 urgencia tenesmo defec atorio
+T17 PROC 289 307 exploración física
+T18 ANAT 120 127 abdomen
+T19 DISO 145 153 doloroso
+T20 DISO 115 121 ruidos
+T21 DISO 401 421 signos obstruc tivos
+T22 DISO 106 111 masas
+T23 DISO 177 185 megalias
+T24 DISO 254 265 adenopatías
+T25 DISO 145 151 fiebre
+T26 PROC 226 235 analítica
+T27 DISO 313 325 leucocitosis
+T28 ANAT 298 309 neutrófilos
+T29 ANAT 281 291 linfocitos
+T30 ANAT 262 271 monocitos
+T31 DISO 331 342 eosinófilos
+T32 PROC 94 97 VSG
+T33 PROC 97 100 PCR
+T34 PROC 298 307 ferritina
+T35 PROC 579 596 factor reumatoide
+T36 PROC 841 865 reactantes de fase aguda
+T37 DISO 145 149 hipo
+T38 DISO 408 419 albuminemia
+T39 PROC 989 1015 marcadores de malabsorción
+T40 PROC 196 201 Trans
+T41 PROC 241 247 aminas
+T42 PROC 83 85 as
+T43 PROC 883 904 enzimas de colestasis
+T44 PROC 3398 3477 anticuerpos anti - n ucleares , anti - mito condri ales y anti - m áºsculo liso
+T45 PROC 133 136 PSA
+T46 PROC 1216 1243 estudio paras it ológico en
+T47 ANAT 231 236 heces
+T48 ANAT 377 385 muestras
+T49 PROC 961 981 radiografía de tórax
+T50 PROC 589 601 colonoscopia
+T51 ANAT 301 307 mucosa
+T52 ANAT 154 157 fib
+T53 ANAT 105 107 ró
+T54 ANAT 213 217 tico
+T55 ANAT 379 386 tubular
+T56 DISO 1596 1625 estenosis regular fib ró tica
+T57 PROC 449 457 biopsias
+T58 DISO 1540 1567 inflamación aguda y crónica
+T59 DISO 639 650 eosinófilos
+T60 PROC 650 661 diagnóstico
+T61 DISO 1021 1038 colitis ac tínica
+T62 PROC 2807 2853 TC abdomino pélv ica con contraste intravenoso
+T63 DISO 807 820 engrosamiento
+T64 ANAT 442 449 asas de
+T65 ANAT 1089 1106 intestino delgado
+T66 ANAT 846 859 yeyuno distal
+T67 ANAT 331 336 íleon
+T68 DISO 738 749 adenopatías
+T69 DISO 1157 1174 masas abdominales
+T70 PROC 1519 1541 prostatectomía radical
+T71 ANAT 1261 1279 grasa perir rectal
+T72 ANAT 924 937 pared vesical
+T73 ANAT 361 366 recto
+T74 PROC 877 889 radioterapia
+T75 ANAT 297 301 asas
+T76 PROC 1426 1445 tránsito intestinal
+T77 ANAT 1369 1387 válvulas con entes
+T78 ANAT 463 469 yeyuno
+T79 ANAT 313 317 asas
+T80 ANAT 1028 1041 íleon pélvico
+T81 ANAT 481 487 yeyuno
+T82 ANAT 406 411 íleon
+T83 DISO 411 416 enter
+T84 DISO 1163 1177 itis ac tínica
+T85 ANAT 841 851 asa ile al

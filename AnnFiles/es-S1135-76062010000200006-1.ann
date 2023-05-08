@@ -1,0 +1,81 @@
+T1 PROC 1 34 ingresa en un centro hospitalario
+T2 DISO 27 53 parada cardiorrespiratoria
+T3 DISO 51 76 disparo por arma de fuego
+T4 ANAT 31 41 orofaringe
+T5 PROC 41 51 inspección
+T6 DISO 41 49 lesiones
+T7 PROC 97 113 autopsia forense
+T8 PROC 134 153 estudio radiológico
+T9 ANAT 145 163 extremidad craneal
+T10 ANAT 145 161 columna cervical
+T11 ANAT 151 166 canal ra quídeo
+T12 ANAT 12 13 C
+T13 ANAT 13 14 C
+T14 PROC 27 29 Ex
+T15 PROC 225 241 amen necró psico
+T16 ANAT 61 65 cara
+T17 DISO 81 86 ensan
+T18 DISO 35 37 gr
+T19 DISO 109 115 entada
+T20 PROC 58 61 pun
+T21 DISO 101 106 turas
+T22 ANAT 169 177 muá±ecas
+T23 ANAT 199 208 antebrazo
+T24 PROC 691 721 registro electrocardi ográfico
+T25 PROC 169 176 limpiar
+T26 ANAT 151 157 sangre
+T27 ANAT 105 109 cara
+T28 ANAT 352 365 reborde super
+T29 ANAT 57 59 or
+T30 ANAT 320 331 ifico nasal
+T31 DISO 61 63 ex
+T32 DISO 94 97 cor
+T33 DISO 193 199 iación
+T34 ANAT 166 171 semil
+T35 ANAT 137 141 unar
+T36 DISO 701 721 pérdida de sustancia
+T37 PROC 649 667 autopsia de raquis
+T38 ANAT 667 685 cubiertas cutáneas
+T39 ANAT 609 625 masas musculares
+T40 DISO 703 721 áreas hemorrágicas
+T41 PROC 121 124 sec
+T42 PROC 247 253 cionar
+T43 ANAT 883 904 apófisis transvers as
+T44 ANAT 259 265 cráneo
+T45 ANAT 265 271 médula
+T46 ANAT 361 369 encéfalo
+T47 ANAT 691 706 canal vertebral
+T48 ANAT 48 49 2
+T49 ANAT 721 736 vértebra dorsal
+T50 ANAT 295 301 médula
+T51 PROC 151 154 sec
+T52 PROC 205 209 cion
+T53 ANAT 261 266 bulbo
+T54 ANAT 796 811 bloque cervical
+T55 DISO 109 111 ex
+T56 DISO 166 169 cor
+T57 DISO 337 343 iación
+T58 ANAT 685 697 base lingual
+T59 DISO 1393 1417 hematoma retro far íngeo
+T60 ANAT 60 61 ó
+T61 ANAT 181 184 seo
+T62 ANAT 672 683 estructuras
+T63 ANAT 435 442 órganos
+T64 PROC 694 705 operaciones
+T65 DISO 385 391 muerte
+T66 DISO 1561 1585 herida por arma de fuego
+T67 ANAT 1453 1475 orificio nasal derecho
+T68 DISO 403 409 herida
+T69 ANAT 341 346 semil
+T70 ANAT 208 211 una
+T71 DISO 1401 1421 pérdida de sustancia
+T72 ANAT 853 865 paladar duro
+T73 ANAT 721 731 superficie
+T74 ANAT 439 445 lengua
+T75 ANAT 1703 1726 espacio retro far íngeo
+T76 ANAT 1501 1521 disco intervertebral
+T77 ANAT 381 386 pared
+T78 ANAT 1156 1171 canal ra quídeo
+T79 DISO 469 475 lesion
+T80 ANAT 475 481 médula
+T81 DISO 561 568 disparo

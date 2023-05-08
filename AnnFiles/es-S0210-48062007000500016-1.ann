@@ -1,0 +1,79 @@
+T1 DISO 1 5 etil
+T2 DISO 13 25 ismo crónico
+T3 DISO 33 49 hábito tabáquico
+T4 DISO 61 81 hemorragia digestiva
+T5 CHEM 117 146 analgésicos antiinflamatorios
+T6 DISO 96 115 síndrome prostático
+T7 DISO 85 99 complicaciones
+T8 DISO 106 121 síndrome febril
+T9 DISO 177 199 incontinencia urinaria
+T10 DISO 64 71 disuria
+T11 DISO 111 122 dolor sacro
+T12 ANAT 210 229 miembros inferiores
+T13 DISO 169 183 tenesmo rectal
+T14 DISO 79 85 fiebre
+T15 DISO 99 106 confuso
+T16 DISO 106 113 somnoli
+T17 DISO 65 69 ento
+T18 DISO 86 91 sudor
+T19 DISO 55 58 oso
+T20 PROC 343 361 exploración física
+T21 DISO 141 148 abdomen
+T22 DISO 148 155 periton
+T23 DISO 111 116 ítico
+T24 DISO 415 433 Doloroso palpación
+T25 ANAT 265 276 área lumbar
+T26 ANAT 26 27 L
+T27 ANAT 469 487 área hipog ástrica
+T28 ANAT 406 421 región perineal
+T29 DISO 365 378 globo vesical
+T30 PROC 552 571 exploración genital
+T31 PROC 361 373 tacto rectal
+T32 DISO 249 257 doloroso
+T33 PROC 737 760 exploración neurológica
+T34 DISO 595 613 disminución fuerza
+T35 ANAT 647 666 miembros inferiores
+T36 PROC 281 289 reflejos
+T37 ANAT 325 334 rotuliano
+T38 ANAT 149 153 aqui
+T39 ANAT 115 118 leo
+T40 PROC 352 361 analítica
+T41 PROC 361 370 hemograma
+T42 PROC 411 421 bioquímica
+T43 PROC 463 474 Hemoglobina
+T44 PROC 302 309 Glucosa
+T45 PROC 441 451 Creatinina
+T46 PROC 181 185 Velo
+T47 PROC 875 894 cidad sedimentación
+T48 PROC 800 817 análisis de orina
+T49 ANAT 481 491 leucocitos
+T50 PROC 393 401 nitritos
+T51 PROC 451 460 sedimento
+T52 PROC 1123 1145 estudio de coagulación
+T53 PROC 1249 1273 actividad de protrombina
+T54 PROC 1008 1027 tiempo de cefal ina
+T55 PROC 595 606 fibrinógeno
+T56 PROC 1266 1289 TAC abdomino - pélv ica
+T57 ANAT 449 457 riá±ones
+T58 DISO 856 871 quistes simples
+T59 DISO 1393 1417 litiasis renal izquierda
+T60 DISO 1358 1381 dilatación vía urinaria
+T61 ANAT 481 489 Próstata
+T62 DISO 1221 1241 lesiones hipoden sas
+T63 ANAT 1055 1072 lóbulos laterales
+T64 DISO 1135 1153 absceso prostático
+T65 PROC 2049 2081 tratamiento antibiótico empírico
+T66 CHEM 716 727 Ceftriaxona
+T67 CHEM 199 202 Amp
+T68 CHEM 470 477 icilina
+T69 CHEM 69 70 G
+T70 CHEM 691 701 entamicina
+T71 DISO 1261 1279 absceso prostático
+T72 PROC 498 505 drenaje
+T73 DISO 649 658 colección
+T74 PROC 147 149 EC
+T75 PROC 149 151 TR
+T76 PROC 1426 1445 derivación urinaria
+T77 PROC 1065 1079 punción lumbar
+T78 PROC 1618 1639 anestesia intrad ural
+T79 DISO 1795 1818 líquido cefalorraquídeo

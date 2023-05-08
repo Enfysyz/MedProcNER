@@ -1,0 +1,74 @@
+T1 DISO 1 28 dolor en el hueco poplí teo
+T2 DISO 8 15 vómitos
+T3 DISO 5 7 DM
+T4 DISO 64 85 hipertensión arterial
+T5 DISO 49 61 dislipidemia
+T6 DISO 66 79 hiperuricemia
+T7 DISO 199 232 insuficiencia cardíaca congestiva
+T8 DISO 64 73 depresión
+T9 PROC 57 64 ingreso
+T10 PROC 163 181 constantes vitales
+T11 PROC 111 122 exploración
+T12 DISO 276 301 trombosis venosa profunda
+T13 PROC 229 248 analítica sanguínea
+T14 ANAT 66 71 renal
+T15 ANAT 113 121 hepática
+T16 PROC 196 209 diagnosticada
+T17 DISO 897 953 trombosis venosa profunda de las extremidades inferiores
+T18 PROC 154 163 ecografía
+T19 PROC 199 210 tratamiento
+T20 CHEM 248 261 insulina NP H
+T21 CHEM 201 211 metformina
+T22 CHEM 232 243 enoxaparina
+T23 CHEM 67 70 tor
+T24 CHEM 47 49 as
+T25 CHEM 121 126 emida
+T26 CHEM 51 53 en
+T27 CHEM 79 82 ala
+T28 CHEM 82 85 pri
+T29 CHEM 57 59 lo
+T30 CHEM 59 61 cl
+T31 CHEM 91 94 ora
+T32 CHEM 63 65 ze
+T33 CHEM 545 562 pato di po tásico
+T34 CHEM 331 341 alopurinol
+T35 CHEM 103 106 mir
+T36 CHEM 281 289 tazapina
+T37 CHEM 289 297 digoxina
+T38 DISO 260 267 vómitos
+T39 DISO 571 586 dolor abdominal
+T40 DISO 274 281 astenia
+T41 DISO 281 288 vómitos
+T42 DISO 780 799 trastornos visuales
+T43 DISO 337 345 oliguria
+T44 PROC 302 309 ingreso
+T45 DISO 661 676 parada cardíaca
+T46 DISO 1036 1059 fibrilación ventricular
+T47 PROC 277 283 resuci
+T48 PROC 189 193 tada
+T49 DISO 145 148 mid
+T50 DISO 99 101 ri
+T51 DISO 251 256 ática
+T52 DISO 103 105 an
+T53 DISO 313 319 áºrica
+T54 PROC 902 919 escala de Glasgow
+T55 PROC 865 881 presión arterial
+T56 CHEM 716 729 noradrenalina
+T57 PROC 1065 1084 frecuencia cardíaca
+T58 PROC 628 639 temperatura
+T59 CHEM 407 414 fluidos
+T60 CHEM 1063 1081 bicarbonato sódico
+T61 CHEM 781 794 noradrenalina
+T62 PROC 1160 1179 gasometría arterial
+T63 PROC 125 127 pH
+T64 PROC 694 705 bicarbonato
+T65 PROC 769 781 hemodiálisis
+T66 DISO 1236 1255 acidosis metabólica
+T67 PROC 133 135 pH
+T68 PROC 738 749 bicarbonato
+T69 DISO 953 967 hiperpotasemia
+T70 DISO 1588 1611 neumonía por aspiración
+T71 PROC 1191 1208 trasladó a planta
+T72 DISO 1208 1225 estado vegetativo
+T73 DISO 577 585 falleció
+T74 PROC 512 519 ingreso

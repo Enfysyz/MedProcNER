@@ -1,0 +1,91 @@
+T1 PROC 1 14 diagnosticado
+T2 PROC 4 7 TAC
+T3 DISO 77 115 tumor es tenos ante de colon sig moide
+T4 DISO 100 133 metástasis en ganglios regionales
+T5 ANAT 25 31 hígado
+T6 PROC 106 127 biopsias endoscópicas
+T7 DISO 55 64 neoplasia
+T8 PROC 78 89 diagnóstico
+T9 DISO 201 226 adenocarcinoma intestinal
+T10 PROC 388 431 colostomía paliativa en caá±ón de esco peta
+T11 ANAT 161 177 colon transverso
+T12 PROC 331 361 quimioterapia de primera línea
+T13 PROC 109 118 protocolo
+T14 PROC 40 43 FOL
+T15 PROC 15 16 F
+T16 PROC 31 33 OX
+T17 CHEM 33 35 ox
+T18 CHEM 69 73 alip
+T19 CHEM 37 39 la
+T20 CHEM 77 81 tino
+T21 CHEM 21 22 -
+T22 CHEM 379 397 5 fluoro uracilo -
+T23 CHEM 45 47 le
+T24 CHEM 70 73 uco
+T25 CHEM 73 76 vor
+T26 CHEM 51 53 in
+T27 PROC 183 190 reevalu
+T28 DISO 487 505 progresión tumoral
+T29 DISO 981 1016 metástasis ganglionares a distancia
+T30 ANAT 378 391 suprarrenales
+T31 DISO 841 869 dolor e hinchazón mandibular
+T32 DISO 652 673 tumoración vege tante
+T33 ANAT 801 826 encía mandibular anterior
+T34 PROC 397 409 TAC cervical
+T35 DISO 443 456 lesión sólida
+T36 ANAT 141 145 hemi
+T37 ANAT 109 112 man
+T38 ANAT 75 77 dí
+T39 ANAT 457 469 bula derecha
+T40 ANAT 196 201 hueso
+T41 DISO 721 739 neoplasia de encía
+T42 DISO 329 337 linfaden
+T43 DISO 253 259 opatía
+T44 PROC 302 309 biopsia
+T45 DISO 89 91 ne
+T46 DISO 91 93 of
+T47 DISO 369 377 ormación
+T48 ANAT 283 289 mucosa
+T49 ANAT 433 442 glándulas
+T50 ANAT 1128 1151 revestimiento colum nar
+T51 DISO 351 358 mitosis
+T52 PROC 409 417 técnicas
+T53 PROC 937 955 inmunohistoquímica
+T54 DISO 531 541 tumoración
+T55 CHEM 217 221 cito
+T56 PROC 276 281 quera
+T57 PROC 337 343 tina (
+T58 PROC 400 407 CK ) 20
+T59 PROC 175 178 CEA
+T60 PROC 237 241 antí
+T61 CHEM 241 245 geno
+T62 CHEM 123 125 CK
+T63 CHEM 63 64 7
+T64 PROC 694 705 diagnosticó
+T65 DISO 1665 1691 adenocarcinoma metastásico
+T66 ANAT 651 661 intestinal
+T67 PROC 1981 2011 quimioterapia de segunda línea
+T68 PROC 604 613 protocolo
+T69 PROC 205 208 FOL
+T70 PROC 70 71 F
+T71 PROC 281 285 OR I
+T72 CHEM 72 73 C
+T73 CHEM 145 147 PT
+T74 CHEM 147 149 11
+T75 CHEM 75 76 -
+T76 CHEM 76 77 5
+T77 CHEM 457 463 fluoro
+T78 CHEM 694 703 uracilo -
+T79 CHEM 157 159 le
+T80 CHEM 238 241 uco
+T81 CHEM 241 244 vor
+T82 CHEM 163 165 in
+T83 PROC 2051 2076 radioterapia anti ál gica
+T84 ANAT 416 421 encía
+T85 DISO 841 851 enfermedad
+T86 PROC 256 259 éxi
+T87 DISO 259 262 tus
+T88 PROC 958 969 diagnóstico
+T89 DISO 1673 1692 metástasis gingival
+T90 PROC 446 451 necro
+T91 PROC 361 365 psia

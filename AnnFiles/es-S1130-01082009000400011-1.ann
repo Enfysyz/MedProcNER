@@ -1,0 +1,44 @@
+T1 DISO 1 6 dolor
+T2 ANAT 20 39 fosa iliaca derecha
+T3 DISO 19 28 hiporexia
+T4 DISO 109 145 alteraciones del tránsito intestinal
+T5 DISO 69 86 clínica miccional
+T6 DISO 61 73 traumatismos
+T7 DISO 127 148 hipertensión arterial
+T8 DISO 288 329 diabetes mellitus no insulino dependiente
+T9 PROC 65 73 tratadas
+T10 CHEM 82 91 enalapril
+T11 CHEM 231 254 ácido acetil salicílico
+T12 PROC 122 133 exploración
+T13 DISO 85 92 abdomen
+T14 DISO 131 141 distendido
+T15 DISO 113 121 doloroso
+T16 ANAT 286 305 fosa ilíaca derecha
+T17 DISO 449 477 signos irritación peritoneal
+T18 PROC 154 163 analítica
+T19 PROC 433 457 reactantes de fase aguda
+T20 PROC 58 61 fib
+T21 PROC 161 169 rinógeno
+T22 PROC 64 67 PCR
+T23 PROC 551 576 tomografía computer izada
+T24 PROC 47 49 TC
+T25 DISO 97 101 masa
+T26 ANAT 251 261 polo cecal
+T27 ANAT 209 217 apéndice
+T28 DISO 460 477 apendicitis aguda
+T29 DISO 645 668 proceso ne of orma tivo
+T30 PROC 378 391 laparoscópico
+T31 DISO 721 745 hematoma con efecto masa
+T32 ANAT 156 161 ciego
+T33 DISO 897 925 líquido libre sanguinol ento
+T34 PROC 166 171 hemic
+T35 PROC 69 71 ol
+T36 PROC 526 541 ectomía derecha
+T37 PROC 685 704 anatomía patológica
+T38 DISO 815 837 extravasación hemática
+T39 ANAT 875 898 tejidos subs eros os de
+T40 ANAT 196 201 ciego
+T41 DISO 121 124 abs
+T42 DISO 124 127 ces
+T43 DISO 379 388 ificación
+T44 DISO 431 441 malignidad

@@ -1,0 +1,84 @@
+T1 PROC 1 12 diagnóstico
+T2 DISO 27 53 adenocarcinoma de próstata
+T3 DISO 75 112 afectación ósea metastásica máºltiple
+T4 DISO 13 17 horm
+T5 DISO 9 11 on
+T6 DISO 66 79 orresistencia
+T7 DISO 115 134 síndrome prostático
+T8 DISO 29 33 pola
+T9 DISO 57 64 quiuria
+T10 DISO 163 181 urgencia miccional
+T11 PROC 201 221 determinación de PSA
+T12 PROC 89 97 derivado
+T13 PROC 265 287 ecografía trans rectal
+T14 PROC 417 449 biopsia prostática eco dirig ida
+T15 DISO 365 391 adenocarcinoma bi lob ular
+T16 PROC 301 321 estudio de extensión
+T17 PROC 145 154 analítica
+T18 PROC 52 55 RNM
+T19 PROC 91 96 gamma
+T20 PROC 20 21 -
+T21 PROC 221 232 grafía ósea
+T22 DISO 883 925 metástasis ganglionares retro peritoneales
+T23 DISO 177 185 hipercap
+T24 DISO 139 145 tación
+T25 ANAT 73 76 col
+T26 ANAT 51 53 um
+T27 ANAT 313 325 na vertebral
+T28 ANAT 163 169 cuello
+T29 ANAT 85 88 diá
+T30 ANAT 436 451 fisis femorales
+T31 ANAT 331 342 pelvis ósea
+T32 PROC 621 641 bloqueo andro génico
+T33 CHEM 1633 1684 análogo de la hormona liber adora de gonado tropina
+T34 CHEM 34 35 A
+T35 CHEM 35 36 -
+T36 CHEM 36 37 L
+T37 CHEM 73 75 HR
+T38 CHEM 38 39 H
+T39 CHEM 153 157 anti
+T40 CHEM 157 161 andr
+T41 CHEM 201 206 ógeno
+T42 PROC 452 463 tratamiento
+T43 PROC 505 517 nivel de PSA
+T44 PROC 1033 1057 tratamiento anti ál gico
+T45 DISO 573 586 dolores óseos
+T46 CHEM 226 231 AINEs
+T47 CHEM 139 142 mór
+T48 CHEM 236 241 ficos
+T49 PROC 337 344 tratado
+T50 PROC 1667 1701 irradiación vertebral dorsol umbar
+T51 DISO 601 613 asintomático
+T52 PROC 154 157 PSA
+T53 PROC 625 637 testosterona
+T54 CHEM 213 217 anti
+T55 CHEM 217 221 andr
+T56 CHEM 276 281 ógeno
+T57 DISO 1513 1540 dolores óseos generalizados
+T58 CHEM 628 639 analgésicos
+T59 PROC 639 650 tratamiento
+T60 CHEM 119 121 Es
+T61 CHEM 241 245 tron
+T62 CHEM 184 187 cio
+T63 CHEM 63 64 S
+T64 CHEM 64 65 t
+T65 PROC 193 196 PSA
+T66 PROC 1561 1585 consentimiento informado
+T67 PROC 793 805 QT paliativa
+T68 CHEM 135 137 Do
+T69 CHEM 273 277 ceta
+T70 CHEM 208 211 xel
+T71 CHEM 701 711 prednisona
+T72 PROC 498 505 terapia
+T73 CHEM 2449 2483 inhibidores de la reabsorción ósea
+T74 CHEM 1388 1407 ácido z ole drónico
+T75 PROC 223 226 PSA
+T76 ANAT 901 913 globo ocular
+T77 ANAT 609 617 párpados
+T78 PROC 155 157 Ex
+T79 PROC 157 159 pl
+T80 PROC 1502 1521 oración neurológica
+T81 DISO 241 244 Pro
+T82 DISO 82 83 p
+T83 DISO 411 416 tosis
+T84 DISO 1329 1345 ptosis palpebral

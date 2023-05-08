@@ -1,0 +1,73 @@
+T1 PROC 1 23 ingresos hospitalarios
+T2 DISO 21 41 hemorragia digestiva
+T3 DISO 39 58 valvulopatía mitral
+T4 PROC 82 109 recambio valvular protésico
+T5 PROC 45 56 tratamiento
+T6 CHEM 61 73 acenocumarol
+T7 PROC 43 50 ingresó
+T8 DISO 134 153 sangrado intestinal
+T9 DISO 145 163 anemia ferropénica
+T10 PROC 109 121 gastroscopia
+T11 PROC 191 210 cápsula endoscópica
+T12 PROC 34 37 INR
+T13 DISO 229 248 sangrado intestinal
+T14 PROC 248 267 cápsula endoscópica
+T15 DISO 71 76 angio
+T16 DISO 46 49 dis
+T17 DISO 321 341 plasias intestinales
+T18 ANAT 239 253 antro duodenal
+T19 ANAT 271 286 yeyuno proximal
+T20 ANAT 267 281 íleon terminal
+T21 DISO 161 169 sangrado
+T22 PROC 169 177 ingresos
+T23 CHEM 529 553 concentrados de hematíes
+T24 PROC 162 169 enteros
+T25 PROC 121 126 copia
+T26 ANAT 301 313 yeyuno medio
+T27 DISO 131 136 angio
+T28 DISO 82 85 dis
+T29 DISO 197 204 plasias
+T30 DISO 146 151 angio
+T31 DISO 91 94 dis
+T32 DISO 497 513 plasias ile ales
+T33 PROC 225 232 ingreso
+T34 PROC 364 375 hemoglobina
+T35 PROC 375 386 hematocrito
+T36 PROC 911 937 volumen corpus cular medio
+T37 DISO 289 297 sangrado
+T38 DISO 297 305 lesiones
+T39 PROC 267 274 electro
+T40 PROC 118 121 ful
+T41 PROC 121 124 gur
+T42 PROC 206 211 ación
+T43 PROC 295 302 cirugía
+T44 CHEM 431 441 talidomida
+T45 CHEM 309 316 fármaco
+T46 PROC 991 1013 niveles de hemoglobina
+T47 PROC 1381 1411 test de sangre oculta en heces
+T48 PROC 330 337 ingresó
+T49 DISO 1441 1471 deterioro de su estado general
+T50 DISO 1324 1351 disnea de mínimos esfuerzos
+T51 DISO 401 409 ortopnea
+T52 DISO 919 937 edemas male olares
+T53 DISO 729 743 dolor torácico
+T54 PROC 1220 1243 ecocardiografía urgente
+T55 DISO 1135 1156 hipertensión pulmonar
+T56 PROC 111 113 PS
+T57 PROC 113 115 AP
+T58 PROC 2224 2263 presión sist ol ica de arteria pulmonar
+T59 PROC 639 650 tratamiento
+T60 CHEM 591 601 talidomida
+T61 PROC 121 123 PS
+T62 PROC 123 125 AP
+T63 PROC 559 568 ecografía
+T64 DISO 1513 1537 tromboembolismo pulmonar
+T65 PROC 513 521 dímero D
+T66 PROC 1626 1651 tomografía angio gráficas
+T67 PROC 133 135 PS
+T68 PROC 135 137 AP
+T69 CHEM 477 484 fármaco
+T70 PROC 760 771 tratamiento
+T71 CHEM 211 214 lan
+T72 CHEM 143 145 re
+T73 CHEM 361 366 ótido

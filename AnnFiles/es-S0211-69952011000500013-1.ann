@@ -1,0 +1,96 @@
+T1 DISO 1 28 insuficiencia renal crónica
+T2 DISO 35 69 nefropatía táºbulo - intersti cial
+T3 PROC 103 154 tratamiento de sustitución con HD de larga duración
+T4 PROC 58 77 trasplantes renales
+T5 PROC 41 51 trasplante
+T6 PROC 6 7 c
+T7 PROC 37 43 tomías
+T8 DISO 148 169 rechazo humoral agudo
+T9 DISO 257 289 rechazo humoral y vascular agudo
+T10 PROC 244 271 tratamiento de hemodiálisis
+T11 PROC 181 199 valores séricos la
+T12 PROC 309 337 hormona paratiroidea intacta
+T13 PROC 13 14 i
+T14 PROC 27 29 PT
+T15 PROC 15 16 H
+T16 PROC 106 113 tratada
+T17 CHEM 81 86 calci
+T18 CHEM 86 91 triol
+T19 PROC 253 267 administración
+T20 DISO 248 261 hipercalcemia
+T21 DISO 101 106 hiper
+T22 DISO 106 111 fosfa
+T23 DISO 111 116 temia
+T24 DISO 24 25 H
+T25 DISO 49 51 PT
+T26 DISO 26 27 S
+T27 PROC 27 28 i
+T28 PROC 55 57 PT
+T29 PROC 29 30 H
+T30 PROC 639 661 ecografía paratiroidea
+T31 DISO 1141 1179 imagen seud ono dular hiper ec ogénica
+T32 ANAT 776 801 lóbulo tiroideo izquierdo
+T33 DISO 1249 1288 hipertrofia de la glándula paratiroidea
+T34 PROC 562 579 serie radiológica
+T35 DISO 205 211 signos
+T36 DISO 666 685 hiperparatiroidismo
+T37 ANAT 217 223 huesos
+T38 ANAT 186 191 manos
+T39 ANAT 305 313 muá±ecas
+T40 ANAT 1405 1441 arterias radiales e inter dig itales
+T41 PROC 401 411 mamografía
+T42 ANAT 83 85 CV
+T43 ANAT 211 216 mamas
+T44 PROC 302 309 tratada
+T45 CHEM 749 766 carbonato cálcico
+T46 PROC 226 231 pauta
+T47 CHEM 231 236 calci
+T48 CHEM 236 241 triol
+T49 CHEM 97 99 se
+T50 CHEM 148 151 vel
+T51 CHEM 201 205 amer
+T52 CHEM 1429 1457 agente que lante del fosfato
+T53 CHEM 53 54 P
+T54 CHEM 902 919 carbonato cálcico
+T55 PROC 919 936 niveles de Ca , P
+T56 PROC 56 57 i
+T57 PROC 113 115 PT
+T58 PROC 457 465 H sérica
+T59 DISO 291 296 hiper
+T60 DISO 178 181 fos
+T61 DISO 181 184 for
+T62 DISO 245 249 emia
+T63 PROC 683 694 tratamiento
+T64 PROC 1576 1601 nivel del producto Ca - P
+T65 PROC 1089 1106 niveles de i PT H
+T66 PROC 716 727 tratamiento
+T67 CHEM 331 336 calci
+T68 CHEM 336 341 triol
+T69 CHEM 205 208 cin
+T70 CHEM 277 281 acal
+T71 CHEM 211 214 cet
+T72 CHEM 143 145 al
+T73 CHEM 217 220 fac
+T74 CHEM 147 149 al
+T75 CHEM 223 226 cid
+T76 CHEM 151 153 ol
+T77 PROC 913 925 hemodiálisis
+T78 CHEM 1310 1327 carbonato cálcico
+T79 CHEM 157 159 se
+T80 CHEM 238 241 vel
+T81 CHEM 321 325 amer
+T82 CHEM 406 411 calci
+T83 CHEM 165 167 mi
+T84 CHEM 84 85 m
+T85 CHEM 421 426 ético
+T86 DISO 1021 1033 hipocalcemia
+T87 PROC 947 958 tratamiento
+T88 CHEM 871 881 vitamina D
+T89 CHEM 1497 1514 carbonato cálcico
+T90 CHEM 535 541 calcio
+T91 PROC 181 183 di
+T92 PROC 638 645 alizado
+T93 PROC 93 94 i
+T94 PROC 187 189 PT
+T95 PROC 95 96 H
+T96 DISO 1236 1249 hipercalcemia

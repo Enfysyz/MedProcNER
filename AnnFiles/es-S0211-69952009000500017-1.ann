@@ -1,0 +1,79 @@
+T1 DISO 1 20 síndrome de Al port
+T2 DISO 6 11 micro
+T3 DISO 9 13 hema
+T4 DISO 16 21 turia
+T5 DISO 45 56 proteinuria
+T6 PROC 51 61 creatinina
+T7 PROC 25 29 urea
+T8 DISO 218 249 pérdida moderada de la audición
+T9 DISO 169 190 hipertensión arterial
+T10 PROC 64 71 tratada
+T11 CHEM 91 100 enalapril
+T12 DISO 89 97 obesidad
+T13 PROC 37 40 IMC
+T14 PROC 248 267 glucemias en ayunas
+T15 PROC 211 226 Hb glucos ilada
+T16 DISO 181 193 dislipidemia
+T17 DISO 209 222 hiperuricemia
+T18 PROC 188 199 tratamiento
+T19 DISO 37 39 Ex
+T20 DISO 20 21 -
+T21 DISO 141 148 fumador
+T22 DISO 106 111 Normo
+T23 DISO 89 93 tiro
+T24 DISO 93 97 ideo
+T25 PROC 313 326 Biopsia renal
+T26 ANAT 51 53 MO
+T27 ANAT 157 163 glomér
+T28 ANAT 109 113 ulos
+T29 DISO 1149 1190 esclerosis focal y segmentaria glomerular
+T30 DISO 175 181 glomer
+T31 DISO 631 652 ulopatía esclerosante
+T32 PROC 63 65 IF
+T33 CHEM 65 67 Ig
+T34 ANAT 100 103 mes
+T35 ANAT 171 176 angio
+T36 CHEM 106 109 IgA
+T37 CHEM 37 38 M
+T38 ANAT 704 723 cilindros tubulares
+T39 ANAT 77 79 ME
+T40 ANAT 235 241 glomér
+T41 ANAT 161 165 ulos
+T42 ANAT 411 421 MB capilar
+T43 ANAT 505 517 lámina densa
+T44 ANAT 87 89 Po
+T45 ANAT 89 91 do
+T46 ANAT 226 231 citos
+T47 ANAT 93 95 pe
+T48 ANAT 142 145 dic
+T49 ANAT 721 736 elos glomerular
+T50 ANAT 589 601 lámina densa
+T51 DISO 1051 1072 enfermedad de Al port
+T52 DISO 1837 1873 glomerulonefritis esclerosante focal
+T53 PROC 781 796 Ecografía renal
+T54 ANAT 107 109 RD
+T55 PROC 703 716 Doppler renal
+T56 PROC 2146 2185 dieta baja en proteínas , hipocal órica
+T57 PROC 617 628 tratamiento
+T58 CHEM 172 175 los
+T59 CHEM 291 296 artán
+T60 DISO 650 661 proteinuria
+T61 PROC 1741 1770 cirugía de by - pass gástrico
+T62 PROC 1221 1241 Control nef rológico
+T63 PROC 621 631 creatinina
+T64 DISO 694 705 proteinuria
+T65 PROC 257 261 urea
+T66 DISO 456 463 tensión
+T67 CHEM 595 604 enalapril
+T68 CHEM 671 681 hipolipemi
+T69 CHEM 341 346 antes
+T70 DISO 346 351 normo
+T71 DISO 561 569 uricemia
+T72 DISO 356 361 normo
+T73 DISO 289 293 gluc
+T74 DISO 366 371 emias
+T75 PROC 519 526 cirugía
+T76 PROC 826 837 tratamiento
+T77 PROC 381 386 dieta
+T78 PROC 1387 1405 ejercicio aeróbico
+T79 PROC 2185 2213 apoyo clínico - psic ológico

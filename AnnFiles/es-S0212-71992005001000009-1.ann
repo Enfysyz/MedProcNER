@@ -1,0 +1,75 @@
+T1 DISO 1 9 alérgico
+T2 CHEM 15 29 betalactámicos
+T3 DISO 49 73 EPOC cortico dependiente
+T4 DISO 16 21 reagu
+T5 DISO 13 16 diz
+T6 DISO 36 43 aciones
+T7 PROC 217 253 tratamiento con oxigeno domiciliario
+T8 CHEM 120 137 broncodilatadores
+T9 DISO 25 28 tos
+T10 DISO 208 231 expectoración purulenta
+T11 DISO 231 254 dificultad respiratoria
+T12 PROC 199 217 exploración física
+T13 DISO 73 79 fiebre
+T14 DISO 378 407 cianosis central y periférica
+T15 PROC 99 106 presión
+T16 ANAT 91 97 venosa
+T17 ANAT 113 120 yugular
+T18 DISO 188 199 taquicardia
+T19 DISO 199 210 sibilancias
+T20 DISO 381 401 roncus espira torios
+T21 ANAT 341 358 campos pulmonares
+T22 ANAT 148 155 abdomen
+T23 DISO 485 507 hepatomegalia dolorosa
+T24 DISO 139 145 edemas
+T25 ANAT 169 176 piernas
+T26 PROC 501 521 radiografía de tórax
+T27 DISO 495 514 aumento de densidad
+T28 ANAT 406 421 lóbulo inferior
+T29 PROC 253 262 hemograma
+T30 ANAT 291 301 leucocitos
+T31 PROC 61 63 Hb
+T32 PROC 32 33 H
+T33 DISO 65 67 CT
+T34 PROC 67 69 PL
+T35 PROC 35 36 Q
+T36 PROC 351 361 gasometría
+T37 PROC 73 75 pH
+T38 PROC 75 77 pO
+T39 PROC 115 118 pCO
+T40 PROC 40 41 2
+T41 PROC 121 124 HCO
+T42 PROC 42 43 3
+T43 PROC 169 173 SatO
+T44 PROC 44 45 2
+T45 PROC 1189 1216 cultivos de sangre y esputo
+T46 PROC 1081 1105 estudio de micobacterias
+T47 PROC 139 142 tin
+T48 PROC 659 673 ciones de Gram
+T49 PROC 49 50 Z
+T50 PROC 99 101 ie
+T51 PROC 651 664 hl del esputo
+T52 PROC 868 885 cultivo de esputo
+T53 ANAT 521 531 leucocitos
+T54 ANAT 1008 1027 células epiteliales
+T55 ANAT 1027 1046 tracto respiratorio
+T56 PROC 1101 1121 tratamiento empírico
+T57 CHEM 225 229 Levo
+T58 CHEM 514 523 floxacino
+T59 CHEM 175 178 Van
+T60 CHEM 473 481 comicina
+T61 CHEM 121 123 To
+T62 CHEM 550 559 bramicina
+T63 DISO 249 253 hipo
+T64 DISO 442 449 tensión
+T65 DISO 385 391 disnea
+T66 DISO 391 397 fiebre
+T67 PROC 595 604 hemograma
+T68 ANAT 671 681 leucocitos
+T69 DISO 341 346 falle
+T70 DISO 415 421 ciendo
+T71 PROC 491 498 ingreso
+T72 DISO 924 937 fallecimiento
+T73 PROC 793 804 hemocultivo
+T74 PROC 1242 1259 cultivo de esputo
+T75 PROC 1333 1351 tinción de Z ie hl

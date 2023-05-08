@@ -1,0 +1,32 @@
+T1 DISO 1 8 neonato
+T2 DISO 11 21 pretérmino
+T3 DISO 37 55 asfixia peri parto
+T4 DISO 67 89 encefalopatía neonatal
+T5 DISO 73 91 asfixia peri parto
+T6 PROC 181 217 tratamiento con hipotermia sistémica
+T7 PROC 43 50 ingreso
+T8 PROC 92 105 interconsulta
+T9 DISO 169 190 lesión cutánea dorsal
+T10 PROC 91 101 valoración
+T11 DISO 101 111 tumoración
+T12 ANAT 78 85 espalda
+T13 DISO 37 40 esc
+T14 DISO 40 43 ara
+T15 PROC 379 406 ecografía de partes blandas
+T16 DISO 451 481 necrosis grasa lic ue fac tiva
+T17 PROC 145 154 punciones
+T18 PROC 443 469 desbridamiento quiráºrgico
+T19 PROC 289 305 terapia de vacío
+T20 PROC 134 141 ingreso
+T21 PROC 141 148 terapia
+T22 PROC 589 617 intervenida quiráºrgicamente
+T23 PROC 705 737 tratamiento con terapia de vacío
+T24 PROC 162 169 cirugía
+T25 DISO 145 151 herida
+T26 ANAT 526 547 tejido de granulación
+T27 DISO 183 190 exudado
+T28 ANAT 190 197 tejidos
+T29 PROC 253 262 ingresada
+T30 PROC 349 361 dada de alta
+T31 DISO 181 187 herida
+T32 DISO 156 161 dolor

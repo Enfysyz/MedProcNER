@@ -1,0 +1,44 @@
+T1 DISO 1 24 enfermedad de Alzheimer
+T2 DISO 31 61 diabético insulino dependiente
+T3 DISO 25 37 dolor ocular
+T4 ANAT 10 13 ojo
+T5 PROC 9 11 AV
+T6 PROC 161 193 evaluación del segmento anterior
+T7 DISO 157 183 lesión ulcera tiva corneal
+T8 ANAT 190 217 poro endotelial perfor ante
+T9 DISO 361 406 proceso infeccioso o inflamatorio traumáticos
+T10 PROC 100 111 diagnóstico
+T11 DISO 331 364 perforación corneal no traumática
+T12 PROC 155 169 cierre urgente
+T13 DISO 73 79 lesión
+T14 PROC 209 225 anestesia tópica
+T15 DISO 141 151 ulceración
+T16 PROC 166 177 hidratación
+T17 CHEM 273 290 suero fisiológico
+T18 DISO 256 271 defecto corneal
+T19 DISO 109 115 lesión
+T20 PROC 58 61 ocl
+T21 PROC 121 127 uyo el
+T22 ANAT 64 67 ojo
+T23 PROC 111 116 desta
+T24 PROC 185 193 oclusión
+T25 ANAT 649 676 poro endotelial perfor ante
+T26 ANAT 726 755 fondos de saco conjun tivales
+T27 PROC 781 811 tratamiento tópico antibiótico
+T28 CHEM 136 141 ciclo
+T29 CHEM 29 30 p
+T30 CHEM 59 61 éj
+T31 CHEM 91 94 ico
+T32 CHEM 63 65 me
+T33 CHEM 97 100 dro
+T34 CHEM 67 69 xi
+T35 CHEM 103 106 pro
+T36 CHEM 106 109 ges
+T37 CHEM 217 223 terona
+T38 DISO 519 533 adelgazamiento
+T39 ANAT 267 274 corneal
+T40 DISO 430 441 perforación
+T41 ANAT 601 616 cámara anterior
+T42 PROC 370 379 controles
+T43 ANAT 295 302 corneal
+T44 PROC 775 793 tratamiento médico

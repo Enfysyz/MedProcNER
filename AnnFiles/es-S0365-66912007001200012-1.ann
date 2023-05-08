@@ -1,0 +1,73 @@
+T1 DISO 1 15 visión borrosa
+T2 ANAT 5 9 ojos
+T3 PROC 65 97 tratados con corticoterapia oral
+T4 PROC 40 53 diagnosticada
+T5 DISO 17 21 coro
+T6 DISO 106 127 iditis ser pig in osa
+T7 PROC 31 36 angio
+T8 PROC 57 65 gráficos
+T9 PROC 177 199 revisión oftalmológica
+T10 DISO 91 101 enfermedad
+T11 PROC 141 155 agudeza visual
+T12 PROC 23 25 AV
+T13 ANAT 49 53 ojos
+T14 DISO 92 99 atrofia
+T15 DISO 449 481 cicatrización cor ior retin iana
+T16 ANAT 211 225 polo posterior
+T17 ANAT 97 103 mácula
+T18 ANAT 290 307 segmento anterior
+T19 PROC 343 362 presión intraocular
+T20 ANAT 77 81 ojos
+T21 PROC 241 253 fondo de ojo
+T22 DISO 169 177 lesiones
+T23 DISO 155 162 atrofia
+T24 DISO 254 265 hipertrofia
+T25 ANAT 25 26 E
+T26 ANAT 51 53 PR
+T27 ANAT 365 379 polo posterior
+T28 PROC 703 729 angiografía fluores ce ína
+T29 DISO 477 494 lesiones mo teado
+T30 DISO 204 211 atrofia
+T31 DISO 151 156 hiper
+T32 DISO 373 385 pigmentación
+T33 DISO 673 694 dispepsia flatul enta
+T34 DISO 232 239 vómitos
+T35 DISO 239 246 prurito
+T36 PROC 806 829 estudios de laboratorio
+T37 PROC 469 482 transaminasas
+T38 PROC 112 115 GOT
+T39 PROC 115 118 GPT
+T40 PROC 118 121 GGT
+T41 PROC 201 206 gamma
+T42 PROC 124 127 glu
+T43 PROC 85 87 ta
+T44 PROC 646 661 mil trans pepti
+T45 PROC 177 181 dasa
+T46 DISO 226 231 hiper
+T47 DISO 231 236 gamma
+T48 DISO 48 49 -
+T49 DISO 577 589 globulinemia
+T50 PROC 99 101 Ig
+T51 PROC 51 52 G
+T52 PROC 154 157 ANA
+T53 PROC 105 107 An
+T54 PROC 1273 1297 ticuerpos antin ucleares
+T55 PROC 163 166 AMA
+T56 PROC 111 113 An
+T57 PROC 1737 1768 ticuerpos anti mito condri ales
+T58 PROC 115 117 An
+T59 PROC 117 119 tí
+T60 PROC 1299 1321 geno de superficie VHB
+T61 PROC 121 123 An
+T62 PROC 1221 1241 ticuerpo anti - HB s
+T63 PROC 125 127 An
+T64 PROC 1261 1281 ticuerpo anti - HB c
+T65 PROC 129 131 An
+T66 PROC 1236 1255 ticuerpo anti - VHC
+T67 PROC 1189 1207 ecografía hepática
+T68 CHEM 2078 2109 ácidos biliares calcul olíticos
+T69 PROC 749 760 diagnóstico
+T70 DISO 1381 1401 hepatitis autoinmune
+T71 PROC 1401 1421 pruebas diagnósticas
+T72 PROC 1137 1153 biopsia hepática
+T73 DISO 1153 1169 cuadro digestivo

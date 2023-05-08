@@ -1,0 +1,37 @@
+T1 DISO 1 25 ptosis palpebral derecha
+T2 DISO 22 43 dolor perior bi tario
+T3 CHEM 23 34 analgésicos
+T4 DISO 22 29 nauseas
+T5 DISO 29 36 vómitos
+T6 DISO 91 109 proceso infeccioso
+T7 CHEM 61 71 medicación
+T8 PROC 127 145 exploración física
+T9 DISO 361 406 parálisis de la sup rad ucción y de la mirada
+T10 ANAT 28 31 ojo
+T11 DISO 161 177 ptosis palpebral
+T12 DISO 199 217 afectación pupilar
+T13 DISO 313 339 alteración pares craneales
+T14 PROC 118 127 hemograma
+T15 PROC 253 271 bioquímica general
+T16 PROC 526 561 velocidad de sedimentación globular
+T17 PROC 305 324 proteína C reactiva
+T18 PROC 392 415 hemoglobina glicosilada
+T19 PROC 397 419 anticuerpos anti - ADN
+T20 PROC 495 521 anticuerpos antin ucleares
+T21 PROC 61 64 ANA
+T22 PROC 757 793 anticuerpos extra í bles del náºcleo
+T23 PROC 67 70 ENA
+T24 PROC 990 1033 anticuerpos anti cito plasma de neutrófilos
+T25 PROC 97 101 ANCA
+T26 PROC 701 729 resonancia magnética craneal
+T27 PROC 287 298 diagnosticó
+T28 DISO 730 757 síndrome de Tol osa - H unt
+T29 PROC 449 465 tratamiento oral
+T30 CHEM 291 301 prednisona
+T31 PROC 211 218 reevalu
+T32 PROC 32 33 ó
+T33 DISO 161 166 oftal
+T34 DISO 67 69 mo
+T35 DISO 205 211 plejia
+T36 DISO 176 181 dolor
+T37 DISO 577 593 ptosis palpebral

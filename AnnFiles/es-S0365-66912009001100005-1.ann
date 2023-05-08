@@ -1,0 +1,50 @@
+T1 DISO 1 5 prop
+T2 DISO 6 11 tosis
+T3 ANAT 9 13 ojos
+T4 ANAT 4 5 A
+T5 ANAT 5 6 O
+T6 PROC 11 13 AV
+T7 DISO 43 50 síntoma
+T8 PROC 78 89 exploración
+T9 ANAT 25 28 ojo
+T10 DISO 19 21 am
+T11 DISO 21 23 bl
+T12 DISO 23 25 ío
+T13 DISO 25 27 pe
+T14 ANAT 40 43 ojo
+T15 PROC 29 31 ex
+T16 PROC 31 33 of
+T17 PROC 65 69 talm
+T18 PROC 120 127 ometría
+T19 PROC 811 856 exploración biom ic ros cópica y ton ométrica
+T20 PROC 457 481 estudio del fondo de ojo
+T21 DISO 301 316 edema de papila
+T22 PROC 589 617 test de colores Far ns worth
+T23 PROC 485 507 estudio camp imé trico
+T24 DISO 369 385 defecto infer al
+T25 DISO 97 101 cuad
+T26 DISO 76 79 ran
+T27 DISO 105 109 tano
+T28 DISO 109 113 psia
+T29 PROC 701 726 tomografía computer izada
+T30 PROC 59 61 TC
+T31 DISO 421 435 ectasia de las
+T32 ANAT 187 193 vainas
+T33 ANAT 65 67 NO
+T34 DISO 67 69 ex
+T35 DISO 69 71 of
+T36 DISO 106 109 tal
+T37 DISO 469 482 mos bilateral
+T38 DISO 260 267 meningo
+T39 DISO 533 547 cele bilateral
+T40 PROC 313 321 observar
+T41 PROC 1201 1231 acto diagnóstico - terapéutico
+T42 PROC 83 85 ex
+T43 PROC 85 87 of
+T44 PROC 173 177 talm
+T45 PROC 309 316 ometría
+T46 PROC 136 139 cam
+T47 PROC 369 377 pimetría
+T48 PROC 565 577 fondo de ojo
+T49 ANAT 337 344 papilar
+T50 PROC 491 501 revisiones

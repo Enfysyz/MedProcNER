@@ -1,0 +1,54 @@
+T1 DISO 1 31 carcinoma de células escamosas
+T2 ANAT 14 27 borde lingual
+T3 ANAT 53 79 pared lateral orofar íngea
+T4 ANAT 43 57 área amigdalar
+T5 ANAT 17 21 hemi
+T6 ANAT 16 19 pal
+T7 ANAT 67 78 adar blando
+T8 DISO 176 201 adenopatías metastás icas
+T9 ANAT 81 91 vasculares
+T10 ANAT 217 241 regiones sub ma xil ares
+T11 ANAT 61 67 cuello
+T12 PROC 210 229 resección del tumor
+T13 PROC 337 365 vaciamiento cervical radical
+T14 PROC 339 365 reconstrucción del defecto
+T15 ANAT 925 991 colgajo microvascular izado fas cio cutáneo anterolateral de muslo
+T16 PROC 421 449 vaciamiento cervical radical
+T17 PROC 113 120 cirugía
+T18 DISO 511 541 complicaciones postoperatorias
+T19 PROC 217 229 intervención
+T20 PROC 134 141 traqueo
+T21 PROC 261 274 tomía reglada
+T22 ANAT 421 441 colgajo de B já¶ r k
+T23 ANAT 155 162 tráquea
+T24 PROC 162 169 traqueo
+T25 PROC 121 126 tomía
+T26 PROC 301 313 intervención
+T27 ANAT 157 163 traque
+T28 ANAT 55 57 os
+T29 ANAT 113 117 toma
+T30 PROC 146 151 decan
+T31 PROC 121 125 ular
+T32 ANAT 497 513 colgajo traqueal
+T33 ANAT 129 133 piel
+T34 PROC 1354 1395 tratamiento radio terápico complementario
+T35 ANAT 409 421 cavidad oral
+T36 ANAT 211 217 orofar
+T37 ANAT 73 75 ín
+T38 ANAT 75 77 ge
+T39 ANAT 1255 1288 niveles ganglionares cervicales I
+T40 PROC 742 761 TC cervico torácica
+T41 PROC 281 288 cirugía
+T42 DISO 165 169 masa
+T43 DISO 799 818 proceso neoplás ico
+T44 ANAT 904 925 lóbulo medio pulmonar
+T45 PROC 529 541 broncoscopia
+T46 ANAT 316 323 tráquea
+T47 ANAT 1059 1082 pared traqueal anterior
+T48 ANAT 753 769 pared de tráquea
+T49 DISO 1249 1275 masa pulmonar inflamatoria
+T50 ANAT 393 401 traqueal
+T51 DISO 701 715 sintomatología
+T52 DISO 1429 1457 sensación de cuerpo extraá±o
+T53 DISO 157 160 tos
+T54 DISO 319 325 disnea

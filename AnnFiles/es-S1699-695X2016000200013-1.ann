@@ -1,0 +1,87 @@
+T1 ANAT 1 10 testículo
+T2 DISO 6 11 dolor
+T3 DISO 47 70 sintomatología urinaria
+T4 DISO 25 33 alergias
+T5 DISO 41 51 patologías
+T6 DISO 16 19 cri
+T7 DISO 25 29 ptor
+T8 DISO 22 25 qui
+T9 DISO 25 28 dia
+T10 DISO 46 51 hidro
+T11 DISO 41 45 cele
+T12 DISO 320 349 consumo alcohol tabaco drogas
+T13 PROC 217 235 exploración física
+T14 ANAT 118 127 testículo
+T15 PROC 71 76 trans
+T16 ANAT 136 145 testículo
+T17 DISO 353 375 adenopatías inguinales
+T18 ANAT 137 145 anatomía
+T19 DISO 217 229 ginecomastia
+T20 DISO 286 301 visceromegalias
+T21 DISO 421 442 irritación peritoneal
+T22 PROC 421 441 ecografía testicular
+T23 DISO 155 162 quistes
+T24 DISO 346 361 calcificaciones
+T25 PROC 433 451 analítica completa
+T26 PROC 501 521 marcadores tumorales
+T27 PROC 521 541 radiografía de tórax
+T28 PROC 217 225 consulta
+T29 PROC 253 262 hemograma
+T30 PROC 291 301 bioquímica
+T31 PROC 61 63 AF
+T32 PROC 32 33 P
+T33 PROC 129 133 Beta
+T34 PROC 34 35 -
+T35 PROC 69 71 HC
+T36 PROC 36 37 G
+T37 PROC 109 112 LDH
+T38 PROC 741 761 radiografía de tórax
+T39 PROC 305 313 consulta
+T40 PROC 313 321 Atención
+T41 PROC 801 821 ecografía testicular
+T42 ANAT 42 43 T
+T43 ANAT 85 87 es
+T44 ANAT 259 265 tículo
+T45 DISO 1365 1396 calcificaciones vascularización
+T46 DISO 901 921 Proceso inflamatorio
+T47 DISO 93 95 or
+T48 DISO 659 673 quitis derecha
+T49 DISO 913 932 proceso neoplás ico
+T50 PROC 99 101 or
+T51 PROC 151 154 qui
+T52 PROC 1225 1249 ectomía radical inguinal
+T53 PROC 417 425 Anatomía
+T54 DISO 107 109 Se
+T55 DISO 163 166 min
+T56 DISO 166 169 oma
+T57 DISO 673 685 infiltración
+T58 ANAT 229 233 táºn
+T59 ANAT 929 945 ica al bu g ínea
+T60 ANAT 1240 1261 parénquima testicular
+T61 DISO 1741 1770 tumor germinal intra tu bular
+T62 ANAT 123 125 Ep
+T63 ANAT 125 127 id
+T64 ANAT 190 193 ídi
+T65 ANAT 129 131 mo
+T66 PROC 586 595 resección
+T67 ANAT 1255 1274 cordón esper mático
+T68 DISO 671 681 malignidad
+T69 PROC 1769 1795 Tomografía Compu ter izada
+T70 PROC 1519 1541 TC ) abdomino pélv ico
+T71 PROC 981 995 estadificación
+T72 DISO 3196 3241 adenopatías mediastínicas , hiliares axilares
+T73 DISO 289 293 Aden
+T74 DISO 1607 1629 opatía par acar di aca
+T75 DISO 445 451 micron
+T76 DISO 376 381 ódulo
+T77 DISO 2509 2542 adenopatías retro peritoneales ni
+T78 ANAT 386 391 pelvi
+T79 DISO 235 238 pan
+T80 DISO 1581 1601 iculitis mesentérica
+T81 DISO 2721 2755 adenopatías inguinales bilaterales
+T82 PROC 568 575 cirugía
+T83 PROC 903 914 diagnóstico
+T84 DISO 416 421 semin
+T85 DISO 253 256 oma
+T86 PROC 851 861 vigilancia
+T87 PROC 1807 1828 tratamiento adyuvante

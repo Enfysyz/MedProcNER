@@ -1,0 +1,59 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 20 39 enfermedad de Crohn
+T3 ANAT 7 10 ile
+T4 ANAT 7 9 al
+T5 DISO 49 61 inflamatorio
+T6 DISO 106 127 crisis subo clus ivas
+T7 DISO 127 148 perforación abdominal
+T8 DISO 169 193 peritonitis fec alo idea
+T9 PROC 217 244 intervenciones quiráºrgicas
+T10 DISO 271 301 complicaciones postoperatorias
+T11 DISO 271 298 síndrome de intestino corto
+T12 DISO 452 493 fístula entero ent érica y entero cutánea
+T13 PROC 121 131 trasladada
+T14 PROC 92 99 ingreso
+T15 DISO 127 136 febrícula
+T16 DISO 331 353 infección de la herida
+T17 DISO 305 324 dehiscencia cutánea
+T18 DISO 205 217 desnutrición
+T19 PROC 55 58 ile
+T20 PROC 400 421 ostomía de protección
+T21 PROC 81 85 fist
+T22 PROC 43 45 ul
+T23 PROC 155 162 ización
+T24 PROC 622 649 anastomosis i leo - c ólica
+T25 PROC 481 501 drenajes abdominales
+T26 PROC 176 183 ingreso
+T27 PROC 677 703 Nutrición Parenteral Total
+T28 PROC 28 29 N
+T29 PROC 57 59 PT
+T30 PROC 320 331 seguimiento
+T31 PROC 91 94 NPT
+T32 DISO 311 321 colestasis
+T33 CHEM 225 232 lípidos
+T34 PROC 100 103 NPT
+T35 PROC 103 106 NPT
+T36 DISO 771 793 fístula entero cutánea
+T37 DISO 217 223 fiebre
+T38 DISO 556 571 dolor abdominal
+T39 DISO 571 586 pérdida de peso
+T40 PROC 430 441 tratamiento
+T41 CHEM 121 124 Inf
+T42 CHEM 288 295 liximab
+T43 PROC 715 732 alta hospitalaria
+T44 PROC 130 133 NPT
+T45 PROC 1805 1846 intervención de reconstrucción intestinal
+T46 PROC 1126 1151 seguida ambula toriamente
+T47 PROC 415 424 Nutrición
+T48 PROC 142 145 NPT
+T49 PROC 385 393 infusión
+T50 PROC 932 951 seguimiento clínico
+T51 PROC 701 715 administración
+T52 PROC 154 157 NPT
+T53 PROC 521 531 bioquímica
+T54 PROC 584 595 seguimiento
+T55 CHEM 811 826 macronutrientes
+T56 CHEM 496 505 nitrógeno
+T57 CHEM 841 856 micronutrientes
+T58 CHEM 286 291 sodio
+T59 CHEM 291 296 cloro

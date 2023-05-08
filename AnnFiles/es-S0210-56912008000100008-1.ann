@@ -1,0 +1,40 @@
+T1 PROC 1 23 ingresa en el hospital
+T2 DISO 15 29 dolor torácico
+T3 PROC 7 10 ECG
+T4 PROC 7 9 ST
+T5 PROC 9 11 ST
+T6 PROC 56 67 diagnóstico
+T7 DISO 73 85 IAM inferior
+T8 PROC 176 201 tratamiento fibrinolítico
+T9 CHEM 25 28 ten
+T10 CHEM 19 21 ec
+T11 CHEM 21 23 te
+T12 CHEM 45 49 plas
+T13 CHEM 13 14 a
+T14 PROC 40 43 ECG
+T15 DISO 225 241 dolor precordial
+T16 DISO 31 33 SB
+T17 PROC 49 52 ECG
+T18 PROC 18 19 E
+T19 PROC 19 20 -
+T20 PROC 39 41 ST
+T21 PROC 141 148 ingreso
+T22 PROC 64 67 ECG
+T23 PROC 23 24 E
+T24 PROC 24 25 -
+T25 PROC 49 51 ST
+T26 PROC 226 235 ingresado
+T27 DISO 599 622 arritmias ventriculares
+T28 PROC 190 197 creatin
+T29 PROC 197 204 quinasa
+T30 PROC 320 331 troponina I
+T31 PROC 691 714 arteriografía coronaria
+T32 DISO 280 289 estenosis
+T33 ANAT 801 826 arteria coronaria derecha
+T34 PROC 496 511 colocó un stent
+T35 PROC 409 421 dado de alta
+T36 PROC 876 901 prueba de provocación con
+T37 CHEM 37 38 f
+T38 CHEM 334 343 lecainida
+T39 PROC 419 430 diagnóstico
+T40 DISO 79 81 SB

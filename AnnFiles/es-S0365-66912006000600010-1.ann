@@ -1,0 +1,38 @@
+T1 DISO 1 18 dificultad visual
+T2 DISO 8 15 enlente
+T3 DISO 9 13 cida
+T4 DISO 31 41 dificultad
+T5 DISO 73 91 crisis epilépticas
+T6 PROC 56 67 tratamiento
+T7 CHEM 79 92 carbamazepina
+T8 CHEM 22 25 hid
+T9 CHEM 57 64 antoína
+T10 CHEM 28 31 Top
+T11 CHEM 31 34 ama
+T12 CHEM 12 13 x
+T13 PROC 301 326 exploración oftalmológica
+T14 PROC 144 155 exploración
+T15 PROC 225 241 agudeza visual (
+T16 PROC 226 241 AV ) espontánea
+T17 ANAT 65 69 ojos
+T18 PROC 69 73 biom
+T19 PROC 37 39 ic
+T20 PROC 58 61 ros
+T21 PROC 281 295 copía anterior
+T22 ANAT 148 155 pupilas
+T23 PROC 485 507 estudio fun dos cópico
+T24 PROC 70 73 cam
+T25 PROC 553 576 pimetría computer izada
+T26 DISO 101 105 hemi
+T27 DISO 417 433 anopsia homónima
+T28 PROC 406 421 test de colores
+T29 ANAT 85 88 ojo
+T30 PROC 813 841 resonancia magnética nuclear
+T31 PROC 421 435 RMN ) cerebral
+T32 CHEM 280 289 gadolinio
+T33 PROC 513 529 RMN por difusión
+T34 PROC 760 783 exploración neurológica
+T35 DISO 511 526 fenómeno tóxico
+T36 CHEM 106 109 Top
+T37 CHEM 109 112 ama
+T38 CHEM 38 39 x

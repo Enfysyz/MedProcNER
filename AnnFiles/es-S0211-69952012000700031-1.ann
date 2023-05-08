@@ -1,0 +1,54 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 35 69 enfermedad inflamatoria intestinal
+T3 CHEM 21 31 esteroides
+T4 PROC 130 173 ingresado en Unidad de Vigilancia Intensiva
+T5 DISO 109 136 sepsis de origen intestinal
+T6 DISO 106 127 fracaso multiorgánico
+T7 PROC 133 155 hemodiálisis periódica
+T8 PROC 92 105 biopsia renal
+T9 DISO 257 289 nefropatía tub ulo intersti cial
+T10 PROC 64 71 ingreso
+T11 DISO 321 353 lesiones cutáneas , eritematosas
+T12 DISO 122 133 ind ur adas
+T13 DISO 145 157 pruriginosas
+T14 DISO 118 127 dolorosas
+T15 ANAT 127 136 dorso del
+T16 ANAT 166 177 pie derecho
+T17 ANAT 193 205 cara interna
+T18 ANAT 103 109 muslos
+T19 PROC 415 438 tratamiento antibiótico
+T20 DISO 172 181 celulitis
+T21 DISO 221 232 descamación
+T22 DISO 211 221 ulceración
+T23 PROC 331 346 biopsia cutánea
+T24 DISO 139 145 cripto
+T25 DISO 73 76 coc
+T26 DISO 101 105 osis
+T27 PROC 781 811 examen directo con tinta china
+T28 PROC 406 421 tinción de Gram
+T29 PROC 197 204 cultivo
+T30 PROC 88 91 ure
+T31 PROC 91 94 asa
+T32 ANAT 156 161 suero
+T33 DISO 1057 1090 afectación pulmonar y neurológica
+T34 PROC 991 1021 tomografía axial computarizada
+T35 PROC 477 491 punción lumbar
+T36 PROC 386 397 tratamiento
+T37 CHEM 397 408 voriconazol
+T38 PROC 519 533 test hepáticos
+T39 PROC 115 118 bil
+T40 PROC 547 561 irrubina total
+T41 PROC 441 452 transaminas
+T42 PROC 1231 1261 a glu támico - ox alac ética [
+T43 PROC 43 44 T
+T44 PROC 87 89 GO
+T45 PROC 485 496 transaminas
+T46 PROC 1216 1243 a glu támico - pir áº v ica
+T47 PROC 47 48 T
+T48 PROC 95 97 GP
+T49 CHEM 673 687 anfotericina B
+T50 CHEM 491 501 prednisona
+T51 DISO 401 409 lesiones
+T52 DISO 256 261 ulcer
+T53 DISO 365 372 aciones
+T54 PROC 743 757 test hepáticos

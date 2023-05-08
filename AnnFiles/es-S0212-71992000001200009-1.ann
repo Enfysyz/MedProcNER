@@ -1,0 +1,71 @@
+T1 PROC 1 14 diagnosticada
+T2 PROC 33 65 biopsia pulmonar trans bronquial
+T3 DISO 3 4 F
+T4 DISO 7 9 PI
+T5 PROC 93 116 tratada con corticoides
+T6 PROC 181 217 oxigenoterapia continua domiciliaria
+T7 PROC 79 92 diagnosticada
+T8 DISO 15 17 ul
+T9 DISO 97 109 cus duodenal
+T10 PROC 64 71 ingreso
+T11 DISO 31 34 tos
+T12 DISO 144 157 expectoración
+T13 DISO 73 79 fiebre
+T14 DISO 79 85 disnea
+T15 PROC 99 106 ingreso
+T16 DISO 166 177 tumefacción
+T17 ANAT 241 256 región cervical
+T18 DISO 341 361 dolor centrotorácico
+T19 DISO 55 58 tos
+T20 DISO 305 321 disnea de reposo
+T21 PROC 361 379 exploración física
+T22 DISO 190 199 taquipnea
+T23 DISO 243 254 taquicardia
+T24 DISO 254 265 tumefacción
+T25 DISO 265 276 crepitación
+T26 ANAT 376 391 región cervical
+T27 DISO 287 298 crepitantes
+T28 ANAT 460 477 campos pulmonares
+T29 DISO 309 320 crepitación
+T30 PROC 610 631 auscultación cardíaca
+T31 DISO 481 497 pulso paradójico
+T32 DISO 311 321 leucocitos
+T33 PROC 353 364 hemoglobina
+T34 PROC 364 375 hematocrito
+T35 PROC 103 106 LDH
+T36 PROC 246 253 creatin
+T37 PROC 253 260 quinasa
+T38 PROC 704 723 gasometría arterial
+T39 PROC 77 79 PO
+T40 PROC 40 41 2
+T41 PROC 41 42 P
+T42 PROC 83 85 CO
+T43 PROC 43 44 2
+T44 PROC 130 133 HCO
+T45 PROC 45 46 3
+T46 PROC 46 47 -
+T47 PROC 967 988 saturación de oxígeno
+T48 PROC 847 865 electrocardiograma
+T49 PROC 1009 1030 radiografía de cuello
+T50 DISO 834 851 enfisema cervical
+T51 PROC 1001 1021 radiografía de tórax
+T52 DISO 868 885 fibrosis pulmonar
+T53 DISO 209 213 neum
+T54 DISO 372 379 omedias
+T55 DISO 217 221 tino
+T56 PROC 1431 1457 tomografía computarizada (
+T57 PROC 729 742 TC ) de tórax
+T58 DISO 1540 1567 fibrosis pulmonar bilateral
+T59 DISO 233 237 neum
+T60 DISO 414 421 omedias
+T61 DISO 241 245 tino
+T62 DISO 184 187 bul
+T63 DISO 621 631 las aéreas
+T64 ANAT 1576 1601 lóbulo superior izquierdo
+T65 DISO 641 651 neumotórax
+T66 PROC 1496 1519 tratamiento sintomático
+T67 PROC 1453 1475 controles radiológicos
+T68 DISO 1274 1293 enfisema subcutáneo
+T69 DISO 273 277 neum
+T70 DISO 484 491 omedias
+T71 DISO 281 285 tino

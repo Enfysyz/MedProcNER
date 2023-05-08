@@ -1,0 +1,57 @@
+T1 PROC 1 11 evaluación
+T2 DISO 6 11 labio
+T3 DISO 3 4 -
+T4 DISO 10 13 pal
+T5 DISO 53 66 adar hen dido
+T6 PROC 36 43 cirugía
+T7 DISO 61 71 enfermedad
+T8 DISO 113 129 hipoplasia malar
+T9 PROC 105 118 examen físico
+T10 DISO 28 31 dis
+T11 DISO 31 34 mor
+T12 DISO 265 289 fia de la pirámide nasal
+T13 PROC 277 300 análisis cefal ométrico
+T14 PROC 235 253 estudios de imagen
+T15 PROC 561 601 tomografía computarizada multi detec tor
+T16 PROC 16 17 T
+T17 PROC 33 35 CM
+T18 PROC 18 19 D
+T19 DISO 325 343 hipoplasia maxilar
+T20 PROC 343 361 manejo quiráºrgico
+T21 PROC 381 400 osteotomía Le F ort
+T22 PROC 967 1013 colocación de dis tractores maxilares internos
+T23 PROC 947 990 corrección de la relación maxil omandibular
+T24 PROC 691 721 extracción de piezas dentarias
+T25 PROC 1057 1101 rehabilitación mediante implantes den tarios
+T26 PROC 276 287 tratamiento
+T27 DISO 703 730 complicaciones quiráºrgicas
+T28 DISO 244 253 epistaxis
+T29 PROC 869 900 taponamiento anterior bilateral
+T30 PROC 204 211 ingreso
+T31 PROC 91 94 TCM
+T32 PROC 32 33 D
+T33 PROC 1249 1288 administración de contraste intravenoso
+T34 PROC 67 69 CI
+T35 PROC 35 36 V
+T36 PROC 561 577 estudio vascular
+T37 ANAT 145 149 maci
+T38 ANAT 334 343 zo facial
+T39 DISO 191 196 seudo
+T40 DISO 352 361 aneurisma
+T41 ANAT 1041 1067 fosa p teri go - pala tina
+T42 ANAT 944 967 arteria maxilar interna
+T43 PROC 295 302 ingreso
+T44 DISO 904 925 sangrado oral y nasal
+T45 PROC 969 991 taponamiento posterior
+T46 PROC 1036 1059 arteriografía selectiva
+T47 ANAT 1105 1129 arteria carótida externa
+T48 DISO 236 241 seudo
+T49 DISO 433 442 aneurisma
+T50 ANAT 1128 1151 arteria maxilar interna
+T51 PROC 601 613 embolización
+T52 PROC 613 625 intervención
+T53 CHEM 1197 1220 goma de ciano acri lato
+T54 PROC 690 703 procedimiento
+T55 DISO 433 441 sangrado
+T56 DISO 1431 1457 alteraciones hemodinámicas
+T57 PROC 673 685 embolización

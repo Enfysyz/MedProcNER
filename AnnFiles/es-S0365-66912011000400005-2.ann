@@ -1,0 +1,38 @@
+T1 DISO 1 17 AR sero positiva
+T2 PROC 18 35 factor reumatoide
+T3 CHEM 23 34 anticuerpos
+T4 CHEM 13 17 anti
+T5 CHEM 5 6 -
+T6 CHEM 6 7 C
+T7 CHEM 13 15 CP
+T8 CHEM 71 81 infliximab
+T9 CHEM 81 91 adalimumab
+T10 DISO 73 81 ojo rojo
+T11 DISO 51 56 dolor
+T12 DISO 100 109 fotofobia
+T13 DISO 349 378 infiltrado corneal periférico
+T14 ANAT 66 71 semil
+T15 ANAT 43 46 una
+T16 DISO 91 97 escler
+T17 DISO 65 69 itis
+T18 PROC 477 505 Cultivo del ras pado corneal
+T19 PROC 199 210 tratamiento
+T20 CHEM 191 201 prednisona
+T21 CHEM 181 190 rituximab
+T22 DISO 43 45 AR
+T23 CHEM 243 254 metotrexato
+T24 CHEM 208 217 rituximab
+T25 DISO 49 51 QU
+T26 DISO 26 27 P
+T27 DISO 53 55 AR
+T28 DISO 487 505 infiltrado corneal
+T29 DISO 169 175 escler
+T30 DISO 117 121 itis
+T31 DISO 511 528 clínica articular
+T32 PROC 342 353 tratamiento
+T33 CHEM 289 298 rituximab
+T34 PROC 166 171 pauta
+T35 DISO 69 71 AR
+T36 DISO 211 217 cuadro
+T37 ANAT 217 223 ocular
+T38 ANAT 334 343 sistémico

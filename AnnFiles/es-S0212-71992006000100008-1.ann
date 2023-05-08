@@ -1,0 +1,79 @@
+T1 DISO 1 24 reflujo gastroesofágico
+T2 ANAT 6 11 cardi
+T3 ANAT 5 7 as
+T4 PROC 85 113 intervenido quiráºrgicamente
+T5 PROC 33 41 transfun
+T6 PROC 21 25 dido
+T7 DISO 43 50 fumador
+T8 DISO 15 17 ex
+T9 DISO 25 28 beb
+T10 DISO 37 41 edor
+T11 DISO 31 34 nef
+T12 DISO 111 121 rolitiasis
+T13 PROC 97 105 ingresar
+T14 DISO 66 71 dolor
+T15 ANAT 85 91 flanco
+T16 ANAT 136 145 testículo
+T17 DISO 193 205 cólico renal
+T18 PROC 154 163 analgesia
+T19 DISO 325 343 sensación nauseosa
+T20 DISO 115 121 fiebre
+T21 DISO 361 379 síndrome miccional
+T22 DISO 421 441 pérdida apetito peso
+T23 PROC 419 438 ecografía abdominal
+T24 DISO 300 313 hidronefrosis
+T25 DISO 97 101 masa
+T26 ANAT 51 53 re
+T27 ANAT 105 109 tero
+T28 ANAT 244 253 peritoneo
+T29 PROC 253 262 ingresado
+T30 DISO 146 151 dolor
+T31 ANAT 181 187 flanco
+T32 ANAT 32 33 f
+T33 ANAT 289 298 osa renal
+T34 ANAT 166 171 teste
+T35 DISO 239 246 náuseas
+T36 DISO 246 253 vómitos
+T37 DISO 217 223 fiebre
+T38 PROC 408 419 exploración
+T39 PROC 229 235 cusión
+T40 ANAT 196 201 renal
+T41 PROC 121 124 ECG
+T42 PROC 821 841 radiografía de tórax
+T43 PROC 799 818 analítica de sangre
+T44 PROC 474 485 fibrinógeno
+T45 PROC 177 181 urea
+T46 PROC 451 461 creatinina
+T47 PROC 139 142 LDH
+T48 PROC 283 289 gonado
+T49 PROC 193 197 trop
+T50 PROC 1030 1051 in acor iónica humana
+T51 PROC 201 205 alfa
+T52 PROC 103 105 fe
+T53 PROC 105 107 to
+T54 PROC 425 433 proteína
+T55 PROC 1135 1156 TAC abdomino pélv ica
+T56 ANAT 276 281 retro
+T57 ANAT 841 856 peritoneo medio
+T58 ANAT 286 291 aorta
+T59 ANAT 1045 1063 vena cava inferior
+T60 DISO 1417 1441 masa de " tej ido blando
+T61 ANAT 1081 1099 vena cava inferior
+T62 ANAT 184 187 ure
+T63 ANAT 683 694 ter derecho
+T64 DISO 820 833 hidronefrosis
+T65 DISO 385 391 lesión
+T66 DISO 716 727 adenopatías
+T67 DISO 1189 1207 lesiones satélites
+T68 PROC 872 885 interconsulta
+T69 PROC 749 760 nefrostomía
+T70 PROC 1036 1051 biopsia truc ut
+T71 DISO 1401 1421 masa retroperitoneal
+T72 PROC 640 649 ecografía
+T73 ANAT 361 366 pieza
+T74 PROC 585 593 anatomía
+T75 DISO 149 151 ne
+T76 DISO 151 153 of
+T77 DISO 609 617 ormación
+T78 ANAT 540 547 células
+T79 ANAT 781 791 citoplasma

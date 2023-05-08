@@ -1,0 +1,79 @@
+T1 DISO 1 8 fumador
+T2 DISO 24 47 alergias medicamentosas
+T3 PROC 23 34 tratamiento
+T4 PROC 22 29 Ingresó
+T5 DISO 217 271 síndrome coronario agudo con elevación del segmento ST
+T6 DISO 11 13 SC
+T7 DISO 31 36 ACEST
+T8 DISO 141 161 angina postin f arto
+T9 PROC 161 181 estudio hemodinámico
+T10 ANAT 226 251 arteria coronaria derecha
+T11 ANAT 21 23 CD
+T12 ANAT 221 241 descendente anterior
+T13 ANAT 25 27 DA
+T14 ANAT 209 225 primera diagonal
+T15 ANAT 43 46 bis
+T16 ANAT 61 65 triz
+T17 ANAT 97 103 circun
+T18 ANAT 86 91 fleja
+T19 ANAT 19 20 C
+T20 ANAT 20 21 X
+T21 PROC 221 232 cateterismo
+T22 PROC 421 441 fracción de eyección
+T23 PROC 1013 1059 presión tele diast ólica ventricular izquierda
+T24 PROC 162 169 cirugía
+T25 PROC 265 276 tratamiento
+T26 CHEM 76 79 car
+T27 CHEM 183 190 vedilol
+T28 CHEM 244 253 captopril
+T29 CHEM 281 291 amlodipino
+T30 CHEM 349 361 simvastatina
+T31 CHEM 661 683 ácido acetilsalicílico
+T32 PROC 869 897 revascularización miocárdica
+T33 PROC 737 760 injertos de vena safena
+T34 ANAT 67 69 CD
+T35 ANAT 273 281 diagonal
+T36 ANAT 526 541 arteria mamaria
+T37 ANAT 73 75 DA
+T38 PROC 482 495 procedimiento
+T39 PROC 115 118 CEC
+T40 DISO 313 321 isquemia
+T41 PROC 401 411 hipotermia
+T42 PROC 370 379 anestesia
+T43 CHEM 43 44 e
+T44 CHEM 130 133 tom
+T45 CHEM 221 226 idato
+T46 CHEM 91 93 ci
+T47 CHEM 93 95 sa
+T48 CHEM 142 145 tra
+T49 CHEM 241 246 curio
+T50 CHEM 442 451 midazolam
+T51 CHEM 101 103 ci
+T52 CHEM 103 105 sa
+T53 CHEM 157 160 tra
+T54 CHEM 266 271 curio
+T55 CHEM 703 716 remifentanilo
+T56 PROC 1376 1401 derivación cardiopulmonar
+T57 CHEM 449 457 heparina
+T58 CHEM 172 175 pro
+T59 CHEM 349 355 tamina
+T60 PROC 2538 2581 ingreso en la Unidad de Cuidados Intensivos
+T61 PROC 1321 1343 tensión arterial media
+T62 PROC 184 187 TAM
+T63 PROC 559 568 perfusión
+T64 CHEM 631 641 dobutamina
+T65 PROC 1217 1236 frecuencia cardíaca
+T66 PROC 1756 1783 presión de arteria pulmonar
+T67 PROC 199 202 PVC
+T68 PROC 68 69 P
+T69 PROC 137 139 CP
+T70 PROC 967 981 gasto cardíaco
+T71 PROC 141 143 GC
+T72 DISO 1563 1585 deterioro hemodinámico
+T73 DISO 793 804 hipotensión
+T74 CHEM 658 667 perfusión
+T75 CHEM 963 976 noradrenalina
+T76 CHEM 751 761 dobutamina
+T77 PROC 837 848 ventilación
+T78 PROC 1695 1717 drenajes mediastínicos
+T79 PROC 1327 1344 radiología simple

@@ -1,0 +1,20 @@
+T1 PROC 1 21 ingresó en urgencias
+T2 DISO 7 13 trauma
+T3 DISO 27 40 tismo craneal
+T4 DISO 46 61 ictus isquémico
+T5 DISO 21 26 golpe
+T6 ANAT 31 37 cuello
+T7 PROC 43 50 ingreso
+T8 PROC 78 89 TAC craneal
+T9 DISO 137 154 infarto isquémico
+T10 ANAT 199 221 arteria cerebral media
+T11 DISO 201 221 disección traumática
+T12 ANAT 353 385 arteria carótida interna derecha
+T13 DISO 301 326 hipertensión endo craneal
+T14 DISO 66 71 herni
+T15 DISO 197 211 ación cerebral
+T16 DISO 256 273 muerte encefálica
+T17 PROC 305 324 donación de órganos
+T18 DISO 86 91 falle
+T19 DISO 109 115 ciendo
+T20 PROC 134 141 ingreso

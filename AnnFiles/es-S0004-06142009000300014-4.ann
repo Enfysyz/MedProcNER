@@ -1,0 +1,62 @@
+T1 DISO 1 24 síndrome constitucional
+T2 PROC 12 23 diagnosticó
+T3 DISO 53 79 tumoración retroperitoneal
+T4 PROC 25 33 exéresis
+T5 DISO 17 21 masa
+T6 ANAT 16 19 FID
+T7 ANAT 37 43 vejiga
+T8 ANAT 253 289 peritoneo parietal y parie toc ólico
+T9 PROC 289 325 diagnosticó anatomo pat ológicamente
+T10 DISO 145 161 sarcoma de grado
+T11 DISO 51 56 fibro
+T12 DISO 12 13 h
+T13 DISO 49 53 isti
+T14 DISO 40 43 oci
+T15 DISO 337 361 toma maligno ple omor fo
+T16 PROC 406 433 radioterapia complementaria
+T17 PROC 113 120 cirugía
+T18 DISO 664 703 deterioro progresivo del estado general
+T19 DISO 685 723 tumoración ingu ino esc ro tal derecha
+T20 DISO 153 161 dolorosa
+T21 PROC 401 421 ecografía testicular
+T22 ANAT 274 287 teste derecho
+T23 ANAT 375 392 conducto inguinal
+T24 PROC 70 73 son
+T25 PROC 169 176 ografía
+T26 DISO 201 209 quística
+T27 PROC 53 55 TC
+T28 DISO 163 169 lesión
+T29 PROC 421 436 ultrasonografía
+T30 DISO 465 481 recidiva tumoral
+T31 ANAT 571 590 cordón esper mático
+T32 PROC 63 65 or
+T33 PROC 97 100 qui
+T34 PROC 793 817 ectomía inguinal derecha
+T35 PROC 273 281 exéresis
+T36 DISO 456 469 masa quística
+T37 DISO 289 297 necrosis
+T38 DISO 1148 1179 infiltración de grasa adyacente
+T39 PROC 723 742 estudio histológico
+T40 DISO 391 401 tumoración
+T41 ANAT 761 780 células fus iformes
+T42 ANAT 288 295 células
+T43 ANAT 379 388 testículo
+T44 ANAT 173 177 epid
+T45 ANAT 133 136 ídi
+T46 ANAT 91 93 mo
+T47 DISO 231 236 fibro
+T48 DISO 48 49 h
+T49 DISO 193 197 isti
+T50 DISO 148 151 oci
+T51 DISO 1201 1225 toma ple omor fo maligno
+T52 ANAT 868 885 borde quiráºrgico
+T53 PROC 625 637 radioterapia
+T54 PROC 955 973 cirugía de la masa
+T55 PROC 1405 1431 tratamiento radio terápico
+T56 DISO 1266 1289 recidiva intraabdominal
+T57 PROC 1457 1483 tratamiento quimioterápico
+T58 CHEM 58 59 E
+T59 CHEM 175 178 pir
+T60 CHEM 473 481 rubicina
+T61 CHEM 61 62 I
+T62 CHEM 550 559 fosfamida

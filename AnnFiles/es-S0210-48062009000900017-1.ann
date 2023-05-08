@@ -1,0 +1,96 @@
+T1 DISO 1 15 retraso mental
+T2 DISO 2 3 s
+T3 DISO 7 10 ord
+T4 DISO 7 9 om
+T5 DISO 5 6 u
+T6 DISO 16 19 dez
+T7 DISO 61 71 meningitis
+T8 PROC 15 17 tó
+T9 DISO 41 46 dolor
+T10 DISO 100 111 inflamación
+T11 ANAT 41 45 hemi
+T12 ANAT 34 37 esc
+T13 ANAT 25 27 ro
+T14 ANAT 157 169 to izquierdo
+T15 PROC 323 346 tratamiento antibiótico
+T16 CHEM 241 257 antiinflamatorio
+T17 PROC 177 188 exploración
+T18 ANAT 137 145 escrotal
+T19 ANAT 163 172 testículo
+T20 DISO 343 361 doloroso palpación
+T21 ANAT 81 85 epid
+T22 ANAT 64 67 ídi
+T23 ANAT 45 47 mo
+T24 DISO 231 241 engros ado
+T25 ANAT 217 226 testículo
+T26 PROC 451 469 sedimento de orina
+T27 DISO 53 55 pi
+T28 DISO 109 113 uria
+T29 PROC 253 262 ecografía
+T30 ANAT 146 151 teste
+T31 DISO 571 590 cavidades quísticas
+T32 PROC 94 97 Dia
+T33 PROC 225 232 gnostic
+T34 PROC 100 103 ado
+T35 DISO 69 71 or
+T36 DISO 211 217 quitis
+T37 PROC 109 112 dio
+T38 PROC 1592 1635 tratamiento analgésico - anti inflama torio
+T39 PROC 305 313 revisión
+T40 PROC 313 321 consulta
+T41 DISO 241 247 nódulo
+T42 PROC 452 463 diagnóstico
+T43 DISO 841 861 neoplasia testicular
+T44 PROC 87 89 or
+T45 PROC 133 136 qui
+T46 PROC 1126 1151 ectomía radical izquierda
+T47 PROC 599 612 determinación
+T48 PROC 941 961 marcadores tumorales
+T49 PROC 49 50 b
+T50 PROC 50 51 -
+T51 PROC 101 103 HC
+T52 PROC 52 53 G
+T53 PROC 209 213 alfa
+T54 PROC 54 55 -
+T55 PROC 109 111 fe
+T56 PROC 111 113 to
+T57 PROC 449 457 proteína
+T58 PROC 172 175 LDH
+T59 PROC 117 119 ac
+T60 PROC 119 121 or
+T61 PROC 181 184 qui
+T62 PROC 428 435 ectomía
+T63 ANAT 249 253 táºn
+T64 ANAT 1009 1025 ica al bu g ínea
+T65 DISO 1153 1171 zonas hemorrágicas
+T66 ANAT 1366 1387 parénquima testicular
+T67 DISO 397 403 placas
+T68 PROC 1274 1293 examen microscópico
+T69 DISO 273 277 hipo
+T70 DISO 346 351 esper
+T71 DISO 281 285 mato
+T72 DISO 498 505 génesis
+T73 ANAT 1513 1534 táºbulos semin íferos
+T74 DISO 2045 2073 proceso inflamatorio crónico
+T75 DISO 371 376 histi
+T76 DISO 451 457 ocitos
+T77 ANAT 1445 1464 células plasmáticas
+T78 ANAT 1233 1249 células gigantes
+T79 ANAT 547 554 células
+T80 ANAT 554 561 cuerpos
+T81 PROC 1681 1702 tinción de Von Kos sa
+T82 CHEM 487 493 calcio
+T83 PROC 903 914 diagnóstico
+T84 DISO 167 169 ML
+T85 DISO 85 86 P
+T86 DISO 2211 2237 alteraciones inflamatorias
+T87 ANAT 345 349 epid
+T88 ANAT 262 265 ídi
+T89 ANAT 177 179 mo
+T90 PROC 980 991 diagnóstico
+T91 DISO 181 183 ML
+T92 DISO 2731 2761 P testicular y epi didi m aria
+T93 PROC 1013 1024 tratamiento
+T94 PROC 466 471 pauta
+T95 CHEM 565 571 fluoro
+T96 CHEM 951 961 quinolonas

@@ -1,0 +1,22 @@
+T1 DISO 1 26 accidente de motocicle ta
+T2 PROC 21 41 radiografía de tórax
+T3 DISO 57 85 ensanchamiento mediastín ico
+T4 PROC 10 13 TAC
+T5 PROC 29 36 ingreso
+T6 DISO 26 31 seudo
+T7 DISO 163 190 aneurisma de aorta torácica
+T8 ANAT 190 217 arteria subclavia izquierda
+T9 DISO 305 343 hematoma peria ór tico y mediastín ico
+T10 DISO 37 41 hemo
+T11 DISO 151 166 tórax bilateral
+T12 PROC 23 25 In
+T13 PROC 49 53 gres
+T14 PROC 144 155 ó en la UCI
+T15 PROC 547 586 control estricto de la tensión arterial
+T16 DISO 166 177 traumatismo
+T17 PROC 369 392 colocó una endoprótesis
+T18 ANAT 443 469 aorta torácica descendente
+T19 ANAT 487 514 arteria subclavia izquierda
+T20 PROC 400 421 dado de alta a planta
+T21 PROC 341 358 alta hospitalaria
+T22 DISO 253 265 asintomático

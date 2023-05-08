@@ -1,0 +1,90 @@
+T1 PROC 1 8 ingresa
+T2 DISO 7 13 fiebre
+T3 PROC 39 58 TC toraco abdominal
+T4 DISO 13 17 masa
+T5 ANAT 109 136 polo superior renal derecho
+T6 ANAT 31 37 hígado
+T7 DISO 85 99 sintomatología
+T8 DISO 183 209 dolor impotencia funcional
+T9 ANAT 209 235 miembro inferior izquierdo
+T10 PROC 100 111 seguimiento
+T11 PROC 111 122 diagnóstico
+T12 PROC 144 157 TC de columna
+T13 PROC 337 365 Resonancia Magnética Nuclear
+T14 PROC 40 43 RMN
+T15 DISO 309 331 patología degenerativa
+T16 DISO 301 321 estenosis de canal L
+T17 DISO 145 154 espondilo
+T18 DISO 137 145 artrosis
+T19 DISO 415 438 síndrome constitucional
+T20 DISO 286 301 dolor abdominal
+T21 PROC 361 379 exploración física
+T22 ANAT 148 155 abdomen
+T23 DISO 111 116 masas
+T24 DISO 185 193 megalias
+T25 DISO 121 126 dolor
+T26 PROC 126 131 Puá±o
+T27 PROC 27 28 -
+T28 PROC 406 421 percusión renal
+T29 PROC 113 117 Anal
+T30 PROC 291 301 íticamente
+T31 PROC 301 311 bioquímica
+T32 PROC 466 481 perfil hepático
+T33 PROC 545 562 proteínas totales
+T34 PROC 199 205 calcio
+T35 PROC 307 316 Hemograma
+T36 PROC 386 397 hemoglobina
+T37 PROC 361 371 Hemostasia
+T38 PROC 445 457 Hemocultivos
+T39 PROC 115 118 uro
+T40 PROC 313 321 cultivos
+T41 PROC 1681 1723 tratamiento antibiótico de amplio espectro
+T42 CHEM 288 295 antitér
+T43 CHEM 169 173 mico
+T44 DISO 603 617 picos febriles
+T45 DISO 309 316 astenia
+T46 PROC 91 93 TC
+T47 PROC 139 142 RMN
+T48 DISO 518 529 masa sólida
+T49 ANAT 1009 1030 polo superior derecho
+T50 DISO 393 401 necrosis
+T51 DISO 301 307 lesión
+T52 ANAT 307 313 hígado
+T53 DISO 1093 1114 infiltración hepática
+T54 ANAT 955 973 vena renal derecha
+T55 ANAT 487 496 vena cava
+T56 DISO 1156 1177 adenopatías retro vas
+T57 DISO 841 856 derrame pleural
+T58 DISO 1597 1625 engrosamiento diafrag mático
+T59 DISO 1103 1122 afectación hepática
+T60 PROC 886 901 TAC Multic orte
+T61 ANAT 361 367 órgano
+T62 PROC 1465 1489 intervención quiráºrgica
+T63 DISO 1675 1702 masa heterogénea necró tico
+T64 ANAT 316 321 mitad
+T65 ANAT 897 911 riá±ón derecho
+T66 ANAT 976 991 lóbulo hepático
+T67 PROC 1189 1207 embolización renal
+T68 PROC 1609 1633 intervención quiráºrgica
+T69 PROC 2789 2830 laparotomía media supra e infra umbilical
+T70 PROC 760 771 exploración
+T71 DISO 1121 1137 tumoración renal
+T72 ANAT 427 433 hígado
+T73 ANAT 217 220 seg
+T74 ANAT 658 667 mento VII
+T75 ANAT 667 676 diafragma
+T76 DISO 1726 1749 adenopatías patológicas
+T77 ANAT 837 848 hilio renal
+T78 ANAT 1387 1405 líquido peritoneal
+T79 DISO 1795 1818 implantes perit oneales
+T80 PROC 870 881 muestras de
+T81 ANAT 1441 1459 líquido peritoneal
+T82 PROC 568 575 cultivo
+T83 PROC 739 748 citología
+T84 PROC 2242 2269 nefrectomía radical derecha
+T85 ANAT 1765 1786 segmento hepático VII
+T86 ANAT 596 603 adrenal
+T87 ANAT 775 784 diafragma
+T88 PROC 610 617 Colecis
+T89 PROC 705 713 tectomía
+T90 PROC 1336 1351 linfadenectomía

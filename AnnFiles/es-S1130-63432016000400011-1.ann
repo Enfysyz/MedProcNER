@@ -1,0 +1,73 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 36 71 adenocarcinoma gástrico sub cardial
+T3 DISO 21 31 afectación
+T4 ANAT 16 21 unión
+T5 PROC 121 151 citología de líquido asc ítico
+T6 DISO 51 61 malignidad
+T7 PROC 67 78 tratamiento
+T8 PROC 8 9 E
+T9 PROC 17 19 OX
+T10 CHEM 19 21 ep
+T11 CHEM 21 23 ir
+T12 CHEM 34 37 ubi
+T13 CHEM 49 53 cina
+T14 CHEM 27 29 ox
+T15 CHEM 57 61 alip
+T16 CHEM 31 33 la
+T17 CHEM 65 69 tino
+T18 CHEM 35 37 ca
+T19 CHEM 181 191 pecitabina
+T20 PROC 248 261 quimioterapia
+T21 PROC 481 505 intervención quiráºrgica
+T22 PROC 379 397 gastrectomía total
+T23 PROC 661 691 escisión de un quiste hepático
+T24 PROC 346 361 colecistectomía
+T25 PROC 289 301 intervención
+T26 DISO 276 287 fuga biliar
+T27 DISO 755 784 colección hipocondrio derecho
+T28 PROC 325 337 gastrectomía
+T29 PROC 729 755 quimioterapia neoadyuvante
+T30 PROC 320 331 tratamiento
+T31 CHEM 301 311 paclitaxel
+T32 CHEM 63 65 ra
+T33 CHEM 65 67 mu
+T34 CHEM 133 137 ciru
+T35 CHEM 103 106 mab
+T36 CHEM 71 73 ra
+T37 CHEM 73 75 mu
+T38 CHEM 149 153 ciru
+T39 CHEM 115 118 mab
+T40 CHEM 118 121 fil
+T41 CHEM 161 165 gras
+T42 CHEM 124 127 tim
+T43 PROC 463 474 tratamiento
+T44 PROC 302 309 ingresa
+T45 DISO 1233 1261 fiebre de origen desconocido
+T46 CHEM 406 415 naproxeno
+T47 CHEM 553 565 dexametasona
+T48 CHEM 95 97 ra
+T49 CHEM 97 99 mu
+T50 CHEM 197 201 ciru
+T51 CHEM 151 154 mab
+T52 CHEM 511 521 paclitaxel
+T53 DISO 781 796 dolor abdominal
+T54 DISO 584 595 rectorragia
+T55 PROC 1621 1651 tomografía axial computarizada
+T56 PROC 826 841 TAC ) abdominal
+T57 DISO 897 913 rotura esplénica
+T58 DISO 2623 2669 fístula peri anas tom ótica eso fago y ey unal
+T59 PROC 349 355 esplen
+T60 PROC 414 421 ectomía
+T61 PROC 421 428 drenaje
+T62 DISO 428 435 fístula
+T63 PROC 435 442 ingreso
+T64 DISO 1765 1793 colecciones intraabdominales
+T65 DISO 1601 1626 derrame pleural bilateral
+T66 PROC 1236 1255 cuidados paliativos
+T67 PROC 463 470 ingreso
+T68 PROC 537 545 ingresos
+T69 DISO 2313 2347 tromboembolismo pulmonar bilateral
+T70 DISO 1519 1541 infección respiratoria
+T71 CHEM 911 924 levofloxacino
+T72 DISO 1066 1081 dolor abdominal
+T73 PROC 937 950 TAC abdominal

@@ -1,0 +1,87 @@
+T1 PROC 1 9 consultó
+T2 PROC 18 35 creatinina sérica
+T3 PROC 3 4 C
+T4 PROC 7 9 rs
+T5 DISO 97 121 manifestaciones clínicas
+T6 DISO 146 175 enfermedad urológica ni renal
+T7 PROC 13 15 Cr
+T8 PROC 8 9 s
+T9 PROC 105 118 diagnosticado
+T10 DISO 289 321 anemia por deficiencia de hierro
+T11 DISO 231 254 reflujo gastroesofágico
+T12 DISO 89 97 disfagia
+T13 DISO 85 92 pesadez
+T14 DISO 443 477 manifestaciones gastrointestinales
+T15 DISO 169 181 dolor lumbar
+T16 DISO 121 129 febriles
+T17 DISO 337 358 inflamación articular
+T18 DISO 290 307 lesiones cutáneas
+T19 DISO 55 58 ser
+T20 DISO 115 121 ositis
+T21 ANAT 141 148 órganos
+T22 ANAT 169 177 sistemas
+T23 DISO 683 714 espondilitis an quilo poy ética
+T24 PROC 300 313 diagnosticado
+T25 DISO 577 601 enfermedad renal crónica
+T26 DISO 251 261 nefropatía
+T27 CHEM 287 298 analgésicos
+T28 PROC 55 57 Ex
+T29 PROC 57 59 pl
+T30 PROC 407 421 oración física
+T31 PROC 481 497 presión arterial
+T32 PROC 714 737 índice de masa corporal
+T33 PROC 65 67 Ex
+T34 PROC 67 69 pl
+T35 PROC 69 71 or
+T36 PROC 246 253 aciones
+T37 PROC 649 667 Análisis de sangre
+T38 PROC 75 77 Cr
+T39 PROC 39 40 s
+T40 PROC 1093 1121 filtrado glomerular estimado
+T41 PROC 81 83 FG
+T42 PROC 124 127 e )
+T43 PROC 169 173 MDRD
+T44 PROC 44 45 -
+T45 PROC 45 46 4
+T46 PROC 181 185 urea
+T47 PROC 231 236 iones
+T48 PROC 800 817 enzimas hepáticas
+T49 PROC 337 344 lípidos
+T50 PROC 834 851 Proteínas totales
+T51 PROC 351 358 protein
+T52 PROC 307 313 ograma
+T53 PROC 833 849 inmunoglobulinas
+T54 PROC 584 595 complemento
+T55 PROC 919 936 Factor reumatoide
+T56 PROC 1046 1065 Proteína C reactiva
+T57 PROC 169 172 PCR
+T58 PROC 1483 1509 anticuerpos antin ucleares
+T59 PROC 1277 1299 anticuerpos anti - DNA
+T60 PROC 2774 2821 anticuerpos anti cito plás micos de neutrófilos
+T61 PROC 2401 2441 antígenos de histo compatibilidad - B 27
+T62 PROC 1221 1241 Parámetros fér ricos
+T63 PROC 125 127 si
+T64 PROC 253 257 dere
+T65 PROC 193 196 mia
+T66 PROC 586 595 ferritina
+T67 PROC 2575 2614 índice de saturación de la transferrina
+T68 PROC 872 885 Vitamina B 12
+T69 PROC 817 829 ácido fólico
+T70 PROC 1174 1191 Análisis de orina
+T71 DISO 771 782 proteinuria
+T72 DISO 782 793 albuminuria
+T73 CHEM 2521 2556 cadenas ligeras libres monoclonales
+T74 PROC 1315 1333 Sedimento de orina
+T75 PROC 371 376 Radio
+T76 PROC 2551 2585 grafías de tórax columna vertebral
+T77 PROC 3573 3620 Ecografía abdominal , renal y de vías urinarias
+T78 DISO 2388 2419 espondilitis an quilo poy ética
+T79 PROC 703 712 analítica
+T80 PROC 159 161 Cr
+T81 PROC 81 82 s
+T82 PROC 163 165 FG
+T83 PROC 247 250 e (
+T84 PROC 84 85 M
+T85 PROC 169 171 DR
+T86 PROC 426 431 D - 4
+T87 DISO 947 958 proteinuria

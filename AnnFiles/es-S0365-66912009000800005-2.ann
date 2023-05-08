@@ -1,0 +1,25 @@
+T1 DISO 1 13 visión doble
+T2 DISO 17 33 ptosis palpebral
+T3 DISO 31 46 pérdida de peso
+T4 DISO 19 25 fiebre
+T5 DISO 93 116 claudicación mandibular
+T6 DISO 121 145 disminución de la visión
+T7 ANAT 25 29 ojos
+T8 ANAT 36 41 extra
+T9 ANAT 9 10 o
+T10 ANAT 46 51 cular
+T11 ANAT 21 23 OI
+T12 DISO 67 73 ptosis
+T13 ANAT 85 92 pupilar
+T14 ANAT 53 57 ojos
+T15 PROC 267 286 presión intraocular
+T16 PROC 421 449 estudios biom ic ros cópicos
+T17 PROC 353 375 pruebas de laboratorio
+T18 PROC 52 55 VSG
+T19 PROC 181 191 proteína C
+T20 PROC 172 181 plaquetas
+T21 PROC 221 232 diagnóstico
+T22 PROC 631 661 biopsia de la arteria temporal
+T23 DISO 683 714 oclusión de la arteria temporal
+T24 ANAT 162 169 células
+T25 ANAT 385 401 elástica interna

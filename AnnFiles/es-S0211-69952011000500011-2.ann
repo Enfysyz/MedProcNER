@@ -1,0 +1,49 @@
+T1 DISO 1 25 diabetes mellitus tipo 2
+T2 DISO 11 21 dislipemia
+T3 DISO 37 55 síndrome depresivo
+T4 PROC 34 45 tratamiento
+T5 CHEM 41 51 metformina
+T6 CHEM 11 13 es
+T7 CHEM 61 71 citalopram
+T8 CHEM 22 25 mir
+T9 CHEM 65 73 tazapina
+T10 CHEM 109 121 simvastatina
+T11 PROC 91 100 analítica
+T12 PROC 23 25 Cr
+T13 PROC 85 92 ingreso
+T14 PROC 144 155 tratamiento
+T15 CHEM 141 151 ibuprofeno
+T16 DISO 136 145 lumbalgia
+T17 DISO 113 120 náuseas
+T18 DISO 120 127 vómitos
+T19 DISO 127 134 diarrea
+T20 PROC 210 221 exploración
+T21 DISO 521 547 sequedad de piel y mucosas
+T22 PROC 190 199 analítica
+T23 PROC 287 300 Cr plasmática
+T24 PROC 162 169 glucosa
+T25 PROC 97 101 urea
+T26 PROC 276 287 hemoglobina
+T27 PROC 131 136 sodio
+T28 PROC 190 197 potasio
+T29 PROC 365 378 ácido láctico
+T30 PROC 552 571 gasometría arterial
+T31 PROC 61 63 pH
+T32 PROC 342 353 bicarbonato
+T33 PROC 609 628 ecografía abdominal
+T34 DISO 100 103 ure
+T35 DISO 137 141 tero
+T36 DISO 106 109 hid
+T37 DISO 721 741 ronefrosis bilateral
+T38 DISO 630 647 neoplasia vesical
+T39 DISO 989 1015 inestabilidad hemodinámica
+T40 PROC 469 481 hemodiálisis
+T41 PROC 81 83 Cr
+T42 PROC 288 295 potasio
+T43 PROC 85 87 pH
+T44 PROC 474 485 bicarbonato
+T45 PROC 265 271 colocó
+T46 PROC 946 967 nefrostomía bilateral
+T47 PROC 93 95 Cr
+T48 PROC 95 97 pH
+T49 PROC 529 540 bicarbonato

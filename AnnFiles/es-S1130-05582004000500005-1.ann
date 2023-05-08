@@ -1,0 +1,71 @@
+T1 PROC 1 26 cirugía oral maxilofacial
+T2 DISO 9 17 disfagia
+T3 DISO 57 85 sensación de cuerpo extraá±o
+T4 DISO 55 73 retraso psicomotor
+T5 DISO 81 101 limitación funcional
+T6 ANAT 121 145 miembro inferior derecho
+T7 DISO 61 71 talla baja
+T8 DISO 99 113 hipotiroidismo
+T9 PROC 177 199 exploración intra oral
+T10 DISO 334 371 tumoración viol ácea , vascular izada
+T11 DISO 81 89 dolorosa
+T12 ANAT 210 229 línea media lingual
+T13 ANAT 193 209 foramen ca ec um
+T14 ANAT 131 141 superficie
+T15 ANAT 99 106 tumoral
+T16 DISO 76 81 ulcer
+T17 DISO 113 120 aciones
+T18 DISO 375 397 adenopatías cervicales
+T19 PROC 37 39 RM
+T20 DISO 77 81 masa
+T21 ANAT 281 295 base de lengua
+T22 DISO 337 353 tiroides lingual
+T23 DISO 243 254 obstrucción
+T24 ANAT 254 265 línea aérea
+T25 PROC 529 551 gammagrafía iso tópica
+T26 CHEM 51 53 Tc
+T27 CHEM 53 55 99
+T28 ANAT 379 393 base de lengua
+T29 ANAT 85 88 lar
+T30 ANAT 146 151 íngea
+T31 ANAT 121 125 idea
+T32 PROC 745 769 control función tiroidea
+T33 PROC 353 364 diagnóstico
+T34 DISO 529 545 tiroides lingual
+T35 PROC 817 841 intervención quiráºrgica
+T36 DISO 701 721 disfagia obstructiva
+T37 PROC 613 630 anestesia general
+T38 PROC 482 495 traqueostomía
+T39 ANAT 343 352 vía aérea
+T40 ANAT 274 281 tumoral
+T41 ANAT 481 493 base lingual
+T42 PROC 288 295 cervico
+T43 PROC 1135 1162 tomía media supra h io idea
+T44 PROC 259 265 desper
+T45 PROC 133 136 ios
+T46 PROC 361 369 tización
+T47 ANAT 1105 1129 tabla lingual mandibular
+T48 PROC 142 145 pul
+T49 PROC 49 50 l
+T50 PROC 197 201 thro
+T51 PROC 151 154 ugh
+T52 ANAT 358 365 lingual
+T53 PROC 989 1008 control quiráºrgico
+T54 PROC 478 487 resección
+T55 DISO 379 386 tumoral
+T56 PROC 56 57 g
+T57 PROC 225 229 loso
+T58 PROC 1312 1335 tomía media ex ang á¼ e
+T59 PROC 929 945 exéresis tumoral
+T60 PROC 886 901 control directo
+T61 DISO 361 367 lesión
+T62 ANAT 672 683 estructuras
+T63 PROC 311 316 decan
+T64 PROC 316 321 ulada
+T65 PROC 1217 1236 anatomía patológica
+T66 PROC 716 727 diagnóstico
+T67 DISO 1057 1073 tiroides lingual
+T68 PROC 872 885 RM de control
+T69 ANAT 1565 1588 tejido tiroideo lingual
+T70 PROC 691 701 revisiones
+T71 DISO 981 995 hipotiroidismo

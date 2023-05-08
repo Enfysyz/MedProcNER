@@ -1,0 +1,109 @@
+T1 DISO 1 17 diabética tipo 2
+T2 PROC 12 23 tratamiento
+T3 CHEM 23 34 hipoglucemi
+T4 CHEM 16 21 antes
+T5 DISO 41 51 hipertensa
+T6 DISO 76 91 ictus isquémico
+T7 DISO 43 50 vómitos
+T8 DISO 134 153 dolor hipo gástrico
+T9 DISO 73 82 hematuria
+T10 PROC 64 71 tratada
+T11 CHEM 111 122 fosfomicina
+T12 CHEM 12 13 -
+T13 CHEM 37 40 tro
+T14 CHEM 53 57 meta
+T15 CHEM 43 46 mol
+T16 DISO 136 145 ictericia
+T17 DISO 241 256 dolor abdominal
+T18 PROC 307 325 exploración física
+T19 DISO 163 172 ictericia
+T20 DISO 571 601 dolor abdominal a la palpación
+T21 ANAT 221 232 hipogastrio
+T22 ANAT 400 419 hipocondrio derecho
+T23 DISO 463 484 irritación peritoneal
+T24 PROC 231 241 bioquímica
+T25 PROC 409 426 control glucémico
+T26 PROC 176 183 glucosa
+T27 DISO 261 271 colestasis
+T28 DISO 55 57 ci
+T29 DISO 85 88 tol
+T30 DISO 117 121 isis
+T31 PROC 91 94 bil
+T32 PROC 435 449 irrubina total
+T33 PROC 609 628 bilirrubina directa
+T34 PROC 100 103 GOT
+T35 PROC 103 106 GPT
+T36 PROC 106 109 GGT
+T37 PROC 649 667 fosfatasa alcalina
+T38 DISO 926 951 insuficiencia renal aguda
+T39 PROC 381 391 creatinina
+T40 PROC 352 361 hemograma
+T41 PROC 81 83 le
+T42 ANAT 329 337 ucocitos
+T43 PROC 463 474 hemoglobina
+T44 PROC 388 397 plaquetas
+T45 PROC 1277 1306 análisis sistemático de orina
+T46 DISO 271 277 glucos
+T47 DISO 185 189 uria
+T48 DISO 236 241 micro
+T49 DISO 193 197 hema
+T50 DISO 246 251 turia
+T51 CHEM 401 409 nitritos
+T52 PROC 460 469 sedimento
+T53 PROC 1197 1220 pruebas complementarias
+T54 PROC 1538 1567 radiografía simple de abdomen
+T55 ANAT 649 661 pelvis menor
+T56 ANAT 716 729 pared vesical
+T57 DISO 1289 1312 cistitis enfis e matosa
+T58 PROC 1084 1103 ecografía abdominal
+T59 ANAT 755 768 pared vesical
+T60 DISO 591 601 dilatación
+T61 ANAT 481 489 vesícula
+T62 ANAT 184 187 vía
+T63 DISO 249 253 cole
+T64 DISO 127 129 do
+T65 DISO 257 261 coli
+T66 DISO 391 397 tiasis
+T67 PROC 661 671 urocultivo
+T68 CHEM 738 749 amoxicilina
+T69 CHEM 69 70 -
+T70 CHEM 760 771 clavulánico
+T71 CHEM 701 711 cefuroxima
+T72 CHEM 72 73 -
+T73 CHEM 145 147 ax
+T74 CHEM 74 75 e
+T75 CHEM 297 301 tilo
+T76 CHEM 151 153 ce
+T77 CHEM 609 617 fotaxima
+T78 CHEM 925 937 piperacilina
+T79 CHEM 79 80 -
+T80 CHEM 791 801 tazobactam
+T81 CHEM 881 892 gentamicina
+T82 CHEM 244 247 tri
+T83 CHEM 411 416 metro
+T84 CHEM 333 337 prim
+T85 CHEM 85 86 -
+T86 CHEM 341 345 sulf
+T87 CHEM 861 871 ametoxazol
+T88 PROC 1045 1057 diagnósticos
+T89 DISO 1849 1870 ictericia obstructiva
+T90 DISO 2048 2071 cistitis enfis e matosa
+T91 PROC 631 638 ingreso
+T92 PROC 3186 3221 tratamiento antibiótico intravenoso
+T93 CHEM 1105 1117 piperacilina
+T94 CHEM 94 95 -
+T95 CHEM 941 951 tazobactam
+T96 PROC 1521 1537 sondaje urinario
+T97 PROC 673 680 control
+T98 PROC 874 883 glucemias
+T99 PROC 2353 2377 TC ab dó mino - pélv ico
+T100 PROC 1090 1101 diagnóstico
+T101 DISO 2301 2324 cistitis enfis e matosa
+T102 DISO 2122 2143 ictericia obstructiva
+T103 PROC 817 825 colangio
+T104 PROC 619 625 pancre
+T105 PROC 313 316 ato
+T106 PROC 1786 1803 grafía retrógrada
+T107 PROC 531 536 esfin
+T108 PROC 429 433 tero
+T109 PROC 1837 1854 tomía endoscópica

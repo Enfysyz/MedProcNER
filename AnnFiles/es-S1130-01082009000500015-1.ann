@@ -1,0 +1,38 @@
+T1 DISO 1 24 alergias medicamentosas
+T2 DISO 22 43 hipertensión arterial
+T3 DISO 49 73 diabetes mellitus tipo 2
+T4 DISO 88 117 fibrilación auricular crónica
+T5 DISO 93 116 enfermedad de Alzheimer
+T6 PROC 36 43 Ingresó
+T7 DISO 151 176 vómitos en pos os de café
+T8 DISO 92 105 epigastralgia
+T9 DISO 145 163 pérdida de de peso
+T10 PROC 163 181 exploración física
+T11 PROC 91 100 analítica
+T12 PROC 122 133 hemoglobina
+T13 PROC 133 144 hematocrito
+T14 PROC 40 43 VCM
+T15 PROC 43 46 VSG
+T16 PROC 106 113 Glucosa
+T17 PROC 97 103 Hierro
+T18 PROC 256 271 endoscopia oral
+T19 DISO 271 286 hernia de hiato
+T20 ANAT 438 461 tercio distal esofágico
+T21 DISO 321 337 áºlcera profunda
+T22 DISO 400 419 exudado blanquecino
+T23 ANAT 67 70 crá
+T24 ANAT 70 73 ter
+T25 PROC 169 176 biopsia
+T26 PROC 226 235 citología
+T27 DISO 157 163 lesión
+T28 PROC 271 281 histología
+T29 ANAT 729 755 mucosa escamos a esofágica
+T30 CHEM 117 121 sulf
+T31 CHEM 91 94 uro
+T32 DISO 156 161 actin
+T33 DISO 257 265 omicosis
+T34 PROC 364 375 tratamiento
+T35 CHEM 409 421 penicilina G
+T36 PROC 421 433 dada de alta
+T37 CHEM 361 371 penicilina
+T38 PROC 408 419 seguimiento

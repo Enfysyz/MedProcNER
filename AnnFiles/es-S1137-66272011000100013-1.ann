@@ -1,0 +1,60 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 4 7 sil
+T3 DISO 13 19 icosis
+T4 DISO 4 5 F
+T5 DISO 9 11 MP
+T6 DISO 46 55 Exfumador
+T7 DISO 127 148 tuberculosis pulmonar
+T8 DISO 8 9 T
+T9 DISO 17 19 BP
+T10 PROC 190 211 tratada correctamente
+T11 CHEM 101 111 esteroides
+T12 DISO 67 73 disnea
+T13 DISO 313 339 expectoración hemo pto ica
+T14 PROC 235 253 exploración física
+T15 DISO 127 136 febrícula
+T16 PROC 316 337 auscultación pulmonar
+T17 DISO 97 103 roncus
+T18 DISO 171 181 sibilantes
+T19 PROC 163 172 analítica
+T20 PROC 210 221 hemoglobina
+T21 PROC 181 190 plaquetas
+T22 PROC 547 573 velocidad de sedimentación
+T23 PROC 419 438 proteína C reactiva
+T24 PROC 438 457 gasometría arterial
+T25 DISO 625 651 insuficiencia respiratoria
+T26 PROC 51 53 pH
+T27 PROC 703 730 presión arterial de oxígeno
+T28 PROC 1135 1177 presión arterial de an hídr ido carb ónico
+T29 PROC 561 581 radiografía de tórax
+T30 DISO 610 631 patrón micron od ular
+T31 ANAT 541 559 lóbulos superiores
+T32 PROC 962 993 tomografía axial computer izada
+T33 PROC 97 100 TAC
+T34 DISO 1090 1123 afectación intersticial bilateral
+T35 DISO 103 106 sil
+T36 DISO 211 217 icosis
+T37 DISO 181 186 masas
+T38 DISO 556 571 fibrosis masiva
+T39 DISO 39 40 F
+T40 DISO 79 81 MP
+T41 DISO 401 411 cavitación
+T42 PROC 124 127 TAC
+T43 DISO 1093 1119 formaciones mam el on adas
+T44 ANAT 990 1013 lóbulo superior derecho
+T45 ANAT 45 46 L
+T46 ANAT 91 93 SD
+T47 PROC 231 236 fibro
+T48 PROC 189 193 bron
+T49 PROC 385 393 coscopia
+T50 PROC 1471 1501 citología del bronco aspir ado
+T51 DISO 501 511 malignidad
+T52 ANAT 307 313 esputo
+T53 PROC 1145 1167 cultivo de low este in
+T54 PROC 1008 1027 cultivo para hongos
+T55 PROC 163 166 TAC
+T56 DISO 881 897 lesión cav itada
+T57 PROC 617 628 tratamiento
+T58 CHEM 628 639 voriconazol
+T59 PROC 581 591 valoración
+T60 PROC 1122 1141 trasplante pulmonar

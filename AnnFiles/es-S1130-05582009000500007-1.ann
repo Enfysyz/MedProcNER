@@ -1,0 +1,67 @@
+T1 PROC 1 9 derivado
+T2 DISO 7 13 lesión
+T3 ANAT 51 76 ángulo mandibular derecho
+T4 PROC 10 13 tel
+T5 PROC 9 11 er
+T6 PROC 21 25 adio
+T7 PROC 139 162 grafía lateral cervical
+T8 DISO 183 209 accidente automovil ístico
+T9 DISO 49 55 tabaco
+T10 DISO 64 71 alcohol
+T11 CHEM 61 67 drogas
+T12 CHEM 133 145 medicamentos
+T13 DISO 97 105 alergias
+T14 PROC 274 295 examen físico general
+T15 PROC 351 376 examen clínico extra oral
+T16 DISO 181 193 alteraciones
+T17 PROC 321 341 palpación intra oral
+T18 DISO 307 325 aumento de volumen
+T19 ANAT 361 381 vestíbulo mandibular
+T20 PROC 362 381 estudio radiológico
+T21 ANAT 101 106 pieza
+T22 ANAT 127 133 raíces
+T23 ANAT 111 116 pieza
+T24 ANAT 277 289 tablas óseas
+T25 ANAT 385 401 canal mandibular
+T26 ANAT 326 339 borde basilar
+T27 ANAT 443 460 cuerpo mandibular
+T28 ANAT 406 421 rama ascendente
+T29 PROC 841 871 tomografía axial computarizada
+T30 DISO 552 571 lesión hiper den sa
+T31 ANAT 361 373 tablas óseas
+T32 ANAT 590 609 vestíbulo pala tino
+T33 ANAT 65 67 cé
+T34 ANAT 364 375 falo caudal
+T35 ANAT 545 561 canal mandibular
+T36 ANAT 211 217 tablas
+T37 PROC 397 408 diagnóstico
+T38 DISO 149 153 odon
+T39 DISO 875 898 toma complejo inmad uro
+T40 DISO 196 201 fibro
+T41 DISO 41 42 o
+T42 DISO 124 127 don
+T43 DISO 883 904 toma a melo bl ástico
+T44 DISO 1850 1893 tumor odonto génico epitelial calcific ante
+T45 DISO 1937 1981 quiste odonto génico epitelial calcific ante
+T46 PROC 856 875 estudio radiológico
+T47 PROC 875 894 biopsia incis ional
+T48 PROC 706 721 anestesia local
+T49 ANAT 721 736 tejidos blandos
+T50 ANAT 246 251 duros
+T51 ANAT 901 919 tejido calcificado
+T52 DISO 664 677 calcificación
+T53 ANAT 1301 1326 tejido conjuntivo fibroso
+T54 ANAT 1061 1081 retículo estrell ado
+T55 ANAT 811 826 órgano dentario
+T56 ANAT 1376 1401 tejido conjuntivo fibroso
+T57 ANAT 449 457 epitelio
+T58 ANAT 1084 1103 células periféricas
+T59 ANAT 59 60 a
+T60 ANAT 237 241 melo
+T61 ANAT 421 428 blastos
+T62 ANAT 184 187 den
+T63 ANAT 435 442 tículos
+T64 PROC 1450 1473 diagnóstico histológico
+T65 DISO 385 391 lesión
+T66 DISO 261 265 odon
+T67 DISO 1123 1140 toma en formación

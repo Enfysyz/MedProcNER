@@ -1,0 +1,92 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 16 31 hernia de hiato
+T3 DISO 29 43 estreá±imiento
+T4 PROC 40 53 histerectomía
+T5 DISO 121 151 síndrome miccional irri tativo
+T6 DISO 36 43 disuria
+T7 DISO 67 78 polaquiuria
+T8 DISO 148 169 urgencias miccionales
+T9 DISO 193 217 sintomatología urológica
+T10 DISO 307 341 infección del tracto urinario bajo
+T11 PROC 31 34 uro
+T12 PROC 89 97 cultivos
+T13 PROC 97 105 tratados
+T14 PROC 261 281 bioquímica sanguínea
+T15 PROC 71 76 orina
+T16 PROC 436 465 estudio de sedimento de orina
+T17 DISO 113 120 leucoci
+T18 DISO 86 91 turia
+T19 PROC 181 191 urocultivo
+T20 PROC 780 821 citología urinaria por micción espontánea
+T21 ANAT 401 421 células uro teliales
+T22 DISO 904 947 leucocitos polimor fon ucleares neutrófilos
+T23 PROC 155 162 prescri
+T24 PROC 70 73 bió
+T25 PROC 265 276 tratamiento
+T26 CHEM 176 183 antibio
+T27 CHEM 53 55 te
+T28 CHEM 28 29 p
+T29 CHEM 113 117 aria
+T30 CHEM 262 271 anticolin
+T31 CHEM 181 187 érgico
+T32 CHEM 94 97 tol
+T33 CHEM 129 133 tero
+T34 CHEM 133 137 dina
+T35 PROC 953 981 revisada en consulta externa
+T36 DISO 491 505 sintomatología
+T37 DISO 253 260 disuria
+T38 DISO 408 419 polaquiuria
+T39 DISO 343 352 urgencias
+T40 CHEM 352 361 anticolin
+T41 CHEM 241 247 érgico
+T42 PROC 329 337 revisión
+T43 DISO 757 775 infección urinaria
+T44 PROC 130 133 uro
+T45 PROC 793 811 grafía intravenosa
+T46 DISO 1981 2025 tumor urotelial del tracto urinario superior
+T47 PROC 875 894 ecografía urológica
+T48 PROC 142 145 cis
+T49 PROC 385 393 toscopia
+T50 DISO 1471 1501 lesiones nodulares , ele vadas
+T51 DISO 601 613 enroje cidas
+T52 DISO 256 261 edema
+T53 ANAT 105 107 tr
+T54 ANAT 107 109 íg
+T55 ANAT 163 166 ono
+T56 ANAT 276 281 caras
+T57 DISO 169 172 TBC
+T58 PROC 172 175 uro
+T59 PROC 349 355 grafía
+T60 PROC 414 421 bacilos
+T61 PROC 841 855 copia en orina
+T62 PROC 1770 1799 cultivo Low enstein - J ensen
+T63 ANAT 497 505 muestras
+T64 ANAT 316 321 orina
+T65 DISO 1153 1171 lesiones vesicales
+T66 DISO 521 529 tubercul
+T67 DISO 265 269 omas
+T68 PROC 1408 1429 resección endoscópica
+T69 DISO 545 553 lesiones
+T70 PROC 622 631 anestesia
+T71 PROC 1751 1776 estudio anatomopatológico
+T72 DISO 1634 1657 ulceración de la mucosa
+T73 DISO 2233 2264 infiltrado inflamatorio crónico
+T74 DISO 1388 1407 congestión vascular
+T75 ANAT 1407 1426 células plasmáticas
+T76 ANAT 751 761 linfocitos
+T77 ANAT 1445 1464 folículos linfoides
+T78 ANAT 386 391 linfo
+T79 ANAT 547 554 blastos
+T80 ANAT 475 481 inmuno
+T81 ANAT 561 568 blastos
+T82 ANAT 1621 1641 centro ger mina tivo
+T83 ANAT 575 582 células
+T84 ANAT 84 85 l
+T85 ANAT 757 766 infocitos
+T86 ANAT 1616 1635 células plasmáticas
+T87 ANAT 1721 1741 linfocitos del manto
+T88 ANAT 1306 1321 corona radi ada
+T89 PROC 2729 2760 medidas higiénico - diet éticas
+T90 PROC 1959 1981 profilaxis antibiótica
+T91 CHEM 1261 1275 ciprofloxacino
+T92 CHEM 911 921 vitamina A

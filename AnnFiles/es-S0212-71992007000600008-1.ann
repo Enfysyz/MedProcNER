@@ -1,0 +1,93 @@
+T1 PROC 1 8 ingreso
+T2 DISO 4 7 tos
+T3 DISO 15 22 cefalea
+T4 DISO 55 73 disnea de esfuerzo
+T5 DISO 117 146 expectoración muc opurul enta
+T6 DISO 31 37 fiebre
+T7 PROC 67 78 tratamiento
+T8 CHEM 78 89 amoxicilina
+T9 CHEM 17 19 mo
+T10 CHEM 19 21 xi
+T11 CHEM 91 100 floxacino
+T12 CHEM 232 253 bromuro de tio tropio
+T13 DISO 193 209 disnea de reposo
+T14 DISO 261 281 dolor retro esternal
+T15 DISO 183 196 palpitaciones
+T16 DISO 106 113 fumador
+T17 DISO 225 239 asma bronquial
+T18 CHEM 171 181 salbutamol
+T19 PROC 325 343 exploración física
+T20 DISO 210 221 taquipneico
+T21 DISO 101 106 sudor
+T22 DISO 64 67 oso
+T23 DISO 463 484 ingurgitación yugular
+T24 PROC 484 505 auscultación pulmonar
+T25 DISO 265 276 crepitantes
+T26 PROC 526 547 auscultación cardiaca
+T27 DISO 261 271 extratonos
+T28 ANAT 190 197 abdomen
+T29 DISO 141 146 organ
+T30 DISO 262 271 omegalias
+T31 ANAT 361 373 extremidades
+T32 DISO 187 193 edemas
+T33 ANAT 193 199 pulsos
+T34 ANAT 364 375 periféricos
+T35 PROC 749 771 pruebas de laboratorio
+T36 PROC 386 397 hemoglobina
+T37 ANAT 325 334 plaquetas
+T38 PROC 889 913 actividad de protrombina
+T39 PROC 305 313 Dímero D
+T40 PROC 742 761 Gasometría arterial
+T41 PROC 81 83 pO
+T42 PROC 42 43 2
+T43 PROC 127 130 pCO
+T44 PROC 44 45 2
+T45 CHEM 89 91 CO
+T46 PROC 46 47 3
+T47 CHEM 47 48 H
+T48 PROC 471 481 Bioquímica
+T49 PROC 433 442 troponina
+T50 PROC 148 151 CPK
+T51 PROC 1001 1021 radiografía de tórax
+T52 DISO 664 677 cardiomegalia
+T53 DISO 1509 1538 patrón intersticial bilateral
+T54 PROC 1485 1513 ecocardiograma transtorácico
+T55 DISO 1027 1046 derrame pericárdico
+T56 DISO 661 673 taponamiento
+T57 ANAT 1121 1141 ventrículo izquierdo
+T58 PROC 2509 2553 Ingreso en la unidad de vigilancia intensiva
+T59 PROC 639 650 tratamiento
+T60 CHEM 591 601 furosemida
+T61 CHEM 781 794 levofloxacino
+T62 CHEM 1343 1365 ácido acetilsalicílico
+T63 PROC 1985 2017 ventilación mecánica no invasiva
+T64 PROC 883 897 ecocardiograma
+T65 DISO 769 781 taponamiento
+T66 PROC 456 463 pericar
+T67 PROC 133 135 di
+T68 PROC 135 137 oc
+T69 PROC 205 208 ent
+T70 PROC 139 141 és
+T71 PROC 981 995 is evacu adora
+T72 PROC 214 217 LDH
+T73 PROC 649 658 proteínas
+T74 ANAT 512 519 células
+T75 ANAT 519 526 polimor
+T76 ANAT 226 229 fon
+T77 PROC 761 771 trasladado
+T78 DISO 1464 1483 derrame pericárdico
+T79 PROC 2029 2055 anticuerpos antin ucleares
+T80 PROC 1344 1361 factor reumatoide
+T81 PROC 241 244 Man
+T82 PROC 163 165 to
+T83 PROC 165 167 ux
+T84 PROC 1246 1261 perfil tiroideo
+T85 PROC 589 596 cultivo
+T86 ANAT 596 603 líquido
+T87 PROC 1033 1045 hemocultivos
+T88 PROC 1654 1673 anatomía patológica
+T89 ANAT 1673 1692 líquido pericárdico
+T90 DISO 1514 1531 inflamación aguda
+T91 ANAT 1891 1912 células meso teliales
+T92 DISO 1457 1473 células malignas
+T93 CHEM 1841 1861 antígeno carcino emb

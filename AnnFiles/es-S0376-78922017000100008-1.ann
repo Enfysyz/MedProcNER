@@ -1,0 +1,33 @@
+T1 DISO 1 22 accidente de tránsito
+T2 DISO 24 47 traumatismo contundente
+T3 ANAT 9 13 mano
+T4 PROC 16 21 visto
+T5 PROC 89 111 radiografía de la mano
+T6 DISO 46 55 fracturas
+T7 PROC 43 50 tratado
+T8 PROC 50 57 vendaje
+T9 PROC 73 82 analgesia
+T10 PROC 55 61 reposo
+T11 PROC 81 89 consulta
+T12 DISO 56 61 dolor
+T13 PROC 145 157 radiografías
+T14 DISO 495 533 fractura de polo distal del escafoides
+T15 PROC 575 616 tratamiento ortopédico cerrado con férula
+T16 PROC 211 225 rehabilitación
+T17 PROC 225 239 terapia física
+T18 PROC 188 199 Tratamiento
+T19 PROC 271 286 consulta médica
+T20 DISO 96 101 dolor
+T21 ANAT 81 85 Mano
+T22 PROC 631 661 tomografía axial computarizada
+T23 PROC 67 70 TAC
+T24 PROC 645 673 resonancia nuclear magnética
+T25 PROC 25 26 R
+T26 PROC 451 469 NM ) con contraste
+T27 ANAT 105 109 mano
+T28 ANAT 190 197 muá±eca
+T29 DISO 561 581 necrosis polo distal
+T30 ANAT 291 301 escafoides
+T31 PROC 331 342 diagnóstico
+T32 PROC 714 737 tratamiento quiráºrgico
+T33 PROC 1825 1882 artrodesis esca fo - tra peci o - tra pe zo ide con placa

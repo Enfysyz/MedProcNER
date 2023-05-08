@@ -1,0 +1,30 @@
+T1 PROC 1 41 tratamiento complementario intra vesical
+T2 CHEM 3 5 MM
+T3 CHEM 3 4 C
+T4 CHEM 10 13 BCG
+T5 DISO 65 81 recidiva tumoral
+T6 PROC 56 67 tratamiento
+T7 CHEM 19 22 gem
+T8 CHEM 57 65 citabina
+T9 PROC 25 28 ins
+T10 PROC 73 81 tilación
+T11 DISO 141 155 quemazón local
+T12 DISO 56 61 mareo
+T13 DISO 217 235 sudoración profusa
+T14 PROC 391 421 administración del tratamiento
+T15 DISO 155 166 hipotensión
+T16 PROC 121 129 tilación
+T17 PROC 113 120 tensión
+T18 PROC 307 325 medidas posturales
+T19 DISO 127 134 disuria
+T20 PROC 533 561 tratamiento antiinflamatorio
+T21 PROC 41 43 ur
+T22 PROC 64 67 ino
+T23 PROC 155 162 cultivo
+T24 PROC 254 265 tratamiento
+T25 PROC 601 626 tratamiento intra vesical
+T26 CHEM 51 53 MM
+T27 CHEM 27 28 C
+T28 PROC 82 85 ins
+T29 PROC 85 88 til
+T30 PROC 204 211 aciones

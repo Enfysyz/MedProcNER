@@ -1,0 +1,97 @@
+T1 PROC 1 18 remitido consulta
+T2 DISO 11 21 tumoración
+T3 ANAT 47 70 región basal mandibular
+T4 DISO 58 77 esclerosis tuberosa
+T5 PROC 81 101 trasplante de riá±ón
+T6 PROC 56 67 nefrectomía
+T7 DISO 25 29 angi
+T8 DISO 22 25 omi
+T9 DISO 33 37 olip
+T10 DISO 82 91 oma renal
+T11 DISO 81 89 síntomas
+T12 DISO 111 121 enfermedad
+T13 DISO 349 378 adenoma seb áceo de Pr ing le
+T14 ANAT 40 43 nas
+T15 ANAT 57 61 ogen
+T16 ANAT 61 65 iano
+T17 DISO 17 18 h
+T18 DISO 69 73 amar
+T19 DISO 307 324 tomas retin ianos
+T20 ANAT 96 101 fondo
+T21 DISO 421 442 lesiones fib ró ticas
+T22 ANAT 169 177 cervical
+T23 PROC 419 438 exploración clínica
+T24 DISO 254 265 lesión dura
+T25 ANAT 217 226 mandíbula
+T26 DISO 501 521 dolor a la palpación
+T27 ANAT 105 109 piel
+T28 ANAT 622 645 región cervical lateral
+T29 ANAT 113 117 nuca
+T30 DISO 668 691 lesiones exc res centes
+T31 PROC 661 683 exploración intra oral
+T32 DISO 621 641 hiperplasia gingival
+T33 PROC 1217 1255 tratamiento crónico anticonvulsiv ante
+T34 CHEM 100 103 hid
+T35 CHEM 239 246 antoína
+T36 DISO 631 649 crisis epilépticas
+T37 DISO 289 297 síndrome
+T38 PROC 815 837 radiografía panorámica
+T39 DISO 609 625 aumento densidad
+T40 ANAT 157 161 ósea
+T41 ANAT 401 411 mandibular
+T42 ANAT 247 253 región
+T43 PROC 85 87 TC
+T44 DISO 130 133 exc
+T45 DISO 133 136 res
+T46 DISO 271 277 cencia
+T47 ANAT 185 189 ósea
+T48 DISO 330 337 erosión
+T49 ANAT 913 932 cortical mandibular
+T50 DISO 1128 1151 masa de tejidos blandos
+T51 PROC 551 562 diagnóstico
+T52 DISO 52 53 a
+T53 DISO 209 213 melo
+T54 DISO 425 433 blastoma
+T55 DISO 163 166 mix
+T56 DISO 936 953 oma odonto génico
+T57 DISO 1177 1198 quiste aneuris mático
+T58 DISO 286 291 fibro
+T59 DISO 1103 1122 ma condro mi xo ide
+T60 DISO 1063 1081 hemangioma central
+T61 DISO 1321 1343 granuloma e osin ófilo
+T62 PROC 1038 1055 anestesia general
+T63 ANAT 435 442 cutáneo
+T64 PROC 505 513 exéresis
+T65 DISO 1409 1431 lesión redondeada dura
+T66 ANAT 586 595 mandíbula
+T67 PROC 529 537 exéresis
+T68 DISO 336 341 fibro
+T69 DISO 953 967 mas cervicales
+T70 PROC 1105 1121 acto quiráºrgico
+T71 PROC 701 711 láser CO 2
+T72 PROC 853 865 intervención
+T73 PROC 865 877 dado de alta
+T74 PROC 585 593 revisado
+T75 PROC 1333 1351 consultas externas
+T76 DISO 376 381 signo
+T77 DISO 533 540 síntoma
+T78 DISO 1310 1327 lesión mandibular
+T79 PROC 1951 1976 estudio anatomopatológico
+T80 DISO 1739 1761 lesión ósea mandibular
+T81 PROC 401 406 extir
+T82 PROC 325 329 pada
+T83 DISO 493 499 lesión
+T84 ANAT 997 1009 fibroblastos
+T85 ANAT 589 596 estroma
+T86 CHEM 1871 1893 colágeno hial in izado
+T87 DISO 259 262 esp
+T88 DISO 523 529 ículas
+T89 ANAT 177 179 ri
+T90 ANAT 1247 1261 bete osteo ide
+T91 DISO 1531 1548 infiltración ósea
+T92 DISO 911 921 tumoración
+T93 DISO 553 559 lesión
+T94 ANAT 652 659 células
+T95 DISO 659 666 mitosis
+T96 DISO 476 481 fibro
+T97 DISO 1537 1553 ma desmo plásico

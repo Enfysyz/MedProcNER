@@ -1,0 +1,25 @@
+T1 PROC 1 9 consultó
+T2 DISO 7 13 lesión
+T3 ANAT 49 73 párpado superior derecho
+T4 ANAT 7 9 PS
+T5 ANAT 5 6 D
+T6 PROC 126 151 exploración oftalmológica
+T7 ANAT 31 36 borde
+T8 ANAT 15 17 PS
+T9 ANAT 9 10 D
+T10 PROC 127 141 agudeza visual
+T11 ANAT 41 45 ojos
+T12 PROC 122 133 exploración
+T13 PROC 145 157 fondo de ojo
+T14 PROC 144 155 tratamiento
+T15 PROC 421 451 aplicación de un bas ton cillo
+T16 CHEM 121 129 gasolina
+T17 ANAT 81 86 mandí
+T18 ANAT 86 91 bulas
+T19 PROC 577 609 extracción íntegra con una pinza
+T20 ANAT 115 121 especi
+T21 ANAT 61 64 men
+T22 PROC 232 243 exploración
+T23 DISO 771 806 complicaciones locales o sistémicas
+T24 PROC 231 241 serologías
+T25 DISO 961 1001 zoonosis transmitidas por las garrapatas

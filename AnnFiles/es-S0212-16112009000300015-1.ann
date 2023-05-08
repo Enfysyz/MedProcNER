@@ -1,0 +1,34 @@
+T1 DISO 1 30 fibrilación auricular crónica
+T2 DISO 20 39 isquemia intestinal
+T3 PROC 25 37 resección de
+T4 ANAT 19 25 yeyuno
+T5 ANAT 13 16 ile
+T6 ANAT 11 13 on
+T7 ANAT 31 36 colon
+T8 ANAT 71 81 transverso
+T9 PROC 225 253 anastomosis yeyuno - c ólica
+T10 PROC 10 11 N
+T11 PROC 21 23 PD
+T12 PROC 56 61 infun
+T13 PROC 97 105 diéndose
+T14 DISO 300 323 enfermedad de Parkinson
+T15 PROC 15 16 N
+T16 PROC 31 33 PD
+T17 DISO 273 290 deterioro clínico
+T18 DISO 409 433 neumonía de la comunidad
+T19 DISO 559 590 infecciones asociadas a catéter
+T20 DISO 172 181 infección
+T21 PROC 21 22 N
+T22 PROC 43 45 PD
+T23 DISO 617 645 salida accidental de catéter
+T24 PROC 162 169 recambi
+T25 PROC 313 326 ar el catéter
+T26 PROC 26 27 N
+T27 PROC 53 55 PD
+T28 DISO 514 533 esteatosis hepática
+T29 PROC 365 378 hospitalizado
+T30 DISO 813 841 complicaciones de la técnica
+T31 PROC 31 32 N
+T32 PROC 63 65 PD
+T33 PROC 33 34 N
+T34 PROC 67 69 PD

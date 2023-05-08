@@ -1,0 +1,94 @@
+T1 PROC 1 12 intervenido
+T2 DISO 25 49 meningioma trans icional
+T3 ANAT 15 22 frontal
+T4 PROC 22 29 cirugía
+T5 PROC 33 41 consultó
+T6 DISO 171 205 infección de la herida quiráºrgica
+T7 DISO 37 43 fiebre
+T8 PROC 162 185 exploración neurológica
+T9 PROC 161 181 resonancia magnética
+T10 PROC 19 21 RM
+T11 PROC 41 45 cran
+T12 PROC 12 13 i
+T13 PROC 85 92 ectomía
+T14 DISO 378 407 colección subdural hipoden sa
+T15 PROC 197 211 administración
+T16 CHEM 136 145 gadolinio
+T17 PROC 49 52 rea
+T18 PROC 392 415 pertura de craneo tomía
+T19 DISO 343 362 colección purulenta
+T20 ANAT 153 161 epidural
+T21 PROC 441 463 estudio microbiológico
+T22 PROC 484 507 antibioterapia empírica
+T23 CHEM 67 70 cef
+T24 CHEM 185 193 tazidima
+T25 CHEM 265 276 vancomicina
+T26 PROC 501 521 cultivos bacterianos
+T27 PROC 313 325 dado de alta
+T28 PROC 433 449 tratamiento oral
+T29 CHEM 393 407 ciprofloxacino
+T30 CHEM 349 361 cotrimoxazol
+T31 PROC 961 993 llevado al servicio de urgencias
+T32 DISO 1148 1185 crisis tónico - cl ónica generalizada
+T33 DISO 289 298 febrícula
+T34 PROC 595 613 exploración física
+T35 PROC 239 246 Glasgow
+T36 DISO 736 757 focalidad neurológica
+T37 DISO 649 667 herida quiráºrgica
+T38 DISO 334 343 infección
+T39 PROC 1141 1171 tratamiento anticonvulsiv ante
+T40 PROC 937 961 tomografía computarizada
+T41 DISO 721 739 colección subdural
+T42 PROC 575 589 administración
+T43 CHEM 379 388 contraste
+T44 ANAT 818 837 parénquima cerebral
+T45 DISO 397 406 colección
+T46 PROC 1441 1473 tratamiento antibiótico empírico
+T47 CHEM 139 142 cef
+T48 CHEM 377 385 tazidima
+T49 CHEM 529 540 vancomicina
+T50 DISO 246 251 empie
+T51 DISO 551 562 ma subdural
+T52 PROC 205 209 cran
+T53 PROC 53 54 i
+T54 PROC 372 379 ectomía
+T55 DISO 973 991 colección subdural
+T56 PROC 441 449 muestras
+T57 PROC 225 229 dren
+T58 ANAT 286 291 pieza
+T59 PROC 813 827 cran i ectomía
+T60 DISO 532 541 colección
+T61 PROC 301 306 extir
+T62 PROC 123 125 pó
+T63 DISO 559 568 infección
+T64 PROC 190 193 emb
+T65 PROC 65 66 e
+T66 PROC 196 199 bió
+T67 CHEM 1519 1542 caldo de ti oglic olato
+T68 PROC 202 205 sub
+T69 PROC 477 484 cultivo
+T70 PROC 829 841 antibiograma
+T71 PROC 71 72 E
+T72 PROC 72 73 -
+T73 PROC 289 293 test
+T74 CHEM 877 889 metronidazol
+T75 CHEM 741 751 penicilina
+T76 CHEM 826 837 amoxicilina
+T77 CHEM 77 78 -
+T78 CHEM 848 859 clavulánico
+T79 CHEM 235 238 cef
+T80 CHEM 633 641 tazidima
+T81 CHEM 961 973 clindamicina
+T82 CHEM 892 903 vancomicina
+T83 PROC 903 914 tratamiento
+T84 CHEM 914 925 vancomicina
+T85 CHEM 253 256 cef
+T86 CHEM 681 689 tazidima
+T87 PROC 947 958 tratamiento
+T88 CHEM 958 969 amoxicilina
+T89 CHEM 89 90 -
+T90 CHEM 980 991 clavulánico
+T91 PROC 361 365 dado
+T92 CHEM 1002 1013 amoxicilina
+T93 DISO 461 466 empie
+T94 DISO 1024 1035 ma subdural

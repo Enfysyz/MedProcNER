@@ -1,0 +1,65 @@
+T1 PROC 1 23 valoración quiráºrgica
+T2 DISO 9 17 pequeá±a
+T3 DISO 21 31 tumoración
+T4 ANAT 19 25 frente
+T5 PROC 45 56 exploración
+T6 DISO 46 55 masa dura
+T7 ANAT 25 29 piel
+T8 PROC 127 145 radiografía simple
+T9 PROC 105 118 TAC de cráneo
+T10 DISO 235 261 lesión intra ó sea frontal
+T11 DISO 41 45 oste
+T12 DISO 89 97 olíticas
+T13 PROC 133 144 diagnóstico
+T14 DISO 131 141 metástasis
+T15 DISO 99 106 mieloma
+T16 DISO 151 161 hemangioma
+T17 PROC 609 647 estudios sistémicos de rastreo tumoral
+T18 PROC 69 73 hemo
+T19 PROC 91 96 grama
+T20 PROC 362 381 frotis hematológico
+T21 PROC 401 421 marcadores tumorales
+T22 PROC 148 155 protein
+T23 PROC 133 139 ograma
+T24 PROC 760 793 TAC cervico - tor aco - abdominal
+T25 PROC 385 401 gammagrafía ósea
+T26 CHEM 51 53 HD
+T27 CHEM 27 28 P
+T28 CHEM 28 29 -
+T29 CHEM 57 59 Tc
+T30 CHEM 59 61 99
+T31 CHEM 31 32 M
+T32 DISO 187 193 lesión
+T33 PROC 225 232 punción
+T34 PROC 34 35 -
+T35 PROC 1225 1261 aspiración percutánea con aguja fina
+T36 DISO 351 361 tumoración
+T37 ANAT 325 334 hemáticos
+T38 PROC 1000 1027 intervenir quiráºrgicamente
+T39 DISO 229 235 lesión
+T40 PROC 898 921 diagnóstico histológico
+T41 PROC 641 657 acto quiráºrgico
+T42 DISO 411 421 tumoración
+T43 ANAT 211 216 hueso
+T44 ANAT 302 309 canales
+T45 ANAT 441 451 vasculares
+T46 ANAT 586 599 tabla externa
+T47 DISO 277 283 lesión
+T48 PROC 189 193 cran
+T49 PROC 49 50 i
+T50 PROC 344 351 ectomía
+T51 ANAT 251 256 hueso
+T52 DISO 613 625 defecto óseo
+T53 PROC 417 425 reconstr
+T54 PROC 213 217 uido
+T55 PROC 217 221 plas
+T56 PROC 606 617 tia craneal
+T57 CHEM 281 286 metil
+T58 CHEM 229 233 meta
+T59 CHEM 175 178 cri
+T60 CHEM 237 241 lato
+T61 ANAT 301 306 hueso
+T62 CHEM 306 311 Titan
+T63 CHEM 125 127 io
+T64 PROC 1828 1857 diagnóstico anatomopatológico
+T65 DISO 2241 2276 hemangioma caver noso intra ó seo .

@@ -1,0 +1,59 @@
+T1 DISO 1 13 hipertensión
+T2 DISO 25 49 diabetes mellitus tipo 2
+T3 DISO 43 64 artrosis generalizada
+T4 DISO 100 133 insuficiencia cardíaca congestiva
+T5 DISO 117 146 fibrilación auricular crónica
+T6 PROC 36 43 tratada
+T7 CHEM 61 71 metformina
+T8 CHEM 22 25 gli
+T9 CHEM 9 10 p
+T10 CHEM 19 21 iz
+T11 CHEM 31 34 ida
+T12 CHEM 12 13 l
+T13 CHEM 25 27 er
+T14 CHEM 40 43 can
+T15 CHEM 43 46 idi
+T16 CHEM 61 65 pino
+T17 CHEM 49 52 lis
+T18 CHEM 154 163 inopril -
+T19 CHEM 91 96 hidro
+T20 CHEM 229 241 clorotiazida
+T21 CHEM 241 253 acenocumarol
+T22 CHEM 211 221 ibuprofeno
+T23 PROC 155 162 ingreso
+T24 DISO 300 313 dolores óseos
+T25 CHEM 241 251 ibuprofeno
+T26 DISO 426 443 deterioro general
+T27 DISO 547 568 vómitos de conciencia
+T28 DISO 109 113 hipo
+T29 DISO 141 146 tensa
+T30 DISO 204 211 mal fun
+T31 DISO 121 125 coma
+T32 PROC 280 289 analítica
+T33 PROC 673 694 creatinina plasmática
+T34 PROC 265 273 glucemia
+T35 PROC 715 736 tiempo de protrombina
+T36 PROC 666 685 gasometría arterial
+T37 CHEM 397 408 bicarbonato
+T38 PROC 889 913 ácido láctico plasmático
+T39 PROC 761 781 radiografía de tórax
+T40 DISO 976 1001 infiltrado base izquierda
+T41 PROC 1801 1846 trasladada a la unidad de cuidados intensivos
+T42 PROC 903 925 intubación orotraqueal
+T43 PROC 841 861 ventilación mecánica
+T44 PROC 603 617 administración
+T45 CHEM 925 946 fármacos vaso activos
+T46 CHEM 541 553 antibióticos
+T47 PROC 645 659 punción lumbar
+T48 DISO 1035 1057 meningitis neumocócica
+T49 PROC 577 589 hemodiálisis
+T50 PROC 393 401 baá±o de
+T51 CHEM 551 562 bicarbonato
+T52 PROC 613 625 creatinina (
+T53 PROC 781 796 Cr ) plasmática
+T54 PROC 955 973 bicarbonato sérico
+T55 DISO 217 221 coma
+T56 PROC 166 169 EEG
+T57 DISO 281 286 falle
+T58 DISO 343 349 ciendo
+T59 PROC 407 414 ingreso

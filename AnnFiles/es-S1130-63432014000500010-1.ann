@@ -1,0 +1,68 @@
+T1 DISO 1 9 fumadora
+T2 PROC 14 27 diagnosticada
+T3 DISO 29 43 hipotiroidismo
+T4 PROC 46 61 lación tiroidea
+T5 CHEM 61 76 yodo radiactivo
+T6 DISO 6 7 O
+T7 DISO 7 8 G
+T8 DISO 190 217 neuropatía óptica bilateral
+T9 DISO 49 55 pseudo
+T10 DISO 19 21 fa
+T11 DISO 41 45 quia
+T12 ANAT 45 49 ojos
+T13 DISO 37 40 pun
+T14 DISO 14 15 c
+T15 DISO 57 61 tata
+T16 DISO 226 241 edema palpebral
+T17 DISO 145 154 hiperemia
+T18 DISO 52 55 que
+T19 DISO 307 324 mosis conjuntival
+T20 DISO 172 181 hiperemia
+T21 DISO 421 442 edema de car áºn cula
+T22 PROC 64 67 Agu
+T23 PROC 243 254 deza Visual
+T24 PROC 47 49 AV
+T25 PROC 937 976 evaluar la capacidad del sistema visual
+T26 ANAT 76 79 Ojo
+T27 ANAT 79 82 Ojo
+T28 DISO 460 477 síntomas oculares
+T29 PROC 309 320 diagnóstico
+T30 PROC 320 331 tratamiento
+T31 PROC 151 156 dejar
+T32 DISO 497 513 hábito tabáquico
+T33 DISO 321 331 enfermedad
+T34 PROC 463 477 administración
+T35 CHEM 375 386 corticoides
+T36 CHEM 596 613 metilprednisolona
+T37 CHEM 613 630 metilprednisolona
+T38 PROC 852 875 descompresión orbitaria
+T39 DISO 77 79 or
+T40 DISO 157 161 bito
+T41 DISO 201 206 patía
+T42 PROC 944 967 descompresión orbitaria
+T43 CHEM 463 474 Tocilizumab
+T44 PROC 1033 1057 consentimiento informado
+T45 PROC 485 496 tratamiento
+T46 CHEM 496 507 Tocilizumab
+T47 PROC 507 518 tratamiento
+T48 DISO 283 289 signos
+T49 DISO 385 393 síntomas
+T50 DISO 442 451 patología
+T51 PROC 101 103 AV
+T52 ANAT 103 105 OI
+T53 DISO 469 478 signos de
+T54 DISO 372 379 edema y
+T55 DISO 1675 1706 eritema conjuntival y palpebral
+T56 PROC 111 113 AV
+T57 ANAT 113 115 OI
+T58 PROC 628 639 tratamiento
+T59 PROC 117 119 AV
+T60 ANAT 119 121 OI
+T61 DISO 601 611 estrabismo
+T62 PROC 367 373 descom
+T63 PROC 249 253 pres
+T64 PROC 316 321 iones
+T65 PROC 1537 1561 intervención quiráºrgica
+T66 DISO 586 595 patología
+T67 CHEM 727 738 Tocilizumab
+T68 DISO 1475 1497 actividad inflamatoria

@@ -1,0 +1,43 @@
+T1 PROC 1 9 consulta
+T2 DISO 19 37 mácula pigment ada
+T3 DISO 25 37 asintomática
+T4 PROC 43 57 examen clínico
+T5 DISO 25 31 lesión
+T6 ANAT 91 109 mucosa anterior de
+T7 ANAT 73 85 paladar duro
+T8 CHEM 78 89 medicamento
+T9 DISO 257 289 perdido los incisivos superiores
+T10 PROC 28 31 exo
+T11 PROC 31 34 don
+T12 PROC 254 277 cias parcial removi ble
+T13 DISO 229 248 eritema por presión
+T14 ANAT 79 85 mucosa
+T15 DISO 155 166 candidiasis
+T16 PROC 346 369 citología exfol ia tiva
+T17 PROC 321 341 biopsia es cis ional
+T18 PROC 256 271 anestesia local
+T19 PROC 415 438 técnica de sac ab ocado
+T20 ANAT 96 101 sitio
+T21 PROC 141 148 cicatri
+T22 PROC 43 45 zó
+T23 DISO 309 323 complicaciones
+T24 ANAT 139 145 tejido
+T25 PROC 169 176 biopsia
+T26 CHEM 151 157 formal
+T27 CHEM 443 460 ina bu ffer izada
+T28 PROC 541 561 estudio microscópico
+T29 PROC 981 1016 tinción de hemato xil ina - eos ina
+T30 ANAT 175 181 mucosa
+T31 ANAT 931 962 epitelio estratificado escamoso
+T32 DISO 156 161 espon
+T33 DISO 33 34 g
+T34 DISO 166 171 iosis
+T35 ANAT 375 386 melanocitos
+T36 ANAT 561 577 tejido conectivo
+T37 CHEM 721 741 pigmento de melanina
+T38 DISO 1555 1597 infiltrado inflamatorio leve linf oc ítico
+T39 PROC 419 430 diagnóstico
+T40 DISO 196 201 melan
+T41 DISO 41 42 o
+T42 DISO 165 169 acan
+T43 DISO 211 216 tosis

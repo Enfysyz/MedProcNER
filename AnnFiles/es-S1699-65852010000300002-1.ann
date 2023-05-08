@@ -1,0 +1,62 @@
+T1 PROC 1 9 consulta
+T2 PROC 29 57 tratamiento implan t ológico
+T3 DISO 43 64 pérdida del incis ivo
+T4 PROC 55 73 examen radiológico
+T5 PROC 9 11 or
+T6 PROC 11 13 to
+T7 PROC 19 22 pan
+T8 PROC 71 81 tomografía
+T9 DISO 129 145 quiste radicular
+T10 ANAT 127 141 diente perdido
+T11 PROC 111 122 eliminación
+T12 DISO 67 73 quiste
+T13 PROC 205 222 regeneración ósea
+T14 DISO 157 169 defecto óseo
+T15 PROC 337 361 inserción de un implante
+T16 PROC 211 225 rehabilitación
+T17 PROC 305 324 técnica quiráºrgica
+T18 PROC 375 397 prótesis provisional y
+T19 PROC 199 210 tratamiento
+T20 PROC 210 221 seguimiento
+T21 PROC 41 43 re
+T22 PROC 64 67 vis
+T23 PROC 639 668 iones clínicas y radiológicas
+T24 DISO 323 337 complicaciones
+T25 DISO 481 501 pérdida de implantes
+T26 PROC 701 729 tratamiento implan t ológico
+T27 PROC 625 649 consentimiento informado
+T28 PROC 190 197 Cirugía
+T29 PROC 197 204 cirugía
+T30 PROC 871 901 régimen antibiótico preventivo
+T31 CHEM 61 63 am
+T32 CHEM 63 65 ox
+T33 CHEM 673 694 icilina + clavulánico
+T34 DISO 166 171 dolor
+T35 DISO 375 386 inflamación
+T36 CHEM 351 361 ibuprofeno
+T37 PROC 289 297 enjuague
+T38 CHEM 445 457 clorhexidina
+T39 PROC 571 586 extirpación del
+T40 DISO 625 641 quiste radicular
+T41 PROC 81 83 le
+T42 PROC 206 211 grado
+T43 ANAT 757 775 lecho implan tario
+T44 PROC 302 309 rellena
+T45 DISO 529 541 defecto óseo
+T46 CHEM 181 185 beta
+T47 CHEM 921 941 fosfato tric ál cico
+T48 CHEM 1035 1057 colágeno reabsor bible
+T49 PROC 1057 1079 inserción del implante
+T50 PROC 344 351 cirugía
+T51 PROC 1251 1276 colocación de un tornillo
+T52 PROC 52 53 Ċ
+T53 PROC 53 54 P
+T54 PROC 160 163 ros
+T55 PROC 109 111 to
+T56 PROC 331 337 doncia
+T57 PROC 393 400 cirugía
+T58 PROC 1654 1683 prótesis implan toso por tada
+T59 PROC 117 119 Se
+T60 PROC 1004 1021 guimiento clínico
+T61 PROC 1141 1160 seguimiento clínico
+T62 DISO 855 869 complicaciones

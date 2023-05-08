@@ -1,0 +1,26 @@
+T1 PROC 1 22 cirugía de vasectomía
+T2 PROC 9 17 consulta
+T3 DISO 13 19 nódulo
+T4 ANAT 52 69 testículo derecho
+T5 PROC 45 56 exploración
+T6 PROC 46 55 ecografía
+T7 ANAT 79 92 polo superior
+T8 ANAT 92 105 teste derecho
+T9 PROC 337 379 marcadores tumorales alfa - fe to proteína
+T10 PROC 37 41 beta
+T11 PROC 11 12 -
+T12 PROC 23 25 HC
+T13 PROC 13 14 G
+T14 PROC 235 253 exploración física
+T15 CHEM 113 121 hormonal
+T16 PROC 346 369 exploración quiráºrgica
+T17 PROC 113 120 biopsia
+T18 DISO 103 109 nódulo
+T19 DISO 289 305 tumor fus iforme
+T20 DISO 191 201 malignidad
+T21 PROC 41 43 or
+T22 PROC 64 67 qui
+T23 PROC 507 530 ectomía radical derecha
+T24 PROC 277 289 dado de alta
+T25 DISO 841 876 tumor fus iforme del estroma sexual
+T26 PROC 276 287 seguimiento

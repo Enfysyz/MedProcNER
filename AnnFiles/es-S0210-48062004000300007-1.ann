@@ -1,0 +1,71 @@
+T1 DISO 1 20 artritis reumatoide
+T2 PROC 12 23 tratamiento
+T3 CHEM 11 16 AINES
+T4 DISO 52 69 cuadro diarre ico
+T5 PROC 97 121 colonoscopia diagnóstica
+T6 DISO 121 145 perforación iatro génica
+T7 ANAT 31 36 colon
+T8 PROC 43 49 remite
+T9 DISO 177 199 perforación intestinal
+T10 PROC 208 231 intervenida de urgencia
+T11 PROC 171 188 laparotomía media
+T12 PROC 166 181 sutura primaria
+T13 ANAT 205 222 colon descendente
+T14 PROC 92 99 sondaje
+T15 DISO 127 136 hematuria
+T16 DISO 211 225 sintomatología
+T17 PROC 289 307 manejo conservador
+T18 PROC 205 217 intervención
+T19 DISO 163 172 hematuria
+T20 PROC 267 281 lavado vesical
+T21 PROC 461 484 tratamiento intravenoso
+T22 CHEM 22 23 E
+T23 CHEM 23 24 -
+T24 CHEM 277 289 amino ca pro
+T25 CHEM 73 76 ico
+T26 DISO 276 287 anemización
+T27 PROC 287 298 transfusión
+T28 CHEM 622 645 concentrado de hematíes
+T29 DISO 253 262 hematuria
+T30 PROC 349 361 intervención
+T31 PROC 631 652 medidas conservadoras
+T32 PROC 373 385 intervención
+T33 PROC 289 298 ecografía
+T34 DISO 298 307 ocupación
+T35 ANAT 239 246 vesical
+T36 DISO 246 253 coágulo
+T37 PROC 109 112 cis
+T38 PROC 297 305 toscopia
+T39 ANAT 229 235 uminal
+T40 DISO 274 281 coágulo
+T41 PROC 441 452 exploración
+T42 PROC 247 253 lavado
+T43 DISO 211 216 dolor
+T44 ANAT 603 617 área trig onal
+T45 DISO 309 316 coágulo
+T46 ANAT 1081 1105 meato ureteral izquierdo
+T47 PROC 783 800 pruebas de imagen
+T48 PROC 142 145 uro
+T49 PROC 865 883 grafía intravenosa
+T50 ANAT 1765 1801 sistemas ure ter op ielo cal iciales
+T51 DISO 1051 1072 defectos de repleción
+T52 ANAT 154 157 ves
+T53 ANAT 313 319 icales
+T54 DISO 372 379 coágulo
+T55 PROC 163 166 TAC
+T56 PROC 606 617 exploración
+T57 DISO 2129 2167 patología del tracto urinario superior
+T58 DISO 514 523 hematuria
+T59 DISO 465 473 coágulos
+T60 PROC 650 661 exploración
+T61 PROC 1021 1038 anestesia general
+T62 PROC 794 807 lavado con El
+T63 DISO 1179 1198 lesión exc rec ente
+T64 DISO 442 449 tumoral
+T65 ANAT 449 456 cáºpula
+T66 ANAT 976 991 pared posterior
+T67 ANAT 2047 2078 área trig onal - perit rig onal
+T68 DISO 872 885 tumor vesical
+T69 PROC 2109 2140 resección trans uretral extensa
+T70 DISO 415 421 lesión
+T71 PROC 1961 1989 estudio anatomo - patológico

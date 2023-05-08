@@ -1,0 +1,102 @@
+T1 DISO 1 25 antecedentes patológicos
+T2 PROC 9 17 consultó
+T3 DISO 17 25 anorexia
+T4 DISO 58 77 edema en manos pies
+T5 DISO 45 56 rectorragia
+T6 PROC 91 109 exploración física
+T7 DISO 91 106 edema con fóvea
+T8 ANAT 260 297 articulaciones metacar po falán gicas
+T9 ANAT 57 64 metatar
+T10 ANAT 136 151 so fal án gicas
+T11 PROC 111 122 diagnóstico
+T12 PROC 78 85 terapia
+T13 CHEM 121 131 prednisona
+T14 DISO 66 71 edema
+T15 PROC 155 166 tratamiento
+T16 DISO 121 129 síndrome
+T17 DISO 161 171 patologías
+T18 PROC 392 415 pruebas complementarias
+T19 PROC 199 210 hemoglobina
+T20 PROC 39 41 Hb
+T21 PROC 201 211 bioquímica
+T22 PROC 148 155 glucosa
+T23 PROC 89 93 urea
+T24 PROC 231 241 creatinina
+T25 PROC 289 301 ácido áºrico
+T26 PROC 301 313 calcio total
+T27 PROC 183 190 fosfato
+T28 PROC 271 281 colesterol
+T29 PROC 449 465 colesterol - HDL
+T30 PROC 291 301 colesterol
+T31 PROC 31 32 -
+T32 PROC 94 97 LDL
+T33 PROC 545 562 proteínas totales
+T34 PROC 100 103 GPT
+T35 PROC 103 106 LDH
+T36 PROC 106 109 GGT
+T37 PROC 73 75 Na
+T38 PROC 38 39 K
+T39 PROC 77 79 Co
+T40 PROC 118 121 bal
+T41 PROC 241 247 aminas
+T42 PROC 288 295 folatos
+T43 PROC 169 173 Beta
+T44 PROC 44 45 -
+T45 PROC 837 856 2 - micro globulina
+T46 PROC 316 323 protein
+T47 PROC 277 283 ograma
+T48 PROC 894 913 proteína C reactiva
+T49 PROC 145 148 VSG
+T50 PROC 687 701 interleucina 6
+T51 PROC 801 817 Serología de VIH
+T52 PROC 868 885 factor reumatoide
+T53 PROC 1353 1379 anticuerpos antin ucleares
+T54 PROC 2174 2215 anticuerpos anti cito plasma neu tró filo
+T55 PROC 163 166 PSA
+T56 PROC 1651 1681 proteinuria de B ence - J ones
+T57 PROC 673 685 colonoscopia
+T58 PROC 856 871 radiografías de
+T59 ANAT 291 296 manos
+T60 ANAT 237 241 pies
+T61 DISO 1081 1099 lesiones eros ivas
+T62 PROC 733 745 TAC torácica
+T63 ANAT 187 190 LSD
+T64 DISO 1198 1217 infiltrado pulmonar
+T65 ANAT 129 131 LM
+T66 DISO 651 661 infiltrado
+T67 DISO 1849 1877 condensación subseg mentaria
+T68 DISO 403 409 bronco
+T69 DISO 749 760 grama aéreo
+T70 DISO 277 281 trac
+T71 DISO 1821 1847 tos pleuroparenquimatos os
+T72 DISO 2983 3025 bronquiectasias cilíndr icas de pared fina
+T73 ANAT 217 220 LII
+T74 ANAT 512 519 língula
+T75 ANAT 445 451 pleura
+T76 PROC 976 989 TAC abdominal
+T77 ANAT 1141 1156 vejiga urinaria
+T78 DISO 1002 1015 engrosamiento
+T79 ANAT 1015 1028 suelo vesical
+T80 DISO 949 961 divertículos
+T81 DISO 1761 1783 hipertrofia prostática
+T82 PROC 973 985 broncoscopia
+T83 ANAT 575 582 tráquea
+T84 ANAT 2076 2101 árbol bronquial izquierdo
+T85 DISO 2437 2466 signos inflamatorios crónicos
+T86 DISO 1021 1033 divertículos
+T87 DISO 1635 1654 placas an trac osis
+T88 ANAT 1306 1321 árbol bronquial
+T89 ANAT 2025 2048 árbol bronquial derecho
+T90 ANAT 1959 1981 bronquio intermediario
+T91 ANAT 181 183 LM
+T92 DISO 1730 1749 infiltración mucosa
+T93 ANAT 185 187 LM
+T94 DISO 2140 2163 masa aspecto necró tico
+T95 ANAT 283 286 tru
+T96 PROC 1616 1633 biopsia bronquial
+T97 DISO 769 777 sangrado
+T98 PROC 1844 1863 estudio cit ológico
+T99 ANAT 295 298 BAS
+T100 DISO 2476 2501 frotis inflamatorio agudo
+T101 PROC 2501 2526 cultivo de L á¶ w este in
+T102 ANAT 304 307 BAS

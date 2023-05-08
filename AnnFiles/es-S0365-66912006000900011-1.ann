@@ -1,0 +1,62 @@
+T1 PROC 1 11 evaluación
+T2 DISO 19 37 traumatismo ocular
+T3 ANAT 7 10 ojo
+T4 PROC 43 57 agudeza visual
+T5 ANAT 17 21 ojos
+T6 PROC 51 61 examen del
+T7 ANAT 19 22 ojo
+T8 ANAT 22 25 ojo
+T9 DISO 41 46 micro
+T10 DISO 10 11 h
+T11 DISO 21 23 if
+T12 DISO 34 37 ema
+T13 DISO 193 209 uveítis anterior
+T14 PROC 495 533 examen de fondo de ojo bajo dilatación
+T15 ANAT 43 46 ojo
+T16 DISO 511 545 hemorragias retinianas redondeadas
+T17 PROC 481 511 valores de presión intraocular
+T18 DISO 307 325 isquemia retiniana
+T19 PROC 37 39 AF
+T20 PROC 20 21 G
+T21 DISO 221 232 traumatismo
+T22 DISO 85 89 esco
+T23 DISO 331 346 toma periférico
+T24 DISO 70 73 neo
+T25 DISO 601 626 vascularización retiniana
+T26 ANAT 601 625 cuadrante nasal inferior
+T27 PROC 755 784 estudio hematológico completo
+T28 PROC 865 897 pruebas de coagulación sanguínea
+T29 PROC 981 1016 test de enfermedad de células falci
+T30 DISO 146 151 micro
+T31 DISO 31 32 h
+T32 DISO 63 65 if
+T33 DISO 97 100 ema
+T34 DISO 727 749 hemorragias retinianas
+T35 PROC 613 631 tratamiento médico
+T36 CHEM 106 109 sul
+T37 CHEM 577 593 fato de atropina
+T38 CHEM 408 419 corticoides
+T39 PROC 647 664 protección ocular
+T40 PROC 547 561 reposo en cama
+T41 CHEM 241 247 salici
+T42 CHEM 206 211 latos
+T43 CHEM 1345 1377 antiinflamatorios no esteroideos
+T44 PROC 818 837 administración oral
+T45 CHEM 969 991 ácido amino ca pro ico
+T46 DISO 226 231 micro
+T47 DISO 47 48 h
+T48 DISO 95 97 if
+T49 DISO 145 148 ema
+T50 DISO 148 151 res
+T51 DISO 101 103 an
+T52 DISO 256 261 grado
+T53 DISO 1457 1485 trastornos de la coagulación
+T54 DISO 1538 1567 déficit de factores VIII y XI
+T55 DISO 1135 1156 déficit de vitamina K
+T56 DISO 991 1009 isquemia retiniana
+T57 PROC 393 400 tratada
+T58 PROC 229 233 foto
+T59 PROC 1799 1830 coagulación con láser de arg ón
+T60 PROC 650 661 seguimiento
+T61 PROC 841 855 agudeza visual
+T62 DISO 1404 1427 complicaciones oculares

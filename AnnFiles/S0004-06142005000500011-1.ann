@@ -1,0 +1,75 @@
+T1 DISO 1 24 alergias medicamentosas
+T2 DISO 18 35 accidente laboral
+T3 DISO 65 97 fracturas vertebrales y costales
+T4 PROC 34 45 intervenido
+T5 DISO 101 126 enfermedad de Dup uy tren
+T6 ANAT 21 25 mano
+T7 PROC 13 15 by
+T8 PROC 8 9 -
+T9 PROC 137 154 pass ilio femoral
+T10 DISO 226 251 Diabetes Mellitus tipo II
+T11 DISO 191 210 hipercolesterolemia
+T12 DISO 144 157 hiperuricemia
+T13 DISO 25 27 en
+T14 DISO 79 85 olismo
+T15 DISO 99 106 fumador
+T16 PROC 256 273 Atención Primaria
+T17 DISO 353 375 hematuria macroscópica
+T18 DISO 86 91 micro
+T19 DISO 73 77 hema
+T20 DISO 96 101 turia
+T21 PROC 361 379 exploración física
+T22 ANAT 148 155 abdomen
+T23 ANAT 199 208 genitales
+T24 PROC 277 289 tacto rectal
+T25 DISO 457 476 adenoma de próstata
+T26 PROC 451 469 analítica de orina
+T27 DISO 209 217 hematíes
+T28 PROC 244 253 sedimento
+T29 PROC 113 117 Hemo
+T30 PROC 146 151 grama
+T31 PROC 301 311 bioquímica
+T32 PROC 249 257 glucemia
+T33 PROC 417 430 triglicéridos
+T34 PROC 727 749 función hepática renal
+T35 PROC 103 106 PSA
+T36 PROC 106 109 cit
+T37 PROC 577 593 ologías de orina
+T38 DISO 371 381 malignidad
+T39 PROC 875 898 placa simple de abdomen
+T40 DISO 820 841 cambios degenerativos
+T41 ANAT 561 575 columna lumbar
+T42 DISO 1067 1093 calcificaciones vasculares
+T43 ANAT 337 345 hipocond
+T44 ANAT 173 177 rios
+T45 ANAT 265 271 pelvis
+T46 PROC 856 875 ecografía urológica
+T47 DISO 1197 1223 quistes corticales simples
+T48 ANAT 283 289 riá±ón
+T49 ANAT 289 295 vejiga
+T50 ANAT 393 401 próstata
+T51 PROC 51 52 U
+T52 PROC 103 105 IV
+T53 ANAT 261 266 renal
+T54 DISO 796 811 calcificaciones
+T55 ANAT 703 716 silueta renal
+T56 ANAT 111 113 ur
+T57 ANAT 337 343 éteres
+T58 ANAT 343 349 tercio
+T59 ANAT 117 119 ur
+T60 ANAT 355 361 éteres
+T61 DISO 361 367 pseudo
+T62 DISO 123 125 di
+T63 DISO 187 190 ver
+T64 DISO 190 193 tic
+T65 DISO 961 976 ulosis ureteral
+T66 PROC 326 331 cisto
+T67 PROC 331 336 grama
+T68 ANAT 403 409 vejiga
+T69 DISO 1225 1243 vejiga de esfuerzo
+T70 PROC 829 841 TC abdominal
+T71 PROC 211 214 cis
+T72 PROC 569 577 toscopia
+T73 DISO 1585 1607 tumoraciones vesicales
+T74 PROC 1680 1703 resección trans uretral
+T75 DISO 3035 3076 carcinoma urotelial superficial de vejiga

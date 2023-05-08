@@ -1,0 +1,28 @@
+T1 PROC 1 9 consulta
+T2 DISO 23 45 hematuria macroscópica
+T3 DISO 15 22 disuria
+T4 DISO 19 25 fiebre
+T5 PROC 37 46 anamnesis
+T6 PROC 91 109 exploración física
+T7 DISO 19 22 bil
+T8 DISO 22 25 har
+T9 DISO 17 19 zh
+T10 DISO 46 51 iasis
+T11 PROC 171 188 recogida de orina
+T12 PROC 78 85 estudio
+T13 PROC 265 287 ecografía reno vesical
+T14 PROC 287 309 estudio microbiológico
+T15 PROC 239 256 ecografía vesical
+T16 DISO 331 353 engrosamiento parietal
+T17 DISO 97 103 esquis
+T18 DISO 52 55 tos
+T19 DISO 127 134 omiasis
+T20 PROC 134 141 prescri
+T21 PROC 61 64 bió
+T22 PROC 232 243 tratamiento
+T23 CHEM 67 70 pra
+T24 CHEM 24 25 z
+T25 CHEM 49 51 ic
+T26 CHEM 26 27 u
+T27 CHEM 105 109 ante
+T28 CHEM 28 29 l

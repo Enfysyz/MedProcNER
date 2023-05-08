@@ -1,0 +1,65 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 16 31 angor pec toris
+T3 PROC 17 25 consulta
+T4 PROC 28 37 ecografía
+T5 DISO 81 101 masa renal izquierda
+T6 DISO 71 85 sintomatología
+T7 PROC 115 134 analítica de sangre
+T8 DISO 78 89 eosinofilia
+T9 PROC 193 217 estudios complementarios
+T10 PROC 28 31 uro
+T11 PROC 201 221 grafías intravenosas
+T12 DISO 122 133 efecto masa
+T13 ANAT 73 79 flanco
+T14 ANAT 53 57 polo
+T15 ANAT 225 241 riá±ón izquierdo
+T16 DISO 151 161 compresión
+T17 ANAT 337 358 sistema pielocalicial
+T18 PROC 52 55 TAC
+T19 DISO 73 77 masa
+T20 ANAT 248 261 polo superior
+T21 ANAT 321 337 riá±ón izquierdo
+T22 DISO 190 199 quísticas
+T23 DISO 111 116 nefro
+T24 DISO 530 553 ma quístico multi cular
+T25 DISO 265 276 adenopatías
+T26 PROC 451 469 gammagrafía D MS A
+T27 ANAT 131 136 renal
+T28 ANAT 163 169 riá±ón
+T29 PROC 253 262 ecografía
+T30 DISO 552 571 quiste hida tí dico
+T31 ANAT 271 280 vesículas
+T32 PROC 683 705 serología hida tí dica
+T33 PROC 97 100 RMN
+T34 DISO 133 137 masa
+T35 ANAT 443 456 polo superior
+T36 ANAT 561 577 riá±ón izquierdo
+T37 CHEM 325 334 contraste
+T38 DISO 556 571 calcificaciones
+T39 DISO 951 976 quiste hida tí dico renal
+T40 DISO 196 201 nefro
+T41 DISO 1041 1067 ma quístico multi lo cular
+T42 PROC 862 883 punción eco dirig ida
+T43 DISO 421 431 masa renal
+T44 PROC 388 397 serología
+T45 DISO 177 181 hida
+T46 DISO 226 231 tidos
+T47 DISO 93 95 is
+T48 PROC 1129 1153 intervención quiráºrgica
+T49 PROC 529 540 diagnóstico
+T50 DISO 1226 1251 quiste hida tí dico renal
+T51 PROC 301 307 quiste
+T52 PROC 715 729 ctomía parcial
+T53 CHEM 105 107 ri
+T54 CHEM 160 163 van
+T55 CHEM 109 111 ol
+T56 PROC 606 617 tratamiento
+T57 CHEM 113 115 al
+T58 CHEM 172 175 ben
+T59 CHEM 117 119 da
+T60 CHEM 178 181 zol
+T61 PROC 1441 1465 intervención quiráºrgica
+T62 DISO 1282 1303 hipertensión arterial
+T63 PROC 683 694 diagnóstico
+T64 PROC 568 577 serología
+T65 DISO 705 716 eosinofilia

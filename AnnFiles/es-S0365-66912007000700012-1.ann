@@ -1,0 +1,73 @@
+T1 DISO 1 31 disminución reciente de visión
+T2 ANAT 3 5 OD
+T3 DISO 35 52 lesión par du zca
+T4 ANAT 10 13 ojo
+T5 DISO 89 111 traumatismo penetrante
+T6 ANAT 11 13 OD
+T7 PROC 13 15 su
+T8 PROC 43 49 turado
+T9 PROC 89 100 exploración
+T10 PROC 127 141 agudeza visual
+T11 CHEM 51 56 esten
+T12 CHEM 23 25 op
+T13 CHEM 13 14 é
+T14 CHEM 40 43 ico
+T15 PROC 57 61 biom
+T16 PROC 31 33 ic
+T17 PROC 49 52 ros
+T18 PROC 392 415 copía segmento anterior
+T19 DISO 253 267 quiste de iris
+T20 ANAT 286 301 cámara anterior
+T21 ANAT 281 295 pared anterior
+T22 ANAT 358 375 endotelio corneal
+T23 DISO 353 369 cicatriz corneal
+T24 ANAT 231 241 cristalino
+T25 PROC 457 476 presión intraocular
+T26 PROC 26 27 P
+T27 PROC 53 55 IO
+T28 ANAT 109 113 ojos
+T29 PROC 337 349 fondo de ojo
+T30 PROC 233 241 explorar
+T31 DISO 181 187 lesión
+T32 PROC 807 833 ecografía ocular en modo B
+T33 ANAT 257 265 segmento
+T34 PROC 133 137 Stra
+T35 PROC 103 106 tus
+T36 PROC 106 109 OCT
+T37 ANAT 505 519 pared anterior
+T38 ANAT 630 647 endotelio corneal
+T39 DISO 229 235 quiste
+T40 DISO 235 241 lesión
+T41 PROC 1041 1067 diagnosticada clínicamente
+T42 DISO 985 1009 quiste epitelial de iris
+T43 PROC 463 474 intervenido
+T44 PROC 1678 1717 punción aspiración del quiste con aguja
+T45 PROC 133 136 vis
+T46 PROC 91 93 co
+T47 PROC 139 142 dis
+T48 PROC 283 289 ección
+T49 DISO 289 295 quiste
+T50 ANAT 834 851 endotelio corneal
+T51 ANAT 751 766 cámara anterior
+T52 PROC 205 209 foto
+T53 PROC 1145 1167 coagulación ab externo
+T54 PROC 849 865 acto quiráºrgico
+T55 ANAT 379 386 paredes
+T56 ANAT 331 337 tejido
+T57 DISO 561 571 quemaduras
+T58 PROC 1312 1335 tratamiento conf luente
+T59 DISO 407 414 atrofia
+T60 ANAT 237 241 iris
+T61 DISO 1381 1404 inflamación intraocular
+T62 CHEM 672 683 corticoides
+T63 DISO 249 253 sine
+T64 DISO 883 897 quia posterior
+T65 DISO 513 521 catarata
+T66 PROC 781 793 intervención
+T67 PROC 463 470 agudeza
+T68 PROC 2011 2041 exploración biom ic ros cópica
+T69 ANAT 409 415 pupila
+T70 DISO 277 281 sine
+T71 DISO 281 285 quia
+T72 DISO 498 505 secuela
+T73 DISO 433 439 lesión

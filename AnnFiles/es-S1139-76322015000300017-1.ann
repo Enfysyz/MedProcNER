@@ -1,0 +1,35 @@
+T1 PROC 1 6 inmun
+T2 PROC 10 19 izaciones
+T3 DISO 57 85 lesiones cutáneas pap ulosas
+T4 DISO 88 117 placas num ulares cos tros as
+T5 ANAT 53 66 cara anterior
+T6 ANAT 26 31 muslo
+T7 PROC 43 50 prescri
+T8 PROC 22 25 bió
+T9 CHEM 121 136 ácido fus ídico
+T10 DISO 73 81 lesiones
+T11 ANAT 61 67 tronco
+T12 ANAT 78 85 raíz de
+T13 ANAT 145 157 extremidades
+T14 ANAT 53 57 cara
+T15 DISO 141 151 afectación
+T16 ANAT 46 49 pal
+T17 ANAT 113 120 mucosas
+T18 DISO 137 145 lesiones
+T19 DISO 217 229 pruriginosas
+T20 PROC 134 141 reinter
+T21 PROC 41 43 ro
+T22 PROC 64 67 gar
+T23 PROC 243 254 explorar de
+T24 DISO 139 145 lesión
+T25 ANAT 217 226 dorso del
+T26 ANAT 276 287 pie derecho
+T27 DISO 131 136 hiper
+T28 DISO 568 589 pigment desc ama tivo
+T29 DISO 225 233 lesiones
+T30 DISO 407 421 placa her aldo
+T31 PROC 331 342 diagnóstico
+T32 DISO 63 65 pi
+T33 DISO 161 166 tiras
+T34 DISO 694 715 is rosada de G iber t
+T35 PROC 783 806 tratamiento sintomático

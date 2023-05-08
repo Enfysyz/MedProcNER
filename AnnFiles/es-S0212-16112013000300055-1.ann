@@ -1,0 +1,68 @@
+T1 DISO 1 25 diabetes mellitus tipo 2
+T2 DISO 12 23 trombofilia
+T3 DISO 17 25 mutación
+T4 DISO 70 93 obesidad super mór bida
+T5 PROC 93 116 índice de masa corporal
+T6 PROC 16 19 IMC
+T7 DISO 103 120 Colitis Ulcer osa
+T8 DISO 15 17 CU
+T9 PROC 89 100 seguimiento
+T10 PROC 100 111 diagnóstico
+T11 DISO 81 89 diabetes
+T12 PROC 122 133 tratamiento
+T13 PROC 61 66 dieta
+T14 PROC 209 225 ejercicio físico
+T15 CHEM 113 121 insulina
+T16 CHEM 151 161 metformina
+T17 CHEM 337 358 ácidos grasos omega 3
+T18 CHEM 69 73 feno
+T19 CHEM 55 58 fib
+T20 CHEM 77 81 rato
+T21 CHEM 61 64 mes
+T22 CHEM 64 67 ala
+T23 CHEM 89 93 zina
+T24 CHEM 208 217 omeprazol
+T25 PROC 433 451 cirugía bariátrica
+T26 PROC 1151 1197 derivación bil io - pancre ática laparoscópica
+T27 PROC 391 406 colecistectomía
+T28 DISO 55 57 CU
+T29 PROC 561 581 ingreso hospitalario
+T30 PROC 204 211 cirugía
+T31 DISO 151 156 edema
+T32 DISO 962 993 tización de miembros inferiores
+T33 DISO 673 694 desnutrición proteica
+T34 DISO 694 715 gastroenteritis aguda
+T35 PROC 137 141 gres
+T36 PROC 36 37 a
+T37 DISO 145 149 hipo
+T38 DISO 408 419 albuminemia
+T39 PROC 267 274 cirugía
+T40 DISO 79 81 CU
+T41 DISO 481 493 deposiciones
+T42 DISO 288 295 vómitos
+T43 DISO 1093 1119 intolerancias alimentarias
+T44 PROC 1119 1145 tratamiento antidiab ético
+T45 PROC 793 811 exploración física
+T46 DISO 856 875 palidez mucocutánea
+T47 PROC 737 753 tensión arterial
+T48 PROC 894 913 frecuencia cardiaca
+T49 PROC 145 148 IMC
+T50 ANAT 1128 1151 Extremidades inferiores
+T51 DISO 801 817 edemas con fóvea
+T52 ANAT 409 417 rodillas
+T53 PROC 469 478 analítica
+T54 PROC 902 919 proteínas totales
+T55 PROC 487 496 albáºmina
+T56 PROC 166 169 pre
+T57 PROC 505 514 albáºmina
+T58 DISO 343 349 anemia
+T59 DISO 291 296 ferro
+T60 DISO 296 301 penia
+T61 PROC 661 672 hemoglobina
+T62 PROC 672 683 diagnóstico
+T63 DISO 2047 2080 desnutrición calórico - prote ica
+T64 PROC 3466 3521 tratamiento con dieta hiper cal órica e hiper prote ica
+T65 CHEM 1089 1106 módulos proteicos
+T66 DISO 391 397 edemas
+T67 PROC 1189 1207 densitometría ósea
+T68 PROC 470 477 ingreso

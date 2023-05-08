@@ -1,0 +1,58 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 18 35 sinusitis maxilar
+T3 PROC 23 34 tratamiento
+T4 DISO 100 133 pérdida y distorsión de la visión
+T5 ANAT 53 66 ojo izquierdo
+T6 ANAT 11 13 OI
+T7 PROC 85 99 agudeza visual
+T8 ANAT 22 25 ojo
+T9 PROC 257 289 estudio con lámpara de hendidura
+T10 DISO 82 91 patología
+T11 PROC 261 287 exploración fun dos cópica
+T12 DISO 331 361 desprendimiento seroso macular
+T13 ANAT 457 495 vasos temporales superiores inferiores
+T14 ANAT 170 183 nervio óptico
+T15 ANAT 295 316 parénquima retin iano
+T16 ANAT 76 81 muslo
+T17 ANAT 97 103 pierna
+T18 DISO 290 307 pérdida de visión
+T19 PROC 109 115 explor
+T20 PROC 58 61 ada
+T21 DISO 621 652 lesiones eritematosas dolorosas
+T22 ANAT 484 507 extremidades inferiores
+T23 DISO 331 346 eritema no doso
+T24 DISO 116 121 ulcer
+T25 DISO 97 101 aron
+T26 PROC 326 339 interconsulta
+T27 PROC 469 487 estudio compartido
+T28 PROC 541 561 radiografía de tórax
+T29 PROC 897 929 radiografía de senos paranasales
+T30 DISO 88 91 vel
+T31 DISO 211 218 amiento
+T32 ANAT 373 385 seno maxilar
+T33 PROC 641 661 estudios serológicos
+T34 PROC 100 103 ANA
+T35 PROC 137 141 ANCA
+T36 PROC 701 721 ac antifosfol ípidos
+T37 PROC 469 482 serología CMV
+T38 DISO 112 115 VEB
+T39 DISO 153 157 Rick
+T40 DISO 157 161 etts
+T41 DISO 121 124 ias
+T42 DISO 165 169 Toxo
+T43 DISO 253 259 plasma
+T44 DISO 130 133 VIH
+T45 DISO 177 181 Lyme
+T46 PROC 811 829 serología lu ética
+T47 PROC 139 142 Man
+T48 PROC 236 241 to ux
+T49 PROC 433 442 Hemograma
+T50 PROC 491 501 Leucocitos
+T51 PROC 151 154 VSG
+T52 PROC 154 157 PCR
+T53 PROC 2653 2704 niveles serológicos de IgM frente a B . H ens ela e
+T54 PROC 266 271 ELISA
+T55 PROC 379 386 tratada
+T56 CHEM 771 785 ciprofloxacino
+T57 PROC 617 628 tratamiento
+T58 DISO 913 929 cuadro sistémico

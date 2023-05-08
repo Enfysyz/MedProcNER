@@ -1,0 +1,48 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 15 29 hipotiroidismo
+T3 DISO 61 91 dolor en hipocondrio izquierdo
+T4 DISO 34 45 traumáticos
+T5 ANAT 41 51 epigastrio
+T6 DISO 26 31 mareo
+T7 DISO 55 64 debilidad
+T8 PROC 127 145 exploración física
+T9 DISO 89 100 hipotensión
+T10 DISO 100 111 taquicardia
+T11 PROC 141 155 administración
+T12 CHEM 78 85 fluidos
+T13 DISO 85 92 abdomen
+T14 DISO 105 113 doloroso
+T15 ANAT 155 166 hipocondrio
+T16 ANAT 166 177 fosa lumbar
+T17 DISO 449 477 signos irritación peritoneal
+T18 PROC 154 163 Ecografía
+T19 PROC 433 457 Tomografía computarizada
+T20 PROC 39 41 TC
+T21 DISO 521 547 tumoración retroperitoneal
+T22 ANAT 85 89 polo
+T23 ANAT 133 139 riá±ón
+T24 CHEM 208 217 contraste
+T25 DISO 361 376 calcificaciones
+T26 ANAT 576 599 espacio retroperitoneal
+T27 DISO 209 217 sangrado
+T28 PROC 730 757 intervenir quiráºrgicamente
+T29 DISO 673 697 hematoma retroperitoneal
+T30 ANAT 320 331 fosa iliaca
+T31 DISO 301 311 tumoración
+T32 ANAT 404 417 polo superior
+T33 ANAT 513 529 riá±ón izquierdo
+T34 DISO 265 273 sangrado
+T35 DISO 205 211 fisura
+T36 ANAT 701 721 glándula suprarrenal
+T37 ANAT 577 593 riá±ón izquierdo
+T38 PROC 371 381 evaluación
+T39 DISO 799 820 hipertensión arterial
+T40 PROC 742 761 ecografía abdominal
+T41 PROC 281 288 biopsia
+T42 DISO 739 757 tumoración nodular
+T43 PROC 421 431 diagnostic
+T44 PROC 259 265 ándose
+T45 PROC 881 901 estudio microscópico
+T46 DISO 271 277 Pseudo
+T47 DISO 93 95 qu
+T48 DISO 1270 1297 iste endotelial suprarrenal

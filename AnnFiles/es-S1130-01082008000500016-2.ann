@@ -1,0 +1,59 @@
+T1 DISO 1 8 fumador
+T2 PROC 21 41 gastrectomía parcial
+T3 DISO 39 58 enfermedad ulcerosa
+T4 DISO 82 109 hepatopatía crónica por VHC
+T5 PROC 85 106 seguimiento periódico
+T6 DISO 101 121 hemorragia digestiva
+T7 DISO 43 50 melenas
+T8 DISO 36 41 dolor
+T9 ANAT 49 55 cadera
+T10 ANAT 181 201 cara án tero lateral
+T11 ANAT 51 56 muslo
+T12 ANAT 78 85 rodilla
+T13 DISO 277 300 síndrome constitucional
+T14 DISO 209 225 pérdida ponderal
+T15 PROC 253 271 exploración física
+T16 DISO 301 321 dolor a la palpación
+T17 ANAT 353 375 cabeza femoral derecha
+T18 DISO 222 235 hepatomegalia
+T19 PROC 73 77 hema
+T20 PROC 229 241 tim é tricos
+T21 DISO 221 232 anemización
+T22 PROC 505 529 niveles séricos de Î± FP
+T23 PROC 265 277 TC abdominal
+T24 DISO 93 97 masa
+T25 ANAT 553 576 lóbulo hepático derecho
+T26 CHEM 226 235 contraste
+T27 DISO 79 82 CHC
+T28 PROC 622 645 radiología convencional
+T29 ANAT 169 175 pelvis
+T30 ANAT 175 181 cadera
+T31 DISO 421 435 imagen lí tica
+T32 ANAT 187 193 cuello
+T33 ANAT 449 463 cabeza femoral
+T34 PROC 529 545 gammagrafía ósea
+T35 CHEM 69 71 99
+T36 CHEM 36 37 m
+T37 CHEM 73 75 Tc
+T38 CHEM 186 191 radio
+T39 CHEM 115 118 tra
+T40 CHEM 196 201 zador
+T41 ANAT 921 944 región supra orbi taria
+T42 PROC 780 799 estudio histológico
+T43 PROC 295 302 biopsia
+T44 DISO 259 265 lesión
+T45 ANAT 617 631 cuello femoral
+T46 DISO 766 783 metástasis de CHC
+T47 PROC 277 283 quimio
+T48 PROC 236 241 embol
+T49 PROC 337 344 ización
+T50 DISO 246 251 tumor
+T51 PROC 1101 1123 radioterapia paliativa
+T52 ANAT 1378 1405 articulación cox of em oral
+T53 DISO 1977 2015 fractura patológica sub tro can té rea
+T54 PROC 107 109 os
+T55 PROC 163 166 tes
+T56 PROC 386 393 íntesis
+T57 DISO 281 286 falle
+T58 DISO 343 349 ciendo
+T59 PROC 697 709 intervención

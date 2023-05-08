@@ -1,0 +1,17 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 19 37 enfermedad celiaca
+T3 PROC 73 109 anticuerpos anti trans glu tamin asa
+T4 PROC 49 65 biopsia duodenal
+T5 DISO 73 91 enfermedad celiaca
+T6 DISO 96 115 abortos espontáneos
+T7 DISO 241 281 accidente isquémico transitorio cerebral
+T8 PROC 246 281 anticuerpos antic ardi olip ina IgM
+T9 PROC 41 46 antic
+T10 PROC 37 41 ardi
+T11 PROC 41 45 olip
+T12 PROC 78 85 ina IgG
+T13 PROC 241 261 Estudio hematológico
+T14 DISO 378 407 alteraciones pro tromb óticas
+T15 PROC 155 166 tratamiento
+T16 CHEM 121 129 heparina
+T17 PROC 337 358 dieta libre de gluten

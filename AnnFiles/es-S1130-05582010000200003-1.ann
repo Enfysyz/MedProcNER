@@ -1,0 +1,73 @@
+T1 DISO 1 9 agresión
+T2 PROC 23 45 trasladado a urgencias
+T3 DISO 33 49 heridas incis as
+T4 ANAT 13 17 cara
+T5 ANAT 25 31 cuello
+T6 ANAT 76 91 cuero cabelludo
+T7 ANAT 25 29 mano
+T8 PROC 302 345 ingresa en la Unidad de Cuidados Intensivos
+T9 DISO 81 91 hipotermia
+T10 DISO 172 191 acidosis metabólica
+T11 DISO 131 144 hipopotasemia
+T12 DISO 210 229 fracaso renal agudo
+T13 PROC 241 261 ventilación mecánica
+T14 DISO 196 211 cuadro orgánico
+T15 PROC 211 226 sutura primaria
+T16 DISO 106 113 heridas
+T17 PROC 305 324 trasladado a planta
+T18 PROC 290 307 alta hospitalaria
+T19 PROC 127 134 ingreso
+T20 DISO 324 341 dolor tumefacción
+T21 ANAT 61 64 pre
+T22 ANAT 190 199 auricular
+T23 DISO 441 461 cicatriz quiráºrgica
+T24 DISO 369 385 heridas faciales
+T25 DISO 193 201 síntomas
+T26 DISO 201 209 tinnitus
+T27 PROC 469 487 exploración física
+T28 DISO 649 673 tumoración pre auricular
+T29 DISO 225 233 pulsátil
+T30 PROC 262 271 palpación
+T31 PROC 301 311 inspección
+T32 PROC 373 385 auscultación
+T33 DISO 129 133 masa
+T34 ANAT 265 273 arterial
+T35 PROC 715 736 ecografía paro tí dea
+T36 DISO 1926 1981 fístula arteriovenosa intra paro tí dea izquierda flujo
+T37 PROC 865 889 tomografía computarizada
+T38 PROC 1111 1141 TC ) cervico facial y cervical
+T39 ANAT 913 937 rama vertical mandibular
+T40 ANAT 1132 1161 lóbulo profundo y superficial
+T41 ANAT 721 739 glándula paró tida
+T42 ANAT 862 883 vena retro mandibular
+T43 ANAT 1009 1033 arteria carótida externa
+T44 ANAT 259 265 venoso
+T45 ANAT 881 901 vena yugular externa
+T46 PROC 496 507 diagnóstico
+T47 PROC 507 518 angiografía
+T48 DISO 706 721 lesión vascular
+T49 ANAT 1105 1128 arteria maxilar interna
+T50 ANAT 344 351 venosos
+T51 ANAT 1001 1021 plexo p teri go ideo
+T52 ANAT 1021 1041 vena yugular externa
+T53 ANAT 729 743 arteria facial
+T54 PROC 584 595 tratamiento
+T55 PROC 649 661 embolización
+T56 PROC 276 281 micro
+T57 PROC 225 229 cate
+T58 PROC 400 407 terismo
+T59 ANAT 1335 1358 arteria maxilar interna
+T60 PROC 473 481 oclusión
+T61 CHEM 421 428 platino
+T62 PROC 1221 1241 control angiográfico
+T63 ANAT 1489 1513 arteria facial izquierda
+T64 PROC 1450 1473 seguimiento ambulatorio
+T65 PROC 321 326 angio
+T66 PROC 66 67 -
+T67 PROC 133 135 TC
+T68 DISO 537 545 oclusión
+T69 ANAT 1565 1588 arteria maxilar interna
+T70 DISO 622 631 trombosis
+T71 DISO 281 285 bols
+T72 DISO 924 937 ón fist uloso
+T73 PROC 1657 1680 seguimiento ambulatorio

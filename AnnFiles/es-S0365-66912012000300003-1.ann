@@ -1,0 +1,83 @@
+T1 DISO 1 45 LMA M 1 ( mi elo blástica sin diferenciación
+T2 PROC 27 53 tratamiento quimioterápico
+T3 PROC 19 28 protocolo
+T4 PROC 22 29 ingresa
+T5 DISO 113 141 cuadro respiratorio catarral
+T6 DISO 81 97 congestión nasal
+T7 CHEM 67 78 antibiótico
+T8 DISO 141 161 pápulas eritematosas
+T9 ANAT 57 64 espalda
+T10 DISO 442 491 adenopatías suprac lav iculares y sub ma xil ares
+T11 DISO 81 89 ojo rojo
+T12 DISO 232 253 sintomatología ocular
+T13 PROC 133 144 exploración
+T14 PROC 183 197 agudeza visual
+T15 PROC 43 46 ton
+T16 PROC 106 113 ometría
+T17 ANAT 129 137 oculares
+T18 PROC 69 73 biom
+T19 PROC 37 39 ic
+T20 PROC 58 61 ros
+T21 PROC 441 463 copía de polo anterior
+T22 DISO 316 331 lesión carn osa
+T23 ANAT 67 70 tar
+T24 ANAT 254 265 so superior
+T25 ANAT 49 51 OI
+T26 DISO 151 157 lesión
+T27 ANAT 703 730 conjuntiva tar sal inferior
+T28 PROC 325 337 fondo de ojo
+T29 DISO 589 610 afectación leuc émica
+T30 ANAT 291 301 conjuntiva
+T31 PROC 211 218 biopsia
+T32 DISO 187 193 lesión
+T33 PROC 609 628 estudio histológico
+T34 DISO 430 443 proliferación
+T35 ANAT 239 246 células
+T36 ANAT 281 289 mieloide
+T37 ANAT 721 741 epitelio conjuntival
+T38 CHEM 186 191 mielo
+T39 CHEM 115 118 per
+T40 CHEM 274 281 oxidasa
+T41 CHEM 81 83 CD
+T42 CHEM 83 85 43
+T43 CHEM 421 431 marcadores
+T44 ANAT 302 309 células
+T45 CHEM 89 91 CD
+T46 CHEM 91 93 20
+T47 CHEM 93 95 CD
+T48 CHEM 48 49 3
+T49 CHEM 97 99 CD
+T50 CHEM 50 51 5
+T51 CHEM 51 52 T
+T52 CHEM 52 53 d
+T53 CHEM 53 54 T
+T54 CHEM 107 109 CD
+T55 CHEM 109 111 34
+T56 CHEM 111 113 CD
+T57 CHEM 169 172 117
+T58 PROC 628 639 diagnosticó
+T59 DISO 1335 1358 sarcoma granul oc ítico
+T60 PROC 473 481 biopsias
+T61 ANAT 721 733 mucosa nasal
+T62 ANAT 245 249 piel
+T63 PROC 683 694 diagnóstico
+T64 DISO 127 129 SM
+T65 ANAT 641 651 conjuntiva
+T66 ANAT 261 265 piel
+T67 ANAT 793 805 mucosa nasal
+T68 PROC 1810 1837 frotis de sangre periférica
+T69 ANAT 409 415 médula
+T70 PROC 967 981 punción lumbar
+T71 PROC 911 924 exploraciones
+T72 PROC 782 793 diagnóstico
+T73 DISO 1009 1023 recidiva extra
+T74 ANAT 512 519 medular
+T75 DISO 149 151 SM
+T76 DISO 226 229 LMA
+T77 PROC 2129 2157 tratamiento de segunda línea
+T78 PROC 694 703 protocolo
+T79 DISO 1795 1818 lesiones infiltra tivas
+T80 DISO 554 561 fallece
+T81 PROC 881 892 diagnóstico
+T82 DISO 163 165 SM
+T83 DISO 1559 1578 fallo multiorgánico

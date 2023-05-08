@@ -1,0 +1,91 @@
+T1 DISO 1 19 disfunción vesical
+T2 DISO 6 11 hiper
+T3 DISO 49 73 actividad del de trus or
+T4 DISO 40 53 dolor intenso
+T5 DISO 73 91 espasmos vesicales
+T6 PROC 116 139 lavado continuo vesical
+T7 PROC 43 50 ingresa
+T8 DISO 155 177 hematuria macroscópica
+T9 DISO 161 181 dolor supra páº bico
+T10 PROC 64 71 ingreso
+T11 DISO 241 265 retención aguda de orina
+T12 DISO 34 37 lum
+T13 DISO 25 27 bo
+T14 DISO 40 43 cia
+T15 DISO 85 91 talgia
+T16 DISO 46 49 pro
+T17 DISO 417 443 tusiones discales lumbares
+T18 DISO 18 19 u
+T19 DISO 307 324 rolitiasis remota
+T20 PROC 134 141 tratada
+T21 PROC 81 85 lito
+T22 PROC 421 441 tricia extracorpórea
+T23 DISO 573 599 síndrome miccional crónico
+T24 DISO 714 745 hipertrofia benigna de próstata
+T25 PROC 433 451 biopsia prostática
+T26 PROC 476 495 tratamiento crónico
+T27 CHEM 79 82 tam
+T28 CHEM 217 225 sulosina
+T29 PROC 1149 1190 resecciones trans ure trales pros táticas
+T30 PROC 204 211 ingresa
+T31 PROC 901 931 estudio con técnicas de imagen
+T32 PROC 838 865 ecografía abdomino pélv ica
+T33 DISO 65 67 ve
+T34 DISO 430 443 jiga de lucha
+T35 DISO 103 106 uro
+T36 DISO 596 613 patía obstructiva
+T37 PROC 2017 2073 tomografía computarizada abdomino pélv ica con contraste
+T38 DISO 815 837 hipertrofia prostática
+T39 DISO 1103 1132 engrosamiento parietal difuso
+T40 ANAT 274 281 vesical
+T41 DISO 1041 1067 hipertrofia del de trus or
+T42 ANAT 288 295 uretral
+T43 PROC 589 603 lavado vesical
+T44 DISO 345 353 coágulos
+T45 ANAT 133 136 ves
+T46 ANAT 271 277 icales
+T47 PROC 645 659 lavado vesical
+T48 DISO 1505 1537 dolor supra páº bico tipo cólico
+T49 DISO 1297 1324 cortejo neuro ve g eta tivo
+T50 DISO 736 751 líquido vesical
+T51 PROC 701 715 lavado vesical
+T52 DISO 1174 1197 problemas obstruc tivos
+T53 ANAT 365 372 uretral
+T54 PROC 584 595 diagnostica
+T55 DISO 973 991 espasmos vesicales
+T56 DISO 1596 1625 hiperactividad del de trus or
+T57 PROC 617 628 tratamiento
+T58 CHEM 115 117 bu
+T59 CHEM 175 178 til
+T60 CHEM 178 181 bro
+T61 CHEM 1081 1099 muro de hi os cina
+T62 CHEM 550 559 metamizol
+T63 CHEM 869 883 dexketoprofeno
+T64 CHEM 190 193 tol
+T65 CHEM 257 261 tero
+T66 CHEM 261 265 dina
+T67 CHEM 133 135 al
+T68 CHEM 537 545 prazolam
+T69 CHEM 1089 1105 cloruro mór fico
+T70 DISO 1105 1121 clínica dolorosa
+T71 PROC 1751 1776 terapia de lavado vesical
+T72 PROC 2841 2881 colocación de un catéter epidural lumbar
+T73 ANAT 2305 2337 espacio intervertebral L 3 - L 4
+T74 CHEM 658 667 lidocaína
+T75 CHEM 667 676 fentanilo
+T76 PROC 676 685 perfusión
+T77 CHEM 305 309 levo
+T78 CHEM 78 79 b
+T79 CHEM 157 159 up
+T80 CHEM 633 641 ivacaína
+T81 CHEM 721 730 fentanilo
+T82 PROC 1297 1313 bloqueo epidural
+T83 DISO 1887 1910 sintomatología dolorosa
+T84 DISO 2491 2521 manifestaciones uro din ámicas
+T85 DISO 1261 1276 espasmo vesical
+T86 ANAT 426 431 derma
+T87 ANAT 775 784 toma T 12
+T88 PROC 784 793 perfusión
+T89 PROC 353 357 expl
+T90 PROC 179 181 an
+T91 PROC 541 547 tación

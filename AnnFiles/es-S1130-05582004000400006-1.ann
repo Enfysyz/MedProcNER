@@ -1,0 +1,87 @@
+T1 DISO 1 17 ausencia de pelo
+T2 ANAT 16 31 cuero cabelludo
+T3 DISO 31 46 hernia inguinal
+T4 PROC 22 29 operada
+T5 DISO 81 101 queratosis ac tínica
+T6 PROC 36 43 tratada
+T7 CHEM 37 43 retino
+T8 CHEM 29 33 ides
+T9 PROC 89 100 crioterapia
+T10 DISO 181 201 lesiones cos tros as
+T11 ANAT 271 298 región parie to - occipital
+T12 PROC 89 97 biopsias
+T13 DISO 97 105 lesiones
+T14 DISO 274 295 Carcinoma epidermoide
+T15 PROC 155 166 extirpación
+T16 DISO 121 129 lesiones
+T17 PROC 145 154 resección
+T18 DISO 86 91 tumor
+T19 PROC 217 229 radioterapia
+T20 ANAT 286 301 cuero cabelludo
+T21 DISO 161 169 lesiones
+T22 PROC 169 177 biopsias
+T23 DISO 463 484 Carcinoma epidermoide
+T24 DISO 461 481 lesiones cos tros as
+T25 DISO 193 201 lesiones
+T26 DISO 251 261 malignidad
+T27 PROC 313 325 radioterapia
+T28 DISO 217 225 fibrosis
+T29 ANAT 421 436 cuero cabelludo
+T30 PROC 900 931 reconstrucción colgajos locales
+T31 PROC 601 621 resección amplia del
+T32 ANAT 466 481 cuero cabelludo
+T33 PROC 769 793 reconstrucción inmediata
+T34 DISO 232 239 defecto
+T35 ANAT 885 911 colgajo libre de om ent um
+T36 PROC 106 109 her
+T37 PROC 37 38 n
+T38 PROC 112 115 ior
+T39 PROC 191 196 rafia
+T40 DISO 586 601 hernia inguinal
+T41 PROC 441 452 intervenido
+T42 PROC 739 757 extirpación amplia
+T43 ANAT 631 646 cuero cabelludo
+T44 ANAT 1291 1321 vasos temporales superficiales
+T45 PROC 749 766 laparotomía media
+T46 PROC 271 277 explor
+T47 PROC 139 142 ada
+T48 ANAT 800 817 cavidad abdominal
+T49 PROC 193 197 trac
+T50 PROC 246 251 ciona
+T51 ANAT 101 103 om
+T52 ANAT 154 157 ent
+T53 ANAT 105 107 um
+T54 PROC 160 163 dis
+T55 PROC 163 166 eca
+T56 ANAT 166 169 mes
+T57 ANAT 225 229 ocol
+T58 ANAT 742 755 on transverso
+T59 ANAT 987 1004 pedículo vascular
+T60 ANAT 2007 2041 vasos gastro epi plo icos derechos
+T61 ANAT 961 977 ramas vasculares
+T62 ANAT 1465 1489 curvatura mayor estómago
+T63 ANAT 1055 1072 pedículo vascular
+T64 ANAT 1513 1537 curvatura mayor estómago
+T65 ANAT 513 521 pedículo
+T66 ANAT 1691 1717 arteria gastro epi plo ica
+T67 ANAT 133 135 om
+T68 ANAT 202 205 ent
+T69 ANAT 137 139 um
+T70 ANAT 2347 2381 arteria gastro epi plo ica derecha
+T71 DISO 491 498 defecto
+T72 PROC 427 433 sutura
+T73 ANAT 145 147 om
+T74 ANAT 220 223 ent
+T75 ANAT 149 151 um
+T76 ANAT 1126 1141 cuero cabelludo
+T77 PROC 837 848 anastomosis
+T78 ANAT 232 235 ped
+T79 ANAT 1327 1344 ículos vasculares
+T80 PROC 870 881 anastomosis
+T81 ANAT 1121 1135 vasos faciales
+T82 ANAT 1945 1969 temporales superficiales
+T83 PROC 903 914 anastomosis
+T84 ANAT 2906 2941 pedículo gastro epi plo ico derecho
+T85 ANAT 1345 1361 vasos receptores
+T86 ANAT 596 603 arteria
+T87 ANAT 345 349 vena

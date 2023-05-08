@@ -1,0 +1,75 @@
+T1 DISO 1 22 disminución bilateral
+T2 DISO 32 63 hepatopatía crónica por virus C
+T3 DISO 57 85 síndrome autoinmune de Evans
+T4 DISO 4 5 p
+T5 DISO 149 186 áºrpura tromboci top énica autoinmune
+T6 DISO 31 37 anemia
+T7 PROC 37 43 esplen
+T8 PROC 50 57 ectomía
+T9 PROC 225 253 tratamiento de mantenimiento
+T10 CHEM 91 101 prednisona
+T11 PROC 251 276 exploración oftalmológica
+T12 PROC 331 361 agudeza visual mejor corregida
+T13 PROC 25 27 Bi
+T14 PROC 53 57 omic
+T15 PROC 43 46 ros
+T16 PROC 166 177 cópicamente
+T17 DISO 497 528 catarata sub capsular posterior
+T18 PROC 69 73 fund
+T19 PROC 37 39 us
+T20 PROC 96 101 copia
+T21 DISO 1501 1576 desprendimiento neurosensorial y de epitelio pigment ario de la retina EP R
+T22 ANAT 295 309 polo posterior
+T23 ANAT 89 93 ojos
+T24 DISO 507 529 lesiones blanque cinas
+T25 ANAT 457 476 retina ecu a torial
+T26 ANAT 101 105 ojos
+T27 DISO 911 946 lesiones periféricas cicatri ciales
+T28 PROC 838 869 tomografía óptica de coherencia
+T29 PROC 85 88 OCT
+T30 DISO 204 211 despren
+T31 DISO 271 280 dimientos
+T32 ANAT 187 193 mácula
+T33 ANAT 129 133 ojos
+T34 PROC 166 171 angio
+T35 PROC 103 106 flu
+T36 PROC 141 145 ores
+T37 PROC 73 75 ce
+T38 PROC 75 77 in
+T39 PROC 229 235 grafia
+T40 PROC 352 361 ingresado
+T41 DISO 441 452 fiebre alta
+T42 DISO 1190 1219 adenopatías latero cervicales
+T43 DISO 295 302 diarrea
+T44 PROC 1076 1101 tratado de forma empírica
+T45 CHEM 89 91 ce
+T46 CHEM 361 369 fotaxima
+T47 PROC 645 659 corticoterapia
+T48 DISO 1082 1105 dificultad respiratoria
+T49 PROC 145 148 TAC
+T50 DISO 1373 1401 ensanchamiento mediastín ico
+T51 PROC 351 358 biopsia
+T52 DISO 1123 1145 adenopatías cervicales
+T53 DISO 1717 1750 linfoma B difuso de célula grande
+T54 PROC 425 433 marcador
+T55 PROC 595 606 diagnóstico
+T56 DISO 2421 2465 linfoma no Hodgkin B difuso de célula grande
+T57 PROC 1065 1084 quimioterapia CH OP
+T58 CHEM 514 523 rituximab
+T59 PROC 1509 1535 tratamiento quimioterápico
+T60 DISO 1476 1501 desprendimiento sensorial
+T61 DISO 241 245 E PR
+T62 DISO 1770 1799 cicatrices retin oc oro ideas
+T63 CHEM 497 505 pigmento
+T64 PROC 820 833 quimioterapia
+T65 DISO 449 456 linfoma
+T66 PROC 196 199 TAC
+T67 PROC 727 738 gammagrafía
+T68 ANAT 135 137 re
+T69 ANAT 341 346 tinas
+T70 DISO 1381 1401 lesiones exuda tivas
+T71 PROC 211 214 OCT
+T72 DISO 498 505 despren
+T73 DISO 649 658 dimientos
+T74 PROC 147 149 AV
+T75 PROC 1777 1801 intervención de catarata

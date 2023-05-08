@@ -1,0 +1,113 @@
+T1 DISO 1 8 fumador
+T2 DISO 5 9 EPOC
+T3 DISO 37 55 bronquitis crónica
+T4 DISO 13 17 Hern
+T5 DISO 49 61 ias discales
+T6 PROC 41 49 interven
+T7 PROC 25 29 idas
+T8 DISO 106 121 litiasis biliar
+T9 DISO 81 91 colestasis
+T10 DISO 208 231 Adenocarcinoma gástrico
+T11 PROC 111 122 intervenido
+T12 PROC 199 217 gastrectomía total
+T13 PROC 73 79 esplen
+T14 PROC 92 99 ectomía
+T15 PROC 99 106 pancrea
+T16 PROC 226 241 tectomía distal
+T17 PROC 1057 1123 anastomosis esófago - y ey unal y yeyuno - y ey unal en Y de Ro ux
+T18 PROC 222 235 quimioterapia
+T19 PROC 217 229 radioterapia
+T20 DISO 39 41 Ep
+T21 DISO 81 85 igas
+T22 DISO 148 155 tralgia
+T23 DISO 177 185 diarreas
+T24 DISO 530 553 anemia meg alo blástica
+T25 DISO 289 301 malabsorción
+T26 PROC 276 287 tratamiento
+T27 CHEM 235 244 fenitoína
+T28 DISO 487 505 crisis epilépticas
+T29 PROC 309 320 seguimiento
+T30 DISO 465 481 recidiva tumoral
+T31 PROC 511 528 tratamiento forma
+T32 CHEM 373 385 dexametasona
+T33 PROC 65 67 In
+T34 PROC 133 137 gres
+T35 PROC 35 36 a
+T36 DISO 246 253 diarrea
+T37 DISO 217 223 fiebre
+T38 DISO 630 647 lesiones cutáneas
+T39 ANAT 305 313 miembros
+T40 DISO 1054 1081 pus t ulosas y ampol los as
+T41 DISO 961 985 consolidación neum ónica
+T42 ANAT 247 253 base D
+T43 PROC 85 87 Rx
+T44 DISO 560 573 cuadro febril
+T45 DISO 1013 1036 condensación neum ónica
+T46 PROC 496 507 tratamiento
+T47 CHEM 599 612 levofloxacino
+T48 DISO 706 721 dolor abdominal
+T49 DISO 337 344 diarrea
+T50 DISO 1520 1551 alteraciones del ritmo cardíaco
+T51 PROC 551 562 tratamiento
+T52 CHEM 358 365 digital
+T53 DISO 469 478 debilidad
+T54 ANAT 425 433 miembros
+T55 DISO 919 936 lesiones cutáneas
+T56 ANAT 386 393 piernas
+T57 ANAT 337 343 brazos
+T58 ANAT 286 291 manos
+T59 ANAT 407 414 espalda
+T60 DISO 709 721 eritematosas
+T61 DISO 541 550 vesículas
+T62 DISO 611 621 necró tico
+T63 PROC 1117 1135 técnicas de imagen
+T64 PROC 1954 1985 TAC de cráneo , tórax y abdomen
+T65 PROC 1025 1041 gammagrafía ósea
+T66 PROC 2146 2179 aspirado y biopsia de médula ósea
+T67 DISO 1585 1609 lesiones me tás tás icas
+T68 DISO 1341 1361 infiltración tumoral
+T69 PROC 1633 1657 RNM de columna vertebral
+T70 DISO 277 281 oste
+T71 DISO 561 569 omalacia
+T72 PROC 143 145 25
+T73 PROC 73 74 -
+T74 PROC 147 149 OH
+T75 PROC 223 226 - D
+T76 DISO 301 305 oste
+T77 DISO 609 617 omalacia
+T78 DISO 2850 2887 malabsorción intestinal de vitamina D
+T79 DISO 1951 1976 insuficiencia pancreática
+T80 PROC 870 881 tratamiento
+T81 CHEM 881 892 anticonvuls
+T82 CHEM 244 247 ion
+T83 CHEM 411 416 antes
+T84 PROC 914 925 hemocultivo
+T85 PROC 841 851 urocultivo
+T86 PROC 1021 1033 coprocultivo
+T87 PROC 1721 1741 serología de VIH CMV
+T88 PROC 958 969 diagnóstico
+T89 DISO 2025 2048 lesiones dermatológicas
+T90 PROC 713 721 muestras
+T91 PROC 1711 1730 anatomía patológica
+T92 PROC 1184 1197 microbiología
+T93 PROC 645 652 biopsia
+T94 ANAT 652 659 células
+T95 DISO 1693 1711 enfermedad maligna
+T96 DISO 666 673 dermato
+T97 DISO 193 195 fi
+T98 DISO 486 491 tosis
+T99 PROC 2157 2179 estudio microbiológico
+T100 DISO 694 701 dermato
+T101 DISO 201 203 fi
+T102 DISO 506 511 tosis
+T103 PROC 715 722 cultivo
+T104 ANAT 722 729 muestra
+T105 DISO 833 841 lesiones
+T106 ANAT 421 425 mano
+T107 PROC 743 750 cultivo
+T108 ANAT 750 757 muestra
+T109 DISO 973 982 lesión en
+T110 ANAT 655 661 pierna
+T111 PROC 1211 1222 tratamiento
+T112 CHEM 1222 1233 itraconazol
+T113 PROC 1905 1922 alta hospitalaria

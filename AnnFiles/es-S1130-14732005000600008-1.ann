@@ -1,0 +1,45 @@
+T1 DISO 1 22 hemiparesia izquierda
+T2 DISO 11 21 tabaquismo
+T3 DISO 43 64 hipertensión arterial
+T4 DISO 58 77 hipercolesterolemia
+T5 DISO 45 56 peritonitis
+T6 DISO 101 121 infarto de miocardio
+T7 PROC 13 15 TC
+T8 PROC 15 17 RM
+T9 PROC 161 181 angiografía cerebral
+T10 PROC 100 111 diagnosticó
+T11 DISO 471 518 oclusión de la arteria carótida interna derecha
+T12 DISO 100 109 estenosis
+T13 DISO 73 79 pseudo
+T14 DISO 118 127 aneurisma
+T15 ANAT 113 121 cervical
+T16 DISO 241 257 signos disección
+T17 PROC 33 35 RM
+T18 PROC 477 505 implante de una endoprótesis
+T19 DISO 163 172 estenosis
+T20 DISO 115 121 pseudo
+T21 DISO 61 64 ane
+T22 DISO 85 89 uris
+T23 DISO 133 139 mática
+T24 ANAT 553 577 arteria carótida interna
+T25 PROC 481 501 control angiográfico
+T26 DISO 126 131 esten
+T27 DISO 131 136 ótica
+T28 DISO 163 169 pseudo
+T29 DISO 253 262 aneurisma
+T30 PROC 378 391 procedimiento
+T31 CHEM 451 466 heparina sódica
+T32 PROC 1148 1185 tratamiento anticoagulante secuencial
+T33 CHEM 481 496 heparina sódica
+T34 PROC 595 613 perfusión continua
+T35 CHEM 103 106 dic
+T36 CHEM 141 145 umar
+T37 CHEM 73 75 in
+T38 CHEM 149 153 icos
+T39 CHEM 1027 1054 antiagregantes plaquetarios
+T40 PROC 1483 1521 controles angio gráficos y ecográficos
+T41 ANAT 281 288 arteria
+T42 DISO 247 253 pseudo
+T43 DISO 379 388 aneurisma
+T44 DISO 904 925 síntomas neurológicos
+T45 ANAT 881 901 territorio carotídeo

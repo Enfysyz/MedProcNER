@@ -1,0 +1,38 @@
+T1 DISO 1 31 neuralgia del nervio pu den do
+T2 DISO 7 13 lesión
+T3 PROC 77 115 resección trans - ureteral de próstata
+T4 PROC 4 5 R
+T5 PROC 9 11 TU
+T6 PROC 6 7 -
+T7 PROC 7 8 P
+T8 DISO 267 305 dolor de características neuro páticas
+T9 DISO 25 28 que
+T10 DISO 19 21 ma
+T11 DISO 31 34 zón
+T12 DISO 122 133 parestesias
+T13 ANAT 181 196 genital externo
+T14 DISO 365 393 dolor al defec ar mic cionar
+T15 DISO 71 76 dolor
+T16 PROC 316 337 terapia farmacológica
+T17 CHEM 65 69 carb
+T18 CHEM 35 37 am
+T19 CHEM 73 77 acep
+T20 CHEM 58 61 ina
+T21 CHEM 221 232 pregabalina
+T22 CHEM 274 287 amitriptilina
+T23 CHEM 177 185 tramadol
+T24 PROC 576 601 tratamiento farmacológico
+T25 PROC 217 226 protocolo
+T26 PROC 751 781 cuestionario de depresión Beck
+T27 DISO 235 244 depresión
+T28 DISO 217 225 ansiedad
+T29 PROC 337 349 implantación
+T30 DISO 349 361 complicación
+T31 DISO 421 435 fístula de LCR
+T32 PROC 559 577 manejo conservador
+T33 PROC 353 364 tratamiento
+T34 DISO 166 171 dolor
+T35 CHEM 409 421 medicamentos
+T36 PROC 1156 1189 Cuestionario de depresión de Beck
+T37 DISO 289 297 ansiedad
+T38 DISO 334 343 depresión

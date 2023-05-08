@@ -1,0 +1,52 @@
+T1 PROC 1 9 consultó
+T2 DISO 30 59 disminución de agudeza visual
+T3 DISO 19 28 molestias
+T4 DISO 46 61 sequedad ocular
+T5 DISO 65 81 sequedad cutánea
+T6 DISO 11 13 an
+T7 DISO 49 57 hidrosis
+T8 DISO 8 9 p
+T9 DISO 105 118 iosis cutánea
+T10 DISO 343 381 lesiones cutáneas hiper quera tós icas
+T11 DISO 261 287 pérdida de cuero cabelludo
+T12 ANAT 56 61 cejas
+T13 DISO 37 40 mad
+T14 DISO 27 29 ar
+T15 DISO 57 61 osis
+T16 ANAT 136 145 palpebral
+T17 ANAT 49 52 ojo
+T18 PROC 69 73 biom
+T19 PROC 37 39 ic
+T20 PROC 58 61 ros
+T21 PROC 101 106 copía
+T22 DISO 442 463 hiperemia conjuntival
+T23 DISO 67 70 neo
+T24 DISO 530 553 vascularización corneal
+T25 ANAT 433 451 superficie corneal
+T26 DISO 176 183 querato
+T27 DISO 417 433 patía pun te ada
+T28 PROC 487 505 test de Sch ir mer
+T29 ANAT 449 465 menisco lagrimal
+T30 ANAT 117 121 ojos
+T31 PROC 571 590 presión intraocular
+T32 ANAT 125 129 ojos
+T33 PROC 577 595 tratamiento tópico
+T34 CHEM 166 171 fluor
+T35 CHEM 137 141 omet
+T36 CHEM 176 181 olona
+T37 CHEM 217 223 pomada
+T38 CHEM 445 457 eritromicina
+T39 PROC 419 430 lubricación
+T40 ANAT 235 241 ocular
+T41 ANAT 121 124 ojo
+T42 PROC 1887 1933 exploración física dermatológica y neurológica
+T43 DISO 295 302 querato
+T44 DISO 87 89 er
+T45 DISO 133 136 ite
+T46 DISO 91 93 ma
+T47 DISO 1013 1035 sordera neurosensorial
+T48 PROC 612 625 diagnosticada
+T49 DISO 625 638 síndrome K ID
+T50 PROC 1324 1351 análisis molecular genético
+T51 DISO 401 409 mutación
+T52 DISO 664 677 síndrome K ID

@@ -1,0 +1,67 @@
+T1 DISO 1 19 dermatitis atópica
+T2 DISO 18 35 lesiones cutáneas
+T3 ANAT 13 19 tronco
+T4 DISO 22 29 prurito
+T5 DISO 57 71 sintomatología
+T6 PROC 91 109 exploración física
+T7 DISO 127 148 lesiones eritematosas
+T8 ANAT 43 49 tronco
+T9 DISO 25 28 hab
+T10 DISO 19 21 on
+T11 DISO 41 45 osas
+T12 DISO 188 205 exudado amigdalar
+T13 PROC 457 495 test rápido de estreptococo en faringe
+T14 PROC 144 155 diagnostica
+T15 DISO 449 481 urticaria aguda para infec ciosa
+T16 DISO 106 113 faringo
+T17 DISO 273 290 amigdalitis viral
+T18 DISO 307 325 afectación cutánea
+T19 DISO 847 894 lesiones eritemato des c ama tivas pruriginosas
+T20 ANAT 628 661 regiones perio cular y perib ucal
+T21 ANAT 121 127 tronco
+T22 ANAT 169 177 pliegues
+T23 DISO 309 323 sobreinfección
+T24 DISO 438 457 lesiones de rascado
+T25 ANAT 145 151 tronco
+T26 DISO 401 417 exudado faríngeo
+T27 DISO 131 136 dolor
+T28 PROC 298 309 diagnostica
+T29 DISO 141 146 brote
+T30 DISO 523 541 dermatitis atópica
+T31 DISO 421 435 sobreinfección
+T32 PROC 342 353 tratamiento
+T33 CHEM 97 100 def
+T34 CHEM 100 103 laz
+T35 CHEM 69 71 ac
+T36 CHEM 106 109 ort
+T37 DISO 289 297 lesiones
+T38 DISO 334 343 febrícula
+T39 DISO 419 430 decaimiento
+T40 DISO 898 921 dolor a la palpación la
+T41 ANAT 161 165 piel
+T42 PROC 370 379 Hemograma
+T43 DISO 505 517 leucocitosis
+T44 DISO 474 485 neutrofilia
+T45 PROC 133 136 neu
+T46 PROC 361 369 trófilos
+T47 PROC 461 471 linfocitos
+T48 PROC 894 913 proteína C reactiva
+T49 PROC 529 540 diagnostica
+T50 DISO 1324 1351 síndrome de piel escal dada
+T51 PROC 351 358 ingreso
+T52 PROC 1786 1821 tratamiento antibiótico intravenoso
+T53 CHEM 625 637 clindamicina
+T54 CHEM 160 163 clo
+T55 CHEM 433 441 xacilina
+T56 DISO 1926 1961 lesiones palpe brales y perior ales
+T57 PROC 169 172 fom
+T58 PROC 286 291 entos
+T59 CHEM 59 60 b
+T60 CHEM 178 181 ora
+T61 CHEM 541 550 to sódico
+T62 CHEM 1099 1117 pomada antibiótica
+T63 ANAT 1861 1891 exudado conjuntival , faríngeo
+T64 DISO 883 897 lesión cutánea
+T65 PROC 705 716 hemocultivo
+T66 PROC 781 793 dada de alta
+T67 PROC 463 470 ingreso

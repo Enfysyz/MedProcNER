@@ -1,0 +1,72 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 22 43 fibrilación auricular
+T3 PROC 53 79 tratamiento anticoagulante
+T4 DISO 52 69 diabetes mellitus
+T5 DISO 109 136 insuficiencia renal crónica
+T6 PROC 11 13 In
+T7 PROC 25 29 gres
+T8 PROC 8 9 a
+T9 DISO 169 190 ictericia obstructiva
+T10 DISO 37 41 cole
+T11 DISO 21 23 do
+T12 DISO 45 49 coli
+T13 DISO 73 79 tiasis
+T14 PROC 209 225 CPRE terapéutica
+T15 PROC 43 46 sed
+T16 PROC 256 273 acción consciente
+T17 CHEM 17 18 m
+T18 CHEM 137 145 idazolam
+T19 CHEM 55 58 pro
+T20 CHEM 96 101 pofol
+T21 CHEM 261 274 remifentanilo
+T22 PROC 253 265 intervención
+T23 DISO 903 944 inestabilidad hemodinámica y respiratoria
+T24 PROC 714 745 tomografía axial computer izada
+T25 PROC 361 376 TAC ) abdominal
+T26 PROC 526 547 contraste intravenoso
+T27 ANAT 443 460 polo anterior del
+T28 ANAT 109 113 bazo
+T29 DISO 533 552 contusión esplénica
+T30 ANAT 204 211 líquido
+T31 ANAT 691 714 región per ies pl énica
+T32 ANAT 63 65 go
+T33 ANAT 865 892 tiera parac ólica izquierda
+T34 ANAT 133 137 peri
+T35 ANAT 69 71 he
+T36 ANAT 211 217 pático
+T37 ANAT 217 223 pelvis
+T38 ANAT 223 229 sangre
+T39 DISO 1065 1093 deterioro del estado general
+T40 PROC 430 441 laparotomía
+T41 DISO 161 165 hemo
+T42 DISO 370 379 peritoneo
+T43 DISO 337 345 desgarro
+T44 ANAT 1033 1057 borde anterior esplénico
+T45 PROC 133 136 TAC
+T46 PROC 271 277 esplen
+T47 PROC 323 330 ectomía
+T48 PROC 706 721 colecistectomía
+T49 PROC 289 295 duoden
+T50 PROC 344 351 ostomía
+T51 PROC 1351 1378 extracción del molde biliar
+T52 PROC 1378 1405 colocación de tubo de K her
+T53 DISO 1041 1061 perforación duodenal
+T54 DISO 690 703 shock séptico
+T55 DISO 973 991 peritonitis biliar
+T56 PROC 716 729 tratado empír
+T57 CHEM 673 685 piperacilina
+T58 CHEM 58 59 -
+T59 CHEM 581 591 tazobactam
+T60 PROC 237 241 rela
+T61 PROC 241 245 paro
+T62 PROC 306 311 tomía
+T63 DISO 869 883 fístula biliar
+T64 PROC 757 769 dada de alta
+T65 PROC 449 456 ingreso
+T66 PROC 1236 1255 anatomía patológica
+T67 ANAT 331 336 pieza
+T68 PROC 403 409 esplen
+T69 PROC 477 484 ectomía
+T70 ANAT 277 281 cara
+T71 ANAT 491 498 cápsula
+T72 ANAT 711 721 parénquima

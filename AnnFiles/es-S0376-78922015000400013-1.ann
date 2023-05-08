@@ -1,0 +1,56 @@
+T1 DISO 1 17 obesidad mórbida
+T2 PROC 24 47 índice de masa corporal
+T3 PROC 7 10 IMC
+T4 DISO 61 81 asimetría de volumen
+T5 ANAT 77 96 miembros inferiores
+T6 ANAT 71 85 pierna derecha
+T7 DISO 19 22 anf
+T8 DISO 22 25 rac
+T9 DISO 17 19 tu
+T10 DISO 19 21 os
+T11 DISO 61 67 idades
+T12 ANAT 276 301 tejido cutáneo - adi poso
+T13 ANAT 109 118 dorso del
+T14 ANAT 144 155 pie derecho
+T15 PROC 155 166 diagnóstico
+T16 DISO 421 449 linfedema crónico secundario
+T17 DISO 161 171 infecciosa
+T18 DISO 52 55 fil
+T19 DISO 91 96 arias
+T20 DISO 39 41 is
+T21 PROC 181 190 ingresada
+T22 PROC 883 925 tratamiento mediante elevación del miembro
+T23 ANAT 155 162 cutánea
+T24 PROC 162 169 cirugía
+T25 PROC 433 451 técnica de Charles
+T26 PROC 201 209 escisión
+T27 ANAT 235 244 dorso del
+T28 ANAT 82 85 pie
+T29 PROC 253 262 cobertura
+T30 PROC 871 901 injerto de piel parcial en red
+T31 ANAT 361 373 cara interna
+T32 ANAT 187 193 pierna
+T33 ANAT 129 133 piel
+T34 ANAT 793 817 espacio inter dig itales
+T35 DISO 69 71 br
+T36 DISO 666 685 idas cicatri ciales
+T37 PROC 613 630 drenaje linfático
+T38 ANAT 260 267 injerto
+T39 PROC 267 274 drenaje
+T40 PROC 118 121 fen
+T41 PROC 81 83 es
+T42 PROC 370 379 traciones
+T43 PROC 379 388 ingresada
+T44 ANAT 302 309 miembro
+T45 PROC 221 226 curas
+T46 DISO 181 185 exud
+T47 DISO 691 706 ación linfática
+T48 PROC 330 337 ingreso
+T49 PROC 865 883 antibioticoterapia
+T50 PROC 540 551 tratamiento
+T51 PROC 951 970 régimen ambulatorio
+T52 PROC 1735 1769 compresión mediante media elástica
+T53 PROC 521 531 prevención
+T54 ANAT 160 163 pie
+T55 ANAT 379 386 cutánea
+T56 PROC 1266 1289 seguimiento en consulta

@@ -1,0 +1,112 @@
+T1 DISO 1 21 hemorragia digestiva
+T2 DISO 3 5 ul
+T3 DISO 25 37 cus p éptico
+T4 DISO 31 41 menopausia
+T5 DISO 49 61 osteoporosis
+T6 DISO 121 145 artrosis dorso - lum bar
+T7 DISO 61 71 dislipemia
+T8 PROC 29 33 apen
+T9 PROC 25 28 dic
+T10 PROC 46 51 ectom
+T11 PROC 51 56 izada
+T12 PROC 122 133 tratamiento
+T13 CHEM 25 27 ra
+T14 CHEM 27 29 be
+T15 CHEM 85 91 prazol
+T16 CHEM 61 65 alma
+T17 CHEM 33 35 ga
+T18 CHEM 35 37 to
+T19 DISO 235 248 dolor rigidez
+T20 ANAT 305 321 zonas proximales
+T21 ANAT 161 169 miembros
+T22 DISO 190 199 febrícula
+T23 DISO 155 162 astenia
+T24 DISO 185 193 anorexia
+T25 DISO 169 176 pérdida
+T26 DISO 451 469 síndrome depresivo
+T27 DISO 469 487 patología orgánica
+T28 PROC 487 505 exploración física
+T29 PROC 449 465 tensión arterial
+T30 DISO 436 451 palidez cutánea
+T31 PROC 1051 1086 auscultación cardio - res piratoria
+T32 PROC 342 353 hemoglobina
+T33 PROC 97 100 VSG
+T34 PROC 100 103 PCR
+T35 PROC 69 71 dí
+T36 PROC 246 253 meros D
+T37 PROC 613 630 examen bioquímico
+T38 PROC 112 115 GGT
+T39 PROC 381 391 f alcalina
+T40 PROC 235 241 hierro
+T41 PROC 361 370 ferritina
+T42 PROC 288 295 glucosa
+T43 PROC 421 431 creatinina
+T44 PROC 259 265 calcio
+T45 PROC 309 316 fósforo
+T46 PROC 451 461 colesterol
+T47 PROC 599 612 triglicéridos
+T48 PROC 424 433 proteínas
+T49 PROC 145 148 GOT
+T50 PROC 148 151 GPT
+T51 PROC 151 154 LDH
+T52 PROC 154 157 CPK
+T53 PROC 261 266 sodio
+T54 PROC 372 379 potasio
+T55 PROC 1027 1046 Factor reumato ideo
+T56 PROC 221 225 Tiro
+T57 PROC 393 400 tropina
+T58 PROC 58 59 b
+T59 PROC 987 1004 2 micro globulina
+T60 PROC 178 181 CEA
+T61 PROC 541 550 CA 19 , 9
+T62 PROC 733 745 Hemocultivos
+T63 PROC 1117 1135 sedimento de orina
+T64 PROC 1387 1409 sangre oculta en heces
+T65 PROC 1281 1301 radiografía de tórax
+T66 ANAT 391 397 tracto
+T67 ANAT 1519 1542 lóbulo inferior derecho
+T68 PROC 336 341 trans
+T69 PROC 1293 1312 ito gastro duodenal
+T70 PROC 1312 1331 ecografía abdominal
+T71 PROC 911 924 TAC abdominal
+T72 PROC 853 865 gastroscopia
+T73 PROC 2161 2191 biopsia de la arteria temporal
+T74 DISO 1169 1185 arteriosclerosis
+T75 PROC 815 826 diagnóstico
+T76 DISO 451 457 polimi
+T77 DISO 1141 1156 algia reumática
+T78 PROC 848 859 tratamiento
+T79 CHEM 235 238 def
+T80 CHEM 238 241 laz
+T81 CHEM 161 163 ac
+T82 CHEM 244 247 ort
+T83 PROC 903 914 hemoglobina
+T84 PROC 250 253 PCR
+T85 PROC 253 256 VSG
+T86 CHEM 256 259 def
+T87 CHEM 259 262 laz
+T88 CHEM 175 177 ac
+T89 CHEM 265 268 ort
+T90 PROC 980 991 tratamiento
+T91 DISO 1081 1093 asintomática
+T92 CHEM 274 277 def
+T93 CHEM 277 280 laz
+T94 CHEM 187 189 ac
+T95 CHEM 283 286 ort
+T96 PROC 1046 1057 tratamiento
+T97 CHEM 289 292 def
+T98 CHEM 292 295 laz
+T99 CHEM 197 199 ac
+T100 CHEM 298 301 ort
+T101 CHEM 1001 1011 paroxetina
+T102 CHEM 1112 1123 gabapentina
+T103 CHEM 919 928 omeprazol
+T104 CHEM 104 105 l
+T105 CHEM 1145 1156 ormetazepam
+T106 PROC 736 743 control
+T107 DISO 1273 1285 asintomática
+T108 PROC 1178 1189 hemoglobina
+T109 PROC 325 328 VSG
+T110 PROC 328 331 PCR
+T111 DISO 991 1000 febrícula
+T112 DISO 667 673 fiebre

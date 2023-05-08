@@ -1,0 +1,40 @@
+T1 DISO 1 17 tumoración en la
+T2 ANAT 5 9 mama
+T3 PROC 19 28 consultar
+T4 PROC 34 45 diagnóstico
+T5 PROC 49 61 tratamientos
+T6 PROC 21 25 auto
+T7 PROC 13 15 am
+T8 PROC 15 17 pu
+T9 PROC 25 28 tar
+T10 ANAT 37 41 mama
+T11 DISO 121 133 dolor dorsal
+T12 DISO 67 73 disnea
+T13 DISO 505 547 adenopatías axilares y suprac lav iculares
+T14 PROC 261 281 radiografía de tórax
+T15 DISO 211 226 derrame pleural
+T16 DISO 61 65 linf
+T17 DISO 353 375 angitis carcinoma tosa
+T18 PROC 273 289 gammagrafía ósea
+T19 PROC 343 362 diagnóstico clínico
+T20 PROC 134 141 punción
+T21 DISO 121 127 nódulo
+T22 ANAT 274 287 lecho mamario
+T23 PROC 199 208 citología
+T24 DISO 645 673 carcinoma ductal infiltrante
+T25 PROC 265 276 tratamiento
+T26 CHEM 251 261 tamoxifeno
+T27 DISO 417 433 dolores dorsales
+T28 CHEM 244 253 analgesia
+T29 CHEM 309 320 analgésicos
+T30 PROC 59 61 CA
+T31 PROC 91 94 153
+T32 PROC 559 577 fosfatasa alcalina
+T33 DISO 353 364 adenopatías
+T34 ANAT 430 443 lecho mamario
+T35 PROC 375 386 gammagrafía
+T36 DISO 666 685 afectación pulmonar
+T37 PROC 721 741 tratamiento hormonal
+T38 DISO 186 191 Falle
+T39 DISO 115 118 ció
+T40 PROC 430 441 diagnóstico

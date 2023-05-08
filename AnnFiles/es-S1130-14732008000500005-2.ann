@@ -1,0 +1,26 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 20 39 ataxia de la marcha
+T3 DISO 55 82 incontinencia de esfínteres
+T4 DISO 100 133 trastorno de funciones superiores
+T5 PROC 93 116 estudios de neuroimagen
+T6 DISO 51 61 dilatación
+T7 ANAT 115 134 sistema ventricular
+T8 DISO 8 9 H
+T9 DISO 17 19 CA
+T10 PROC 190 211 colocación de un D LE
+T11 DISO 81 89 cefaleas
+T12 DISO 78 85 vómitos
+T13 DISO 61 66 tismo
+T14 DISO 443 477 deterioro del nivel de consciencia
+T15 ANAT 43 46 LCR
+T16 PROC 151 161 TC craneal
+T17 DISO 129 137 hematoma
+T18 ANAT 358 379 hemisferio cerebeloso
+T19 DISO 253 267 efecto de masa
+T20 PROC 438 461 tratamiento conservador
+T21 PROC 221 232 RM cerebral
+T22 PROC 148 155 ingreso
+T23 DISO 199 208 patología
+T24 PROC 277 289 dada de alta
+T25 PROC 721 751 implantó válvula de derivación
+T26 PROC 451 469 colocación de D LE

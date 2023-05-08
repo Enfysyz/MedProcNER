@@ -1,0 +1,49 @@
+T1 PROC 1 20 ecografía abdominal
+T2 PROC 19 37 estudio u rológico
+T3 DISO 69 103 tumoración quística intra hepática
+T4 DISO 73 97 quiste hepático complejo
+T5 PROC 53 66 TAC abdominal
+T6 DISO 76 91 imagen quística
+T7 CHEM 55 64 contraste
+T8 PROC 141 161 marcadores tumorales
+T9 DISO 97 109 asintomático
+T10 PROC 100 111 seguimiento
+T11 PROC 191 210 control radiológico
+T12 DISO 67 73 lesión
+T13 ANAT 337 365 confluencia por to - bil iar
+T14 DISO 79 85 lesión
+T15 PROC 379 406 intervenir quiráºrgicamente
+T16 DISO 151 161 malignidad
+T17 DISO 97 103 lesión
+T18 PROC 409 433 intervención quiráºrgica
+T19 DISO 181 191 tumoración
+T20 ANAT 96 101 hilio
+T21 PROC 141 148 biopsia
+T22 DISO 337 353 tumor mu ci noso
+T23 DISO 221 231 malignidad
+T24 DISO 116 121 cisto
+T25 DISO 97 101 aden
+T26 DISO 101 105 ocar
+T27 DISO 105 109 cion
+T28 DISO 82 85 oma
+T29 PROC 57 59 ex
+T30 PROC 581 601 cisión radical pieza
+T31 PROC 541 559 resección completa
+T32 PROC 280 289 disección
+T33 DISO 129 133 fist
+T34 DISO 67 69 ul
+T35 DISO 239 246 ización
+T36 DISO 176 181 tumor
+T37 ANAT 901 926 conducto hepático derecho
+T38 DISO 1444 1483 lesiones poli po ideas intra qu ísticas
+T39 PROC 875 898 diagnóstico histológico
+T40 DISO 196 201 cisto
+T41 DISO 161 165 aden
+T42 DISO 42 43 o
+T43 DISO 1051 1076 carcinoma muc os ecre tor
+T44 PROC 990 1013 quimioterapia adyuvante
+T45 CHEM 45 46 5
+T46 CHEM 46 47 -
+T47 CHEM 277 283 fluoro
+T48 CHEM 330 337 uracilo
+T49 PROC 529 540 seguimiento

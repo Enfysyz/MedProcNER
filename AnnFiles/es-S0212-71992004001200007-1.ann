@@ -1,0 +1,74 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 4 7 HTA
+T3 DISO 39 58 diabetes mellitus (
+T4 DISO 34 45 DM ) tipo 2
+T5 PROC 45 56 tratamiento
+T6 CHEM 51 61 metformina
+T7 PROC 43 50 ingreso
+T8 DISO 113 129 malestar general
+T9 DISO 49 55 fiebre
+T10 DISO 109 121 dolor lumbar
+T11 DISO 241 265 cuadro confusional agudo
+T12 DISO 309 337 pérdida progresiva de visión
+T13 ANAT 37 40 ojo
+T14 PROC 144 155 exploración
+T15 DISO 85 91 febril
+T16 PROC 241 257 tensión arterial
+T17 ANAT 49 52 ojo
+T18 DISO 443 469 edema par pe bral superior
+T19 DISO 109 115 ptosis
+T20 DISO 286 301 edema orbitario
+T21 DISO 61 64 que
+T22 DISO 358 375 mosis conjuntival
+T23 ANAT 133 139 córnea
+T24 DISO 346 361 pupila mi ótica
+T25 DISO 97 101 sine
+T26 DISO 126 131 quias
+T27 PROC 313 325 fondo de ojo
+T28 PROC 514 533 exploración general
+T29 PROC 533 552 analítica de sangre
+T30 PROC 320 331 hemoglobina
+T31 ANAT 271 280 plaquetas
+T32 ANAT 311 321 leucocitos
+T33 ANAT 353 364 neutrófilos
+T34 PROC 232 239 glucosa
+T35 PROC 1259 1296 velocidad de sedimentación glomerular
+T36 PROC 666 685 proteína C reactiva
+T37 ANAT 181 186 orina
+T38 ANAT 371 381 leucocitos
+T39 ANAT 77 79 Li
+T40 ANAT 196 201 quido
+T41 ANAT 121 124 LCR
+T42 ANAT 288 295 células
+T43 ANAT 295 302 polimor
+T44 ANAT 130 133 fon
+T45 ANAT 353 361 ucleares
+T46 ANAT 586 599 mononucleares
+T47 PROC 323 330 glucosa
+T48 CHEM 424 433 proteínas
+T49 PROC 145 148 TAC
+T50 PROC 491 501 RM craneal
+T51 DISO 1201 1225 alteraciones orbi tarias
+T52 ANAT 868 885 senos caver nosos
+T53 PROC 521 531 RM columna
+T54 DISO 637 649 espondilitis
+T55 ANAT 55 56 L
+T56 ANAT 56 57 L
+T57 PROC 2577 2623 Ecocardiograma transtorácico y trans esofágico
+T58 DISO 685 697 endocarditis
+T59 PROC 697 709 hemocultivos
+T60 PROC 178 181 uro
+T61 PROC 481 489 cultivos
+T62 PROC 977 993 cultivos del LCR
+T63 PROC 745 757 antibiograma
+T64 PROC 694 705 tratamiento
+T65 CHEM 705 716 ceftriaxona
+T66 CHEM 911 925 ciprofloxacino
+T67 PROC 1189 1207 tratamiento tópico
+T68 CHEM 135 137 ne
+T69 CHEM 477 484 omicina
+T70 CHEM 691 701 prednisona
+T71 CHEM 561 569 atropina
+T72 CHEM 995 1009 ciprofloxacino
+T73 PROC 793 804 tratamiento
+T74 ANAT 220 223 ojo

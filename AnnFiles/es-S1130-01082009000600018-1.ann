@@ -1,0 +1,50 @@
+T1 DISO 1 20 síntomas digestivos
+T2 PROC 10 19 analítica
+T3 PROC 23 34 seguimiento
+T4 PROC 139 185 niveles de antígeno carcino emb ri onario C EA
+T5 PROC 117 146 ecografía abdomino - pélv ica
+T6 DISO 21 25 masa
+T7 ANAT 25 29 uter
+T8 ANAT 22 25 ane
+T9 ANAT 81 91 jo derecho
+T10 PROC 109 121 colonoscopia
+T11 PROC 241 265 laparoscopia diagnóstica
+T12 DISO 45 49 masa
+T13 ANAT 61 66 ciego
+T14 ANAT 79 85 anejos
+T15 ANAT 85 91 áºtero
+T16 PROC 61 65 tida
+T17 PROC 497 528 tomografía axial computer izada
+T18 PROC 426 451 TAC ) de abdomen y pelvis
+T19 DISO 379 400 masa pélvica quístico
+T20 ANAT 115 121 vejiga
+T21 ANAT 281 295 íleon terminal
+T22 DISO 799 837 signos infiltración de órganos vecinos
+T23 DISO 155 162 ascitis
+T24 DISO 93 97 aden
+T25 DISO 217 226 omegalias
+T26 PROC 226 235 intervino
+T27 DISO 79 82 muc
+T28 DISO 487 505 ocele apendi cular
+T29 DISO 365 378 líquido libre
+T30 DISO 262 271 implantes
+T31 ANAT 271 280 peritoneo
+T32 PROC 94 97 ile
+T33 PROC 129 133 ocol
+T34 PROC 859 885 ectomía derecha oncológica
+T35 PROC 987 1016 anastomosis i leo trans versa
+T36 PROC 806 829 estudio histopatológico
+T37 ANAT 181 186 pieza
+T38 ANAT 741 761 apéndice ile oc ecal
+T39 DISO 115 118 muc
+T40 DISO 196 201 ocele
+T41 DISO 1161 1190 tumor mu ci noso apendi cular
+T42 DISO 411 421 malignidad
+T43 DISO 589 603 invasión local
+T44 DISO 947 969 calcificación parietal
+T45 ANAT 837 856 ganglios linfáticos
+T46 PROC 406 415 resección
+T47 DISO 415 424 neoplasia
+T48 PROC 518 529 seguimiento
+T49 PROC 961 981 marcadores tumorales
+T50 PROC 148 151 TAC

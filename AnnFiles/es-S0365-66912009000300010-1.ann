@@ -1,0 +1,75 @@
+T1 DISO 1 8 cefalea
+T2 DISO 14 27 cuadro gripal
+T3 PROC 15 22 tratado
+T4 CHEM 31 41 ibuprofeno
+T5 PROC 45 56 exploración
+T6 PROC 11 13 AV
+T7 ANAT 19 22 ojo
+T8 PROC 15 17 AV
+T9 ANAT 25 28 ojo
+T10 PROC 64 71 pupilas
+T11 PROC 41 45 biom
+T12 PROC 23 25 ic
+T13 PROC 37 40 ros
+T14 PROC 66 71 copía
+T15 ANAT 57 61 polo
+T16 PROC 76 81 oftal
+T17 PROC 49 52 mos
+T18 PROC 86 91 copía
+T19 DISO 145 153 lesiones
+T20 ANAT 267 281 polo posterior
+T21 ANAT 81 85 ojos
+T22 ANAT 106 111 fóvea
+T23 DISO 45 47 EP
+T24 DISO 24 25 P
+T25 DISO 49 51 MA
+T26 PROC 701 729 angiografía fluores ce ínica
+T27 PROC 53 55 AG
+T28 PROC 28 29 F
+T29 PROC 1065 1103 angiografía con verde de indo ci anina
+T30 PROC 59 61 IC
+T31 PROC 31 32 G
+T32 ANAT 94 97 cor
+T33 ANAT 161 166 oides
+T34 DISO 661 681 lesiones pl aco ides
+T35 DISO 783 806 hipoperfusión coro idea
+T36 DISO 316 325 patología
+T37 PROC 1117 1148 tomografía de coherencia óptica
+T38 DISO 889 913 engrosamiento retin iano
+T39 ANAT 951 976 capas retinianas externas
+T40 PROC 937 961 tratamiento cortico ideo
+T41 CHEM 121 124 pre
+T42 CHEM 288 295 dnisona
+T43 DISO 295 302 cefalea
+T44 PROC 1033 1057 tratamiento cortico ideo
+T45 PROC 397 406 suspender
+T46 CHEM 451 461 medicación
+T47 DISO 875 894 vasculitis cerebral
+T48 PROC 142 145 ang
+T49 PROC 145 148 ior
+T50 PROC 148 151 res
+T51 PROC 1251 1276 onancia magnética nuclear
+T52 PROC 256 261 angio
+T53 PROC 157 160 RMN
+T54 DISO 531 541 vasculitis
+T55 PROC 2863 2916 estudio de histo compatibilidad de HLA B - 7 HLA DR 2
+T56 PROC 606 617 seguimiento
+T57 DISO 449 457 diplopía
+T58 PROC 628 639 exploración
+T59 DISO 2089 2125 parálisis del VI par craneal derecho
+T60 ANAT 178 181 ojo
+T61 PROC 1681 1709 Test de H ess - L an cas ter
+T62 PROC 550 559 inyección
+T63 CHEM 1055 1072 toxina botulínica
+T64 ANAT 694 705 recto medio
+T65 ANAT 193 196 ojo
+T66 DISO 521 529 diplopía
+T67 DISO 529 537 diplopía
+T68 PROC 135 137 AV
+T69 ANAT 205 208 ojo
+T70 ANAT 208 211 ojo
+T71 PROC 211 214 OCT
+T72 ANAT 143 145 fo
+T73 ANAT 289 293 veal
+T74 ANAT 658 667 retiniana
+T75 ANAT 297 301 ojos

@@ -1,0 +1,85 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 25 49 diabetes mellitus tipo 2
+T3 DISO 63 94 accidente isquémico transitorio
+T4 DISO 76 101 hipotiroidismo autoinmune
+T5 DISO 77 96 deterioro cognitivo
+T6 DISO 131 157 quemadura por contacto con
+T7 DISO 85 99 inflamación de
+T8 ANAT 29 33 ropa
+T9 DISO 345 388 lesiones d érmicas profundas y subd érmicas
+T10 ANAT 208 231 extremidades inferiores
+T11 ANAT 101 111 superficie
+T12 ANAT 89 97 corporal
+T13 DISO 49 53 quem
+T14 DISO 40 43 ada
+T15 DISO 351 376 quemaduras eran d érmicas
+T16 ANAT 91 97 muslos
+T17 ANAT 113 120 piernas
+T18 DISO 528 559 placa de afectación subd érmica
+T19 ANAT 109 115 pierna
+T20 DISO 381 401 quemaduras d érmicas
+T21 ANAT 121 127 muslos
+T22 ANAT 85 89 cara
+T23 PROC 243 254 reanimación
+T24 PROC 254 265 tratamiento
+T25 DISO 193 201 lesiones
+T26 PROC 501 521 ingreso hospitalario
+T27 PROC 131 136 escar
+T28 PROC 28 29 o
+T29 PROC 421 436 tomías urgencia
+T30 ANAT 204 211 piernas
+T31 PROC 331 342 reanimación
+T32 PROC 218 225 ingreso
+T33 PROC 737 760 desbridamiento ser iado
+T34 DISO 166 171 zonas
+T35 DISO 307 316 quem adas
+T36 PROC 1471 1513 cobertura con auto injerto de piel parcial
+T37 ANAT 361 371 superficie
+T38 ANAT 223 229 muslos
+T39 DISO 305 313 defectos
+T40 PROC 313 321 exéresis
+T41 DISO 401 411 quemaduras
+T42 ANAT 288 295 piernas
+T43 ANAT 253 259 muslos
+T44 CHEM 302 309 sustitu
+T45 CHEM 221 226 tivos
+T46 DISO 1081 1105 quemaduras superficiales
+T47 ANAT 277 283 muslos
+T48 ANAT 330 337 piernas
+T49 DISO 337 344 pérdida
+T50 ANAT 344 351 injerto
+T51 ANAT 301 307 pierna
+T52 PROC 307 313 sesión
+T53 PROC 729 743 desbridamiento
+T54 ANAT 796 811 zona pre tibial
+T55 ANAT 379 386 injerto
+T56 DISO 496 505 quemadura
+T57 PROC 449 457 cirugías
+T58 DISO 172 175 esc
+T59 DISO 175 178 ara
+T60 DISO 1063 1081 defecto pre tibial
+T61 ANAT 301 306 tibia
+T62 PROC 245 249 esco
+T63 PROC 125 127 pl
+T64 PROC 190 193 ado
+T65 ANAT 385 391 perios
+T66 ANAT 196 199 tio
+T67 PROC 1057 1073 terapia de vacío
+T68 DISO 470 477 defecto
+T69 PROC 1089 1105 terapia de vacío
+T70 PROC 346 351 curas
+T71 CHEM 1471 1492 jabón de clorhexidina
+T72 PROC 995 1009 desbridamiento
+T73 PROC 1153 1169 terapia de vacío
+T74 PROC 658 667 cobertura
+T75 ANAT 371 376 hueso
+T76 ANAT 1576 1597 tejido de granulación
+T77 PROC 837 848 tratamiento
+T78 CHEM 309 313 auto
+T79 CHEM 625 633 injertos
+T80 ANAT 633 641 gláºteos
+T81 PROC 481 487 cierre
+T82 DISO 568 575 heridas
+T83 PROC 575 582 terapia
+T84 PROC 1993 2017 cultivos microbiológicos
+T85 ANAT 1765 1786 tejido de granulación

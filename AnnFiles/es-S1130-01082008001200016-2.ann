@@ -1,0 +1,25 @@
+T1 DISO 1 7 epigas
+T2 DISO 9 17 tralgias
+T3 DISO 47 70 síndrome constitucional
+T4 PROC 7 9 TC
+T5 DISO 17 21 masa
+T6 ANAT 81 97 colon ascendente
+T7 DISO 121 141 metástasis hepáticas
+T8 PROC 36 41 hemic
+T9 PROC 17 19 ol
+T10 PROC 136 151 ectomía derecha
+T11 PROC 161 177 biopsia hepática
+T12 PROC 210 229 anatomía patológica
+T13 DISO 157 170 tumor formado
+T14 ANAT 144 155 células fus
+T15 PROC 351 376 examen ultra estruc tural
+T16 PROC 31 33 IH
+T17 PROC 17 18 Q
+T18 PROC 188 199 diagnóstico
+T19 DISO 19 20 G
+T20 DISO 58 61 ANT
+T21 PROC 421 442 tratamiento adyuvante
+T22 CHEM 169 177 imatinib
+T23 PROC 111 116 TC de
+T24 PROC 254 265 seguimiento
+T25 DISO 481 501 metástasis hepáticas

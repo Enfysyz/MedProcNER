@@ -1,0 +1,61 @@
+T1 DISO 1 22 hipertensión arterial
+T2 DISO 16 31 cefalea intensa
+T3 ANAT 13 19 región
+T4 DISO 22 29 cefalea
+T5 CHEM 69 86 antiinflamatorios
+T6 PROC 111 133 intubación orotraqueal
+T7 DISO 115 134 bajo de consciencia
+T8 PROC 176 201 traslada de forma urgente
+T9 PROC 57 64 ingreso
+T10 PROC 235 261 tomografía computarizada (
+T11 PROC 121 133 TC ) craneal
+T12 DISO 463 505 hemorragia intraparenquimatos a cerebelosa
+T13 DISO 61 66 edema
+T14 ANAT 170 183 IV ventrículo
+T15 PROC 141 151 evacuación
+T16 DISO 121 129 hematoma
+T17 PROC 113 120 cirugía
+T18 PROC 732 775 ingresa en la Unidad de Cuidados Intensivos
+T19 PROC 91 96 angio
+T20 PROC 20 21 -
+T21 PROC 41 43 TC
+T22 PROC 463 485 arteriografía cerebral
+T23 DISO 441 461 anomalías vasculares
+T24 DISO 576 601 hipertensión intracraneal
+T25 PROC 193 201 sedación
+T26 PROC 576 599 exploración neurológica
+T27 DISO 209 217 nistagmo
+T28 DISO 433 449 parálisis facial
+T29 DISO 141 146 tetra
+T30 DISO 204 211 paresia
+T31 DISO 271 280 dismetría
+T32 DISO 156 161 hipor
+T33 DISO 97 100 ref
+T34 DISO 166 171 lexia
+T35 PROC 239 246 reflejo
+T36 PROC 596 613 ingreso en la UCI
+T37 PROC 361 371 extubación
+T38 DISO 556 571 hipoventilación
+T39 DISO 799 820 acidosis respiratoria
+T40 DISO 742 761 parada respiratoria
+T41 PROC 401 411 intubación
+T42 PROC 83 85 VM
+T43 DISO 1429 1463 afectación del centro respiratorio
+T44 PROC 947 969 resonancia magnética (
+T45 PROC 1233 1261 RM ) del tronco del encéfalo
+T46 PROC 451 461 evacuación
+T47 DISO 875 894 hematoma cerebeloso
+T48 DISO 377 385 lesiones
+T49 ANAT 241 246 bulbo
+T50 ANAT 638 651 protuberancia
+T51 PROC 651 664 TC de control
+T52 PROC 358 365 traqueo
+T53 PROC 833 849 tomía percutánea
+T54 PROC 1538 1567 ventilación mecánica invasiva
+T55 PROC 55 56 V
+T56 PROC 1101 1121 MI el traque os toma
+T57 PROC 1793 1825 ventilación mecánica no invasiva
+T58 PROC 115 117 VM
+T59 PROC 233 237 NI )
+T60 ANAT 178 181 nas
+T61 ANAT 241 245 ucal

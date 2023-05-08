@@ -1,0 +1,102 @@
+T1 PROC 1 5 anex
+T2 PROC 19 37 ectomía unilateral
+T3 DISO 27 40 endometriosis
+T4 DISO 19 25 fiebre
+T5 DISO 41 51 odinofagia
+T6 DISO 71 85 sintomatología
+T7 CHEM 193 225 antiinflamatorios no esteroideos
+T8 CHEM 29 33 AINE
+T9 DISO 57 64 vómitos
+T10 DISO 208 231 deposiciones diarreicas
+T11 DISO 151 166 síndrome febril
+T12 PROC 188 205 valoración médica
+T13 PROC 289 313 tratamiento antitér mico
+T14 PROC 313 337 observación domiciliaria
+T15 DISO 155 166 hipotensión
+T16 DISO 106 113 cefalea
+T17 DISO 97 103 dorsal
+T18 DISO 52 55 gia
+T19 PROC 361 381 traslado al hospital
+T20 PROC 343 361 exploración física
+T21 DISO 181 190 taquipnea
+T22 DISO 232 243 taquicardia
+T23 PROC 353 369 presión arterial
+T24 PROC 783 817 palpar pulsos periféricos radiales
+T25 DISO 361 376 rigidez de nuca
+T26 DISO 526 547 focalidad neurológica
+T27 PROC 235 244 analítica
+T28 PROC 271 281 gasometría
+T29 DISO 113 117 leuc
+T30 DISO 291 301 ocitopenia
+T31 DISO 571 590 acidosis metabólica
+T32 PROC 63 65 pH
+T33 PROC 97 100 HCO
+T34 PROC 34 35 3
+T35 PROC 1463 1506 ingresa en la Unidad de Cuidados Intensivos
+T36 PROC 106 109 UCI
+T37 PROC 829 852 tratamiento corticoides
+T38 PROC 1111 1141 antibioticoterapia intravenosa
+T39 DISO 267 274 fallece
+T40 PROC 1522 1561 maniobras de reanimación cardiopulmonar
+T41 DISO 201 206 shock
+T42 DISO 370 379 defunción
+T43 PROC 337 345 autopsia
+T44 PROC 603 617 examen externo
+T45 DISO 705 721 exantema cutáneo
+T46 ANAT 361 369 cefálico
+T47 ANAT 599 612 cara anterior
+T48 ANAT 706 721 tercio superior
+T49 ANAT 241 246 tórax
+T50 DISO 442 451 petequias
+T51 ANAT 901 919 conjuntiva tar sal
+T52 ANAT 970 989 párpados inferiores
+T53 PROC 729 743 examen interno
+T54 DISO 160 163 Con
+T55 DISO 865 881 gestión pulmonar
+T56 DISO 1981 2017 edema pulmonar alveolar intersticial
+T57 DISO 897 913 espuma bronquial
+T58 DISO 856 871 Derrame pleural
+T59 DISO 1103 1122 Derrame pericárdico
+T60 DISO 178 181 Flu
+T61 DISO 841 855 ido exuda tivo
+T62 ANAT 1953 1985 tejido subcutáneo retro mam ario
+T63 DISO 559 568 purulento
+T64 ANAT 379 385 Hígado
+T65 DISO 705 716 hemorrágico
+T66 ANAT 1496 1519 glándulas suprarrenales
+T67 ANAT 397 403 médula
+T68 DISO 403 409 conges
+T69 DISO 273 277 tivo
+T70 DISO 346 351 hemor
+T71 DISO 71 72 r
+T72 DISO 356 361 ágico
+T73 ANAT 577 585 encéfalo
+T74 DISO 439 445 conges
+T75 DISO 297 301 tivo
+T76 DISO 226 229 ede
+T77 DISO 457 463 matoso
+T78 DISO 463 469 quiste
+T79 ANAT 1171 1186 lóbulo parietal
+T80 PROC 4504 4561 estudios toxic ológico , microbiológico e histopatológico
+T81 ANAT 641 649 muestras
+T82 ANAT 649 657 encéfalo
+T83 ANAT 493 499 pulmón
+T84 ANAT 499 505 hígado
+T85 ANAT 337 341 bazo
+T86 ANAT 1106 1119 suprarrenales
+T87 ANAT 603 610 corazón
+T88 ANAT 1480 1497 sangre periférica
+T89 ANAT 1057 1069 humor vítreo
+T90 ANAT 1692 1711 líquido pericárdico
+T91 ANAT 1801 1821 contenido intestinal
+T92 ANAT 1457 1473 frotis bronquial
+T93 DISO 1381 1396 derrame pleural
+T94 ANAT 280 283 his
+T95 ANAT 95 96 o
+T96 ANAT 191 193 po
+T97 ANAT 1729 1747 exudado subcutáneo
+T98 ANAT 1553 1569 pectoral derecho
+T99 PROC 2157 2179 estudio microbiológico
+T100 PROC 2080 2101 técnicas anti génicas
+T101 PROC 701 708 cultivo
+T102 PROC 1112 1123 reacción en

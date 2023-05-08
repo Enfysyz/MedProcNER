@@ -1,0 +1,20 @@
+T1 PROC 1 8 operado
+T2 DISO 21 41 varicocele izquierdo
+T3 PROC 17 25 consultó
+T4 DISO 64 85 infecciones urinarias
+T5 DISO 65 81 patología sexual
+T6 PROC 16 19 ure
+T7 PROC 19 22 tro
+T8 PROC 120 137 grafía retrógrada
+T9 PROC 41 46 cisto
+T10 PROC 28 31 ure
+T11 PROC 31 34 tro
+T12 PROC 177 193 grafía miccional
+T13 DISO 25 27 du
+T14 DISO 352 379 plicidad uretral incompleta
+T15 ANAT 183 196 uretra bulbar
+T16 PROC 316 337 resección quiráºrgica
+T17 PROC 305 324 controles de imagen
+T18 ANAT 222 235 uretra bulbar
+T19 DISO 433 457 sintomatología miccional
+T20 PROC 229 241 intervención

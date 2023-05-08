@@ -1,0 +1,72 @@
+T1 DISO 1 27 adenocarcinoma de próstata
+T2 PROC 8 15 tratado
+T3 CHEM 43 64 análogos de la L HR H
+T4 PROC 55 73 control bioquímico
+T5 DISO 41 51 enfermedad
+T6 PROC 41 49 consulta
+T7 ANAT 25 29 hemi
+T8 ANAT 22 25 esc
+T9 ANAT 17 19 ro
+T10 ANAT 109 121 to izquierdo
+T11 DISO 51 56 dolor
+T12 DISO 67 73 fiebre
+T13 PROC 217 235 exploración física
+T14 ANAT 53 57 hemi
+T15 ANAT 43 46 esc
+T16 ANAT 31 33 ro
+T17 ANAT 193 205 to izquierdo
+T18 DISO 69 73 masa
+T19 ANAT 163 172 testículo
+T20 PROC 343 361 análisis de sangre
+T21 PROC 81 85 beta
+T22 PROC 22 23 -
+T23 PROC 45 47 HC
+T24 PROC 24 25 G
+T25 PROC 97 101 alfa
+T26 PROC 51 53 fe
+T27 PROC 53 55 to
+T28 PROC 217 225 proteína
+T29 PROC 505 523 ecografía escrotal
+T30 DISO 378 391 masa quística
+T31 ANAT 211 218 escroto
+T32 ANAT 280 289 testículo
+T33 DISO 193 199 quiste
+T34 ANAT 133 137 epid
+T35 ANAT 103 106 ídi
+T36 ANAT 71 73 mo
+T37 DISO 181 186 cisto
+T38 DISO 260 267 adenoma
+T39 PROC 457 469 diagnósticos
+T40 PROC 79 81 or
+T41 PROC 121 124 qui
+T42 PROC 698 715 ectomía bilateral
+T43 ANAT 127 130 sub
+T44 ANAT 87 89 al
+T45 ANAT 89 91 bu
+T46 ANAT 46 47 g
+T47 ANAT 185 189 ínea
+T48 ANAT 377 385 inguinal
+T49 ANAT 817 834 pieza quiráºrgica
+T50 DISO 785 801 cavidad quística
+T51 ANAT 1051 1072 parénquima testicular
+T52 PROC 1582 1613 estudio patológico microscópico
+T53 ANAT 261 266 pared
+T54 DISO 319 325 quiste
+T55 ANAT 271 276 teste
+T56 DISO 826 841 lesión quística
+T57 ANAT 785 799 epitelio plano
+T58 DISO 571 581 ulceración
+T59 DISO 581 591 hemorragia
+T60 DISO 1004 1021 tejido necró tico
+T61 ANAT 1261 1282 parénquima testicular
+T62 DISO 367 373 signos
+T63 DISO 435 442 atrofia
+T64 DISO 505 513 fibrosis
+T65 DISO 1217 1236 congestión vascular
+T66 ANAT 1171 1189 células germinales
+T67 ANAT 1387 1408 táºbulos semin íferos
+T68 PROC 2212 2245 diagnóstico aná tomo - patológico
+T69 DISO 1701 1726 quiste testicular benigno
+T70 DISO 1312 1331 dilatación quística
+T71 ANAT 141 143 re
+T72 ANAT 711 721 te testi s

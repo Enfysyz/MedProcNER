@@ -1,0 +1,19 @@
+T1 PROC 1 14 diagnosticado
+T2 DISO 48 95 carcinoma epidermoide infiltrante de orofaringe
+T3 PROC 59 88 tratamiento con quimioterapia
+T4 PROC 37 49 radioterapia
+T5 DISO 33 41 disfagia
+T6 PROC 61 73 radioterapia
+T7 DISO 97 113 pérdida ponderal
+T8 PROC 232 265 nutrición enteral a través de SNG
+T9 PROC 9 10 G
+T10 PROC 19 21 EP
+T11 PROC 151 166 endoscopia oral
+T12 DISO 89 97 sangrado
+T13 PROC 49 53 dila
+T14 PROC 40 43 tar
+T15 DISO 127 136 estenosis
+T16 ANAT 391 417 porción esofágica superior
+T17 PROC 209 222 procedimiento
+T18 PROC 35 37 GR
+T19 PROC 19 20 P

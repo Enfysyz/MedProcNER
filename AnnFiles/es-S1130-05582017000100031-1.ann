@@ -1,0 +1,38 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 2 3 e
+T3 DISO 7 10 den
+T4 DISO 10 13 tul
+T5 DISO 17 21 ismo
+T6 ANAT 11 13 ar
+T7 ANAT 31 36 cadas
+T8 DISO 113 129 atrofia alveolar
+T9 ANAT 49 55 región
+T10 ANAT 46 51 prema
+T11 ANAT 11 12 x
+T12 ANAT 34 37 ila
+T13 PROC 133 144 tratamiento
+T14 PROC 131 141 colocación
+T15 PROC 99 106 esteril
+T16 PROC 91 97 izadas
+T17 PROC 273 290 expansión tisular
+T18 ANAT 86 91 prema
+T19 ANAT 19 20 x
+T20 ANAT 58 61 ila
+T21 PROC 61 64 alo
+T22 PROC 463 485 injerto óseo en bloque
+T23 PROC 727 760 exposición bloques de alo injerto
+T24 PROC 93 97 form
+T25 PROC 673 701 ados trans quir urg icamente
+T26 PROC 126 131 ester
+T27 PROC 27 28 e
+T28 PROC 136 141 olito
+T29 PROC 169 175 grafía
+T30 PROC 900 931 cierre de la herida sin tensión
+T31 PROC 601 621 descargas al colgajo
+T32 PROC 311 321 incisiones
+T33 ANAT 193 199 perios
+T34 ANAT 100 103 tio
+T35 PROC 1225 1261 colocación de los implantes dentales
+T36 ANAT 456 469 tejido óseo y
+T37 ANAT 217 223 blando
+T38 PROC 519 533 rehabilitación

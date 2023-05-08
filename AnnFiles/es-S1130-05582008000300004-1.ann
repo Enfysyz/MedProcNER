@@ -1,0 +1,64 @@
+T1 DISO 1 24 nódulo par aman dibular
+T2 DISO 7 13 lesión
+T3 PROC 7 10 exo
+T4 PROC 82 109 doncia de un molar inferior
+T5 PROC 45 56 exploración
+T6 DISO 31 37 nódulo
+T7 ANAT 55 64 vestíbulo
+T8 DISO 43 49 lesión
+T9 DISO 65 73 dolorosa
+T10 ANAT 55 61 mucosa
+T11 PROC 41 45 orto
+T12 PROC 34 37 pan
+T13 PROC 121 131 tomografía
+T14 DISO 261 281 patología mandibular
+T15 PROC 211 226 anestesia local
+T16 PROC 136 145 resección
+T17 DISO 97 103 lesión
+T18 ANAT 324 343 nervio ment on iano
+T19 PROC 37 39 ac
+T20 DISO 267 281 lesión nodular
+T21 DISO 121 127 lesión
+T22 ANAT 148 155 células
+T23 DISO 155 162 mitosis
+T24 ANAT 162 169 nuclear
+T25 ANAT 169 176 células
+T26 ANAT 151 157 fibras
+T27 ANAT 417 433 vasos sanguíneos
+T28 DISO 217 225 necrosis
+T29 DISO 57 59 he
+T30 DISO 88 91 man
+T31 DISO 91 94 gio
+T32 DISO 94 97 per
+T33 DISO 97 100 ici
+T34 DISO 67 69 to
+T35 DISO 103 106 ide
+T36 DISO 211 217 lesión
+T37 ANAT 577 593 tejido conectivo
+T38 PROC 75 77 In
+T39 PROC 115 118 mun
+T40 PROC 40 41 o
+T41 PROC 201 206 histo
+T42 PROC 124 127 qui
+T43 ANAT 295 302 células
+T44 DISO 259 265 lesión
+T45 CHEM 45 46 v
+T46 CHEM 181 185 imen
+T47 CHEM 185 189 tina
+T48 CHEM 95 97 CD
+T49 CHEM 97 99 34
+T50 CHEM 50 51 b
+T51 CHEM 101 103 cl
+T52 CHEM 52 53 2
+T53 CHEM 677 690 factor XIII a
+T54 CHEM 1379 1405 actina máºsculo específica
+T55 CHEM 865 881 proteina S - 100
+T56 CHEM 221 225 cito
+T57 CHEM 281 286 quera
+T58 CHEM 286 291 tinas
+T59 CHEM 175 178 CAM
+T60 CHEM 178 181 des
+T61 CHEM 241 245 mina
+T62 CHEM 916 931 actina muscular
+T63 DISO 869 883 complicaciones
+T64 PROC 442 449 cirugía

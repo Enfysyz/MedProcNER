@@ -1,0 +1,70 @@
+T1 PROC 1 10 ingresada
+T2 DISO 7 13 fiebre
+T3 DISO 15 22 vómitos
+T4 DISO 25 33 alergias
+T5 PROC 73 91 exploración física
+T6 DISO 146 175 adenopatías latero cervicales
+T7 DISO 109 127 hiperemia faríngea
+T8 PROC 155 177 estudio complementario
+T9 PROC 73 82 hemograma
+T10 PROC 316 351 velocidad de sedimentación globular
+T11 PROC 191 210 proteína C reactiva
+T12 PROC 56 61 sodio
+T13 PROC 85 92 potasio
+T14 PROC 66 71 cloro
+T15 PROC 113 121 magnesio
+T16 PROC 91 97 calcio
+T17 PROC 33 35 Ca
+T18 PROC 120 127 fósforo
+T19 PROC 19 20 P
+T20 PROC 210 221 bilirrubina
+T21 PROC 181 190 proteínas
+T22 PROC 211 221 gasometría
+T23 PROC 705 737 cultivos de sangre , orina heces
+T24 ANAT 139 145 frotis
+T25 PROC 49 51 FA
+T26 PROC 51 53 FA
+T27 CHEM 209 217 fármacos
+T28 DISO 244 253 fracturas
+T29 DISO 337 349 enfermedades
+T30 PROC 552 571 determinación de FA
+T31 PROC 91 94 GGT
+T32 PROC 311 321 vitamina D
+T33 PROC 641 661 hormona paratiroidea
+T34 PROC 67 69 PT
+T35 PROC 35 36 H
+T36 PROC 106 109 iso
+T37 PROC 469 482 enzimas de FA
+T38 PROC 334 343 analítica
+T39 PROC 77 79 FA
+T40 PROC 40 41 G
+T41 PROC 81 83 GT
+T42 PROC 124 127 iso
+T43 PROC 547 560 enzimas de FA
+T44 PROC 431 441 vitamina D
+T45 PROC 133 136 PTH
+T46 PROC 316 323 ingreso
+T47 DISO 645 659 proceso febril
+T48 PROC 189 193 alta
+T49 PROC 529 540 diagnóstico
+T50 DISO 1814 1851 infección por Para inf uen za virus 3
+T51 DISO 251 256 hiper
+T52 DISO 256 261 fosfa
+T53 DISO 157 160 tas
+T54 DISO 213 217 emia
+T55 PROC 379 386 control
+T56 PROC 771 785 ó clínicamente
+T57 PROC 841 856 determinaciones
+T58 PROC 115 117 FA
+T59 PROC 1045 1063 consultas externas
+T60 PROC 119 121 FA
+T61 PROC 1081 1099 exploración física
+T62 PROC 245 249 alta
+T63 PROC 1303 1324 determinaciones de FA
+T64 PROC 694 705 diagnóstico
+T65 DISO 321 326 hiper
+T66 DISO 326 331 fosfa
+T67 DISO 199 202 tas
+T68 DISO 2614 2653 emia benigna transitoria de la infancia
+T69 DISO 137 139 HT
+T70 DISO 139 141 BI

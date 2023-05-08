@@ -1,0 +1,91 @@
+T1 DISO 1 6 hiper
+T2 DISO 3 5 mé
+T3 DISO 7 10 tro
+T4 DISO 7 9 pe
+T5 PROC 45 56 exploración
+T6 PROC 96 115 presión intraocular
+T7 PROC 7 8 P
+T8 PROC 15 17 IO
+T9 ANAT 25 28 ojo
+T10 ANAT 28 31 ojo
+T11 PROC 31 34 gon
+T12 PROC 34 37 ios
+T13 PROC 61 66 copía
+T14 DISO 79 85 signos
+T15 DISO 197 211 cierre angular
+T16 ANAT 61 65 ojos
+T17 PROC 33 35 ir
+T18 PROC 52 55 ido
+T19 PROC 433 457 tomías bilaterales láser
+T20 DISO 400 421 signos cierre angular
+T21 PROC 41 43 ir
+T22 PROC 64 67 ido
+T23 PROC 133 139 tomías
+T24 PROC 70 73 PIO
+T25 PROC 97 101 biom
+T26 PROC 51 53 ic
+T27 PROC 79 82 ros
+T28 PROC 487 505 copía ultras ónica
+T29 PROC 57 59 BM
+T30 PROC 30 31 U
+T31 ANAT 181 187 iris -
+T32 ANAT 94 97 pla
+T33 ANAT 161 166 te au
+T34 DISO 463 477 cierre angular
+T35 DISO 851 876 quistes ir id oci li ares
+T36 DISO 246 253 quistes
+T37 ANAT 253 260 líquido
+T38 PROC 408 419 diagnóstico
+T39 DISO 1369 1405 quistes primarios neuro epi teliales
+T40 PROC 235 241 tratar
+T41 ANAT 81 83 OI
+T42 PROC 83 85 ir
+T43 PROC 127 130 ido
+T44 PROC 861 881 plastia láser arg ón
+T45 PROC 1013 1036 tratamiento conservador
+T46 CHEM 1036 1059 medicación hipotens ora
+T47 CHEM 93 95 ti
+T48 CHEM 142 145 mol
+T49 CHEM 97 99 ol
+T50 PROC 834 851 tratamiento láser
+T51 PROC 101 103 ir
+T52 PROC 154 157 ido
+T53 PROC 365 372 plastia
+T54 PROC 107 109 BM
+T55 PROC 55 56 U
+T56 ANAT 441 449 raíz del
+T57 ANAT 225 229 iris
+T58 DISO 400 407 quistes
+T59 PROC 175 178 PIO
+T60 PROC 650 661 tratamiento
+T61 PROC 181 184 PIO
+T62 ANAT 123 125 OI
+T63 CHEM 621 631 medicación
+T64 CHEM 190 193 Tim
+T65 CHEM 257 261 olol
+T66 PROC 131 133 BM
+T67 PROC 67 68 U
+T68 DISO 470 477 quistes
+T69 ANAT 205 208 ojo
+T70 PROC 1174 1191 tratado con láser
+T71 DISO 1051 1066 bloqueo angular
+T72 ANAT 924 937 iris plate au
+T73 ANAT 145 147 OI
+T74 PROC 220 223 PIO
+T75 PROC 445 451 tratar
+T76 ANAT 226 229 ojo
+T77 CHEM 1749 1772 medicación hipotens ora
+T78 PROC 1464 1483 presión intraocular
+T79 PROC 859 870 tratamiento
+T80 CHEM 791 801 medicación
+T81 PROC 1361 1378 control tensional
+T82 PROC 892 903 seguimiento
+T83 PROC 247 250 PIO
+T84 ANAT 333 337 ojos
+T85 CHEM 253 256 Tim
+T86 CHEM 341 345 olol
+T87 PROC 173 175 BM
+T88 PROC 88 89 U
+T89 DISO 2289 2315 quistes neuro epi teliales
+T90 ANAT 357 361 ojos
+T91 DISO 1261 1275 cierre angular

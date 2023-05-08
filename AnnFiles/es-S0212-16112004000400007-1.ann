@@ -1,0 +1,75 @@
+T1 DISO 1 3 ci
+T2 DISO 3 5 fo
+T3 DISO 11 16 escol
+T4 DISO 16 21 iosis
+T5 DISO 153 191 insuficiencia respiratoria restrictiva
+T6 DISO 41 49 divertic
+T7 DISO 37 43 ulosis
+T8 DISO 78 89 peritonitis
+T9 DISO 201 226 diverticulitis perfor ada
+T10 PROC 64 71 tratada
+T11 PROC 221 243 técnica de Hart - mann
+T12 DISO 265 289 fístula entero - cutánea
+T13 PROC 85 92 tratada
+T14 PROC 391 421 nutrición enteral por vía oral
+T15 PROC 155 166 intervenida
+T16 PROC 166 177 tratamiento
+T17 PROC 545 579 revisiones periódicas ambulatorias
+T18 DISO 120 127 astenia
+T19 DISO 145 153 anorexia
+T20 DISO 134 141 náuseas
+T21 DISO 101 106 mareo
+T22 DISO 316 331 dolor abdominal
+T23 ANAT 111 116 heces
+T24 ANAT 231 241 colostomía
+T25 DISO 169 176 fístula
+T26 PROC 51 53 TA
+T27 DISO 963 1000 dolor difuso a la palpación abdominal
+T28 PROC 973 1009 administración líquidos intravenosos
+T29 PROC 281 291 íticamente
+T30 PROC 320 331 hemoglobina
+T31 ANAT 301 311 leucocitos
+T32 PROC 249 257 glucemia
+T33 PROC 129 133 urea
+T34 PROC 331 341 creatinina
+T35 PROC 579 596 proteínas totales
+T36 PROC 71 73 Ca
+T37 PROC 73 75 Cl
+T38 PROC 112 115 HCO
+T39 PROC 39 40 3
+T40 PROC 79 81 Na
+T41 ANAT 321 329 urinario
+T42 PROC 534 547 diagnosticada
+T43 DISO 589 603 deshidratación
+T44 DISO 1076 1101 insuficiencia renal aguda
+T45 DISO 837 856 acidosis metabólica
+T46 DISO 541 553 hiponatremia
+T47 DISO 645 659 hiperpotasemia
+T48 DISO 1458 1489 insuficiencia suprarrenal aguda
+T49 PROC 529 540 tratamiento
+T50 CHEM 687 701 hidrocortisona
+T51 PROC 1151 1174 reposición con líquidos
+T52 PROC 1123 1145 analíticas hemoglobina
+T53 PROC 2237 2280 transfusión de dos concentrados de hematíes
+T54 PROC 1962 1999 ingresada en medicina interna cirugía
+T55 DISO 1189 1211 obstrucción intestinal
+T56 PROC 386 393 ingreso
+T57 PROC 1121 1141 nutrición parenteral
+T58 DISO 343 349 edemas
+T59 ANAT 291 296 renal
+T60 DISO 709 721 hiponatremia
+T61 DISO 841 855 hiperpotasemia
+T62 PROC 184 187 NPT
+T63 CHEM 435 442 glucosa
+T64 CHEM 442 449 lípidos
+T65 CHEM 65 66 K
+T66 CHEM 131 133 Mg
+T67 CHEM 67 68 P
+T68 CHEM 68 69 Z
+T69 CHEM 69 70 n
+T70 CHEM 139 141 Ca
+T71 DISO 1681 1705 sensación de parestesias
+T72 ANAT 356 361 manos
+T73 ANAT 433 439 perior
+T74 ANAT 293 297 ales
+T75 CHEM 519 526 tiamina

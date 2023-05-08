@@ -1,0 +1,82 @@
+T1 PROC 1 12 diagnóstico
+T2 DISO 35 69 trastorno afectivo bipolar tipo II
+T3 PROC 15 22 tratada
+T4 CHEM 16 21 litio
+T5 CHEM 41 51 olanzapina
+T6 DISO 121 145 alteraciones de conducta
+T7 PROC 49 57 ingresos
+T8 PROC 127 145 ayuda domiciliaria
+T9 DISO 73 82 disartria
+T10 DISO 208 231 dificultad en la marcha
+T11 DISO 341 375 desorientación temp oro - espacial
+T12 DISO 232 253 hipertensión arterial
+T13 DISO 157 170 hipopotasemia
+T14 DISO 79 85 fiebre
+T15 DISO 281 301 distensión abdominal
+T16 DISO 271 289 retención urinaria
+T17 ANAT 81 86 orina
+T18 PROC 256 271 sondaje vesical
+T19 PROC 37 39 li
+T20 PROC 96 101 temia
+T21 PROC 61 64 ECG
+T22 PROC 43 45 CK
+T23 PROC 243 254 TAC craneal
+T24 PROC 806 841 radiografía simple de abdomen tórax
+T25 PROC 337 351 punción lumbar
+T26 PROC 401 417 recuento celular
+T27 PROC 183 190 ingresa
+T28 DISO 541 561 síndrome confusional
+T29 PROC 113 117 anti
+T30 PROC 59 61 pi
+T31 PROC 151 156 resis
+T32 PROC 931 961 antibioterapia amplio espectro
+T33 PROC 321 331 profilaxis
+T34 DISO 529 545 trombosis venosa
+T35 CHEM 273 281 heparina
+T36 PROC 491 505 punción lumbar
+T37 PROC 433 445 RM de cráneo
+T38 PROC 1333 1369 TAC torácico y ab dó mino - pélv ico
+T39 PROC 457 469 hemocultivos
+T40 PROC 118 121 uro
+T41 PROC 321 329 cultivos
+T42 DISO 83 85 mu
+T43 DISO 211 216 tismo
+T44 DISO 44 45 a
+T45 DISO 309 316 cinesia
+T46 DISO 316 323 rigidez
+T47 DISO 645 659 temblor distal
+T48 DISO 283 289 fiebre
+T49 DISO 1009 1030 hipertensión arterial
+T50 DISO 148 151 HTA
+T51 DISO 251 256 hiper
+T52 DISO 409 417 natremia
+T53 DISO 1457 1485 alteraciones electrol íticas
+T54 DISO 160 163 dia
+T55 DISO 379 386 foresis
+T56 DISO 1816 1849 deterioro del nivel de conciencia
+T57 PROC 1793 1825 ingreso en Unidad de Reanimación
+T58 PROC 1825 1857 colocación de sonda nasogástrica
+T59 PROC 523 532 nutrición
+T60 PROC 591 601 valoración
+T61 PROC 1681 1709 terapia electro con vuls iva
+T62 PROC 184 187 TEC
+T63 DISO 249 253 cata
+T64 DISO 820 833 tonia maligna
+T65 PROC 193 196 TEC
+T66 CHEM 326 331 litio
+T67 DISO 397 403 fiebre
+T68 DISO 202 205 dia
+T69 DISO 477 484 foresis
+T70 DISO 208 211 HTA
+T71 DISO 1961 1989 alteraciones electrol íticas
+T72 DISO 995 1009 desorientación
+T73 PROC 2017 2045 cultivo Virus Herpes Simp le
+T74 DISO 804 815 encefalitis
+T75 PROC 815 826 diagnóstico
+T76 DISO 826 837 TAB tipo II
+T77 DISO 305 309 cata
+T78 DISO 1002 1015 tonia maligna
+T79 DISO 79 80 e
+T80 DISO 159 161 ut
+T81 DISO 81 82 í
+T82 DISO 325 329 mica

@@ -1,0 +1,50 @@
+T1 PROC 1 25 intervención quiráºrgica
+T2 DISO 13 25 hidrocefalia
+T3 DISO 61 91 cefalea hemic raneal izquierda
+T4 DISO 22 29 cefalea
+T5 PROC 93 116 exploración neurológica
+T6 DISO 76 91 edema de papila
+T7 PROC 121 141 resonancia magnética
+T8 PROC 15 17 RM
+T9 DISO 177 199 dilatación ventricular
+T10 DISO 109 121 aclaramiento
+T11 ANAT 31 34 per
+T12 ANAT 23 25 ie
+T13 ANAT 61 66 pendi
+T14 ANAT 27 29 as
+T15 ANAT 183 196 tas frontales
+T16 DISO 211 225 lesión tec tal
+T17 CHEM 145 154 contraste
+T18 ANAT 290 307 cuarto ventrículo
+T19 PROC 199 210 diagnóstico
+T20 DISO 647 681 estenosis del acue ducto de Silvio
+T21 PROC 101 106 ventr
+T22 PROC 85 89 icul
+T23 PROC 67 70 oci
+T24 PROC 93 97 ster
+T25 PROC 73 76 nos
+T26 PROC 776 807 tomía pre m amil ar endoscópica
+T27 PROC 703 730 inmovilización de la cabeza
+T28 DISO 190 197 cefalea
+T29 PROC 197 204 cirugía
+T30 PROC 494 511 alta hospitalaria
+T31 PROC 61 63 RM
+T32 DISO 528 545 hematoma epidural
+T33 ANAT 257 265 parietal
+T34 DISO 463 477 efecto de masa
+T35 ANAT 613 631 ventrículo lateral
+T36 PROC 211 217 craneo
+T37 PROC 865 889 tomía parietal izquierda
+T38 DISO 408 419 perforación
+T39 ANAT 191 196 hueso
+T40 ANAT 157 161 dura
+T41 ANAT 201 206 madre
+T42 PROC 288 295 drenaje
+T43 DISO 337 345 hematoma
+T44 PROC 474 485 coagulación
+T45 ANAT 617 631 arteria dur al
+T46 PROC 541 553 dado de alta
+T47 DISO 323 330 cefalea
+T48 PROC 330 337 cirugía
+T49 DISO 673 687 lesión tec tal
+T50 PROC 687 701 estudios de RM

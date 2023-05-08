@@ -1,0 +1,71 @@
+T1 DISO 1 9 alergias
+T2 DISO 8 15 astenia
+T3 DISO 13 19 fatiga
+T4 DISO 49 65 síndrome general
+T5 DISO 61 76 dolor abdominal
+T6 PROC 61 73 gastroscopia
+T7 DISO 91 106 hernia de hiato
+T8 DISO 71 81 esofagitis
+T9 DISO 265 298 reflujo biliar duodeno - gástrico
+T10 DISO 64 71 vómitos
+T11 DISO 151 166 dolor abdominal
+T12 DISO 232 253 deposiciones líquidas
+T13 PROC 217 235 exploración física
+T14 PROC 209 225 tensión arterial
+T15 PROC 267 286 frecuencia cardíaca
+T16 DISO 316 337 focalidad neurológica
+T17 PROC 337 358 auscultación cardíaca
+T18 DISO 69 73 taqu
+T19 DISO 145 153 icárdica
+T20 ANAT 134 141 abdomen
+T21 DISO 161 169 doloroso
+T22 DISO 358 375 defensa palpación
+T23 DISO 111 116 masas
+T24 DISO 185 193 megalias
+T25 DISO 121 126 hiper
+T26 DISO 501 521 pigmentación cutánea
+T27 ANAT 183 190 pezones
+T28 ANAT 325 337 área genital
+T29 DISO 505 523 manchas mel ánicas
+T30 ANAT 204 211 paladar
+T31 ANAT 541 559 bordes gingiv ales
+T32 PROC 280 289 analítica
+T33 PROC 225 232 ingreso
+T34 PROC 265 273 glucemia
+T35 PROC 341 351 creatinina
+T36 PROC 141 145 urea
+T37 PROC 37 38 K
+T38 PROC 75 77 Ca
+T39 PROC 723 742 gasometría arterial
+T40 PROC 118 121 pCO
+T41 PROC 41 42 2
+T42 PROC 83 85 pO
+T43 PROC 43 44 2
+T44 PROC 44 45 O
+T45 PROC 45 46 2
+T46 PROC 496 507 bicarbonato
+T47 PROC 93 95 EB
+T48 PROC 189 193 SatO
+T49 PROC 49 50 2
+T50 PROC 442 451 hemograma
+T51 PROC 551 562 hemoglobina
+T52 PROC 562 573 hematocrito
+T53 PROC 573 584 Coagulación
+T54 PROC 955 973 electrocardiograma
+T55 DISO 1027 1046 taquicardia sinusal
+T56 PROC 1101 1121 radiografía de tórax
+T57 DISO 785 799 hiperpotasemia
+T58 DISO 286 291 sudor
+T59 DISO 175 178 oso
+T60 DISO 237 241 taqu
+T61 DISO 481 489 icárdico
+T62 DISO 245 249 hipo
+T63 DISO 311 316 tenso
+T64 DISO 1198 1217 crisis a dison iana
+T65 PROC 1089 1106 ingreso en la UCI
+T66 PROC 1366 1387 reposición de volumen
+T67 CHEM 793 805 suero salino
+T68 CHEM 470 477 glucosa
+T69 CHEM 273 277 acto
+T70 CHEM 208 211 cor
+T71 CHEM 281 285 tina

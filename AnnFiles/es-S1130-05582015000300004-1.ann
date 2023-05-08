@@ -1,0 +1,75 @@
+T1 DISO 1 11 tumoración
+T2 ANAT 21 41 región pre auricular
+T3 DISO 13 19 lesión
+T4 DISO 16 21 dolor
+T5 ANAT 61 76 región temporal
+T6 ANAT 56 67 perio cular
+T7 DISO 181 211 hipertensión arterial esencial
+T8 PROC 78 89 tratamiento
+T9 CHEM 425 478 inhibidores de la enzima convertidora de angiotensina
+T10 DISO 208 231 alteraciones sistémicas
+T11 PROC 131 144 examen físico
+T12 DISO 67 73 nódulo
+T13 ANAT 241 261 región pre auricular
+T14 PROC 118 127 palpación
+T15 DISO 141 151 tumoración
+T16 DISO 61 65 chas
+T17 DISO 241 256 quido articular
+T18 ANAT 239 253 articulaciones
+T19 PROC 541 571 exploración de cabeza y cuello
+T20 PROC 457 481 tomografía computarizada
+T21 PROC 41 43 TC
+T22 PROC 589 617 resonancia magnética nuclear
+T23 PROC 67 70 RMN
+T24 DISO 346 361 lesión quística
+T25 ANAT 121 126 borde
+T26 ANAT 451 469 glándula paró tida
+T27 PROC 79 82 RMN
+T28 ANAT 217 225 pedículo
+T29 ANAT 85 88 ATM
+T30 ANAT 494 511 menisco articular
+T31 ANAT 541 559 cóndilo mandibular
+T32 ANAT 125 129 boca
+T33 PROC 1057 1090 punción aspiración con aguja fina
+T34 CHEM 166 171 histi
+T35 CHEM 205 211 ocitos
+T36 DISO 526 541 lesión quística
+T37 PROC 829 852 tratamiento quiráºrgico
+T38 ANAT 371 381 tronco del
+T39 ANAT 495 508 nervio facial
+T40 ANAT 196 201 ramas
+T41 PROC 361 370 disección
+T42 ANAT 534 547 nervio facial
+T43 PROC 169 173 paro
+T44 PROC 173 177 tide
+T45 PROC 793 811 ctomía superficial
+T46 DISO 496 507 adherencias
+T47 DISO 277 283 lesión
+T48 DISO 706 721 quiste sinovial
+T49 ANAT 769 785 rama frontal del
+T50 ANAT 638 651 nervio facial
+T51 ANAT 401 409 pedículo
+T52 DISO 307 313 quiste
+T53 ANAT 1561 1591 articulación temporomandibular
+T54 PROC 425 433 ligadura
+T55 PROC 487 496 resección
+T56 DISO 331 337 herida
+T57 PROC 113 115 su
+T58 PROC 970 987 turada por planos
+T59 ANAT 987 1004 pieza quiráºrgica
+T60 CHEM 237 241 form
+T61 CHEM 121 123 ol
+T62 PROC 1160 1179 cortes histológicos
+T63 CHEM 373 379 hemato
+T64 CHEM 190 193 xil
+T65 CHEM 449 456 ina y e
+T66 CHEM 326 331 osina
+T67 DISO 991 1006 lesión quística
+T68 ANAT 269 273 sino
+T69 ANAT 205 208 vio
+T70 ANAT 346 351 citos
+T71 ANAT 911 924 revestimiento
+T72 DISO 427 433 quiste
+T73 PROC 2017 2045 análisis inmunohisto químico
+T74 PROC 1680 1703 seguimiento ambulatorio
+T75 DISO 2221 2251 complicaciones postoperatorias

@@ -1,0 +1,107 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 4 7 HTA
+T3 PROC 9 13 tida
+T4 PROC 55 73 presión arterial (
+T5 PROC 9 11 PA
+T6 DISO 41 49 cefaleas
+T7 DISO 79 92 hipopotasemia
+T8 DISO 99 113 HTA secundaria
+T9 PROC 121 136 ecografía renal
+T10 PROC 127 141 ecocardiograma
+T11 PROC 391 430 cateterismo de aorta y arterias renales
+T12 PROC 34 37 dos
+T13 PROC 457 495 ajes de actividad de renina plasmática
+T14 PROC 27 29 AR
+T15 PROC 15 16 P
+T16 PROC 331 353 aldosterona plasmática
+T17 PROC 33 35 AP
+T18 PROC 749 793 niveles de ácido van il man d élico en orina
+T19 PROC 55 58 TSH
+T20 PROC 20 21 T
+T21 PROC 141 148 4 libre
+T22 PROC 22 23 T
+T23 PROC 287 300 3 plasmáticos
+T24 PROC 392 409 alta hospitalaria
+T25 PROC 121 126 medic
+T26 PROC 76 79 ada
+T27 CHEM 1379 1432 inhibidores de la enzima convertidora de angiotensina
+T28 CHEM 163 169 bloque
+T29 CHEM 337 349 ante cálcico
+T30 PROC 233 241 consultó
+T31 DISO 91 94 HTA
+T32 PROC 187 193 hospit
+T33 PROC 897 925 alizada en terapia intensiva
+T34 ANAT 166 171 fetal
+T35 PROC 69 71 PA
+T36 DISO 456 469 hipopotasemia
+T37 PROC 397 408 tratamiento
+T38 CHEM 149 153 clon
+T39 CHEM 191 196 idina
+T40 CHEM 625 641 alfa metil do pa
+T41 PROC 601 616 ecografía renal
+T42 ANAT 534 547 polo inferior
+T43 ANAT 673 689 riá±ón izquierdo
+T44 DISO 732 749 formación nodular
+T45 DISO 177 181 angi
+T46 DISO 136 139 omi
+T47 DISO 185 189 olip
+T48 DISO 142 145 oma
+T49 PROC 721 736 niveles de AR P
+T50 PROC 99 101 AP
+T51 PROC 1151 1174 tratamiento ambulatorio
+T52 CHEM 154 157 lab
+T53 CHEM 209 213 etal
+T54 CHEM 107 109 ol
+T55 CHEM 109 111 ni
+T56 CHEM 111 113 fe
+T57 CHEM 113 115 di
+T58 CHEM 229 233 pina
+T59 PROC 233 237 admi
+T60 PROC 237 241 tida
+T61 PROC 661 672 diagnóstico
+T62 DISO 977 993 aborto reten ido
+T63 PROC 125 127 le
+T64 PROC 820 833 grado uterino
+T65 PROC 961 976 alta voluntaria
+T66 PROC 326 331 medic
+T67 PROC 199 202 ada
+T68 CHEM 604 613 enalapril
+T69 CHEM 205 208 los
+T70 CHEM 346 351 artán
+T71 CHEM 141 143 am
+T72 CHEM 143 145 lo
+T73 CHEM 145 147 di
+T74 CHEM 293 297 pina
+T75 PROC 519 526 ingresa
+T76 DISO 1276 1293 cefalea occipital
+T77 DISO 1369 1387 debilidad muscular
+T78 PROC 155 157 PA
+T79 PROC 625 633 estudios
+T80 DISO 317 321 hipo
+T81 DISO 241 244 kal
+T82 DISO 325 329 emia
+T83 PROC 1887 1910 creatinina plás ma tica
+T84 PROC 1246 1261 urea plasmática
+T85 PROC 1261 1276 ecografía renal
+T86 DISO 1786 1807 imagen nodular sólida
+T87 PROC 2925 2959 tomografía computarizada abdominal
+T88 DISO 2785 2817 formación ocup ante de espacio ,
+T89 ANAT 1145 1158 polo inferior
+T90 ANAT 1425 1441 riá±ón izquierdo
+T91 DISO 361 365 hipo
+T92 DISO 729 737 vascular
+T93 DISO 461 466 izada
+T94 PROC 2512 2539 Doppler de arterias renales
+T95 PROC 1317 1331 ecocardiograma
+T96 PROC 1046 1057 diagnóstico
+T97 DISO 289 292 HTA
+T98 DISO 1068 1079 tumor renal
+T99 PROC 687 694 niveles
+T100 CHEM 595 601 renina
+T101 DISO 301 304 HTA
+T102 PROC 1112 1123 nefrectomía
+T103 ANAT 613 619 riá±ón
+T104 PROC 207 209 PA
+T105 CHEM 1561 1576 espironolactona
+T106 CHEM 1051 1061 medicación
+T107 PROC 1803 1820 examen patológico

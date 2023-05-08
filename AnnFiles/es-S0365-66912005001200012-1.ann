@@ -1,0 +1,42 @@
+T1 DISO 1 26 pérdida de agudeza visual
+T2 ANAT 4 7 ojo
+T3 ANAT 5 7 OI
+T4 DISO 13 17 meta
+T5 DISO 13 16 mor
+T6 DISO 11 13 fo
+T7 DISO 25 29 psia
+T8 PROC 211 241 mejor agudeza visual corregida
+T9 PROC 97 109 fondo de ojo
+T10 ANAT 154 171 fibras de mielina
+T11 ANAT 241 265 arcada temporal superior
+T12 DISO 34 37 MER
+T13 ANAT 169 183 región macular
+T14 DISO 79 85 pseudo
+T15 DISO 43 46 agu
+T16 DISO 181 193 jero macular
+T17 ANAT 449 477 vasos sanguíneos retin ianos
+T18 ANAT 103 109 mácula
+T19 DISO 19 20 D
+T20 DISO 39 41 PV
+T21 ANAT 61 64 ojo
+T22 PROC 589 617 angiografía flu res ce ínica
+T23 DISO 287 300 edema macular
+T24 ANAT 392 409 vasos retin ianos
+T25 DISO 265 276 traumatismo
+T26 DISO 226 235 patología
+T27 ANAT 79 82 ojo
+T28 PROC 352 365 diagnosticado
+T29 DISO 393 407 MER idiopática
+T30 PROC 88 91 vit
+T31 PROC 601 621 rectomía par s plana
+T32 PROC 466 481 consulta visual
+T33 DISO 129 133 meta
+T34 DISO 100 103 mor
+T35 DISO 69 71 fo
+T36 DISO 141 145 psia
+T37 PROC 1081 1111 mejor agudeza visual corregida
+T38 PROC 445 457 fondo de ojo
+T39 DISO 115 118 MER
+T40 ANAT 664 681 vasos retin ianos
+T41 DISO 41 42 D
+T42 DISO 616 631 PV pre pap ilar

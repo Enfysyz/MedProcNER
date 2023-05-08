@@ -1,0 +1,61 @@
+T1 PROC 1 9 consulta
+T2 ANAT 17 33 miembro inferior
+T3 DISO 23 34 parestesias
+T4 ANAT 13 17 pies
+T5 DISO 37 46 lumbalgia
+T6 DISO 96 115 dolor en la rodilla
+T7 DISO 127 148 hipertensión arterial
+T8 PROC 50 57 tratada
+T9 PROC 89 100 exploración
+T10 ANAT 28 31 pie
+T11 PROC 131 144 diagnosticado
+T12 DISO 56 61 neuro
+T13 DISO 13 14 p
+T14 DISO 118 127 raxia del
+T15 ANAT 351 376 ciático poplí teo externo
+T16 PROC 391 417 consulta de rehabilitación
+T17 PROC 33 35 RM
+T18 DISO 341 361 lesión intra medular
+T19 ANAT 19 20 L
+T20 ANAT 20 21 1
+T21 CHEM 181 190 gadolinio
+T22 ANAT 253 265 cono medular
+T23 PROC 243 254 diagnóstico
+T24 DISO 24 25 e
+T25 DISO 121 126 pendi
+T26 DISO 26 27 m
+T27 DISO 287 298 oma de cono
+T28 DISO 136 141 astro
+T29 DISO 169 175 citoma
+T30 DISO 117 121 masa
+T31 PROC 61 63 RM
+T32 PROC 280 289 ingresado
+T33 DISO 353 364 hipoestesia
+T34 ANAT 199 205 puntas
+T35 ANAT 171 176 dedos
+T36 ANAT 141 145 pies
+T37 ANAT 577 593 miembro inferior
+T38 ANAT 593 609 miembro inferior
+T39 PROC 951 976 ingreso de los esfínteres
+T40 PROC 859 881 índice de Kar no fs ky
+T41 PROC 761 780 radiología de tórax
+T42 PROC 370 379 intervino
+T43 PROC 85 87 la
+T44 PROC 173 177 mino
+T45 PROC 925 946 tomía osteo pl ástica
+T46 PROC 676 691 resección total
+T47 DISO 185 189 masa
+T48 PROC 894 913 estudio histológico
+T49 DISO 1969 2010 metástasis de carcinoma de células claras
+T50 ANAT 246 251 renal
+T51 PROC 551 562 diagnóstico
+T52 PROC 1225 1249 TAC tó ra co - abdominal
+T53 DISO 937 955 masa gigante renal
+T54 DISO 1856 1891 metástasis abdominales y pulmonares
+T55 PROC 919 936 radiología simple
+T56 DISO 221 225 para
+T57 DISO 393 400 paresia
+T58 PROC 1426 1451 estudio con RM de control
+T59 DISO 291 296 signo
+T60 DISO 1535 1561 sintomatología neurológica
+T61 PROC 721 733 intervención

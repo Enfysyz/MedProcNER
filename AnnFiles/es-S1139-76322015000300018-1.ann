@@ -1,0 +1,75 @@
+T1 DISO 1 7 fiebre
+T2 DISO 14 27 irritabilidad
+T3 DISO 31 46 mucosidad nasal
+T4 PROC 34 45 exploración
+T5 DISO 81 101 exantema eritematoso
+T6 PROC 56 67 exploración
+T7 PROC 55 64 analítica
+T8 DISO 71 81 leucocitos
+T9 DISO 81 91 linfocitos
+T10 DISO 82 91 monocitos
+T11 PROC 111 122 hemoglobina
+T12 PROC 23 25 Hb
+T13 PROC 133 144 hematocrito
+T14 PROC 14 15 H
+T15 PROC 29 31 to
+T16 PROC 136 145 plaquetas
+T17 PROC 305 324 proteína C reactiva
+T18 PROC 52 55 PCR
+T19 PROC 253 267 punción lumbar
+T20 CHEM 134 141 glucosa
+T21 CHEM 181 190 proteínas
+T22 DISO 43 45 lí
+T23 DISO 375 392 quido hemorrágico
+T24 DISO 461 481 infección bacteriana
+T25 PROC 169 176 ingresa
+T26 PROC 876 911 tratamiento antibiótico intravenoso
+T27 CHEM 53 55 ce
+T28 CHEM 217 225 fotaxima
+T29 CHEM 281 291 ampicilina
+T30 CHEM 262 271 aciclovir
+T31 DISO 31 32 F
+T32 DISO 156 161 ebril
+T33 DISO 417 430 irritabilidad
+T34 DISO 859 885 mal color y estado general
+T35 DISO 273 281 exantema
+T36 DISO 806 829 dificultad respiratoria
+T37 PROC 721 741 analítica de control
+T38 DISO 371 381 leucocitos
+T39 ANAT 381 391 linfocitos
+T40 DISO 391 401 linfocitos
+T41 DISO 361 370 monocitos
+T42 DISO 206 211 retic
+T43 DISO 85 87 ul
+T44 ANAT 259 265 ocitos
+T45 PROC 89 91 Hb
+T46 PROC 136 139 Hto
+T47 PROC 415 424 plaquetas
+T48 PROC 847 865 Gasometría capilar
+T49 PROC 49 50 P
+T50 PROC 99 101 CO
+T51 PROC 51 52 2
+T52 PROC 154 157 HCO
+T53 PROC 53 54 3
+T54 PROC 1061 1081 Radiografía de tórax
+T55 DISO 2539 2586 infiltrados alveolo intersti ciales bilaterales
+T56 DISO 1156 1177 edema agudo de pulmón
+T57 DISO 169 172 pan
+T58 DISO 514 523 citopenia
+T59 PROC 465 473 muestras
+T60 PROC 1948 1981 serología par vovirus enterovirus
+T61 DISO 421 428 gripe A
+T62 PROC 1709 1737 oxigenoterapia de alto flujo
+T63 PROC 2667 2710 traslada a la unidad de cuidados intensivos
+T64 PROC 2269 2305 anticuerpos inmun og lo bl u ina M (
+T65 PROC 129 131 Ig
+T66 PROC 1626 1651 M ) para par vovirus B 19
+T67 PROC 199 202 IgG
+T68 PROC 738 749 diagnóstico
+T69 DISO 2041 2071 infección por par vovirus B 19
+T70 DISO 1795 1821 insuficiencia respiratoria
+T71 DISO 211 214 pan
+T72 DISO 640 649 citopenia
+T73 PROC 505 512 ingreso
+T74 DISO 1023 1037 complicaciones
+T75 DISO 1333 1351 eritema infeccioso

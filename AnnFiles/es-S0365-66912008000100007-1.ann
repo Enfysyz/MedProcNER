@@ -1,0 +1,25 @@
+T1 DISO 1 21 Diabetes gestacional
+T2 PROC 2 3 C
+T3 PROC 17 25 ariotipo
+T4 PROC 46 61 diagnóstico por
+T5 PROC 73 91 ecografía prenatal
+T6 DISO 136 163 agenesia del cuerpo calloso
+T7 DISO 253 295 riá±ón derecho dis plásico multi qu ístico
+T8 ANAT 169 193 sistema nervioso central
+T9 DISO 225 253 quiste de ple xos coro ideos
+T10 DISO 55 61 quiste
+T11 ANAT 361 397 región inter he mis f érica profunda
+T12 PROC 419 457 examen de resonancia magnética nuclear
+T13 DISO 409 443 anomalías de la migración neuronal
+T14 PROC 443 477 registros electroencefal ográficos
+T15 PROC 43 46 EEG
+T16 PROC 286 305 estudios cognitivos
+T17 PROC 449 477 exploración del fondo de ojo
+T18 ANAT 86 91 fondo
+T19 ANAT 235 248 papila óptica
+T20 DISO 856 901 lagunas cor ior retin ianas hipo pigment adas
+T21 DISO 361 379 afectación macular
+T22 ANAT 106 111 fondo
+T23 DISO 1013 1059 malformación colo b oma tosa del nervio óptico
+T24 DISO 622 649 lagunas cor ior retin ianas
+T25 DISO 433 451 afectación macular

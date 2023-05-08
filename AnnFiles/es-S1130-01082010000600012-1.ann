@@ -1,0 +1,71 @@
+T1 DISO 1 9 obesidad
+T2 DISO 4 7 HTA
+T3 DISO 25 37 fibromialgia
+T4 DISO 40 53 hernia discal
+T5 PROC 37 46 estudiada
+T6 DISO 16 19 lum
+T7 DISO 7 8 b
+T8 DISO 22 25 oci
+T9 DISO 41 46 ática
+T10 PROC 199 221 tratamiento analgésico
+T11 DISO 321 353 sensación de nudo retro esternal
+T12 DISO 89 97 disfagia
+T13 DISO 181 196 pérdida de peso
+T14 PROC 378 407 TAC cervico tor aco abdominal
+T15 DISO 155 166 efecto masa
+T16 ANAT 376 401 tercio superior esofágico
+T17 PROC 401 426 Endoscopia digestiva alta
+T18 DISO 69 73 masa
+T19 ANAT 451 476 tercio superior esofágico
+T20 ANAT 172 181 submucosa
+T21 DISO 101 106 ulcer
+T22 DISO 64 67 ada
+T23 ANAT 177 185 vascular
+T24 PROC 70 73 TAC
+T25 PROC 241 251 RMN dorsal
+T26 DISO 501 521 lesiones vertebrales
+T27 DISO 131 136 aplas
+T28 DISO 1000 1037 tamientos vertebrales osteopor óticos
+T29 PROC 141 146 Gamma
+T30 PROC 320 331 grafía ósea
+T31 PROC 601 621 marcadores tumorales
+T32 PROC 94 97 Dia
+T33 PROC 225 232 gnostic
+T34 PROC 100 103 ada
+T35 DISO 103 106 lum
+T36 DISO 36 37 b
+T37 DISO 109 112 oci
+T38 DISO 186 191 ática
+T39 DISO 1179 1210 lesiones vertebrales máºltiples
+T40 ANAT 547 561 columna dorsal
+T41 DISO 561 575 masa esofágica
+T42 DISO 370 379 lumbalgia
+T43 PROC 841 861 tratamiento opi áceo
+T44 DISO 345 353 disfagia
+T45 PROC 485 496 exploración
+T46 ANAT 316 323 abdomen
+T47 DISO 599 612 hepatomegalia
+T48 DISO 236 241 dolor
+T49 ANAT 673 687 columna dorsal
+T50 PROC 1128 1151 pruebas complementarias
+T51 PROC 151 154 Eco
+T52 PROC 511 521 endoscopia
+T53 DISO 313 319 lesión
+T54 ANAT 796 811 arcada dentaria
+T55 ANAT 325 331 serosa
+T56 DISO 606 617 adenopatías
+T57 PROC 1065 1084 Ecografía abdominal
+T58 DISO 1141 1161 metástasis hepáticas
+T59 PROC 2089 2125 Tomografía por emisión de positrones
+T60 DISO 709 721 masa tumoral
+T61 ANAT 1501 1526 tercio superior esofágico
+T62 DISO 1404 1427 implantes mesent éricos
+T63 DISO 1241 1261 metástasis hepáticas
+T64 ANAT 316 321 óseas
+T65 ANAT 961 976 esqueleto axial
+T66 PROC 1236 1255 Anatomía patológica
+T67 DISO 1057 1073 melanoma maligno
+T68 DISO 202 205 MEL
+T69 DISO 137 139 AN
+T70 CHEM 139 141 CK
+T71 DISO 561 569 necrosis

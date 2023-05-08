@@ -1,0 +1,72 @@
+T1 DISO 1 40 enfermedad pulmonar obstructiva crónica
+T2 PROC 4 7 lob
+T3 PROC 49 73 ectomía inferior derecha
+T4 DISO 94 125 carcinoma epidermoide de pulmón
+T5 PROC 45 56 tratamiento
+T6 DISO 41 49 alergias
+T7 DISO 133 155 cólico renal izquierdo
+T8 ANAT 57 65 ureteral
+T9 DISO 145 163 síndrome miccional
+T10 DISO 82 91 hematuria
+T11 PROC 111 122 exploración
+T12 DISO 210 229 palidez mucocutánea
+T13 PROC 61 66 puá±o
+T14 PROC 118 127 percusión
+T15 ANAT 99 106 Abdomen
+T16 DISO 76 81 masas
+T17 DISO 129 137 megalias
+T18 PROC 188 199 exploración
+T19 PROC 361 381 estudio hematológico
+T20 DISO 115 121 anemia
+T21 PROC 201 211 bioquímica
+T22 PROC 232 243 coagulación
+T23 PROC 397 415 sedimento de orina
+T24 DISO 507 529 hematuria microscópica
+T25 PROC 217 226 ecografía
+T26 DISO 376 391 quiste cortical
+T27 ANAT 339 352 polo superior
+T28 ANAT 163 169 riá±ón
+T29 DISO 813 842 tumoración sólido - qu ística
+T30 ANAT 378 391 polo inferior
+T31 DISO 211 218 ectasia
+T32 ANAT 435 449 vía excre tora
+T33 ANAT 449 463 riá±ón derecho
+T34 ANAT 199 205 vejiga
+T35 ANAT 273 281 próstata
+T36 DISO 351 361 masa renal
+T37 DISO 757 778 quiste renal complejo
+T38 PROC 38 39 T
+T39 PROC 39 40 .
+T40 PROC 1522 1561 A . C . toraco - ab do - min op élv ico
+T41 ANAT 241 247 pulmón
+T42 DISO 739 757 enfisema bilateral
+T43 DISO 1261 1291 Adenopatías retro peritoneales
+T44 ANAT 990 1013 territorio aorto - cava
+T45 DISO 969 991 masa renal heterogénea
+T46 DISO 676 691 carcinoma renal
+T47 DISO 461 471 metástasis
+T48 PROC 377 385 PAAF TAC
+T49 ANAT 817 834 células escamosas
+T50 ANAT 785 801 riá±ón izquierdo
+T51 DISO 1301 1327 metástasis renal izquierdo
+T52 DISO 1531 1561 carcinoma epidermoide pulmonar
+T53 PROC 573 584 tratamiento
+T54 CHEM 160 163 Cis
+T55 CHEM 379 386 platino
+T56 CHEM 166 169 Vin
+T57 CHEM 113 115 or
+T58 CHEM 115 117 el
+T59 CHEM 233 237 bina
+T60 PROC 414 421 estudio
+T61 PROC 781 794 quimioterapia
+T62 CHEM 611 621 cisplatino
+T63 CHEM 187 190 vin
+T64 CHEM 127 129 or
+T65 CHEM 129 131 el
+T66 CHEM 261 265 bina
+T67 DISO 661 671 masa renal
+T68 PROC 872 885 quimioterapia
+T69 CHEM 613 622 docetaxel
+T70 PROC 208 211 TAC
+T71 PROC 1401 1421 estudio mediante PET
+T72 DISO 853 865 lesión renal

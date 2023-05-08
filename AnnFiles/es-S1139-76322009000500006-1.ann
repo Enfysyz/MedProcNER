@@ -1,0 +1,65 @@
+T1 PROC 1 9 consultó
+T2 DISO 16 31 cefalea frontal
+T3 DISO 7 10 nic
+T4 DISO 16 21 turia
+T5 PROC 45 56 exploración
+T6 DISO 111 133 ginecomastia bilateral
+T7 DISO 13 15 pu
+T8 DISO 22 25 bar
+T9 DISO 33 37 quia
+T10 ANAT 28 31 tes
+T11 ANAT 31 34 tes
+T12 PROC 276 301 exploración oftalmológica
+T13 PROC 289 313 tomografía computarizada
+T14 PROC 27 29 TC
+T15 DISO 253 271 proceso expans ivo
+T16 ANAT 181 193 silla tur ca
+T17 ANAT 161 171 parénquima
+T18 PROC 154 163 inyección
+T19 CHEM 163 172 contraste
+T20 PROC 381 401 resonancia magnética
+T21 PROC 41 43 RM
+T22 ANAT 169 177 quística
+T23 ANAT 89 93 elar
+T24 ANAT 139 145 sólida
+T25 ANAT 337 351 sustancia gris
+T26 CHEM 226 235 gadolinio
+T27 PROC 599 622 diagnóstico radiológico
+T28 DISO 163 169 craneo
+T29 DISO 85 88 far
+T30 DISO 88 91 ing
+T31 DISO 121 125 ioma
+T32 PROC 714 737 tratamiento quiráºrgico
+T33 PROC 609 628 nivel de prolactina
+T34 PROC 265 273 exéresis
+T35 PROC 647 666 anatomía patológica
+T36 DISO 701 721 adenoma hipofis ario
+T37 PROC 649 667 inmunohistoquímica
+T38 CHEM 371 381 prolactina
+T39 CHEM 191 196 cromo
+T40 CHEM 157 161 gran
+T41 CHEM 201 206 ina A
+T42 PROC 493 505 intervención
+T43 DISO 169 173 hemi
+T44 DISO 818 837 anopsia bi temporal
+T45 ANAT 221 226 campo
+T46 DISO 136 139 pan
+T47 DISO 185 189 hipo
+T48 DISO 95 97 pi
+T49 DISO 97 99 tu
+T50 DISO 393 401 itarismo
+T51 PROC 401 409 derivado
+T52 PROC 1072 1093 niveles de prolactina
+T53 PROC 625 637 intervención
+T54 DISO 372 379 adenoma
+T55 PROC 109 111 RM
+T56 PROC 606 617 tratamiento
+T57 CHEM 169 172 cab
+T58 CHEM 172 175 erg
+T59 CHEM 291 296 olina
+T60 PROC 178 181 cal
+T61 PROC 301 306 cemia
+T62 DISO 1160 1179 hiperparatiroidismo
+T63 DISO 435 442 tumores
+T64 DISO 1828 1857 neoplasia endocrina máºltiple
+T65 DISO 321 326 MEN 1

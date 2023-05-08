@@ -1,0 +1,68 @@
+T1 DISO 1 24 alergias medicamentosas
+T2 DISO 3 5 ex
+T3 DISO 15 22 fumador
+T4 DISO 73 97 diabetes mellitus tipo 2
+T5 DISO 77 96 hipercolesterolemia
+T6 DISO 136 163 anticuerpo antifosfol ípido
+T7 DISO 163 190 trombosis venosas profundas
+T8 PROC 50 57 ingreso
+T9 PROC 281 316 colocado un stent il íaco izquierdo
+T10 PROC 19 21 by
+T11 PROC 11 12 -
+T12 PROC 364 397 pass fé mor o - femoral izquierda
+T13 PROC 313 339 dilatación con crioterapia
+T14 ANAT 79 85 ilíaca
+T15 PROC 29 31 by
+T16 PROC 16 17 -
+T17 PROC 417 443 pass fé mor o - po plí teo
+T18 ANAT 273 289 miembro inferior
+T19 PROC 127 134 ingresa
+T20 PROC 305 321 cirugía vascular
+T21 DISO 241 253 claudicación
+T22 PROC 253 265 intervención
+T23 PROC 45 47 by
+T24 PROC 24 25 -
+T25 PROC 697 726 pass íleo - femoral bilateral
+T26 PROC 751 781 colocación de catéter epidural
+T27 PROC 365 379 analgesia post
+T28 PROC 325 337 intervención
+T29 PROC 57 59 by
+T30 PROC 30 31 -
+T31 PROC 1231 1272 pass de femoral comáºn con safena interna
+T32 ANAT 187 193 pierna
+T33 PROC 641 661 analgesia endovenosa
+T34 DISO 100 103 pie
+T35 DISO 307 316 isquémico
+T36 DISO 386 397 dedos fríos
+T37 DISO 217 223 signos
+T38 DISO 149 153 pren
+T39 DISO 267 274 ecrosis
+T40 DISO 274 281 intenso
+T41 DISO 201 206 dolor
+T42 PROC 452 463 tratamiento
+T43 CHEM 379 388 fentanilo
+T44 PROC 345 353 rescates
+T45 CHEM 705 721 cloruro mór fico
+T46 CHEM 496 507 corticoides
+T47 CHEM 139 142 pre
+T48 CHEM 330 337 dnisona
+T49 DISO 241 246 micro
+T50 DISO 148 151 inf
+T51 DISO 1101 1123 artos de pequeá±o vaso
+T52 PROC 1888 1925 amputación de tercio anterior del pie
+T53 PROC 417 425 consulta
+T54 PROC 1909 1945 colocación de nuevo catéter epidural
+T55 PROC 379 386 terapia
+T56 CHEM 826 841 anticoagulantes
+T57 PROC 1625 1654 colocación de catéter ciático
+T58 PROC 286 291 neuro
+T59 PROC 697 709 estimulación
+T60 ANAT 414 421 gláºtea
+T61 PROC 721 733 técnica de L
+T62 PROC 550 559 perfusión
+T63 CHEM 187 190 bup
+T64 CHEM 505 513 ivacaína
+T65 ANAT 193 196 pie
+T66 PROC 1431 1453 colocación del catéter
+T67 ANAT 463 470 ciático
+T68 PROC 1341 1361 analgesia endovenosa

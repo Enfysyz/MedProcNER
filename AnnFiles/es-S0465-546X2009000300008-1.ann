@@ -1,0 +1,66 @@
+T1 PROC 1 4 ino
+T2 PROC 5 9 cula
+T3 PROC 25 37 antibiograma
+T4 ANAT 22 29 muestra
+T5 PROC 21 26 pinch
+T6 PROC 31 37 ándose
+T7 ANAT 73 85 cara lateral
+T8 ANAT 99 113 falange distal
+T9 ANAT 89 100 dedo índice
+T10 ANAT 55 61 guante
+T11 DISO 111 122 inoculación
+T12 PROC 122 133 tratamiento
+T13 DISO 73 79 herida
+T14 PROC 27 29 la
+T15 PROC 295 316 vado con agua y jabón
+T16 DISO 166 177 inoculación
+T17 DISO 321 341 accidente de trabajo
+T18 DISO 120 127 acciden
+T19 DISO 73 77 tada
+T20 PROC 58 61 Man
+T21 PROC 41 43 to
+T22 PROC 43 45 ux
+T23 PROC 199 208 analítica
+T24 PROC 231 241 serologías
+T25 DISO 73 76 VHC
+T26 DISO 76 79 VIH
+T27 PROC 729 757 anticuerpos post vac un ales
+T28 DISO 244 253 hepatitis
+T29 DISO 141 146 signo
+T30 DISO 204 211 síntoma
+T31 DISO 361 373 tuberculosis
+T32 DISO 342 353 inoculación
+T33 DISO 353 364 inoculación
+T34 DISO 100 103 páp
+T35 DISO 511 526 ula eritematosa
+T36 DISO 736 757 dolorosa a la presión
+T37 DISO 721 741 adenopatías axilares
+T38 DISO 260 267 clínica
+T39 PROC 267 274 Biopsia
+T40 DISO 235 241 lesión
+T41 DISO 241 247 lesión
+T42 PROC 329 337 consulta
+T43 PROC 295 302 biopsia
+T44 PROC 345 353 exéresis
+T45 DISO 265 271 lesión
+T46 DISO 1081 1105 dermatitis granulomatosa
+T47 DISO 369 377 necrosis
+T48 DISO 1035 1057 dermatitis tuberculosa
+T49 PROC 913 932 Anatomía patológica
+T50 DISO 1177 1201 dermatitis granulomatosa
+T51 DISO 1101 1123 dermatitis tuberculosa
+T52 PROC 1123 1145 estudio microbiológico
+T53 PROC 313 319 cultiv
+T54 PROC 1220 1243 Estudio Microbi ológico
+T55 PROC 595 606 Diagnóstico
+T56 DISO 1156 1177 Tuberculosis Cu tánea
+T57 PROC 1625 1654 tratamiento antitu bercul oso
+T58 CHEM 628 639 rifampicina
+T59 CHEM 349 355 isonia
+T60 CHEM 237 241 zida
+T61 CHEM 241 245 pira
+T62 CHEM 184 187 zin
+T63 CHEM 311 316 amida
+T64 CHEM 694 705 rifampicina
+T65 CHEM 385 391 isonia
+T66 CHEM 261 265 zida

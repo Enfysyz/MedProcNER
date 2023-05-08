@@ -1,0 +1,66 @@
+T1 DISO 1 20 quemadura eléctrica
+T2 ANAT 5 9 cara
+T3 DISO 13 19 lesión
+T4 DISO 22 29 pérdida
+T5 ANAT 25 31 labios
+T6 ANAT 26 31 nariz
+T7 DISO 133 155 retracción cicatricial
+T8 ANAT 43 49 perior
+T9 ANAT 17 19 al
+T10 ANAT 64 71 colgajo
+T11 PROC 141 155 reconstrucción
+T12 ANAT 133 145 región nasal
+T13 DISO 241 261 pérdida de sustancia
+T14 ANAT 40 43 for
+T15 ANAT 113 121 ro nasal
+T16 ANAT 136 145 cobertura
+T17 ANAT 113 120 cartila
+T18 ANAT 103 109 ginosa
+T19 ANAT 91 96 dorso
+T20 ANAT 96 101 punta
+T21 ANAT 61 64 col
+T22 ANAT 22 23 m
+T23 ANAT 89 93 uela
+T24 ANAT 277 289 alas nasales
+T25 PROC 1105 1151 reconstrucción quiráºrgica con colgajo frontal
+T26 DISO 201 209 necrosis
+T27 PROC 1483 1540 reconstrucción mediante colgajo bi pe di culado de región
+T28 PROC 757 785 reconstrucción de los labios
+T29 ANAT 897 929 colgajo supra tro cle ar derecho
+T30 PROC 407 421 reconstrucción
+T31 ANAT 91 94 for
+T32 ANAT 249 257 ro nasal
+T33 PROC 481 496 cobertura nasal
+T34 ANAT 1552 1599 colgajo de cobertura supra tro cle ar izquierdo
+T35 ANAT 1089 1121 colgajo supra tro cle ar derecho
+T36 ANAT 106 109 for
+T37 ANAT 73 75 ro
+T38 ANAT 186 191 nasal
+T39 ANAT 115 118 ped
+T40 ANAT 235 241 ículos
+T41 ANAT 641 657 colgajo cervical
+T42 ANAT 288 295 colgajo
+T43 ANAT 589 603 labio superior
+T44 ANAT 345 353 colgajos
+T45 PROC 661 676 anestesia local
+T46 PROC 631 645 reconstrucción
+T47 ANAT 645 659 labio inferior
+T48 ANAT 142 145 col
+T49 ANAT 49 50 m
+T50 ANAT 197 201 uela
+T51 ANAT 551 562 punta nasal
+T52 PROC 1582 1613 adelgazamiento des gras amiento
+T53 ANAT 417 425 colgajos
+T54 PROC 1591 1621 procedimientos complementarios
+T55 DISO 271 276 edema
+T56 ANAT 881 897 colgajo cervical
+T57 DISO 169 172 que
+T58 DISO 343 349 loides
+T59 DISO 1451 1476 cicatrices hiper tróficas
+T60 ANAT 827 841 zonas donantes
+T61 PROC 481 489 tratados
+T62 CHEM 672 683 corticoides
+T63 PROC 869 883 reconstrucción
+T64 ANAT 442 449 colgajo
+T65 PROC 449 456 cirugía
+T66 PROC 1626 1651 tratamientos quiráºrgicos

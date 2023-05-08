@@ -1,0 +1,43 @@
+T1 DISO 1 4 IRC
+T2 DISO 17 33 hipoplasia renal
+T3 PROC 25 37 hemodiálisis
+T4 PROC 49 65 trasplante renal
+T5 PROC 49 61 hemodiálisis
+T6 DISO 151 181 nefropatía crónica del injerto
+T7 PROC 61 71 trasplante
+T8 PROC 43 49 ctomía
+T9 PROC 193 217 trasplante renal donante
+T10 PROC 109 121 hemodiálisis
+T11 DISO 411 452 glomerulonefritis membran oprolifera tiva
+T12 DISO 34 37 VHC
+T13 ANAT 157 170 injerto renal
+T14 DISO 365 393 hepatitis Â« no - A , no - B
+T15 PROC 155 166 diagnosticó
+T16 PROC 241 257 biopsia hepática
+T17 DISO 465 494 hepatitis crónica peri portal
+T18 PROC 171 181 RNA de VHC
+T19 PROC 217 229 hemodiálisis
+T20 PROC 305 321 trasplante renal
+T21 PROC 221 232 tratamiento
+T22 CHEM 64 67 IFN
+T23 CHEM 23 24 -
+T24 CHEM 47 49 Î±
+T25 DISO 745 776 dolor a nivel del injerto renal
+T26 DISO 226 235 hematuria
+T27 DISO 157 163 fiebre
+T28 CHEM 82 85 INF
+T29 CHEM 29 30 -
+T30 CHEM 59 61 Î±
+T31 PROC 301 311 trasplante
+T32 PROC 187 193 ctomía
+T33 PROC 321 331 histología
+T34 DISO 793 817 lesiones parenquimatosas
+T35 DISO 783 806 rechazo agudo y crónico
+T36 PROC 106 109 RNA
+T37 PROC 181 186 - VHC
+T38 PROC 778 799 tratamiento antiviral
+T39 PROC 799 820 tratamiento antiviral
+T40 PROC 1249 1281 trasplante renal donante cadáver
+T41 ANAT 201 206 renal
+T42 PROC 452 463 carga viral
+T43 PROC 463 474 tratamiento

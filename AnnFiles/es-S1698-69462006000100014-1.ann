@@ -1,0 +1,74 @@
+T1 PROC 1 4 exo
+T2 PROC 55 109 doncia de un tercer molar incluido en cuarto cuadrante
+T3 PROC 9 13 cure
+T4 PROC 13 17 taje
+T5 ANAT 85 106 tejido de granulación
+T6 ANAT 26 31 pieza
+T7 PROC 19 22 exo
+T8 PROC 22 25 don
+T9 PROC 17 19 ci
+T10 PROC 28 31 ada
+T11 DISO 161 177 hábito tabáquico
+T12 DISO 78 85 enólico
+T13 DISO 157 170 fallecimiento
+T14 DISO 196 211 cáncer de colon
+T15 DISO 113 121 síntomas
+T16 PROC 271 289 exploración física
+T17 DISO 305 324 dolor e inflamación
+T18 ANAT 103 109 región
+T19 ANAT 145 153 pieza 48
+T20 PROC 58 61 exo
+T21 PROC 121 127 doncia
+T22 DISO 106 111 abomb
+T23 DISO 617 645 amiento de consistencia ósea
+T24 ANAT 139 145 mucosa
+T25 PROC 433 451 exploración física
+T26 PROC 151 157 analiz
+T27 PROC 105 109 arse
+T28 ANAT 163 169 tejido
+T29 PROC 85 88 exo
+T30 PROC 175 181 doncia
+T31 ANAT 241 249 pieza 48
+T32 DISO 621 641 Carcinoma Esc amos o
+T33 ANAT 225 232 células
+T34 PROC 1420 1463 estudio de extensión clínico - radi ológico
+T35 ANAT 205 211 cabeza
+T36 ANAT 211 217 cuello
+T37 DISO 793 815 lesión ne of orma tiva
+T38 PROC 926 951 tomografía computer izada
+T39 ANAT 229 235 cuerpo
+T40 ANAT 586 601 rama mandibular
+T41 DISO 881 903 adenopatías cervicales
+T42 ANAT 83 85 tó
+T43 ANAT 85 87 co
+T44 ANAT 388 397 abdominal
+T45 DISO 881 901 patología neoplásica
+T46 PROC 856 875 analítica sanguínea
+T47 PROC 1427 1458 tratamiento quiráºrgico radical
+T48 PROC 3338 3409 tratamiento radio terápico mediante técnica isoc éntrica de tres campos
+T49 PROC 625 638 quimioterapia
+T50 PROC 148 151 man
+T51 PROC 101 103 di
+T52 PROC 154 157 bul
+T53 PROC 989 1008 ectomía segmentaria
+T54 ANAT 1061 1081 región subcon di lea
+T55 PROC 3133 3191 vaciamiento ganglionar cervical derecho radical modificado
+T56 PROC 1211 1233 traqueostomía temporal
+T57 PROC 785 799 reconstrucción
+T58 PROC 3136 3191 injerto microvascular izado oste omio cutáneo de peroné
+T59 PROC 1103 1122 anatomía patológica
+T60 DISO 2184 2221 Carcinoma Esc amos o Quera tin izante
+T61 ANAT 481 489 ganglios
+T62 PROC 306 311 extir
+T63 PROC 311 316 pados
+T64 DISO 1450 1473 invasión extra capsular
+T65 PROC 1537 1561 intervención quiráºrgica
+T66 PROC 716 727 TC cervical
+T67 DISO 1519 1542 tumoraciones cervicales
+T68 DISO 1542 1565 adenopatías bilaterales
+T69 PROC 885 898 quimioterapia
+T70 PROC 760 771 tratamiento
+T71 PROC 911 924 quimioterapia
+T72 PROC 1208 1225 curas palia tivas
+T73 PROC 1729 1753 intervención quiráºrgica
+T74 DISO 1096 1111 recidiva masiva

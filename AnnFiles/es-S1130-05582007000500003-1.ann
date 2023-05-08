@@ -1,0 +1,39 @@
+T1 DISO 1 19 dolor lan cin ante
+T2 ANAT 18 35 cuerpo mandibular
+T3 DISO 65 97 hipoestesia labio - ment on iana
+T4 PROC 67 89 exploración intra oral
+T5 PROC 81 101 estudio radiográfico
+T6 PROC 21 25 orto
+T7 PROC 19 22 pan
+T8 PROC 71 81 tomografía
+T9 PROC 17 19 TC
+T10 DISO 172 191 lesión oste olítica
+T11 ANAT 261 287 rama ascendente mandibular
+T12 PROC 78 85 biopsia
+T13 DISO 73 79 lesión
+T14 PROC 248 267 estudio histológico
+T15 DISO 561 601 lesión metastásica de adenocarcinoma muc
+T16 PROC 241 257 gammagrafía ósea
+T17 DISO 129 137 hipercap
+T18 DISO 103 109 tación
+T19 ANAT 469 495 rama ascendente mandibular
+T20 ANAT 495 521 cuerpo vertebral izquierdo
+T21 ANAT 21 22 T
+T22 ANAT 43 45 12
+T23 ANAT 353 369 costilla derecha
+T24 ANAT 461 481 unión costo con dral
+T25 ANAT 385 401 costilla derecha
+T26 PROC 526 547 TC toraco - abdominal
+T27 DISO 105 109 masa
+T28 ANAT 163 169 cuerpo
+T29 ANAT 393 407 antro gástrico
+T30 DISO 639 661 adenopatías regionales
+T31 DISO 181 187 nódulo
+T32 ANAT 745 769 lóbulo superior pulmonar
+T33 PROC 673 694 tratamiento combinado
+T34 PROC 166 171 radio
+T35 PROC 443 456 quimioterapia
+T36 DISO 281 289 falleció
+T37 PROC 289 297 autopsia
+T38 ANAT 297 305 gástrico
+T39 DISO 381 391 metástasis

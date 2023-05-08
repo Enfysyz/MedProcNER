@@ -1,0 +1,77 @@
+T1 DISO 1 34 lesiones de aspecto papiloma toso
+T2 ANAT 15 29 labio superior
+T3 PROC 45 67 exploración intra oral
+T4 ANAT 19 25 lengua
+T5 ANAT 33 41 escrotal
+T6 PROC 76 91 anestesia local
+T7 PROC 49 57 exéresis
+T8 DISO 57 65 lesiones
+T9 PROC 201 226 estudio anatomopatológico
+T10 DISO 73 81 lesiones
+T11 DISO 51 56 fibro
+T12 DISO 23 25 pa
+T13 DISO 37 40 pil
+T14 DISO 53 57 omas
+T15 DISO 225 241 lesiones mucosas
+T16 PROC 316 337 exploración sistémica
+T17 DISO 49 52 tri
+T18 DISO 52 55 qui
+T19 DISO 55 58 lem
+T20 DISO 248 261 omas cutáneos
+T21 ANAT 161 169 regiones
+T22 ANAT 43 45 ac
+T23 ANAT 111 116 rales
+T24 DISO 208 217 fallecida
+T25 DISO 505 526 neoplasia de tiroides
+T26 DISO 201 209 lesiones
+T27 ANAT 157 163 mucosa
+T28 DISO 460 477 patología mamaria
+T29 PROC 309 320 intervenida
+T30 DISO 842 871 carcinoma papilar de tiroides
+T31 PROC 301 311 despistaje
+T32 DISO 869 897 patología neoplásica mamaria
+T33 PROC 385 397 diagnósticos
+T34 DISO 661 681 síndrome de Co w den
+T35 PROC 443 456 diagnosticada
+T36 DISO 1506 1549 patología fibro qu ística mamaria bilateral
+T37 DISO 1009 1037 carcinoma ductal infiltrante
+T38 ANAT 149 153 mama
+T39 PROC 191 196 tumor
+T40 PROC 1015 1041 ectomía vaciamiento axilar
+T41 PROC 2121 2174 tratamiento complementario con quimio - radio terapia
+T42 PROC 452 463 diagnóstico
+T43 DISO 169 173 geno
+T44 DISO 130 133 der
+T45 DISO 1497 1531 matosis de h amar tomas máºltiples
+T46 DISO 271 277 lesión
+T47 PROC 1289 1317 despistaje tumoral sistémico
+T48 PROC 377 385 valorada
+T49 DISO 1009 1030 pólipos asintomáticos
+T50 ANAT 736 751 mucosa rectal y
+T51 ANAT 401 409 colónica
+T52 PROC 970 989 seguimiento clínico
+T53 DISO 1509 1538 aumento de tamaá±o progresivo
+T54 ANAT 425 433 tiroides
+T55 DISO 1243 1266 hipertiroidismo clínico
+T56 DISO 551 561 malignidad
+T57 PROC 1401 1426 estudio cito hist ológico
+T58 PROC 1255 1277 intervenida Endo crina
+T59 PROC 233 237 tiro
+T60 PROC 886 901 idectomía total
+T61 PROC 661 672 diagnostica
+T62 DISO 367 373 lesión
+T63 DISO 1799 1828 bocio colo ide mul tino dular
+T64 PROC 1009 1025 cirugía tiroidea
+T65 PROC 1729 1756 ecografía abdomino pélv ica
+T66 DISO 456 463 masa en
+T67 ANAT 397 403 riá±ón
+T68 PROC 2547 2585 estudio con Tomografía Compu ter izada
+T69 DISO 681 691 malignidad
+T70 PROC 1864 1891 nefrectomía radical derecha
+T71 PROC 1821 1847 linfadenectomía supra cava
+T72 PROC 1350 1369 estudio histológico
+T73 ANAT 289 293 espé
+T74 ANAT 147 149 ci
+T75 ANAT 1111 1126 men quiráºrgico
+T76 DISO 451 457 lesión
+T77 DISO 2509 2542 carcinoma renal de células claras

@@ -1,0 +1,55 @@
+T1 DISO 1 11 hipertensa
+T2 DISO 3 5 ul
+T3 DISO 39 58 cus gastro duodenal
+T4 CHEM 76 101 fármacos gas trol es ivos
+T5 PROC 33 41 consultó
+T6 DISO 36 43 melenas
+T7 DISO 55 64 cansancio
+T8 PROC 64 73 analítica
+T9 PROC 17 19 Hb
+T10 DISO 64 71 palidez
+T11 PROC 181 199 exploración física
+T12 PROC 133 145 tacto rectal
+T13 PROC 181 196 endoscopia alta
+T14 DISO 209 225 lesión submucosa
+T15 ANAT 57 61 fund
+T16 ANAT 166 177 us gástrico
+T17 DISO 161 171 ulceración
+T18 DISO 137 145 sangrado
+T19 DISO 631 666 lesión submucosa gástrica ulcer ada
+T20 DISO 58 61 lei
+T21 DISO 61 64 omi
+T22 DISO 64 67 oma
+T23 DISO 89 93 tosa
+T24 DISO 415 433 sangrado digestivo
+T25 PROC 73 76 eco
+T26 PROC 426 443 endoscopia radial
+T27 ANAT 235 244 submucosa
+T28 DISO 163 169 lesión
+T29 ANAT 113 117 capa
+T30 ANAT 407 421 pared gástrica
+T31 ANAT 241 249 muscular
+T32 ANAT 280 289 is propia
+T33 ANAT 385 397 luz gástrica
+T34 DISO 232 239 áºlcera
+T35 DISO 647 666 adenopatías periles
+T36 ANAT 526 541 tronco celi aco
+T37 PROC 1009 1037 diagnóstico eco endos cópico
+T38 DISO 1333 1369 tumor gástrico sub muc oso estro mal
+T39 DISO 419 430 tumor G IST
+T40 ANAT 313 321 muscular
+T41 PROC 441 452 diagnóstico
+T42 PROC 124 127 eco
+T43 DISO 1009 1033 complicación hemorrágica
+T44 PROC 1205 1233 tratamiento quiráºrgico elec
+T45 PROC 397 406 resección
+T46 PROC 91 93 en
+T47 PROC 185 189 ucle
+T48 PROC 236 241 ación
+T49 DISO 289 295 lesión
+T50 PROC 932 951 estudio histológico
+T51 ANAT 251 256 pieza
+T52 PROC 460 469 resec ada
+T53 DISO 157 160 sch
+T54 DISO 213 217 wann
+T55 DISO 649 661 oma gástrico

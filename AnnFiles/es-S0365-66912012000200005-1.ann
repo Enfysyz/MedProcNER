@@ -1,0 +1,99 @@
+T1 PROC 1 9 consultó
+T2 DISO 37 73 alteraciones en la visión periférica
+T3 DISO 89 133 manifestaciones de hipo función hipofis aria
+T4 PROC 34 45 exploración
+T5 PROC 57 71 agudeza visual
+T6 PROC 11 13 AV
+T7 ANAT 25 29 ojos
+T8 ANAT 8 9 A
+T9 ANAT 105 118 polo anterior
+T10 PROC 172 191 presión intraocular
+T11 PROC 121 133 fondo de ojo
+T12 PROC 23 25 FO
+T13 PROC 145 157 campo visual
+T14 PROC 27 29 CV
+T15 DISO 267 286 defecto ar ci forme
+T16 DISO 181 193 alteraciones
+T17 ANAT 49 52 ojo
+T18 ANAT 35 37 OD
+T19 ANAT 55 58 ojo
+T20 DISO 381 401 defecto altitud inal
+T21 DISO 161 169 defectos
+T22 PROC 358 375 análisis de orina
+T23 PROC 771 806 estudios de funcionamiento hormonal
+T24 PROC 70 73 FSH
+T25 PROC 49 51 LH
+T26 PROC 301 313 testosterona
+T27 PROC 573 595 hormona de crecimiento
+T28 PROC 757 785 resonancia magnética nuclear
+T29 PROC 85 88 RMN
+T30 DISO 958 991 dilatación del ventrículo lateral
+T31 ANAT 451 466 periventricular
+T32 ANAT 528 545 tercer ventrículo
+T33 ANAT 321 331 hipotálamo
+T34 ANAT 331 341 región del
+T35 ANAT 273 281 qui asma
+T36 ANAT 526 541 nervios ópticos
+T37 CHEM 325 334 contraste
+T38 DISO 371 381 granulomas
+T39 PROC 1141 1171 tomografía axial computarizada
+T40 PROC 1795 1841 TAC ) toraco - ab dom ino - pélv ica contraste
+T41 ANAT 321 329 ganglios
+T42 ANAT 329 337 cervical
+T43 ANAT 253 259 suprac
+T44 ANAT 130 133 lav
+T45 ANAT 353 361 iculares
+T46 ANAT 361 369 axilares
+T47 ANAT 369 377 torácico
+T48 ANAT 330 337 pélvico
+T49 PROC 241 246 biops
+T50 PROC 99 101 ió
+T51 DISO 1301 1327 adenopatía profunda axilar
+T52 DISO 562 573 sarcoidosis
+T53 PROC 677 690 diagnosticado
+T54 DISO 1114 1135 sarcoidosis sistémica
+T55 DISO 541 551 afectación
+T56 ANAT 1321 1345 sistema nervioso central
+T57 DISO 561 571 afectación
+T58 ANAT 172 175 qui
+T59 ANAT 233 237 asma
+T60 ANAT 768 781 nervio óptico
+T61 ANAT 1801 1831 eje hipotálamo - hipo fis ario
+T62 DISO 184 187 pan
+T63 DISO 249 253 hipo
+T64 DISO 127 129 pi
+T65 DISO 129 131 tu
+T66 DISO 521 529 itarismo
+T67 DISO 265 269 hipo
+T68 DISO 202 205 gon
+T69 DISO 409 415 adismo
+T70 DISO 277 281 hipo
+T71 DISO 211 214 cor
+T72 DISO 498 505 ticismo
+T73 CHEM 2521 2556 hormonas de crecimiento y anti diur
+T74 CHEM 366 371 ética
+T75 PROC 815 826 tratamiento
+T76 CHEM 1276 1293 metilprednisolona
+T77 CHEM 837 848 vasopresina
+T78 PROC 1926 1951 controlado hormonal mente
+T79 DISO 1639 1660 alteraciones en el CV
+T80 PROC 159 161 AV
+T81 ANAT 161 163 AO
+T82 PROC 973 985 fondo de ojo
+T83 ANAT 493 499 papila
+T84 DISO 582 589 palidez
+T85 ANAT 505 511 región
+T86 ANAT 681 689 temporal
+T87 DISO 1807 1828 atrofia peri pap ilar
+T88 DISO 610 617 palidez
+T89 DISO 1849 1870 atrofia peri pap ilar
+T90 DISO 357 361 exca
+T91 DISO 541 547 vación
+T92 PROC 274 277 OCT
+T93 ANAT 2209 2233 capa de fibras nerviosas
+T94 ANAT 838 847 cuadrante
+T95 ANAT 189 191 OI
+T96 PROC 3991 4033 potenciales visuales evocados con d á mero
+T97 PROC 97 98 P
+T98 PROC 195 197 VE
+T99 ANAT 197 199 OI

@@ -1,0 +1,23 @@
+T1 DISO 1 17 hernia umbilical
+T2 PROC 12 23 intervenida
+T3 DISO 7 10 HTA
+T4 DISO 37 49 dolor en FII
+T5 DISO 57 71 tenesmo rectal
+T6 DISO 86 103 heces a cin tadas
+T7 PROC 109 127 exploración física
+T8 DISO 253 289 dolor difuso a la palpación profunda
+T9 ANAT 25 28 FII
+T10 PROC 82 91 analítica
+T11 ANAT 101 111 leucocitos
+T12 PROC 122 133 enema opaco
+T13 PROC 145 157 colonoscopia
+T14 ANAT 66 71 sigma
+T15 PROC 267 286 estudio histológico
+T16 PROC 121 129 biopsias
+T17 PROC 145 154 resección
+T18 PROC 511 541 anastomosis término - terminal
+T19 PROC 343 362 estudio histológico
+T20 DISO 552 581 lesión endometriosis de colon
+T21 ANAT 101 106 mural
+T22 DISO 169 177 fibrosis
+T23 DISO 221 231 hemorragia

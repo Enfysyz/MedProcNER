@@ -1,0 +1,81 @@
+T1 PROC 1 8 ingresa
+T2 DISO 24 47 síndrome constitucional
+T3 DISO 13 19 anemia
+T4 DISO 13 17 masa
+T5 ANAT 25 31 flanco
+T6 DISO 131 157 accidente cerebro vascular
+T7 ANAT 85 99 cerebral media
+T8 DISO 148 169 fibrilación auricular
+T9 DISO 313 352 enfermedad pulmonar obstructiva crónica
+T10 PROC 100 111 tratamiento
+T11 CHEM 31 34 dic
+T12 CHEM 45 49 umar
+T13 CHEM 73 79 ínicos
+T14 CHEM 131 141 amiodarona
+T15 DISO 113 121 anorexia
+T16 DISO 106 113 astenia
+T17 DISO 113 120 pérdida
+T18 PROC 120 127 ingreso
+T19 DISO 91 96 dolor
+T20 ANAT 115 121 flanco
+T21 ANAT 201 211 fosa renal
+T22 PROC 400 419 anamnesis urológica
+T23 PROC 397 415 exploración física
+T24 ANAT 254 265 hemiabdomen
+T25 DISO 313 326 masa dolorosa
+T26 PROC 276 287 exploración
+T27 PROC 443 460 estudio analítico
+T28 DISO 973 1009 anemia normo cítica y normo cr ómica
+T29 PROC 309 320 hemoglobina
+T30 PROC 88 91 VSG
+T31 PROC 871 900 estudio bioquímico , urinario
+T32 PROC 621 641 marcadores tumorales
+T33 PROC 609 628 ecografía abdominal
+T34 DISO 595 613 masa renal derecha
+T35 DISO 273 281 hematoma
+T36 PROC 1751 1801 tomografía axial computer izada de cuerpo completo
+T37 PROC 37 38 T
+T38 PROC 38 39 .
+T39 PROC 115 118 A C
+T40 DISO 391 401 masa mixta
+T41 ANAT 641 657 polo superior de
+T42 ANAT 575 589 riá±ón derecho
+T43 DISO 505 517 infiltración
+T44 ANAT 603 617 máºsculo psoas
+T45 DISO 485 496 adenopatías
+T46 DISO 811 829 trombosis vascular
+T47 PROC 323 330 cirugía
+T48 DISO 565 577 masa tumoral
+T49 PROC 625 638 arteriografía
+T50 PROC 246 251 embol
+T51 PROC 301 307 izando
+T52 ANAT 664 677 arteria renal
+T53 PROC 989 1008 nefrectomía radical
+T54 DISO 637 649 masa tumoral
+T55 ANAT 757 771 riá±ón derecho
+T56 ANAT 771 785 máºsculo psoas
+T57 DISO 673 685 masa tumoral
+T58 ANAT 970 987 grasa perir renal
+T59 ANAT 1451 1476 sistemas excre tor venoso
+T60 DISO 3069 3121 tumor maligno fus ocelular renal muy indifer enciado
+T61 DISO 1441 1465 infiltración perir renal
+T62 ANAT 1099 1117 sistemas excre tor
+T63 ANAT 373 379 venoso
+T64 PROC 442 449 cirugía
+T65 PROC 769 781 dado de alta
+T66 PROC 781 793 intervención
+T67 PROC 925 939 TAC de control
+T68 DISO 1944 1973 masas quísticas heterogén eas
+T69 ANAT 1565 1588 espacio retroperitoneal
+T70 ANAT 967 981 máºsculo psoas
+T71 DISO 1471 1492 infiltración hepática
+T72 ANAT 1137 1153 colon ascendente
+T73 ANAT 1009 1023 máºsculo psoas
+T74 PROC 2410 2443 punción aspiración por aguja fina
+T75 PROC 75 76 P
+T76 PROC 76 77 .
+T77 PROC 77 78 A
+T78 PROC 1849 1873 . A . F .) eco dirig ida
+T79 DISO 2263 2292 metástasis de carcinoma renal
+T80 PROC 2766 2801 gammagrafía ósea de cuerpo completo
+T81 DISO 1761 1783 lesiones metastás icas

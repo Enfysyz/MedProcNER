@@ -1,0 +1,24 @@
+T1 PROC 1 39 consulta de urología atención primaria
+T2 DISO 9 17 síntomas
+T3 DISO 13 19 prosta
+T4 DISO 16 21 tismo
+T5 PROC 53 66 examen físico
+T6 ANAT 41 49 próstata
+T7 DISO 73 85 consistencia
+T8 DISO 85 97 adenoma tosa
+T9 PROC 177 199 ecografia trans rectal
+T10 ANAT 91 101 parénquima
+T11 DISO 151 166 calcificaciones
+T12 ANAT 155 169 lóbulo derecho
+T13 PROC 217 235 volumen prostático
+T14 PROC 40 43 PSA
+T15 PROC 435 466 biopsia prostática trans rectal
+T16 PROC 286 305 anatomía patológica
+T17 DISO 337 358 nevus azul prostático
+T18 ANAT 358 379 parénquima prostático
+T19 DISO 343 362 inflamación crónica
+T20 DISO 875 921 reacción granulomatosa de tipo cuerpo extraá±o
+T21 ANAT 161 169 gránulos
+T22 ANAT 757 793 melanocitos fus iformes dendrí ticos
+T23 DISO 221 231 malignidad
+T24 ANAT 185 193 muestras

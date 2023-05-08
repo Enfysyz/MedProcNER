@@ -1,0 +1,75 @@
+T1 DISO 1 11 hipertensa
+T2 DISO 14 27 poliomielitis
+T3 DISO 17 25 secuelas
+T4 ANAT 22 29 miembro
+T5 PROC 57 71 intervenciones
+T6 PROC 126 151 cirugía de columna lumbar
+T7 PROC 61 71 Diagnostic
+T8 PROC 22 25 ada
+T9 DISO 137 154 patología espinal
+T10 PROC 235 261 artrodesis póster olateral
+T11 PROC 171 188 injerto de lámina
+T12 PROC 155 169 sustituto óseo
+T13 DISO 373 404 infección de herida quiráºrgica
+T14 DISO 521 561 necrosis de la musculatura paravertebral
+T15 PROC 197 211 intervenciones
+T16 PROC 46 49 des
+T17 PROC 33 35 br
+T18 PROC 69 73 idar
+T19 ANAT 109 115 tejido
+T20 PROC 552 581 intervención terapia de vacío
+T21 PROC 461 484 Cirugía Recons tructiva
+T22 PROC 379 397 cirugía de columna
+T23 PROC 221 231 derivación
+T24 PROC 484 505 trasladada en camilla
+T25 DISO 169 176 atrofia
+T26 ANAT 476 495 miembros inferiores
+T27 DISO 183 190 defecto
+T28 ANAT 541 561 zona dorso - lum bar
+T29 ANAT 477 494 columna vertebral
+T30 PROC 378 391 osteosíntesis
+T31 DISO 481 497 signos infección
+T32 PROC 714 737 estudio de la extensión
+T33 DISO 225 232 defecto
+T34 PROC 1090 1123 Tomografía A xial Compu tar izada
+T35 PROC 103 106 TAC
+T36 PROC 876 901 artrodesis instrum entada
+T37 PROC 325 334 resección
+T38 ANAT 334 343 elementos
+T39 ANAT 533 547 partes blandas
+T40 ANAT 664 681 lecho quiráºrgico
+T41 DISO 881 903 masa de partes blandas
+T42 DISO 329 337 abscesos
+T43 PROC 211 216 angio
+T44 PROC 818 837 TAC dorso - lum bar
+T45 ANAT 265 271 perfor
+T46 ANAT 1936 1979 antes para vertebrales máºsculo - cu táneas
+T47 PROC 139 142 Man
+T48 PROC 95 97 tu
+T49 PROC 241 246 vimos
+T50 PROC 785 801 terapia de vacío
+T51 DISO 901 919 herida quiráºrgica
+T52 PROC 1939 1977 estudios de imagen y pre an estés icos
+T53 DISO 313 319 lesión
+T54 PROC 1326 1351 procedimiento quiráºrgico
+T55 PROC 1135 1156 desbridamiento tejido
+T56 PROC 496 505 cobertura
+T57 ANAT 1513 1540 estructuras óseas profundas
+T58 ANAT 343 349 tejido
+T59 ANAT 465 473 vascular
+T60 PROC 1063 1081 cierre del defecto
+T61 PROC 1021 1038 anestesia general
+T62 PROC 1648 1675 desbridamiento es cis ional
+T63 ANAT 869 883 piel invertida
+T64 ANAT 1639 1665 tejido fibroso cicatricial
+T65 ANAT 833 846 región lumbar
+T66 ANAT 2081 2113 colgajo muscular de dorsal ancho
+T67 ANAT 199 202 ped
+T68 ANAT 1207 1225 ículos secundarios
+T69 DISO 953 967 defecto lumbar
+T70 ANAT 1381 1401 tejido muscular sano
+T71 PROC 141 143 oc
+T72 PROC 1492 1513 drenajes espira tivos
+T73 ANAT 217 220 sub
+T74 ANAT 585 593 muscular
+T75 ANAT 741 751 subcutáneo

@@ -1,0 +1,36 @@
+T1 PROC 1 9 consultó
+T2 DISO 6 11 dolor
+T3 DISO 7 10 ind
+T4 DISO 43 57 uración dorsal
+T5 ANAT 17 21 pene
+T6 ANAT 31 37 tercio
+T7 DISO 43 50 fumador
+T8 PROC 57 65 exéresis
+T9 DISO 57 64 quistes
+T10 ANAT 46 51 mamas
+T11 DISO 281 309 trastornos de la coagulación
+T12 DISO 133 145 enfermedades
+T13 DISO 61 66 dolor
+T14 ANAT 183 197 dorso del pene
+T15 ANAT 57 61 raíz
+T16 DISO 241 257 nódulo ind urado
+T17 PROC 289 307 exploración física
+T18 ANAT 307 325 genitales externos
+T19 DISO 325 343 palpación dolorosa
+T20 DISO 115 121 nódulo
+T21 PROC 341 358 Ecografía doppler
+T22 DISO 64 67 ind
+T23 DISO 309 323 uración dorsal
+T24 DISO 484 505 trombosis segmentaria
+T25 ANAT 769 801 vena dorsal superficial del pene
+T26 PROC 276 287 tratamiento
+T27 CHEM 833 865 antiinflamatorios no esteroideos
+T28 CHEM 325 337 antibióticos
+T29 DISO 141 146 dolor
+T30 DISO 88 91 ind
+T31 DISO 211 218 uración
+T32 PROC 869 897 resonancia magnética pélvica
+T33 DISO 193 199 lesión
+T34 DISO 298 307 trombosis
+T35 DISO 307 316 patología
+T36 ANAT 666 685 vena dorsal de pene

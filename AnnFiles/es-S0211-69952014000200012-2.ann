@@ -1,0 +1,51 @@
+T1 DISO 1 4 IRC
+T2 DISO 5 9 poli
+T3 DISO 31 46 quistosis renal
+T4 PROC 37 49 hemodiálisis
+T5 PROC 65 81 trasplante renal
+T6 DISO 146 175 complicaciones del trasplante
+T7 DISO 79 92 rechazo agudo
+T8 PROC 50 57 tratado
+T9 CHEM 81 91 esteroides
+T10 CHEM 37 41 glob
+T11 CHEM 221 243 ulina anti timo cítica
+T12 CHEM 23 25 AT
+T13 CHEM 13 14 G
+T14 CHEM 404 435 anticuerpo monoclonal anti CD 3
+T15 CHEM 15 16 O
+T16 CHEM 16 17 K
+T17 CHEM 17 18 T
+T18 CHEM 18 19 3
+T19 PROC 217 229 hemodiálisis
+T20 DISO 476 501 pérdida del injerto renal
+T21 DISO 361 379 nefropatía crónica
+T22 PROC 232 243 diagnosticó
+T23 DISO 617 645 hepatitis Â« no - A , no - B
+T24 PROC 93 97 poli
+T25 PROC 121 126 trans
+T26 PROC 501 521 fusión hemoderivados
+T27 PROC 79 82 RNA
+T28 PROC 28 29 -
+T29 DISO 85 88 VHC
+T30 PROC 233 241 diálisis
+T31 PROC 331 342 tratamiento
+T32 CHEM 652 673 IFN pe gil ado Î± 2 a
+T33 CHEM 65 67 RB
+T34 CHEM 34 35 V
+T35 CHEM 477 491 eritropoyetina
+T36 PROC 386 397 tratamiento
+T37 DISO 217 223 fiebre
+T38 DISO 334 343 hematuria
+T39 PROC 799 820 tratamiento antiviral
+T40 PROC 1171 1201 embolización del injerto renal
+T41 DISO 1001 1026 rechazo agudo del injerto
+T42 PROC 452 463 tratamiento
+T43 CHEM 127 130 IFN
+T44 CHEM 87 89 RB
+T45 CHEM 45 46 V
+T46 DISO 1306 1335 eritema exuda tivo multiforme
+T47 PROC 1105 1129 tratamiento cortico ideo
+T48 PROC 518 529 tratamiento
+T49 PROC 769 785 trasplante renal
+T50 ANAT 246 251 renal
+T51 PROC 551 562 carga viral

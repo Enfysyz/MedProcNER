@@ -1,0 +1,111 @@
+T1 DISO 1 21 neoplasia de laringe
+T2 DISO 25 49 diabetes mellitus tipo 2
+T3 DISO 5 7 ex
+T4 DISO 4 5 -
+T5 DISO 29 36 fumador
+T6 DISO 11 13 ex
+T7 DISO 7 8 -
+T8 DISO 22 25 beb
+T9 DISO 33 37 edor
+T10 PROC 118 131 diagnosticado
+T11 DISO 221 243 crisis hiper tiro idea
+T12 DISO 23 25 ex
+T13 DISO 25 27 of
+T14 DISO 40 43 tal
+T15 DISO 43 46 mos
+T16 ANAT 121 129 oculares
+T17 PROC 225 239 agudeza visual
+T18 ANAT 69 73 ojos
+T19 ANAT 19 20 A
+T20 ANAT 20 21 O
+T21 PROC 241 253 fondo de ojo
+T22 DISO 442 463 retinopatía diabética
+T23 ANAT 551 576 máºsculos rectos internos
+T24 PROC 300 313 TAC orbitario
+T25 DISO 241 251 retracción
+T26 ANAT 201 209 párpados
+T27 ANAT 53 55 AO
+T28 PROC 379 393 tensión ocular
+T29 PROC 57 59 TO
+T30 ANAT 88 91 ojo
+T31 ANAT 91 94 ojo
+T32 PROC 342 353 tratamiento
+T33 CHEM 129 133 beta
+T34 CHEM 34 35 -
+T35 CHEM 205 211 bloque
+T36 CHEM 141 145 ante
+T37 PROC 1225 1259 tratamiento cortico ideo sistémico
+T38 CHEM 186 191 metil
+T39 CHEM 39 40 -
+T40 CHEM 469 481 prednisolona
+T41 DISO 81 83 ex
+T42 DISO 83 85 of
+T43 DISO 127 130 tal
+T44 DISO 130 133 mos
+T45 PROC 89 91 TO
+T46 CHEM 1801 1841 inhibidores de la an hid rasa carb ónica
+T47 PROC 1013 1035 radioterapia orbitaria
+T48 DISO 189 193 prop
+T49 DISO 241 246 tosis
+T50 PROC 148 151 TAC
+T51 ANAT 1251 1276 máºsculos rectos internos
+T52 DISO 256 261 oftal
+T53 DISO 105 107 mo
+T54 DISO 319 325 plejía
+T55 ANAT 109 111 AO
+T56 DISO 551 561 exposición
+T57 ANAT 393 400 corneal
+T58 ANAT 172 175 ojo
+T59 PROC 1915 1948 descompresión bilateral orbitaria
+T60 DISO 473 481 fractura
+T61 ANAT 961 977 paredes inferior
+T62 PROC 977 993 control hormonal
+T63 DISO 1303 1324 crisis hipo tiro idea
+T64 PROC 127 129 TS
+T65 PROC 65 66 H
+T66 PROC 66 67 T
+T67 PROC 67 68 3
+T68 PROC 68 69 T
+T69 PROC 477 484 4 Total
+T70 PROC 70 71 T
+T71 PROC 491 498 4 Libre
+T72 DISO 143 145 ex
+T73 DISO 145 147 of
+T74 DISO 220 223 tal
+T75 DISO 223 226 mos
+T76 PROC 151 153 li
+T77 PROC 609 617 pectomía
+T78 ANAT 155 157 ór
+T79 ANAT 391 396 bitas
+T80 ANAT 396 401 grasa
+T81 ANAT 721 730 máºsculos
+T82 ANAT 1540 1559 tejidos orbi tarios
+T83 PROC 165 167 en
+T84 PROC 333 337 ucle
+T85 PROC 421 426 ación
+T86 ANAT 256 259 ojo
+T87 DISO 689 697 glaucoma
+T88 PROC 262 265 tar
+T89 PROC 265 268 sor
+T90 PROC 2048 2071 rafia externa e interna
+T91 ANAT 271 274 ojo
+T92 PROC 1639 1657 hormonas tiroideas
+T93 PROC 185 187 TS
+T94 PROC 94 95 H
+T95 PROC 95 96 T
+T96 PROC 666 673 4 Total
+T97 PROC 97 98 T
+T98 PROC 680 687 4 Libre
+T99 DISO 393 397 prop
+T100 DISO 496 501 tosis
+T101 ANAT 601 607 ocular
+T102 PROC 304 307 tar
+T103 PROC 307 310 sor
+T104 PROC 207 209 ra
+T105 PROC 417 421 fias
+T106 PROC 1156 1167 exploración
+T107 ANAT 213 215 OD
+T108 PROC 215 217 AV
+T109 DISO 1837 1854 neuropatía óptica
+T110 PROC 219 221 TO
+T111 DISO 2311 2332 retinopatía diabética

@@ -1,0 +1,84 @@
+T1 DISO 1 19 otalgia unilateral
+T2 DISO 8 15 cefalea
+T3 PROC 11 16 trató
+T4 DISO 43 57 otitis externa
+T5 CHEM 13 16 bec
+T6 CHEM 6 7 l
+T7 CHEM 19 22 ome
+T8 CHEM 43 49 tasona
+T9 CHEM 17 19 cl
+T10 CHEM 19 21 io
+T11 CHEM 41 45 quin
+T12 CHEM 23 25 ol
+T13 DISO 85 92 cefalea
+T14 PROC 391 421 terapia analgésica intravenosa
+T15 PROC 155 166 tratamiento
+T16 CHEM 211 225 dexketoprofeno
+T17 DISO 257 273 cefalea punzante
+T18 DISO 324 343 sensación opres iva
+T19 ANAT 109 115 perior
+T20 ANAT 39 41 bi
+T21 ANAT 101 106 tario
+T22 DISO 190 199 acáºfenos
+T23 ANAT 89 93 oído
+T24 PROC 254 265 exploración
+T25 DISO 265 276 inflamación
+T26 ANAT 626 651 conducto auditivo externo
+T27 ANAT 53 55 CA
+T28 ANAT 28 29 E
+T29 DISO 253 262 hiperemia
+T30 ANAT 465 481 cadena os icular
+T31 DISO 301 311 alteración
+T32 ANAT 280 289 timpánica
+T33 DISO 257 265 nistagmo
+T34 PROC 364 375 tratamiento
+T35 CHEM 443 456 levofloxacino
+T36 CHEM 141 145 beta
+T37 CHEM 109 112 his
+T38 CHEM 149 153 tina
+T39 PROC 457 469 baja laboral
+T40 PROC 781 801 incapacidad temporal
+T41 DISO 481 493 dolor ó tico
+T42 DISO 1067 1093 sensación de inestabilidad
+T43 CHEM 169 173 beta
+T44 CHEM 130 133 his
+T45 CHEM 177 181 tina
+T46 CHEM 136 139 sul
+T47 CHEM 185 189 piri
+T48 CHEM 95 97 de
+T49 DISO 529 540 parestesias
+T50 ANAT 246 251 hemic
+T51 ANAT 151 154 ara
+T52 DISO 358 365 ageusia
+T53 ANAT 105 107 he
+T54 ANAT 160 163 mil
+T55 ANAT 109 111 en
+T56 ANAT 166 169 gua
+T57 DISO 169 172 ble
+T58 DISO 229 233 faro
+T59 DISO 117 119 es
+T60 DISO 178 181 pas
+T61 DISO 181 184 mos
+T62 ANAT 184 187 ojo
+T63 PROC 683 694 exploración
+T64 DISO 1702 1729 parálisis facial periférica
+T65 ANAT 385 391 facial
+T66 ANAT 391 397 ocular
+T67 ANAT 265 269 ojos
+T68 PROC 2212 2245 valoración otorrinolaring ológica
+T69 PROC 273 277 audi
+T70 PROC 484 491 ometría
+T71 ANAT 281 285 oído
+T72 PROC 1066 1081 pares craneales
+T73 DISO 649 658 nistagmus
+T74 PROC 74 75 o
+T75 PROC 593 601 toscopia
+T76 DISO 676 685 hiperemia
+T77 ANAT 229 232 CAE
+T78 DISO 694 703 vesículas
+T79 ANAT 1405 1423 pabellón auricular
+T80 PROC 712 721 ingresada
+T81 DISO 2641 2674 Síndrome de Rams ay Hun t derecho
+T82 PROC 892 903 tratamiento
+T83 CHEM 739 748 aciclovir
+T84 PROC 582 589 control

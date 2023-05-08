@@ -1,0 +1,41 @@
+T1 PROC 1 9 consulta
+T2 DISO 17 33 sangrado vaginal
+T3 DISO 87 130 flujo vaginal muc opurul ento y malol iente
+T4 PROC 55 73 exploración física
+T5 DISO 41 51 congestión
+T6 DISO 26 31 edema
+T7 ANAT 31 36 himen
+T8 ANAT 36 41 intro
+T9 ANAT 81 91 ito vulvar
+T10 DISO 109 121 abuso sexual
+T11 PROC 111 122 diagnóstico
+T12 DISO 254 277 cuerpo extraá±o vaginal
+T13 DISO 145 157 abuso sexual
+T14 PROC 313 337 exploración ginecológica
+T15 DISO 323 346 cuerpo extraá±o vaginal
+T16 PROC 391 417 muestra de exudado vaginal
+T17 DISO 97 103 signos
+T18 DISO 205 217 abuso sexual
+T19 PROC 487 514 cultivo del exudado vaginal
+T20 PROC 229 241 antibiograma
+T21 CHEM 221 232 amoxicilina
+T22 CHEM 22 23 /
+T23 CHEM 243 254 clavulánico
+T24 CHEM 231 241 ampicilina
+T25 CHEM 73 76 tri
+T26 CHEM 51 53 mp
+T27 CHEM 27 28 e
+T28 CHEM 82 85 top
+T29 CHEM 169 175 rima /
+T30 CHEM 117 121 sulf
+T31 CHEM 301 311 ametoxazol
+T32 CHEM 559 577 cefuroxima ax etil
+T33 CHEM 65 67 ce
+T34 CHEM 199 205 fixima
+T35 CHEM 375 386 gentamicina
+T36 PROC 421 433 coprocultivo
+T37 PROC 973 1000 cultivo de exudado perianal
+T38 PROC 371 381 urocultivo
+T39 PROC 875 898 tratamiento antibiótico
+T40 CHEM 703 721 cefuroxima ax etil
+T41 PROC 801 821 pauta de tratamiento

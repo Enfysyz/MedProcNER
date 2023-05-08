@@ -1,0 +1,56 @@
+T1 DISO 1 10 epilepsia
+T2 DISO 8 15 autismo
+T3 PROC 15 22 cesárea
+T4 ANAT 22 29 pélvica
+T5 DISO 57 71 complicaciones
+T6 PROC 41 49 referido
+T7 PROC 97 113 consulta externa
+T8 DISO 204 233 dificultad respiratoria nasal
+T9 DISO 265 298 obstrucción de la nar ina derecha
+T10 DISO 55 61 pólipo
+T11 DISO 151 166 masa intra oral
+T12 ANAT 155 169 encía superior
+T13 ANAT 49 53 fren
+T14 ANAT 196 211 illos la biales
+T15 DISO 71 76 hiper
+T16 DISO 46 49 tel
+T17 DISO 33 35 or
+T18 DISO 69 73 ismo
+T19 DISO 55 58 epi
+T20 DISO 77 81 fora
+T21 ANAT 61 64 ojo
+T22 ANAT 148 155 paladar
+T23 ANAT 133 139 áºvula
+T24 ANAT 162 169 paladar
+T25 PROC 721 751 tomografía axial computarizada
+T26 PROC 126 131 TAC )
+T27 ANAT 157 163 cráneo
+T28 ANAT 109 113 maci
+T29 ANAT 253 262 zo facial
+T30 DISO 755 781 agenesia de cuerpo calloso
+T31 DISO 511 528 imagen hipoden sa
+T32 ANAT 435 449 línea inter he
+T33 ANAT 65 67 as
+T34 ANAT 430 443 tas frontales
+T35 DISO 205 211 lipoma
+T36 DISO 456 469 espina bífida
+T37 ANAT 577 593 columna cervical
+T38 DISO 519 533 fisura central
+T39 ANAT 1027 1054 arcada del maxilar superior
+T40 PROC 781 801 electroencefalograma
+T41 DISO 841 862 actividad paroxística
+T42 DISO 247 253 lesión
+T43 PROC 1261 1291 resección quiráºrgica en h uso
+T44 DISO 517 529 pólipo nasal
+T45 DISO 749 766 pólipo intra oral
+T46 PROC 1126 1151 estudio anatomopatológico
+T47 DISO 1565 1599 pólipos escamos os queratin izados
+T48 ANAT 1035 1057 anexos pil os eb áceos
+T49 ANAT 1009 1030 tejido fibro adi poso
+T50 ANAT 1030 1051 glándulas mu cinos as
+T51 PROC 551 562 seguimiento
+T52 PROC 817 833 consulta externa
+T53 DISO 729 743 complicaciones
+T54 DISO 1432 1459 agenesia del cuerpo calloso
+T55 DISO 973 991 crisis convulsivas
+T56 PROC 1046 1065 estudio cromosómico

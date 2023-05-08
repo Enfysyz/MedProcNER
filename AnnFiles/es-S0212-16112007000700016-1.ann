@@ -1,0 +1,78 @@
+T1 DISO 1 25 antecedentes patológicos
+T2 PROC 13 25 tratamientos
+T3 PROC 23 34 intervenido
+T4 DISO 25 33 desgarro
+T5 ANAT 61 76 hilio esplénico
+T6 ANAT 16 19 mes
+T7 ANAT 175 204 enterio de la raíz del yeyuno
+T8 ANAT 197 225 arteria mesentérica superior
+T9 ANAT 17 19 AM
+T10 ANAT 10 11 S
+T11 DISO 111 122 traumatismo
+T12 PROC 287 313 resección de colon derecho
+T13 ANAT 61 66 íleon
+T14 ANAT 79 85 yeyuno
+T15 PROC 43 46 yey
+T16 PROC 31 33 un
+T17 PROC 113 120 ostomía
+T18 PROC 103 109 esplen
+T19 PROC 127 134 ectomía
+T20 PROC 58 61 NPT
+T21 PROC 301 316 tolerancia oral
+T22 CHEM 253 265 ada alcalina
+T23 CHEM 23 24 f
+T24 CHEM 139 145 órmula
+T25 CHEM 361 376 fórmula enteral
+T26 CHEM 226 235 glutamina
+T27 CHEM 27 28 A
+T28 CHEM 82 85 dam
+T29 CHEM 57 59 ín
+T30 ANAT 146 151 enter
+T31 ANAT 151 156 ocito
+T32 PROC 125 129 anas
+T33 PROC 161 166 tomos
+T34 ANAT 199 205 yeyuno
+T35 ANAT 171 176 colon
+T36 PROC 526 541 colecistectomía
+T37 DISO 793 815 diarreas col er éticas
+T38 PROC 297 305 diuresis
+T39 DISO 267 274 diarrea
+T40 PROC 1483 1521 parámetros hematológicos y bioquímicos
+T41 PROC 121 124 Con
+T42 PROC 124 127 duc
+T43 PROC 589 603 ta nutricional
+T44 PROC 861 881 Nutrición Parenteral
+T45 PROC 133 136 NPT
+T46 CHEM 181 185 plas
+T47 CHEM 139 142 mar
+T48 CHEM 330 337 potasio
+T49 CHEM 433 442 vitaminas
+T50 CHEM 99 101 Ad
+T51 CHEM 151 154 dam
+T52 CHEM 103 105 el
+T53 CHEM 729 743 oligoelementos
+T54 CHEM 107 109 ne
+T55 CHEM 163 166 vit
+T56 PROC 1211 1233 Nutrición Enteral oral
+T57 CHEM 57 58 E
+T58 CHEM 115 117 le
+T59 CHEM 349 355 mental
+T60 CHEM 60 61 A
+T61 CHEM 181 184 dam
+T62 CHEM 123 125 ín
+T63 PROC 993 1009 Hidratación oral
+T64 PROC 757 769 Alimentación
+T65 PROC 321 326 dieta
+T66 CHEM 326 331 Hidra
+T67 CHEM 991 1006 tos de Carb ono
+T68 CHEM 135 137 HC
+T69 ANAT 341 346 heces
+T70 CHEM 967 981 aceite adición
+T71 CHEM 701 711 Medicación
+T72 CHEM 285 289 clor
+T73 CHEM 361 366 hidro
+T74 CHEM 74 75 p
+T75 CHEM 445 451 éptica
+T76 CHEM 301 305 agua
+T77 CHEM 1749 1772 bicarbonato pancreático
+T78 CHEM 694 703 omeprazol

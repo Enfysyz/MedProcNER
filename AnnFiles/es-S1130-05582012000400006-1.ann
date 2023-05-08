@@ -1,0 +1,115 @@
+T1 PROC 1 9 remitida
+T2 DISO 21 41 accidente de tráfico
+T3 DISO 15 22 impacto
+T4 ANAT 19 25 craneo
+T5 ANAT 25 31 facial
+T6 PROC 36 43 ingreso
+T7 PROC 115 134 Glasgow Com a Scale
+T8 PROC 8 9 G
+T9 PROC 17 19 CS
+T10 PROC 163 181 exploración física
+T11 DISO 51 56 edema
+T12 DISO 265 289 hematoma perior bi tario
+T13 DISO 133 144 crepitación
+T14 DISO 53 57 otor
+T15 DISO 71 76 ragia
+T16 DISO 121 129 rinorrea
+T17 ANAT 161 171 fosa nasal
+T18 PROC 137 145 Valorada
+T19 DISO 577 609 disminución de la agudeza visual
+T20 DISO 153 161 diplopía
+T21 DISO 801 841 alteraciones en los movimientos oculares
+T22 DISO 274 287 edema macular
+T23 ANAT 111 116 pares
+T24 DISO 254 265 parestesias
+T25 ANAT 25 26 V
+T26 PROC 226 235 palpación
+T27 DISO 53 55 de
+T28 DISO 82 85 cal
+T29 DISO 85 88 aje
+T30 ANAT 697 721 reborde supra orbi tario
+T31 PROC 331 342 diagnóstico
+T32 DISO 807 833 fractura de base de cráneo
+T33 DISO 1089 1123 fístula de líquido cefalorraquídeo
+T34 PROC 562 579 TAC craneo facial
+T35 DISO 1259 1296 fractura - h un dimiento fronto basal
+T36 ANAT 106 109 esc
+T37 ANAT 433 445 ama temporal
+T38 DISO 186 191 neumo
+T39 DISO 305 313 encéfalo
+T40 DISO 1171 1201 Fractura de pe á±as co derecho
+T41 ANAT 1481 1518 conductos semi cir culares superiores
+T42 DISO 329 337 Fractura
+T43 ANAT 211 216 pared
+T44 ANAT 646 661 canal carotídeo
+T45 ANAT 353 361 encéfalo
+T46 DISO 1396 1427 focos con tus ivos hemorrágicos
+T47 ANAT 783 800 lóbulos frontales
+T48 ANAT 471 481 fragmentos
+T49 ANAT 241 246 óseos
+T50 ANAT 393 401 raneales
+T51 ANAT 251 256 parie
+T52 ANAT 103 105 to
+T53 ANAT 209 213 temp
+T54 ANAT 319 325 orales
+T55 DISO 1297 1321 hemorragia subaracnoidea
+T56 ANAT 221 225 tent
+T57 ANAT 225 229 orio
+T58 DISO 1540 1567 hematoma epidural occipital
+T59 DISO 1335 1358 lesión en contra gol pe
+T60 DISO 2007 2041 fístula de líquido cefalorraquídeo
+T61 PROC 1561 1587 test beta - 2 transferrina
+T62 DISO 1831 1861 fractura compleja fronto basal
+T63 PROC 1427 1450 tratamiento quiráºrgico
+T64 PROC 64 65 A
+T65 PROC 193 196 bor
+T66 PROC 2601 2641 daje bic or onal y sub craneal izquierdo
+T67 PROC 529 537 exéresis
+T68 ANAT 671 681 fragmentos
+T69 ANAT 1021 1036 fronto bas ales
+T70 PROC 691 701 Reparación
+T71 DISO 1821 1847 desgarros dur ales basales
+T72 PROC 285 289 plas
+T73 PROC 793 804 tia de dura
+T74 CHEM 1388 1407 adhesivo de fibrina
+T75 PROC 593 601 aspirado
+T76 ANAT 901 913 base frontal
+T77 DISO 229 232 tus
+T78 DISO 463 469 ionada
+T79 PROC 235 238 Obl
+T80 PROC 317 321 iter
+T81 PROC 401 406 ación
+T82 ANAT 973 985 seno frontal
+T83 PROC 165 167 ob
+T84 PROC 3902 3949 turación del duc to con vir uta ósea de cal ota
+T85 CHEM 169 171 DB
+T86 CHEM 86 87 X
+T87 CHEM 173 175 ma
+T88 CHEM 2350 2377 triz ósea des miner alizada
+T89 PROC 177 179 le
+T90 PROC 2315 2341 grado de la mucosa sinusal
+T91 PROC 1531 1548 Reconstrucción de
+T92 ANAT 1366 1381 techo orbitario
+T93 CHEM 645 652 titanio
+T94 ANAT 931 941 fragmentos
+T95 ANAT 471 476 óseos
+T96 PROC 2186 2209 Reducción osteosíntesis
+T97 DISO 2689 2717 fracturas fronto temp orales
+T98 ANAT 680 687 reborde
+T99 PROC 99 100 P
+T100 PROC 2476 2501 exia de máºsculo temporal
+T101 PROC 801 809 valorada
+T102 PROC 1011 1021 revisiones
+T103 DISO 1429 1443 sintomatología
+T104 PROC 1752 1769 pruebas de imagen
+T105 ANAT 729 736 sinusal
+T106 ANAT 736 743 frontal
+T107 PROC 1273 1285 intervención
+T108 DISO 857 865 rinorrea
+T109 ANAT 1081 1091 fosa nasal
+T110 PROC 1854 1871 pruebas de imagen
+T111 PROC 2421 2443 TAC de alta resolución
+T112 PROC 334 337 RNM
+T113 DISO 785 792 meningo
+T114 DISO 3391 3421 cele esfeno idal postraumático
+T115 DISO 799 806 defecto

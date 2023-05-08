@@ -1,0 +1,53 @@
+T1 DISO 1 15 cáncer mamario
+T2 PROC 10 19 resección
+T3 DISO 11 16 fibro
+T4 ANAT 13 17 mama
+T5 PROC 129 161 mastectomía subcutánea bilateral
+T6 PROC 111 133 tratamiento preventivo
+T7 DISO 37 43 cáncer
+T8 PROC 148 169 estudios de ecografía
+T9 PROC 81 91 mamografía
+T10 PROC 163 181 estudios genéticos
+T11 PROC 251 276 extirpación fibro adenoma
+T12 PROC 353 385 mastectomía subcutánea bilateral
+T13 PROC 145 157 intervención
+T14 CHEM 196 211 solución salina
+T15 ANAT 141 151 subcutáneo
+T16 DISO 316 337 dehiscencia de herida
+T17 ANAT 81 86 mamas
+T18 PROC 69 73 cier
+T19 PROC 55 58 res
+T20 DISO 134 141 eritema
+T21 DISO 501 526 aumento de la temperatura
+T22 ANAT 106 111 mamas
+T23 DISO 155 162 heridas
+T24 PROC 254 265 mastectomía
+T25 ANAT 169 176 mamario
+T26 PROC 301 313 intervención
+T27 PROC 599 622 tratamiento antibiótico
+T28 PROC 487 505 lavado quiráºrgico
+T29 DISO 197 204 heridas
+T30 PROC 175 181 sutura
+T31 PROC 1261 1303 colocación de drenajes en circuito cerrado
+T32 ANAT 249 257 mamarios
+T33 ANAT 161 166 retro
+T34 ANAT 265 273 muscular
+T35 PROC 273 281 cirugías
+T36 DISO 491 505 dolor punzante
+T37 ANAT 181 186 mamas
+T38 PROC 371 381 colocación
+T39 CHEM 571 586 gel de silicona
+T40 PROC 391 401 liberación
+T41 ANAT 1001 1026 polos mamarios inferiores
+T42 ANAT 985 1009 complejo pezón - are ola
+T43 PROC 169 173 caps
+T44 PROC 130 133 ulo
+T45 PROC 969 991 tomía radial bilateral
+T46 PROC 1036 1059 tratamiento antibiótico
+T47 CHEM 461 471 antinflama
+T48 CHEM 236 241 torio
+T49 PROC 337 344 cirugía
+T50 PROC 638 651 masaje manual
+T51 PROC 1301 1327 aplicación de ultrasonidos
+T52 DISO 715 729 dolor punzante
+T53 PROC 573 584 tratamiento

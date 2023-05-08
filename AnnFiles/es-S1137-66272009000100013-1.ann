@@ -1,0 +1,74 @@
+T1 DISO 1 9 alérgico
+T2 DISO 3 5 ex
+T3 DISO 15 22 fumador
+T4 DISO 124 165 miocardiopatía dilatada de origen enólico
+T5 PROC 125 156 trasplante cardíaco orto tópico
+T6 PROC 91 109 electrocardiograma
+T7 DISO 175 204 dilatación aurícula izquierda
+T8 DISO 162 185 bloqueo bi fas ci cular
+T9 DISO 185 208 bloqueo de rama derecha
+T10 DISO 37 41 hemi
+T11 DISO 251 276 bloqueo de rama izquierda
+T12 PROC 221 241 radiografía de tórax
+T13 PROC 325 352 suturas esterno tomía media
+T14 DISO 157 169 ateromatosis
+T15 ANAT 85 91 cayado
+T16 ANAT 211 225 cardiovascular
+T17 DISO 81 86 tórax
+T18 DISO 137 145 hiperins
+T19 DISO 127 134 uf lado
+T20 DISO 324 341 enfisema pulmonar
+T21 ANAT 121 127 hiliar
+T22 PROC 799 837 estudio ecocardiográfico transtorácico
+T23 ANAT 155 162 corazón
+T24 PROC 116 121 trans
+T25 PROC 97 101 plan
+T26 PROC 101 105 tado
+T27 PROC 105 109 frac
+T28 PROC 433 449 ción de eyección
+T29 PROC 673 697 volumen tele diast ólico
+T30 PROC 30 31 V
+T31 PROC 31 32 T
+T32 PROC 32 33 D
+T33 PROC 737 760 volumen teles ist ólico
+T34 PROC 34 35 V
+T35 PROC 69 71 TS
+T36 ANAT 351 361 miocárdica
+T37 ANAT 397 408 ventricular
+T38 ANAT 741 761 corazón trasplantado
+T39 PROC 1521 1561 ecocardiografía de estrés con dobutamina
+T40 PROC 1210 1241 test de provocación de isquemia
+T41 DISO 761 780 isquemia miocárdica
+T42 ANAT 780 799 arterias coronarias
+T43 DISO 295 302 vasculo
+T44 DISO 732 749 patía del injerto
+T45 PROC 661 676 coronariografía
+T46 PROC 91 93 TC
+T47 CHEM 783 800 contraste yo dado
+T48 CHEM 48 49 I
+T49 CHEM 97 99 om
+T50 CHEM 197 201 eron
+T51 ANAT 1301 1327 vena ante cu bital derecha
+T52 PROC 562 573 exploración
+T53 PROC 989 1008 frecuencia cardiaca
+T54 PROC 584 595 exploración
+T55 ANAT 1027 1046 arterias coronarias
+T56 DISO 496 505 estenosis
+T57 ANAT 1401 1426 arteria coronaria derecha
+T58 ANAT 229 233 ramo
+T59 ANAT 175 178 bis
+T60 ANAT 237 241 triz
+T61 ANAT 661 672 ventricular
+T62 PROC 123 125 TC
+T63 PROC 125 127 DF
+T64 PROC 946 961 ecocardiografía
+T65 ANAT 513 521 cardiaca
+T66 PROC 131 133 VT
+T67 PROC 67 68 D
+T68 PROC 68 69 V
+T69 ANAT 681 691 miocárdica
+T70 PROC 1726 1751 ecocardiografía de estrés
+T71 DISO 1331 1350 isquemia miocárdica
+T72 PROC 2344 2377 coronariografía no invasiva TC DF
+T73 ANAT 2377 2410 arterias coronarias ep icár dicas
+T74 PROC 1096 1111 coronariografía

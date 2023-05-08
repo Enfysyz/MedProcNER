@@ -1,0 +1,43 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 3 5 Fo
+T3 DISO 21 31 bia social
+T4 DISO 121 161 Trastorno dependiente de la personalidad
+T5 PROC 45 56 seguimiento
+T6 DISO 136 163 déficit de atención médicos
+T7 DISO 151 176 retraso en el crecimiento
+T8 PROC 78 89 tratamiento
+T9 CHEM 185 208 hormona del crecimiento
+T10 CHEM 19 21 GH
+T11 DISO 171 188 Intolerancia a la
+T12 CHEM 89 97 fructosa
+T13 DISO 241 261 sangrados digestivos
+T14 DISO 157 169 intolerancia
+T15 CHEM 99 106 lactosa
+T16 PROC 226 241 examen genético
+T17 DISO 161 171 alteración
+T18 DISO 307 325 consumo de tóxicos
+T19 DISO 397 419 sintomatologia ansiosa
+T20 DISO 39 41 Fo
+T21 DISO 201 211 bia Social
+T22 PROC 463 485 ingresó en Hospital de
+T23 DISO 221 231 absentismo
+T24 DISO 47 49 Fo
+T25 DISO 241 251 bia Social
+T26 DISO 951 989 Trastorno Depen diente de Personalidad
+T27 DISO 573 595 rasgos de personalidad
+T28 PROC 298 309 exploración
+T29 DISO 645 668 Ansiedad psico - física
+T30 DISO 1161 1201 ideas obses ivas de tipo hipocon dría co
+T31 DISO 61 63 on
+T32 DISO 94 97 ico
+T33 DISO 161 166 fagia
+T34 DISO 562 579 bruxismo nocturno
+T35 DISO 2347 2416 síntomas de la esfera afectiva ni psicótica del curso de la sens oper
+T36 DISO 1366 1405 Trastorno de la Personalidad Cl uster C
+T37 DISO 109 112 ras
+T38 DISO 963 989 gos f ób icos , obses ivos
+T39 PROC 951 976 tratamiento farmacológico
+T40 CHEM 118 121 Ser
+T41 CHEM 281 288 tralina
+T42 PROC 1190 1219 modelo cognitivo - conductual
+T43 PROC 127 130 rev

@@ -1,0 +1,97 @@
+T1 DISO 1 4 pol
+T2 DISO 4 7 ito
+T3 DISO 7 10 xic
+T4 PROC 25 33 ingresar
+T5 DISO 33 41 tos seca
+T6 DISO 31 37 disnea
+T7 DISO 37 43 fiebre
+T8 DISO 50 57 astenia
+T9 DISO 65 73 anorexia
+T10 DISO 64 71 náuseas
+T11 DISO 71 78 vómitos
+T12 DISO 188 205 infección por VIH
+T13 PROC 133 144 diagnóstico
+T14 PROC 144 155 exploración
+T15 PROC 99 106 ingreso
+T16 DISO 31 33 ca
+T17 DISO 97 103 quexia
+T18 DISO 35 37 mu
+T19 DISO 55 58 gue
+T20 DISO 20 21 t
+T21 DISO 81 85 acro
+T22 DISO 43 45 pa
+T23 DISO 111 116 quias
+T24 DISO 507 529 adenopatías cervicales
+T25 ANAT 361 376 supraclavicular
+T26 ANAT 226 235 vesicular
+T27 DISO 547 568 crepitantes bibasales
+T28 DISO 406 421 soplo sistólico
+T29 DISO 365 378 hepatomegalia
+T30 ANAT 349 361 borde costal
+T31 DISO 151 156 condi
+T32 DISO 32 33 l
+T33 DISO 481 496 omas vul v ares
+T34 PROC 1057 1089 exploración somática neurológica
+T35 PROC 239 246 ingreso
+T36 PROC 806 829 pruebas complementarias
+T37 PROC 73 75 Hb
+T38 ANAT 371 381 leucocitos
+T39 ANAT 153 157 ados
+T40 ANAT 391 401 linfocitos
+T41 ANAT 361 370 plaquetas
+T42 PROC 206 211 sodio
+T43 PROC 127 130 LDH
+T44 PROC 818 837 Gasometría arterial
+T45 PROC 133 136 pCO
+T46 PROC 46 47 2
+T47 PROC 93 95 pO
+T48 PROC 48 49 2
+T49 PROC 673 687 placa de tórax
+T50 DISO 1275 1301 masa mediastínica anterior
+T51 ANAT 351 358 tráquea
+T52 DISO 2245 2289 infiltrado alveolo - intersti cial bilateral
+T53 PROC 989 1008 ecografía abdominal
+T54 PROC 1803 1837 TAC torácico , abdominal y pélvico
+T55 DISO 1081 1101 adenopatías axilares
+T56 DISO 936 953 masa mediastínica
+T57 ANAT 393 400 tráquea
+T58 ANAT 1027 1045 vena cava superior
+T59 DISO 1625 1653 patrón intersticial pulmonar
+T60 DISO 1299 1321 engrosamiento de pared
+T61 ANAT 1021 1038 asas intestinales
+T62 DISO 794 807 líquido libre
+T63 PROC 1737 1765 ecocardiograma transtorácico
+T64 PROC 694 705 tratamiento
+T65 CHEM 769 781 cotrimoxazol
+T66 CHEM 846 859 levofloxacino
+T67 CHEM 133 135 am
+T68 CHEM 671 681 fotericina
+T69 CHEM 69 70 -
+T70 CHEM 70 71 B
+T71 DISO 1821 1847 insuficiencia respiratoria
+T72 PROC 1421 1441 ventilación mecánica
+T73 DISO 1873 1899 insuficiencia respiratoria
+T74 PROC 1461 1481 ventilación mecánica
+T75 DISO 2739 2776 crisis tónico - cl ónica generalizada
+T76 DISO 1576 1597 hemiparesia izquierda
+T77 PROC 229 232 TAC
+T78 PROC 848 859 RMN craneal
+T79 DISO 2419 2450 masa de pared gruesa hipoden so
+T80 ANAT 238 241 enc
+T81 ANAT 2961 2998 jada té mp oro - pari eto - occipital
+T82 PROC 892 903 tratamiento
+T83 CHEM 329 333 sulf
+T84 CHEM 250 253 adi
+T85 CHEM 421 426 acina
+T86 CHEM 171 173 pi
+T87 CHEM 345 349 rime
+T88 CHEM 523 529 tamina
+T89 CHEM 1057 1069 ácido fólico
+T90 CHEM 802 811 fenitoína
+T91 DISO 1711 1730 lesión intracraneal
+T92 PROC 365 369 PAAF
+T93 PROC 645 652 biopsia
+T94 DISO 2419 2445 adenopatía supraclavicular
+T95 DISO 941 951 metástasis
+T96 DISO 2756 2785 tumor maligno indifer enciado
+T97 ANAT 865 874 epitelial

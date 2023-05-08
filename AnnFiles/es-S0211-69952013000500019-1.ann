@@ -1,0 +1,94 @@
+T1 DISO 1 21 hepatitis alcohólica
+T2 PROC 8 15 ingresó
+T3 DISO 37 55 síndrome nefrótico
+T4 DISO 16 21 micro
+T5 DISO 17 21 hema
+T6 DISO 26 31 turia
+T7 DISO 115 134 insuficiencia renal
+T8 PROC 71 81 creatinina
+T9 PROC 145 163 exploración física
+T10 DISO 55 61 edemas
+T11 DISO 131 144 hepatomegalia
+T12 DISO 254 277 lesiones pur p áºr icas
+T13 ANAT 229 248 miembros inferiores
+T14 PROC 118 127 serología
+T15 DISO 43 46 VHC
+T16 PROC 151 161 serologías
+T17 PROC 49 52 cri
+T18 PROC 86 91 oglob
+T19 PROC 109 115 ulinas
+T20 PROC 248 261 biopsia renal
+T21 ANAT 321 337 parénquima renal
+T22 ANAT 127 133 glomér
+T23 ANAT 89 93 ulos
+T24 ANAT 93 97 idad
+T25 ANAT 433 451 matriz mes ang ial
+T26 ANAT 426 443 membranas basales
+T27 DISO 157 163 engros
+T28 DISO 541 561 amientos irregulares
+T29 ANAT 477 494 paredes capilares
+T30 DISO 610 631 fibrosis intersticial
+T31 PROC 811 838 inmunofluorescencia directa
+T32 DISO 1055 1089 depósitos glomer ulares parietales
+T33 PROC 737 760 microscopía electrónica
+T34 DISO 892 919 depósitos sub endo teliales
+T35 DISO 137 141 endo
+T36 ANAT 141 145 teli
+T37 DISO 505 519 os tumefac tos
+T38 DISO 371 381 ampliación
+T39 ANAT 115 118 mes
+T40 ANAT 118 121 ang
+T41 ANAT 121 124 ial
+T42 PROC 534 547 diagnosticado
+T43 DISO 85 87 GN
+T44 DISO 87 89 MP
+T45 DISO 133 136 VHC
+T46 PROC 136 139 cri
+T47 PROC 231 236 oglob
+T48 PROC 283 289 ulinas
+T49 PROC 529 540 tratamiento
+T50 DISO 148 151 VHC
+T51 PROC 801 817 biopsia hepática
+T52 DISO 868 885 cirrosis hepática
+T53 PROC 573 584 tratamiento
+T54 CHEM 796 811 interferón alfa
+T55 PROC 595 606 carga viral
+T56 PROC 606 617 tratamiento
+T57 DISO 1009 1027 pericarditis aguda
+T58 DISO 172 175 VHC
+T59 ANAT 1103 1122 líquido pericárdico
+T60 PROC 650 661 carga viral
+T61 PROC 721 733 tratamientos
+T62 PROC 489 497 terapias
+T63 DISO 869 883 complicaciones
+T64 DISO 2962 3009 artritis inflamatoria de grandes articulaciones
+T65 ANAT 321 326 renal
+T66 PROC 2016 2047 tratamiento anti protein áºrico
+T67 ANAT 2905 2949 sistema renina - angiotensina - al dosterona
+T68 DISO 2011 2041 insuficiencia renal progresiva
+T69 PROC 817 829 hemodiálisis
+T70 PROC 1105 1121 trasplante renal
+T71 DISO 2101 2131 hemorragia cerebral espontánea
+T72 DISO 143 145 en
+T73 DISO 433 439 olismo
+T74 PROC 731 741 creatinina
+T75 DISO 815 826 proteinuria
+T76 PROC 1126 1141 inmunosupresión
+T77 CHEM 837 848 corticoides
+T78 CHEM 1541 1561 ácido mico fen ólico
+T79 CHEM 781 791 tacrolimus
+T80 ANAT 396 401 renal
+T81 ANAT 401 406 renal
+T82 PROC 811 821 trasplante
+T83 DISO 2051 2076 proteinuria no nefr ótica
+T84 DISO 416 421 micro
+T85 DISO 337 341 hema
+T86 DISO 426 431 turia
+T87 DISO 1635 1654 cilindros hemáticos
+T88 ANAT 436 441 renal
+T89 PROC 2113 2137 estudio de autoinmunidad
+T90 PROC 2760 2791 anticuerpos donante específicos
+T91 PROC 361 365 anti
+T92 PROC 365 369 gene
+T93 PROC 2209 2233 mia para citomegalovirus
+T94 PROC 280 283 PCR

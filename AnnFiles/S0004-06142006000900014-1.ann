@@ -1,0 +1,83 @@
+T1 DISO 1 8 astenia
+T2 DISO 9 17 anorexia
+T3 DISO 25 37 dolor lumbar
+T4 DISO 19 25 fiebre
+T5 DISO 89 111 insuficiencia cardiaca
+T6 DISO 106 127 fibrilación auricular
+T7 DISO 187 218 enfermedades de tipo u rológico
+T8 PROC 92 105 examen físico
+T9 DISO 233 262 dolor a la palpación profunda
+T10 ANAT 100 111 hemiabdomen
+T11 DISO 211 232 irritación peritoneal
+T12 DISO 144 157 masa palpable
+T13 ANAT 61 66 renal
+T14 PROC 105 113 análisis
+T15 DISO 29 31 le
+T16 DISO 46 49 uci
+T17 DISO 81 86 tosis
+T18 DISO 579 613 anemia normo cítica normo cr ómica
+T19 PROC 235 248 función renal
+T20 DISO 39 41 le
+T21 DISO 61 64 uci
+T22 DISO 106 111 turia
+T23 DISO 485 507 hematuria microscópica
+T24 PROC 599 625 radiografía reno - vesical
+T25 DISO 505 526 cálculos radio p acos
+T26 ANAT 351 365 riá±ón derecho
+T27 PROC 1327 1378 tomografía axial computer izada abdomino - pélv ica
+T28 PROC 892 925 inyección de contraste endovenoso
+T29 ANAT 169 175 riá±ón
+T30 DISO 233 241 desorgan
+T31 DISO 721 745 ización cór tico medular
+T32 DISO 714 737 formaciones liti ásicas
+T33 ANAT 385 397 pelvis renal
+T34 PROC 364 375 diagnóstico
+T35 DISO 137 141 pion
+T36 DISO 246 253 efrosis
+T37 DISO 613 630 deterioro general
+T38 PROC 852 875 nefrostomía p ecu tánea
+T39 ANAT 419 430 nefrostomía
+T40 PROC 1717 1761 antibioterapia endovenosa de amplio espectro
+T41 PROC 761 780 nefrectomía derecha
+T42 PROC 124 127 lom
+T43 PROC 85 87 bo
+T44 PROC 216 221 tomía
+T45 ANAT 749 766 pieza quiráºrgica
+T46 ANAT 46 47 R
+T47 ANAT 47 48 i
+T48 ANAT 189 193 á±ón
+T49 ANAT 529 540 segmento de
+T50 ANAT 393 401 ureteral
+T51 ANAT 1251 1276 tejido adiposo perir enal
+T52 ANAT 1174 1197 árbol pielo - cal icial
+T53 DISO 365 372 atrofia
+T54 ANAT 849 865 parénquima renal
+T55 ANAT 757 771 arbol pi élico
+T56 DISO 441 449 cálculos
+T57 DISO 561 571 supuración
+T58 ANAT 913 929 parénquima renal
+T59 ANAT 1451 1476 tejido adiposo perir enal
+T60 ANAT 355 361 pelvis
+T61 ANAT 121 123 cá
+T62 ANAT 306 311 lices
+T63 ANAT 373 379 tejido
+T64 ANAT 505 513 ureteral
+T65 PROC 1153 1171 examen histológico
+T66 DISO 911 925 adenocarcinoma
+T67 ANAT 463 470 tubular
+T68 ANAT 470 477 táºbulo
+T69 ANAT 205 208 vel
+T70 ANAT 277 281 loso
+T71 DISO 631 640 neoplasia
+T72 DISO 2344 2377 adenocarcinoma de tipo intestinal
+T73 ANAT 1081 1096 células de Go t
+T74 ANAT 731 741 intestinal
+T75 ANAT 297 301 vacu
+T76 ANAT 526 533 olas de
+T77 ANAT 305 309 moco
+T78 ANAT 232 235 aci
+T79 ANAT 157 159 to
+T80 ANAT 317 321 plas
+T81 ANAT 561 568 máticas
+T82 ANAT 163 165 ap
+T83 ANAT 493 499 icales

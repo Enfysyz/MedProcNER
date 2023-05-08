@@ -1,0 +1,86 @@
+T1 DISO 1 8 cefalea
+T2 DISO 4 7 que
+T3 DISO 9 13 bran
+T4 DISO 25 33 tamiento
+T5 PROC 97 121 tratamiento convencional
+T6 DISO 191 229 infecciones respiratorias altas vírico
+T7 DISO 145 169 mononucleosis infecciosa
+T8 DISO 106 121 cuadro catarral
+T9 DISO 129 145 malestar general
+T10 DISO 73 81 tos seca
+T11 DISO 61 67 fiebre
+T12 DISO 78 85 cefalea
+T13 ANAT 85 92 frontal
+T14 DISO 105 113 rinorrea
+T15 DISO 239 256 obstrucción nasal
+T16 DISO 376 401 secreción nasal purulenta
+T17 DISO 337 358 pérdida de conciencia
+T18 DISO 205 217 convulsiones
+T19 DISO 145 153 tiritona
+T20 DISO 210 221 escalofríos
+T21 PROC 361 379 exploración física
+T22 ANAT 85 89 muco
+T23 ANAT 23 24 -
+T24 ANAT 162 169 cutánea
+T25 DISO 97 101 Faci
+T26 DISO 51 53 es
+T27 DISO 157 163 febril
+T28 DISO 433 449 puntos dolorosos
+T29 PROC 253 262 percusión
+T30 ANAT 494 511 senos paranasales
+T31 ANAT 211 218 cutáneo
+T32 DISO 869 897 rash mac uloso y eritematoso
+T33 ANAT 193 199 tronco
+T34 ANAT 199 205 cuello
+T35 DISO 715 736 adenopatías lá tero -
+T36 ANAT 351 361 inguinales
+T37 PROC 757 778 auscultación cardíaca
+T38 DISO 223 229 soplos
+T39 PROC 799 820 auscultación pulmonar
+T40 PROC 313 321 murmullo
+T41 ANAT 361 370 vesicular
+T42 DISO 247 253 roncus
+T43 DISO 463 474 crepitantes
+T44 DISO 431 441 sibilantes
+T45 ANAT 309 316 abdomen
+T46 DISO 226 231 masas
+T47 DISO 369 377 megalias
+T48 ANAT 1599 1633 extremidades superiores inferiores
+T49 PROC 289 295 pulsos
+T50 ANAT 393 401 distales
+T51 PROC 1151 1174 exploración neurológica
+T52 DISO 460 469 focalidad
+T53 DISO 313 319 mening
+T54 DISO 213 217 ismo
+T55 PROC 1567 1596 exploraciones complementarias
+T56 PROC 1101 1121 radiografía de tórax
+T57 PROC 1009 1027 analítica de orina
+T58 PROC 514 523 hemograma
+T59 DISO 697 709 leucocitosis
+T60 DISO 532 541 sinusitis
+T61 DISO 601 611 meningitis
+T62 PROC 855 869 punción lumbar
+T63 ANAT 435 442 células
+T64 ANAT 505 513 linfoide
+T65 CHEM 577 586 proteínas
+T66 CHEM 456 463 glucosa
+T67 PROC 2707 2748 estudio radiográfico de senos paranasales
+T68 DISO 604 613 sinusitis
+T69 DISO 1973 2002 complicaciones intracraneales
+T70 DISO 1933 1961 trombosis de seno caver noso
+T71 DISO 771 782 encefalitis
+T72 DISO 640 649 ocupación
+T73 ANAT 1153 1169 seno esfeno idal
+T74 DISO 220 223 sin
+T75 DISO 223 226 uso
+T76 DISO 826 837 patía aguda
+T77 PROC 837 848 diagnóstico
+T78 DISO 1618 1639 sinusitis esfeno idal
+T79 PROC 1561 1581 ingreso hospitalario
+T80 PROC 791 801 vigilancia
+T81 PROC 2801 2836 tratamiento antibiótico intravenoso
+T82 CHEM 2917 2953 cefalosporinas de tercera generación
+T83 PROC 903 914 tratamiento
+T84 DISO 1163 1177 complicaciones
+T85 DISO 589 596 cefalea
+T86 DISO 766 775 febrícula

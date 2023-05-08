@@ -1,0 +1,56 @@
+T1 PROC 1 27 consulta Atención primaria
+T2 PROC 3 5 AP
+T3 DISO 31 46 soplo funcional
+T4 DISO 82 109 rinitis alérgica estacional
+T5 DISO 29 36 fumador
+T6 DISO 36 43 bebedor
+T7 PROC 19 22 ECG
+T8 PROC 120 137 consulta Atención
+T9 DISO 217 244 extrasístoles ventriculares
+T10 PROC 163 181 exploración física
+T11 PROC 181 199 cifras tensionales
+T12 PROC 298 325 auscultación cardiopulmonar
+T13 PROC 97 105 derivado
+T14 PROC 313 337 estudios complementarios
+T15 PROC 127 136 analítica
+T16 PROC 136 145 hemograma
+T17 PROC 161 171 bioquímica
+T18 PROC 188 199 coagulación
+T19 PROC 361 381 radiografía de tórax
+T20 PROC 267 281 ecocardiograma
+T21 DISO 201 211 dilatación
+T22 ANAT 211 221 ventrículo
+T23 ANAT 89 93 cara
+T24 DISO 93 97 hipo
+T25 DISO 97 101 quin
+T26 DISO 126 131 ética
+T27 DISO 651 676 insuficiencia tricuspídea
+T28 PROC 82 85 hol
+T29 PROC 85 88 ter
+T30 ANAT 262 271 auricular
+T31 DISO 181 187 extras
+T32 DISO 590 609 istolia ventricular
+T33 ANAT 353 364 ventricular
+T34 PROC 397 409 RNM cardíaca
+T35 ANAT 613 631 ventrículo derecho
+T36 DISO 1121 1153 hipertrofia de banda moder adora
+T37 ANAT 181 186 pared
+T38 DISO 667 685 infiltración grasa
+T39 DISO 115 118 sac
+T40 DISO 937 961 ulaciones dis cin éticas
+T41 ANAT 801 821 ventrículo izquierdo
+T42 ANAT 329 337 válvulas
+T43 ANAT 421 431 pericardio
+T44 DISO 87 89 MA
+T45 DISO 89 91 VD
+T46 PROC 496 507 tratamiento
+T47 CHEM 691 706 betabloqueantes
+T48 PROC 424 433 controles
+T49 DISO 769 785 cuadro sin copal
+T50 PROC 1079 1101 implantación de un DAI
+T51 PROC 351 358 ingreso
+T52 PROC 1786 1821 Programa de Rehabilitación Cardiaca
+T53 PROC 105 107 PR
+T54 PROC 54 55 C
+T55 PROC 1567 1596 seguimiento Atención Primaria
+T56 PROC 551 561 revisiones

@@ -1,0 +1,77 @@
+T1 PROC 1 3 HD
+T2 DISO 20 39 insuficiencia renal
+T3 PROC 43 64 nefrectomía bilateral
+T4 DISO 46 61 neoplasia renal
+T5 DISO 85 106 hipertensión arterial
+T6 PROC 71 85 apendicectomía
+T7 PROC 91 106 colecistectomía
+T8 PROC 22 25 her
+T9 PROC 9 10 n
+T10 PROC 28 31 ior
+T11 PROC 221 243 rafia inguinal derecha
+T12 PROC 23 25 Es
+T13 PROC 49 53 plen
+T14 PROC 92 99 ectomía
+T15 DISO 211 226 lesión del bazo
+T16 PROC 286 305 nefrectomía derecha
+T17 DISO 257 273 Trombosis venosa
+T18 ANAT 273 289 miembro inferior
+T19 PROC 55 58 can
+T20 PROC 343 361 ulación la femoral
+T21 PROC 161 169 diálisis
+T22 DISO 358 375 Colitis isquémica
+T23 DISO 397 415 poliposis de colon
+T24 DISO 576 601 hemorragia digestiva baja
+T25 DISO 601 626 hemorragia digestiva baja
+T26 DISO 126 131 angio
+T27 DISO 79 82 dis
+T28 DISO 163 169 plasia
+T29 PROC 281 291 Diagnostic
+T30 PROC 88 91 ado
+T31 DISO 781 807 estenosis valvular aórtica
+T32 ANAT 249 257 vascular
+T33 PROC 353 364 tratamiento
+T34 ANAT 232 239 femoral
+T35 DISO 171 176 tromb
+T36 DISO 386 397 osis venosa
+T37 PROC 73 75 FA
+T38 PROC 1185 1217 VI háºmero - ce fálica izquierda
+T39 DISO 951 976 dilatación aneuris mática
+T40 DISO 352 361 trombosis
+T41 PROC 81 83 un
+T42 PROC 83 85 ip
+T43 PROC 253 259 unción
+T44 PROC 87 89 FA
+T45 PROC 1321 1351 VI háºmero - bas ílica derecha
+T46 PROC 2071 2117 implantó un injerto de PT FE háºmero - ax ilar
+T47 DISO 415 424 trombosis
+T48 PROC 377 385 extirpar
+T49 DISO 433 442 infección
+T50 DISO 491 501 disfunción
+T51 ANAT 351 358 fístula
+T52 PROC 1582 1613 implantó un catéter tunel izado
+T53 ANAT 781 796 yugular interna
+T54 DISO 478 487 infección
+T55 CHEM 757 771 antibioterapia
+T56 PROC 661 673 canalizar la
+T57 ANAT 393 400 yugular
+T58 PROC 286 291 coloc
+T59 ANAT 697 709 vena femoral
+T60 PROC 119 121 FA
+T61 ANAT 121 123 VI
+T62 PROC 550 559 canalizar
+T63 ANAT 931 946 yugular interna
+T64 PROC 1891 1921 implantó una prótesis de PT FE
+T65 ANAT 449 456 arteria
+T66 ANAT 781 793 vena femoral
+T67 DISO 331 336 tromb
+T68 DISO 269 273 osis
+T69 PROC 2109 2140 implantó un catéter tunel izado
+T70 ANAT 1036 1051 yugular interna
+T71 DISO 1681 1705 bacteriemia por E . Coli
+T72 CHEM 995 1009 antibioterapia
+T73 PROC 1801 1826 tratamiento fibrinolítico
+T74 PROC 1096 1111 anticoagulación
+T75 CHEM 889 901 acenocumarol
+T76 CHEM 226 229 Sin
+T77 CHEM 305 309 trom

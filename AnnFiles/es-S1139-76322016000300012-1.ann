@@ -1,0 +1,65 @@
+T1 PROC 1 30 consulta de Atención Primaria
+T2 DISO 15 29 dolor de muela
+T3 DISO 7 10 fle
+T4 DISO 37 49 món dentario
+T5 DISO 25 31 fiebre
+T6 PROC 56 67 exploración
+T7 DISO 37 43 caries
+T8 ANAT 218 249 segundo molar de leche inferior
+T9 DISO 89 100 inflamación
+T10 DISO 145 161 dolor mandibular
+T11 PROC 231 254 tratamiento antibiótico
+T12 CHEM 122 133 amoxicilina
+T13 CHEM 205 222 antiinflamatorios
+T14 PROC 235 253 revisa en consulta
+T15 DISO 43 46 fle
+T16 DISO 46 49 món
+T17 DISO 305 324 adenopatía regional
+T18 DISO 86 91 dolor
+T19 PROC 199 210 tratamiento
+T20 PROC 210 221 tratamiento
+T21 DISO 61 64 fle
+T22 DISO 64 67 món
+T23 DISO 111 116 dolor
+T24 PROC 461 481 cirugía maxilofacial
+T25 DISO 145 151 fiebre
+T26 PROC 151 157 remite
+T27 PROC 287 298 tratamiento
+T28 CHEM 298 309 amoxicilina
+T29 CHEM 309 320 clavulánico
+T30 PROC 610 631 consultas de Primaria
+T31 DISO 211 218 absceso
+T32 ANAT 559 577 borde sub max ilar
+T33 DISO 193 199 rojo ,
+T34 DISO 265 273 doloroso
+T35 DISO 205 211 supura
+T36 DISO 141 145 tivo
+T37 PROC 253 260 derivar
+T38 PROC 260 267 drenaje
+T39 PROC 153 157 dren
+T40 PROC 40 41 a
+T41 PROC 321 329 muestras
+T42 PROC 288 295 cultivo
+T43 PROC 799 818 anatomía patológica
+T44 DISO 1076 1101 lesión cervical ulcer ada
+T45 PROC 485 496 tratamiento
+T46 CHEM 541 553 azitromicina
+T47 CHEM 645 659 ciprofloxacino
+T48 PROC 894 913 anatomía patológica
+T49 ANAT 1009 1030 tejido de granulación
+T50 DISO 1324 1351 inflamación aguda y crónica
+T51 DISO 401 409 necrosis
+T52 PROC 358 365 Gro cot
+T53 PROC 209 213 Gram
+T54 PROC 54 55 Z
+T55 PROC 109 111 ie
+T56 PROC 551 561 hl - Ne el
+T57 PROC 169 172 sen
+T58 ANAT 970 987 ganglio linfático
+T59 DISO 407 414 áºlcera
+T60 PROC 237 241 cura
+T61 PROC 421 428 drenaje
+T62 PROC 184 187 exo
+T63 PROC 373 379 doncia
+T64 DISO 505 513 cicatriz
+T65 ANAT 257 261 cara

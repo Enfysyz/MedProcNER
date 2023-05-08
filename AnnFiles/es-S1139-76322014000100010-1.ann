@@ -1,0 +1,45 @@
+T1 DISO 1 16 dolor abdominal
+T2 DISO 7 13 fiebre
+T3 DISO 41 61 vómitos alimenticios
+T4 DISO 79 105 diarrea con restos de moco
+T5 PROC 85 106 exploración abdominal
+T6 DISO 111 133 dolor abdominal difuso
+T7 ANAT 67 78 fosa ilíaca
+T8 DISO 218 249 signos de irritación peritoneal
+T9 PROC 73 82 analítica
+T10 ANAT 91 101 leucocitos
+T11 ANAT 111 122 neutrófilos
+T12 PROC 210 229 proteína C reactiva
+T13 PROC 37 40 PCR
+T14 PROC 248 267 ecografía abdominal
+T15 DISO 239 256 apendicitis aguda
+T16 PROC 361 385 intervención quiráºrgica
+T17 PROC 385 409 consentimiento informado
+T18 PROC 239 253 apendicectomía
+T19 ANAT 253 267 apéndice cecal
+T20 DISO 381 401 signos inflamatorios
+T21 DISO 121 127 fiebre
+T22 DISO 589 617 dolor abdominal generalizado
+T23 DISO 243 254 peritonismo
+T24 DISO 162 169 vómitos
+T25 DISO 169 176 diarrea
+T26 PROC 476 495 ecografía abdominal
+T27 DISO 1041 1081 dilatación de asas del intestino delgado
+T28 DISO 487 505 cuadro obstructivo
+T29 PROC 253 262 analítica
+T30 DISO 1074 1111 leucocitosis con desviación izquierda
+T31 PROC 571 590 proteína C reactiva
+T32 DISO 435 449 sintomatología
+T33 PROC 737 760 tratamiento conservador
+T34 PROC 397 409 coprocultivo
+T35 PROC 783 806 antibioterapia empírica
+T36 PROC 421 433 coprocultivo
+T37 CHEM 397 408 gentamicina
+T38 PROC 852 875 tratamiento antibiótico
+T39 CHEM 419 430 gentamicina
+T40 PROC 469 481 dado de alta
+T41 PROC 961 985 intervención quiráºrgica
+T42 PROC 1026 1051 estudio anatomopatológico
+T43 ANAT 589 603 apéndice cecal
+T44 ANAT 603 617 apéndice cecal
+T45 DISO 881 901 signos inflamatorios

@@ -1,0 +1,80 @@
+T1 DISO 1 18 edema conjuntival
+T2 PROC 8 15 tratado
+T3 CHEM 43 64 lágrimas artificiales
+T4 CHEM 103 137 pomada antibiótico - cor tico idea
+T5 DISO 85 106 hipertensión arterial
+T6 PROC 126 151 tratamiento farmacológico
+T7 DISO 103 120 diabetes mellitus
+T8 DISO 113 129 candidiasis oral
+T9 PROC 89 100 diagnóstico
+T10 PROC 226 251 exploración oftalmológica
+T11 DISO 31 34 que
+T12 DISO 188 205 mosis conjuntival
+T13 DISO 97 105 lagrimeo
+T14 PROC 326 351 exploración oftalmológica
+T15 DISO 449 481 sensación hinchazón generalizada
+T16 ANAT 61 65 cara
+T17 DISO 113 120 astenia
+T18 DISO 120 127 prurito
+T19 PROC 379 400 exploración sistémica
+T20 PROC 210 221 diagnostica
+T21 DISO 381 400 síndrome de Cushing
+T22 PROC 400 419 análisis hormonales
+T23 PROC 89 93 ACTH
+T24 PROC 576 601 cortisol plasmático basal
+T25 PROC 553 576 cortisol libre urinario
+T26 PROC 51 53 CL
+T27 PROC 27 28 U
+T28 PROC 298 309 radiografía
+T29 PROC 841 871 tomografía axial computarizada
+T30 PROC 407 421 TAC ) de tórax
+T31 PROC 391 404 TAC abdominal
+T32 DISO 683 705 masa adrenal izquierda
+T33 DISO 545 562 carcinoma adrenal
+T34 DISO 925 953 adenopatías locorreg ionales
+T35 PROC 375 386 tratamiento
+T36 CHEM 386 397 ketoconazol
+T37 PROC 253 260 cirugía
+T38 CHEM 297 305 cortisol
+T39 ANAT 419 430 suprarrenal
+T40 PROC 313 321 exéresis
+T41 DISO 721 739 tumoración adrenal
+T42 PROC 370 379 disección
+T43 ANAT 211 216 grasa
+T44 DISO 130 133 que
+T45 DISO 221 226 mosis
+T46 PROC 451 461 histología
+T47 DISO 829 847 tumoración adrenal
+T48 DISO 1646 1681 carcinoma de la corteza suprarrenal
+T49 DISO 385 393 necrosis
+T50 ANAT 344 351 cápsula
+T51 ANAT 1701 1735 vasos linfáticos per ica ps ulares
+T52 PROC 1123 1145 pauta de quimioterapia
+T53 CHEM 521 531 cisplatino
+T54 CHEM 54 55 -
+T55 CHEM 55 56 e
+T56 CHEM 166 169 top
+T57 CHEM 281 286 ósido
+T58 PROC 1939 1973 TAC toraco - ab dom ino - pélv ica
+T59 DISO 1915 1948 metástasis pulmonares bilaterales
+T60 ANAT 532 541 hemitórax
+T61 DISO 841 855 recidiva local
+T62 ANAT 672 683 suprarrenal
+T63 PROC 1365 1387 ciclos quimioterápicos
+T64 CHEM 883 897 ciclofosfamida
+T65 CHEM 129 131 ad
+T66 CHEM 131 133 ri
+T67 CHEM 463 470 amicina
+T68 CHEM 202 205 vin
+T69 CHEM 69 70 c
+T70 CHEM 484 491 ristina
+T71 DISO 2591 2628 insuficiencia respiratoria y cardíaca
+T72 PROC 782 793 tratamiento
+T73 CHEM 217 220 tax
+T74 CHEM 147 149 ol
+T75 PROC 223 226 qui
+T76 PROC 226 229 mio
+T77 PROC 1825 1849 terápico antineoplás ico
+T78 DISO 386 391 falle
+T79 DISO 469 475 ciendo
+T80 DISO 2924 2961 insuficiencia respiratoria progresiva

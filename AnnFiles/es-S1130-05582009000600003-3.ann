@@ -1,0 +1,22 @@
+T1 DISO 1 4 bab
+T2 DISO 3 5 eo
+T3 DISO 11 16 golpe
+T4 ANAT 16 21 nariz
+T5 DISO 29 36 erosión
+T6 ANAT 51 61 raíz nasal
+T7 PROC 79 92 diagnosticado
+T8 DISO 183 209 luxación traumática de ATM
+T9 PROC 89 100 exploración
+T10 DISO 46 51 dolor
+T11 ANAT 201 221 región pre auricular
+T12 PROC 243 265 maniobras de reducción
+T13 PROC 13 14 o
+T14 PROC 105 113 toscopia
+T15 DISO 113 121 dolorosa
+T16 ANAT 46 49 CAE
+T17 DISO 145 154 inflamado
+T18 DISO 188 199 descamación
+T19 DISO 181 191 supuración
+T20 PROC 210 221 radiografía
+T21 ANAT 61 64 ATM
+T22 PROC 232 243 tratamiento

@@ -1,0 +1,39 @@
+T1 PROC 1 9 consulta
+T2 DISO 32 63 tumoración ligeramente dolorosa
+T3 ANAT 35 52 testículo derecho
+T4 PROC 58 77 exploración clínica
+T5 ANAT 41 51 testicular
+T6 ANAT 46 55 nodulares
+T7 ANAT 115 134 testículo izquierdo
+T8 PROC 29 33 Alfa
+T9 PROC 9 10 -
+T10 PROC 10 11 F
+T11 PROC 161 177 eto - Pro te ina
+T12 PROC 45 49 Beta
+T13 PROC 13 14 -
+T14 PROC 14 15 H
+T15 PROC 29 31 GC
+T16 PROC 46 49 Eco
+T17 PROC 193 205 gráficamente
+T18 DISO 290 307 nódulos tumorales
+T19 DISO 163 172 quísticas
+T20 DISO 286 301 calcificaciones
+T21 DISO 121 127 nódulo
+T22 DISO 484 507 nódulos vascularización
+T23 ANAT 221 231 arteriales
+T24 PROC 461 481 estudio de extensión
+T25 PROC 49 51 or
+T26 PROC 76 79 qui
+T27 PROC 183 190 ectomía
+T28 DISO 190 197 nódulos
+T29 DISO 169 175 terato
+T30 DISO 291 301 carcinomas
+T31 DISO 121 125 tera
+T32 DISO 125 129 toma
+T33 DISO 673 694 carcinoma embrionario
+T34 DISO 166 171 masas
+T35 DISO 511 526 calcificaciones
+T36 DISO 281 289 necrosis
+T37 PROC 469 482 diagnosticado
+T38 DISO 186 191 semin
+T39 DISO 115 118 oma

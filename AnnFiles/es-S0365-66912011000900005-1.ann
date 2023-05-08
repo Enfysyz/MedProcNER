@@ -1,0 +1,57 @@
+T1 DISO 1 14 Recién nacida
+T2 PROC 25 49 valoración oftalmológica
+T3 DISO 17 25 nistagmo
+T4 PROC 22 29 operada
+T5 DISO 33 41 glaucoma
+T6 PROC 31 37 trabec
+T7 PROC 13 15 ul
+T8 PROC 120 137 ectomía bilateral
+T9 PROC 353 397 cirugía reconstructiva sin dactilia de manos
+T10 PROC 181 201 examen oftalmológico
+T11 ANAT 61 67 microc
+T12 ANAT 23 25 ór
+T13 ANAT 49 53 neas
+T14 DISO 105 113 nistagmo
+T15 ANAT 85 91 ocular
+T16 ANAT 106 113 digital
+T17 PROC 225 239 fondo de ojo (
+T18 PROC 35 37 FO
+T19 ANAT 127 134 papilas
+T20 PROC 400 421 examen físico general
+T21 ANAT 281 295 pirámide nasal
+T22 ANAT 64 67 nar
+T23 ANAT 89 93 inas
+T24 ANAT 277 289 alas nasales
+T25 DISO 121 126 micro
+T26 DISO 76 79 gna
+T27 DISO 79 82 tia
+T28 DISO 82 85 sin
+T29 DISO 225 233 dactilia
+T30 ANAT 610 631 dedos cuarto y quinto
+T31 ANAT 151 156 manos
+T32 PROC 249 257 sedación
+T33 PROC 97 100 ton
+T34 PROC 232 239 ometría
+T35 PROC 647 666 presión intraocular
+T36 PROC 36 37 P
+T37 PROC 73 75 IO
+T38 ANAT 149 153 ojos
+T39 DISO 571 586 edema epitelial
+T40 DISO 118 121 nub
+T41 DISO 641 657 éculas corneales
+T42 PROC 247 253 trabec
+T43 PROC 85 87 ul
+T44 PROC 732 749 ectomía bilateral
+T45 PROC 133 136 PIO
+T46 CHEM 721 737 fármacos tópicos
+T47 PROC 1151 1176 exploración oftalmológica
+T48 DISO 189 193 orto
+T49 DISO 145 148 tro
+T50 DISO 148 151 pia
+T51 DISO 951 970 defecto refrac tivo
+T52 ANAT 205 209 ojos
+T53 DISO 417 425 ampollas
+T54 DISO 1061 1081 signos inflamatorios
+T55 PROC 163 166 PIO
+T56 PROC 111 113 FO
+T57 DISO 673 685 alteraciones

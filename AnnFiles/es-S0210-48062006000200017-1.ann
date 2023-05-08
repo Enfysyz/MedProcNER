@@ -1,0 +1,91 @@
+T1 DISO 1 23 hematuria macroscópica
+T2 PROC 13 25 tacto rectal
+T3 ANAT 17 25 próstata
+T4 DISO 22 29 adenoma
+T5 DISO 17 21 tosa
+T6 PROC 146 175 exploraciones complementarias
+T7 PROC 55 64 Hemograma
+T8 PROC 71 81 bioquímica
+T9 PROC 81 91 urocultivo
+T10 PROC 163 181 citología de orina
+T11 PROC 91 100 sedimento
+T12 PROC 34 37 PSA
+T13 PROC 229 248 Ecografía urológica
+T14 DISO 495 533 quistes sinus ales renales bilaterales
+T15 ANAT 85 91 Vejiga
+T16 PROC 46 49 Uro
+T17 PROC 289 307 grafía intravenosa
+T18 ANAT 222 235 pielocalicial
+T19 DISO 127 134 quistes
+T20 ANAT 39 41 Ur
+T21 ANAT 121 127 éteres
+T22 ANAT 127 133 Vejiga
+T23 ANAT 375 392 cavidad abdominal
+T24 PROC 70 73 Cis
+T25 PROC 193 201 toscopia
+T26 DISO 551 573 masa de aspecto sólido
+T27 ANAT 391 406 cáºpula vesical
+T28 PROC 622 645 resección trans uretral
+T29 PROC 29 30 R
+T30 PROC 59 61 TU
+T31 DISO 181 187 lesión
+T32 DISO 435 449 adenocarcinoma
+T33 ANAT 417 430 pared vesical
+T34 PROC 364 375 diagnóstico
+T35 PROC 681 701 estudio de extensión
+T36 PROC 701 721 radiografía de tórax
+T37 PROC 757 778 TAC abdomino pélv ico
+T38 ANAT 371 381 estructura
+T39 ANAT 267 274 tubular
+T40 ANAT 586 601 cáºpula vesical
+T41 ANAT 281 288 ombligo
+T42 ANAT 247 253 vejiga
+T43 ANAT 127 130 ura
+T44 DISO 87 89 co
+T45 ANAT 221 226 pared
+T46 DISO 226 231 tumor
+T47 DISO 599 612 líquido libre
+T48 ANAT 847 865 cavidad peritoneal
+T49 PROC 1105 1128 tratamiento quiráºrgico
+T50 PROC 344 351 ingresó
+T51 DISO 551 562 fiebre alta
+T52 DISO 1021 1041 síntomas miccionales
+T53 DISO 781 796 dolor abdominal
+T54 DISO 372 379 vómitos
+T55 DISO 433 441 anorexia
+T56 PROC 991 1009 exploración física
+T57 DISO 1121 1141 distensión abdominal
+T58 DISO 1198 1219 irritación peritoneal
+T59 PROC 523 532 analítica
+T60 DISO 1653 1681 leucocitosis con neutrofilia
+T61 PROC 3181 3234 tratamiento antibiótico parenteral de amplio espectro
+T62 DISO 855 869 sintomatología
+T63 DISO 1241 1261 distensión abdominal
+T64 PROC 1198 1217 ecografia abdominal
+T65 DISO 1089 1106 líquido asc ítico
+T66 DISO 1561 1585 adenocarcinoma de ura co
+T67 PROC 199 202 cis
+T68 PROC 1542 1565 tectomía parcial amplia
+T69 ANAT 1021 1036 cáºpula vesical
+T70 ANAT 277 281 masa
+T71 ANAT 211 214 ura
+T72 ANAT 143 145 co
+T73 ANAT 505 512 ombligo
+T74 PROC 1680 1703 linfadenectomía pélvica
+T75 PROC 1185 1201 acto quiráºrgico
+T76 ANAT 601 609 material
+T77 ANAT 1369 1387 cavidad peritoneal
+T78 ANAT 617 625 muestras
+T79 PROC 1483 1502 estudio histológico
+T80 PROC 2292 2321 diagnóstico anatomopatológico
+T81 ANAT 1361 1378 pieza quiráºrgica
+T82 DISO 2836 2871 adenocarcinoma mu ci noso de ura co
+T83 ANAT 1231 1246 vejiga urinaria
+T84 ANAT 748 757 peritoneo
+T85 ANAT 673 681 material
+T86 ANAT 341 345 muco
+T87 DISO 431 436 pseud
+T88 DISO 175 177 om
+T89 DISO 177 179 ix
+T90 DISO 1247 1261 oma peritoneal
+T91 PROC 991 1002 seguimiento

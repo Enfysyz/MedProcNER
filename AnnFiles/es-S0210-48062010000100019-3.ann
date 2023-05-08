@@ -1,0 +1,41 @@
+T1 PROC 1 14 diagnosticada
+T2 DISO 20 39 artritis reumatoide
+T3 PROC 39 58 ingresó de urgencia
+T4 DISO 16 21 dolor
+T5 DISO 81 101 distensión abdominal
+T6 PROC 56 67 diagnóstico
+T7 DISO 109 127 íleo subo clus ivo
+T8 PROC 127 145 tratamiento médico
+T9 PROC 121 136 sondaje uretral
+T10 DISO 82 91 hematuria
+T11 DISO 151 166 coágulo vesical
+T12 ANAT 78 85 cavidad
+T13 PROC 361 391 tomografía axial computarizada
+T14 PROC 417 449 intervención quiráºrgica urgente
+T15 ANAT 71 76 íleon
+T16 ANAT 286 305 válvula ile oc ecal
+T17 DISO 49 52 ede
+T18 DISO 103 109 matoso
+T19 DISO 109 115 fisura
+T20 ANAT 248 261 pared vesical
+T21 PROC 101 106 cisto
+T22 PROC 106 111 tomía
+T23 PROC 89 93 dren
+T24 PROC 24 25 a
+T25 DISO 169 176 coágulo
+T26 DISO 476 495 sangrado en sá bana
+T27 ANAT 131 136 pared
+T28 DISO 28 29 f
+T29 DISO 85 88 ria
+T30 PROC 233 241 biopsias
+T31 PROC 991 1024 ligadura de ambas hipog ás tricas
+T32 DISO 63 65 an
+T33 DISO 129 133 uria
+T34 DISO 760 783 alteración hemodinámica
+T35 DISO 205 211 exitus
+T36 PROC 1016 1045 diagnóstico anatomopatológico
+T37 PROC 649 667 biopsias vesicales
+T38 DISO 704 723 depósito amiloide (
+T39 DISO 153 157 AA )
+T40 ANAT 313 321 vascular
+T41 ANAT 481 493 intersticial

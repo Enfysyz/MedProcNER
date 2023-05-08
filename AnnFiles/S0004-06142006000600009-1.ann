@@ -1,0 +1,73 @@
+T1 DISO 1 10 hematuria
+T2 DISO 26 51 dolor en flanco izquierdo
+T3 PROC 11 16 puá±o
+T4 PROC 28 37 percusión
+T5 ANAT 41 51 fosa renal
+T6 PROC 91 109 técnicas de imagen
+T7 DISO 25 29 masa
+T8 ANAT 141 161 fosa renal izquierda
+T9 ANAT 41 46 renal
+T10 PROC 100 111 intervenido
+T11 PROC 111 122 nefrectomía
+T12 PROC 34 37 ure
+T13 PROC 229 248 terectomía proximal
+T14 PROC 144 155 nefrectomía
+T15 ANAT 225 241 parénquima renal
+T16 DISO 271 289 lesión blanquecina
+T17 DISO 305 324 cavidades quísticas
+T18 DISO 86 91 necró
+T19 DISO 397 419 formaciones papil ares
+T20 DISO 96 101 necró
+T21 DISO 81 85 tico
+T22 DISO 232 243 hemorrágico
+T23 PROC 111 116 corte
+T24 PROC 438 457 estudio histológico
+T25 DISO 217 226 neoplasia
+T26 ANAT 176 183 células
+T27 ANAT 183 190 nuclear
+T28 DISO 136 141 osteo
+T29 DISO 85 88 con
+T30 DISO 117 121 dros
+T31 DISO 181 187 arcoma
+T32 ANAT 218 225 escamos
+T33 ANAT 33 34 a
+T34 DISO 694 715 formaciones quísticas
+T35 DISO 103 106 ati
+T36 DISO 106 109 pia
+T37 ANAT 253 260 celular
+T38 DISO 260 267 células
+T39 DISO 229 235 osteos
+T40 DISO 430 441 arcoma tosa
+T41 DISO 361 370 osteoclas
+T42 DISO 124 127 tos
+T43 DISO 211 216 tumor
+T44 ANAT 560 573 cápsula renal
+T45 ANAT 969 991 estructuras vasculares
+T46 ANAT 226 231 hilio
+T47 ANAT 645 659 tejido adiposo
+T48 ANAT 283 289 pelvis
+T49 ANAT 817 834 pieza quiráºrgica
+T50 DISO 1324 1351 carcinoma de células claras
+T51 PROC 1351 1378 estudio inmunohisto químico
+T52 DISO 460 469 neoplasia
+T53 PROC 313 319 inmuno
+T54 PROC 160 163 tin
+T55 PROC 217 221 ción
+T56 CHEM 221 225 cito
+T57 CHEM 281 286 quera
+T58 CHEM 286 291 tinas
+T59 ANAT 813 827 células claras
+T60 ANAT 473 481 ocelular
+T61 CHEM 61 62 v
+T62 CHEM 245 249 imen
+T63 CHEM 249 253 tina
+T64 PROC 694 705 diagnóstico
+T65 DISO 1921 1951 carcinoma sarcoma to ide renal
+T66 ANAT 131 133 os
+T67 ANAT 199 202 teo
+T68 DISO 202 205 con
+T69 DISO 273 277 dros
+T70 DISO 415 421 arcoma
+T71 DISO 1681 1705 carcinoma células claras
+T72 ANAT 498 505 escamos
+T73 ANAT 73 74 a

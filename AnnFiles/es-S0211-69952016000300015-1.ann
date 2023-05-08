@@ -1,0 +1,80 @@
+T1 DISO 1 3 EF
+T2 PROC 30 59 controles en consulta externa
+T3 DISO 23 34 proteinuria
+T4 PROC 58 77 ecografía abdominal
+T5 PROC 81 101 resonancia magnética
+T6 PROC 11 13 RM
+T7 ANAT 19 22 cór
+T8 ANAT 29 33 tico
+T9 ANAT 9 10 -
+T10 ANAT 64 71 medular
+T11 DISO 341 375 quistes para pi élicos bilaterales
+T12 DISO 320 349 deterioro de la función renal
+T13 PROC 337 365 niveles de creatinina sérica
+T14 DISO 144 155 proteinuria
+T15 PROC 183 196 biopsia renal
+T16 PROC 136 145 ecografía
+T17 DISO 465 494 nefritis intersticial crónica
+T18 PROC 120 127 ingresó
+T19 DISO 109 115 edemas
+T20 DISO 343 361 disnea de esfuerzo
+T21 PROC 221 232 exploración
+T22 DISO 358 375 lesiones cutáneas
+T23 DISO 111 116 angio
+T24 DISO 116 121 quera
+T25 DISO 313 326 tomas en piel
+T26 PROC 426 443 analítica ingreso
+T27 PROC 443 460 creatinina sérica
+T28 DISO 298 309 proteinuria
+T29 PROC 393 407 ecocardiograma
+T30 PROC 320 331 RM cardiaca
+T31 DISO 1231 1272 miocardiopatía por enfermedad de depósito
+T32 PROC 280 289 electromi
+T33 PROC 225 232 ografía
+T34 DISO 199 205 signos
+T35 DISO 1021 1051 neuropatía de fibras pequeá±as
+T36 DISO 1296 1333 alteraciones de la función autonómica
+T37 PROC 541 556 prueba de sudor
+T38 ANAT 186 191 sudor
+T39 CHEM 153 157 pilo
+T40 CHEM 118 121 car
+T41 CHEM 161 165 pina
+T42 PROC 862 883 estudio oftalmológico
+T43 DISO 883 904 córnea verti cilla ta
+T44 DISO 87 89 EF
+T45 PROC 793 811 nivel de actividad
+T46 CHEM 451 461 alfa galac
+T47 CHEM 139 142 tos
+T48 CHEM 236 241 idasa
+T49 ANAT 481 491 leucocitos
+T50 ANAT 295 301 plasma
+T51 CHEM 1101 1123 sustrato fluor ogénico
+T52 CHEM 52 53 4
+T53 CHEM 53 54 -
+T54 CHEM 107 109 me
+T55 CHEM 163 166 thy
+T56 CHEM 111 113 il
+T57 CHEM 113 115 um
+T58 CHEM 172 175 bel
+T59 CHEM 117 119 li
+T60 CHEM 178 181 fer
+T61 CHEM 1621 1648 yl Î± - D - gal actos idasa
+T62 CHEM 62 63 G
+T63 CHEM 125 127 LA
+T64 ANAT 379 385 plasma
+T65 CHEM 513 521 proteína
+T66 ANAT 651 661 leucocitos
+T67 PROC 727 738 diagnóstico
+T68 DISO 135 137 EF
+T69 CHEM 409 415 enzima
+T70 PROC 1105 1121 estudio genético
+T71 CHEM 2661 2699 ácido des ox irri bonucle ico genómico
+T72 CHEM 214 217 ADN
+T73 ANAT 433 439 mancha
+T74 ANAT 804 815 sangre seca
+T75 PROC 223 226 PCR
+T76 PROC 1576 1597 secuenciación directa
+T77 CHEM 153 155 LA
+T78 DISO 617 625 mutación
+T79 DISO 625 633 mutación
+T80 DISO 1344 1361 síntomas clínicos

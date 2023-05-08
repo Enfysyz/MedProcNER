@@ -1,0 +1,78 @@
+T1 DISO 1 9 fumadora
+T2 DISO 22 43 infecciones urinarias
+T3 PROC 39 58 ecografía abdominal
+T4 DISO 43 57 lesión nodular
+T5 ANAT 29 36 vesical
+T6 PROC 41 49 consulta
+T7 PROC 19 22 cis
+T8 PROC 57 65 toscopia
+T9 DISO 177 199 tumoración ex of ítica
+T10 ANAT 109 121 cara lateral
+T11 ANAT 141 155 mucosa vesical
+T12 ANAT 67 73 vejiga
+T13 PROC 133 144 exploración
+T14 PROC 118 127 anestesia
+T15 PROC 15 16 E
+T16 PROC 31 33 BA
+T17 PROC 369 392 resección trans uretral
+T18 DISO 103 109 lesión
+T19 PROC 19 20 R
+T20 PROC 39 41 TU
+T21 PROC 381 400 anatomía patológica
+T22 ANAT 274 287 pared vesical
+T23 ANAT 67 70 uro
+T24 ANAT 116 121 telio
+T25 DISO 217 226 displasia
+T26 ANAT 501 521 capa muscular propia
+T27 ANAT 391 406 tejido muscular
+T28 DISO 622 645 tumoración fus ocelular
+T29 ANAT 197 204 células
+T30 ANAT 320 331 eosinófilos
+T31 ANAT 211 218 celular
+T32 ANAT 125 129 idad
+T33 ANAT 225 232 celular
+T34 ANAT 133 137 idad
+T35 ANAT 647 666 células plasmáticas
+T36 ANAT 351 361 leucocitos
+T37 PROC 577 593 índice mit ótico
+T38 ANAT 260 267 nuclear
+T39 PROC 419 430 anticuerpos
+T40 CHEM 40 41 M
+T41 CHEM 81 83 IB
+T42 CHEM 42 43 -
+T43 CHEM 43 44 1
+T44 ANAT 302 309 celular
+T45 ANAT 177 181 idad
+T46 ANAT 316 323 tumoral
+T47 DISO 369 377 necrosis
+T48 PROC 1270 1297 estudio inmunohisto químico
+T49 CHEM 193 197 cito
+T50 CHEM 246 251 quera
+T51 CHEM 251 256 tinas
+T52 CHEM 103 105 AE
+T53 CHEM 53 54 1
+T54 CHEM 107 109 AE
+T55 CHEM 55 56 3
+T56 CHEM 166 169 CAM
+T57 CHEM 617 628 anticuerpos
+T58 CHEM 58 59 p
+T59 CHEM 117 119 80
+T60 CHEM 709 721 proteína ALK
+T61 ANAT 421 428 celular
+T62 ANAT 245 249 idad
+T63 PROC 2109 2143 anticuerpos frente a máºsculo liso
+T64 CHEM 127 129 ac
+T65 CHEM 449 456 tina de
+T66 CHEM 131 133 My
+T67 CHEM 331 336 O D 1
+T68 CHEM 202 205 Cal
+T69 CHEM 137 139 re
+T70 CHEM 415 421 tinina
+T71 CHEM 211 214 CEA
+T72 CHEM 285 289 cito
+T73 CHEM 361 366 quera
+T74 CHEM 2045 2073 tinas de alto peso molecular
+T75 CHEM 223 226 EMA
+T76 PROC 301 305 FISH
+T77 PROC 2205 2234 diagnóstico anatomopatológico
+T78 DISO 3543 3589 tumor mio fibro bl ástico inflamatorio vesical

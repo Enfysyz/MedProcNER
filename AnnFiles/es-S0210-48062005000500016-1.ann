@@ -1,0 +1,74 @@
+T1 PROC 1 8 ingresa
+T2 PROC 17 33 cirugía electiva
+T3 DISO 57 85 aneurisma de aorta abdominal
+T4 ANAT 88 117 arteria hipog ástrica derecha
+T5 PROC 77 96 nefrectomía derecha
+T6 DISO 141 169 carcinoma de células renales
+T7 DISO 19 22 HTA
+T8 CHEM 71 81 amlodipino
+T9 DISO 145 163 IAM infer olateral
+T10 DISO 172 191 cardiopatía silente
+T11 PROC 31 34 DIV
+T12 PROC 23 25 AS
+T13 DISO 181 196 ectasia aórtica
+T14 DISO 469 505 dilatación aneuris mática fus iforme
+T15 ANAT 323 346 arteria renal izquierda
+T16 DISO 181 193 trombo mural
+T17 ANAT 449 477 arteria mesentérica inferior
+T18 DISO 426 451 dilatación aneuris mática
+T19 ANAT 523 552 arterias il íacas primi tivas
+T20 DISO 381 401 aneurisma fus iforme
+T21 ANAT 581 610 arteria hipog ástrica derecha
+T22 ANAT 253 265 eje celía co
+T23 ANAT 507 530 arteria renal izquierda
+T24 ANAT 461 481 mesentérica superior
+T25 DISO 961 1001 oclusión de arteria mesentérica inferior
+T26 PROC 476 495 intervenido aórtica
+T27 ANAT 443 460 arterias il íacas
+T28 PROC 325 337 embolización
+T29 ANAT 589 610 arteria hipog ástrica
+T30 PROC 204 211 arterio
+T31 PROC 361 373 grafia renal
+T32 PROC 373 385 intervención
+T33 DISO 65 67 an
+T34 DISO 133 137 uria
+T35 PROC 307 316 perfusión
+T36 CHEM 351 361 diuréticos
+T37 PROC 469 482 arteriografía
+T38 DISO 297 305 oclusión
+T39 ANAT 1 1 
+T40 ANAT 79 81 ós
+T41 ANAT 281 288 tium de
+T42 ANAT 944 967 arteria renal izquierda
+T43 PROC 1513 1549 cirugía de revascularización urgente
+T44 PROC 904 925 shunt esplen or renal
+T45 PROC 133 136 lum
+T46 PROC 91 93 bo
+T47 PROC 967 988 tomia poster olateral
+T48 ANAT 377 385 costilla
+T49 PROC 433 442 disección
+T50 ANAT 1177 1201 pedículo renal izquierdo
+T51 ANAT 351 358 arteria
+T52 ANAT 205 209 vena
+T53 PROC 885 902 reperfusión renal
+T54 CHEM 54 55 r
+T55 CHEM 703 716 inger lactato
+T56 PROC 1651 1681 anastomosis término - terminal
+T57 ANAT 953 970 arteria esplénica
+T58 PROC 628 639 reperfusión
+T59 ANAT 349 355 riá±ón
+T60 DISO 119 121 an
+T61 DISO 241 245 uria
+T62 PROC 672 683 anastomosis
+T63 PROC 745 757 hemodiálisis
+T64 DISO 883 897 hiperpotasemia
+T65 DISO 513 521 acidosis
+T66 PROC 586 595 Angio RMN
+T67 DISO 265 269 endo
+T68 DISO 135 137 fu
+T69 DISO 205 208 gas
+T70 DISO 622 631 estenosis
+T71 PROC 1891 1918 anastomosis esplen or renal
+T72 PROC 640 649 tensiones
+T73 CHEM 721 731 amlodipino
+T74 PROC 731 741 creatinina

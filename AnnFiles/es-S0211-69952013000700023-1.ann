@@ -1,0 +1,97 @@
+T1 DISO 1 9 dolor en
+T2 ANAT 6 11 teste
+T3 ANAT 13 19 flanco
+T4 DISO 19 25 fiebre
+T5 DISO 73 91 síndrome miccional
+T6 PROC 91 109 Exploración física
+T7 DISO 127 148 hipertensión arterial
+T8 PROC 246 281 Eco renal y testículo - pros tática
+T9 DISO 233 262 deterioro de la función renal
+T10 PROC 91 101 creatinina
+T11 DISO 111 122 proteinuria
+T12 PROC 100 109 sedimento
+T13 DISO 133 144 anemización
+T14 PROC 27 29 Hb
+T15 PROC 365 391 volumen corpus cular medio
+T16 PROC 451 481 hemoglobina corpus cular media
+T17 PROC 753 800 concentración de hemoglobina corpus cular media
+T18 PROC 341 361 Estudio inmunológico
+T19 PROC 469 495 anticuerpos antin ucleares
+T20 PROC 837 881 anticuerpos anti cito plasma de neu tró filo
+T21 PROC 21 22 ,
+T22 PROC 85 89 anti
+T23 PROC 177 185 - MB G ,
+T24 PROC 231 241 anti estre
+T25 PROC 193 201 p tol is
+T26 PROC 76 79 ina
+T27 PROC 443 460 factor reumatoide
+T28 PROC 190 197 C 3 - 4
+T29 PROC 421 436 serología viral
+T30 PROC 581 601 marcadores tumorales
+T31 PROC 211 218 Protein
+T32 PROC 249 257 ograma -
+T33 PROC 1761 1816 inmuno fi jación con banda monoclonal inmunoglobulina (
+T34 CHEM 67 69 Ig
+T35 PROC 103 106 IgG
+T36 PROC 106 109 IgA
+T37 PROC 109 112 IgM
+T38 CHEM 223 229 cadena
+T39 PROC 77 79 CL
+T40 PROC 40 41 L
+T41 PROC 121 124 nef
+T42 PROC 83 85 el
+T43 PROC 295 302 ometría
+T44 CHEM 216 221 kappa
+T45 CHEM 177 181 lamb
+T46 CHEM 91 93 da
+T47 PROC 599 612 áģcido áºrico
+T48 PROC 142 145 LDH
+T49 PROC 289 295 calcio
+T50 PROC 442 451 albáºmina
+T51 PROC 51 52 B
+T52 PROC 868 885 2 micro globulina
+T53 PROC 1353 1379 Perfil hepático , lipídico
+T54 PROC 478 487 hemograma
+T55 PROC 1243 1266 diagnostica anatomo pat
+T56 DISO 2696 2745 nefropatía por cilindros de cadenas ligeras kappa
+T57 DISO 113 115 CL
+T58 DISO 58 59 L
+T59 DISO 59 60 -
+T60 DISO 60 61 K
+T61 DISO 901 916 MM IgA - k appa
+T62 PROC 672 683 tratamiento
+T63 CHEM 63 64 b
+T64 CHEM 253 257 orte
+T65 CHEM 321 326 zomib
+T66 CHEM 196 199 dex
+T67 CHEM 595 604 ametasona
+T68 PROC 2413 2449 terapia depura tiva renal con filtro
+T69 PROC 1293 1312 cifra sérica de IgA
+T70 PROC 139 141 CL
+T71 PROC 71 72 L
+T72 PROC 72 73 -
+T73 PROC 73 74 K
+T74 PROC 804 815 tratamiento
+T75 PROC 667 676 protocolo
+T76 PROC 151 153 re
+T77 PROC 229 232 bio
+T78 PROC 155 157 ps
+T79 PROC 1015 1028 iar el riá±ón
+T80 PROC 1502 1521 terapia depur adora
+T81 PROC 161 163 re
+T82 PROC 244 247 bio
+T83 PROC 329 333 psia
+T84 DISO 3404 3445 lesiones tub ulo intersti ciales crónicas
+T85 PROC 2269 2296 diálisis de alto cu t - off
+T86 PROC 936 947 diagnóstico
+T87 PROC 1119 1132 quimioterapia
+T88 CHEM 88 89 b
+T89 CHEM 353 357 orte
+T90 CHEM 446 451 zomib
+T91 CHEM 271 274 len
+T92 CHEM 820 829 alidomida
+T93 ANAT 461 466 renal
+T94 PROC 1768 1787 terapia depur adora
+T95 PROC 6111 6176 terapia renal sustitutiva con diálisis convencional de alto flujo
+T96 CHEM 286 289 len
+T97 CHEM 865 874 alidomida

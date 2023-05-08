@@ -1,0 +1,89 @@
+T1 DISO 1 31 hiperplasia prostática benigna
+T2 DISO 22 43 fibrilación auricular
+T3 PROC 9 13 hemi
+T4 PROC 13 17 tiro
+T5 PROC 69 86 idectomía derecha
+T6 DISO 96 115 hiperplasia nodular
+T7 DISO 163 190 insuficiencia renal crónica
+T8 PROC 71 81 creatinina
+T9 DISO 209 235 inestabilidad de la marcha
+T10 DISO 199 221 debilidad generalizada
+T11 DISO 81 89 síntomas
+T12 PROC 144 157 examen físico
+T13 DISO 97 105 deshidra
+T14 DISO 53 57 tado
+T15 DISO 99 106 confuso
+T16 DISO 61 65 brad
+T17 DISO 49 52 ips
+T18 DISO 52 55 íqu
+T19 DISO 55 58 ico
+T20 DISO 267 281 temblor distal
+T21 DISO 801 841 deterioro importante de la función renal
+T22 DISO 274 287 hipercalcemia
+T23 PROC 67 70 PTH
+T24 PROC 277 289 sueroterapia
+T25 PROC 217 226 perfusión
+T26 CHEM 251 261 furosemida
+T27 CHEM 287 298 corticoides
+T28 CHEM 325 337 bifosfonatos
+T29 CHEM 309 320 calcitonina
+T30 DISO 552 571 clínica neurológica
+T31 PROC 751 776 terapia renal sustitutiva
+T32 PROC 373 385 hemodiálisis
+T33 CHEM 193 199 calcio
+T34 DISO 430 443 fracaso renal
+T35 DISO 443 456 hipercalcemia
+T36 PROC 106 109 cal
+T37 PROC 181 186 cemia
+T38 PROC 149 153 hemo
+T39 PROC 305 313 diálisis
+T40 PROC 703 721 estudio etiológico
+T41 DISO 1241 1272 procesos mie lop rolifera tivos
+T42 DISO 411 421 neoplasias
+T43 CHEM 883 904 componente monoclonal
+T44 PROC 302 309 protein
+T45 PROC 265 271 ograma
+T46 DISO 1351 1381 proteinuria de B ence - J ones
+T47 DISO 921 941 patología infecciosa
+T48 PROC 142 145 ser
+T49 PROC 337 344 ologías
+T50 DISO 1177 1201 enfermedades autoinmunes
+T51 PROC 901 919 Ecografía urinaria
+T52 ANAT 409 417 riá±ones
+T53 ANAT 365 372 cortico
+T54 ANAT 54 55 -
+T55 ANAT 379 386 medular
+T56 PROC 1211 1233 TAC toraco - abdominal
+T57 DISO 1121 1141 masa retro esofágica
+T58 DISO 1084 1103 tumor paratiro ideo
+T59 PROC 1393 1417 gammagrafía paratiroidea
+T60 DISO 2656 2701 nódulos hipoden sos suprarrenales bilaterales
+T61 DISO 841 855 feocromocitoma
+T62 PROC 123 125 ca
+T63 PROC 311 316 tecol
+T64 PROC 379 385 aminas
+T65 PROC 321 326 metan
+T66 PROC 66 67 e
+T67 PROC 133 135 fr
+T68 PROC 872 885 inas en orina
+T69 PROC 1225 1243 manejo quiráºrgico
+T70 PROC 346 351 resec
+T71 PROC 281 285 ando
+T72 DISO 1350 1369 tumor paratiro ideo
+T73 PROC 577 585 Anatomía
+T74 DISO 1534 1555 adenoma paratiro ideo
+T75 DISO 2073 2101 invasión capsular o vascular
+T76 DISO 2251 2281 síndrome de hueso hamb ri ento
+T77 PROC 2129 2157 suplemento endovenoso y oral
+T78 CHEM 463 469 calcio
+T79 DISO 937 949 hipocalcemia
+T80 PROC 949 961 hemodiálisis
+T81 PROC 561 568 cirugía
+T82 PROC 244 247 cal
+T83 PROC 411 416 cemia
+T84 ANAT 416 421 renal
+T85 PROC 841 851 creatinina
+T86 ANAT 426 431 renal
+T87 PROC 603 610 cirugía
+T88 PROC 262 265 cal
+T89 PROC 441 446 cemia

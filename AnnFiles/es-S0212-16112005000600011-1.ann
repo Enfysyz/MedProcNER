@@ -1,0 +1,73 @@
+T1 DISO 1 20 alcoholismo crónico
+T2 DISO 21 41 pancreatitis crónica
+T3 DISO 77 115 diabetes mellitus insulino dependiente
+T4 PROC 67 89 ingresos hospitalarios
+T5 DISO 81 101 pancreatitis crónica
+T6 PROC 56 67 intervenido
+T7 PROC 103 120 extirpación de un
+T8 DISO 43 49 pseudo
+T9 DISO 17 19 qu
+T10 DISO 145 161 iste pancreático
+T11 PROC 41 45 quis
+T12 PROC 23 25 to
+T13 PROC 37 40 gas
+T14 PROC 53 57 tros
+T15 PROC 71 76 tomía
+T16 PROC 106 113 ingreso
+T17 DISO 433 460 colecistitis enfis e matosa
+T18 DISO 392 415 absceso per ives icular
+T19 PROC 127 134 colecis
+T20 PROC 58 61 tos
+T21 PROC 521 547 tomía con tubo de P ez zer
+T22 PROC 316 331 colecistectomía
+T23 PROC 683 714 drenaje por tubo de colecis tos
+T24 PROC 116 121 tomia
+T25 PROC 193 201 consulta
+T26 PROC 676 703 examen cualitativo de heces
+T27 PROC 287 298 tratamiento
+T28 DISO 325 337 dolor ocular
+T29 DISO 393 407 enrojecimiento
+T30 DISO 204 211 escozor
+T31 DISO 721 745 fotofobia agudeza visual
+T32 PROC 218 225 Ingresa
+T33 PROC 225 232 estudio
+T34 PROC 364 375 tratamiento
+T35 PROC 715 736 estudio oftalmológico
+T36 DISO 1156 1189 queratitis ulcera tiva periférica
+T37 PROC 505 519 agudeza visual
+T38 ANAT 112 115 ojo
+T39 ANAT 115 118 ojo
+T40 DISO 664 681 áºlcera cór ne al
+T41 DISO 721 739 necrosis estro mal
+T42 DISO 124 127 hip
+T43 DISO 169 173 hema
+T44 PROC 732 749 pruebas de imagen
+T45 PROC 881 901 cultivos cor né ales
+T46 PROC 586 599 exploraciones
+T47 PROC 599 612 interconsulta
+T48 DISO 706 721 pérdida de peso
+T49 PROC 1057 1079 evaluación nutricional
+T50 DISO 1912 1951 malnutrición calórica severa y proteica
+T51 PROC 151 154 IMC
+T52 PROC 970 989 pliegue tri cipital
+T53 PROC 1717 1750 circunferencia muscular del brazo
+T54 DISO 213 217 hipo
+T55 DISO 271 276 prote
+T56 DISO 331 337 inemia
+T57 PROC 505 514 albáºmina
+T58 PROC 2110 2147 Proteína Trans por tadora de Retin ol
+T59 DISO 813 827 déficit severo
+T60 CHEM 1358 1381 vitaminas lipos olubles
+T61 CHEM 61 62 A
+T62 PROC 62 63 V
+T63 PROC 435 442 itamina
+T64 CHEM 631 641 vitamina D
+T65 PROC 65 66 V
+T66 PROC 586 595 itamina D
+T67 ANAT 397 403 sangre
+T68 CHEM 269 273 vita
+T69 CHEM 69 70 -
+T70 CHEM 1381 1401 minas del complejo B
+T71 CHEM 701 711 vitamina C
+T72 CHEM 285 289 zinc
+T73 PROC 1657 1680 estudio de malabsorción

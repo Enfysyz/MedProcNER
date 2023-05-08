@@ -1,0 +1,23 @@
+T1 PROC 1 18 atención primaria
+T2 DISO 18 35 pérdida de visión
+T3 PROC 23 34 tratamiento
+T4 CHEM 10 13 Top
+T5 CHEM 13 16 ama
+T6 CHEM 6 7 x
+T7 DISO 55 64 epilepsia
+T8 PROC 141 161 terapia convencional
+T9 PROC 17 19 AV
+T10 ANAT 28 31 ojo
+T11 PROC 121 133 campo visual
+T12 DISO 45 49 esco
+T13 DISO 49 53 toma
+T14 PROC 157 169 fondo de ojo
+T15 DISO 43 46 mac
+T16 DISO 121 129 ulopatía
+T17 DISO 337 358 cambios pigment arios
+T18 CHEM 52 55 Top
+T19 CHEM 55 58 ama
+T20 CHEM 20 21 x
+T21 DISO 341 358 pérdida de visión
+T22 CHEM 148 155 fármaco
+T23 PROC 243 254 seguimiento

@@ -1,0 +1,62 @@
+T1 PROC 1 8 tratado
+T2 DISO 34 67 cáncer de borde lingual izquierdo
+T3 PROC 9 13 glos
+T4 PROC 52 69 ectomía izquierda
+T5 PROC 97 121 linfadenectomía cervical
+T6 PROC 26 31 radio
+T7 PROC 139 162 quimioterapia adyuvante
+T8 CHEM 22 25 cis
+T9 CHEM 57 64 platino
+T10 PROC 343 381 radioterapia conformada tridimensional
+T11 ANAT 131 144 lecho tumoral
+T12 ANAT 199 217 cadenas cervicales
+T13 DISO 241 261 masa latero cervical
+T14 PROC 27 29 TC
+T15 PROC 281 301 Estudio de extensión
+T16 PROC 121 129 Anatomía
+T17 DISO 145 154 carcinoma
+T18 DISO 273 289 infiltración del
+T19 ANAT 649 685 máºsculo esterno cle id omas to ideo
+T20 PROC 248 261 quimioterapia
+T21 CHEM 61 64 cis
+T22 CHEM 148 155 platino
+T23 PROC 265 277 reevaluación
+T24 PROC 277 289 RNM cervical
+T25 PROC 1081 1126 linfadenectomía cervical funcional modificada
+T26 PROC 226 235 resección
+T27 ANAT 313 325 vena yugular
+T28 ANAT 379 393 nervio espinal
+T29 DISO 337 349 masa tumoral
+T30 PROC 59 61 HD
+T31 PROC 31 32 R
+T32 PROC 63 65 BT
+T33 PROC 545 562 extirpación total
+T34 ANAT 430 443 lecho tumoral
+T35 ANAT 239 246 órganos
+T36 ANAT 106 109 car
+T37 ANAT 37 38 ó
+T38 ANAT 149 153 tida
+T39 ANAT 533 547 plexo braquial
+T40 DISO 703 721 toxicidad vascular
+T41 ANAT 161 165 piel
+T42 PROC 903 925 simulación terapéutica
+T43 PROC 547 560 TC helicoidal
+T44 PROC 818 837 anatomía patológica
+T45 DISO 2509 2566 metástasis de carcinoma escamoso pobre mente diferenciado
+T46 ANAT 361 369 ganglios
+T47 PROC 231 236 resec
+T48 PROC 189 193 ados
+T49 DISO 1441 1471 infiltración extra gangl ionar
+T50 PROC 99 101 HD
+T51 PROC 51 52 R
+T52 PROC 103 105 BT
+T53 PROC 365 372 cirugía
+T54 PROC 1485 1513 seguimiento multidisciplinar
+T55 PROC 973 991 exploración física
+T56 DISO 496 505 toxicidad
+T57 PROC 505 514 valor TSH
+T58 PROC 628 639 TC cervical
+T59 DISO 581 591 enfermedad
+T60 DISO 296 301 dolor
+T61 DISO 1021 1038 toxicidad crónica
+T62 DISO 1465 1489 fibrosis tejidos blandos

@@ -1,0 +1,54 @@
+T1 DISO 1 11 politrauma
+T2 DISO 7 13 tizado
+T3 DISO 45 67 accidente de automóvil
+T4 PROC 13 17 intu
+T5 PROC 17 21 bado
+T6 DISO 46 55 hipoxemia
+T7 PROC 133 155 trasladado a la unidad
+T8 PROC 71 81 valoración
+T9 DISO 233 262 fractura de cig oma izquierdo
+T10 ANAT 145 161 pared lateral de
+T11 ANAT 61 67 órbita
+T12 DISO 287 313 fractura de huesos propios
+T13 DISO 373 404 fractura de clavícula izquierda
+T14 DISO 261 281 fractura de esternón
+T15 DISO 575 616 fracturas máºltiples costales bilaterales
+T16 DISO 46 49 vol
+T17 DISO 305 324 et costal izquierdo
+T18 DISO 324 343 enfisema subcutáneo
+T19 DISO 73 77 neum
+T20 DISO 134 141 omedias
+T21 DISO 81 85 tino
+T22 DISO 211 221 neumotórax
+T23 DISO 793 829 fractura de la rama pu biana derecha
+T24 DISO 208 217 hipoxemia
+T25 PROC 481 501 ventilación mecánica
+T26 PROC 126 131 fibro
+T27 PROC 105 109 bron
+T28 PROC 217 225 coscopia
+T29 PROC 197 204 ingreso
+T30 DISO 842 871 lesiones de aspecto ulcer oso
+T31 ANAT 661 683 cartílagos traque ales
+T32 ANAT 125 129 epig
+T33 ANAT 65 67 lo
+T34 ANAT 100 103 tis
+T35 ANAT 273 281 traqueal
+T36 PROC 246 253 ingreso
+T37 PROC 253 260 traqueo
+T38 PROC 593 609 tomía percutánea
+T39 PROC 723 742 control endoscópico
+T40 PROC 508 521 traqueostomía
+T41 DISO 881 903 deterioro respiratorio
+T42 PROC 698 715 nutrición enteral
+T43 DISO 1051 1076 fístula traqueo esofágica
+T44 PROC 216 221 endos
+T45 PROC 485 496 cópicamente
+T46 DISO 316 323 defecto
+T47 ANAT 415 424 esofágica
+T48 PROC 1082 1105 gastrostomía percutánea
+T49 PROC 577 589 alimentación
+T50 DISO 344 351 fallece
+T51 DISO 251 256 shock
+T52 CHEM 664 677 catecolaminas
+T53 DISO 417 425 acidosis
+T54 DISO 478 487 hipoxemia

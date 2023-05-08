@@ -1,0 +1,41 @@
+T1 DISO 1 15 asma bronquial
+T2 CHEM 18 35 broncodilatadores
+T3 DISO 43 64 riesgo cardiovascular
+T4 DISO 79 105 hiperreactividad bronquial
+T5 DISO 89 111 infección respiratoria
+T6 PROC 46 55 anamnesis
+T7 DISO 127 148 dolor dorsal opresivo
+T8 DISO 71 81 sudoración
+T9 DISO 49 55 disnea
+T10 PROC 190 211 auscultación cardiaca
+T11 DISO 281 309 soplo sistólico y diastólico
+T12 DISO 67 73 signos
+T13 DISO 265 287 insuficiencia cardiaca
+T14 PROC 274 295 auscultación pulmonar
+T15 DISO 85 91 roncus
+T16 DISO 151 161 sibilantes
+T17 DISO 417 443 hiperreactividad bronquial
+T18 PROC 120 127 ingreso
+T19 PROC 163 172 analítica
+T20 DISO 115 121 anemia
+T21 PROC 481 505 reactantes de fase aguda
+T22 PROC 484 507 biomarcadores cardiacos
+T23 PROC 67 70 ECG
+T24 PROC 461 481 radiografía de tórax
+T25 DISO 313 326 cardiomegalia
+T26 DISO 651 677 hiperreactividad bronquial
+T27 DISO 469 487 angina de esfuerzo
+T28 DISO 595 617 insuficiencia cardiaca
+T29 PROC 393 407 ecocardiograma
+T30 DISO 117 121 masa
+T31 ANAT 541 559 aurícula izquierda
+T32 ANAT 280 289 fosa oval
+T33 ANAT 321 331 ventrículo
+T34 DISO 529 545 estenosis mitral
+T35 PROC 681 701 cateterismo cardiaco
+T36 DISO 666 685 lesiones coronarias
+T37 DISO 109 112 mix
+T38 DISO 482 495 oma auricular
+T39 PROC 1065 1093 intervenida quiráºrgicamente
+T40 PROC 391 401 histología
+T41 PROC 481 493 intervención

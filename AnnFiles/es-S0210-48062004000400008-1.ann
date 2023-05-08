@@ -1,0 +1,87 @@
+T1 DISO 1 3 ex
+T2 DISO 2 3 -
+T3 DISO 15 22 fumador
+T4 PROC 37 49 intervención
+T5 DISO 113 141 pólipo adenoma toso en colon
+T6 DISO 76 91 hernia inguinal
+T7 DISO 109 127 varices esofágicas
+T8 PROC 64 73 ingresado
+T9 DISO 329 370 anemia crónica hipo cr ómica microc ítica
+T10 DISO 136 151 tos persistente
+T11 PROC 91 100 analítica
+T12 PROC 122 133 hemoglobina
+T13 PROC 133 144 hematocrito
+T14 PROC 456 491 velocidad de sedimentación globular
+T15 PROC 281 301 sistemático de orina
+T16 PROC 301 321 radiografía de tórax
+T17 PROC 305 324 ecografía abdominal
+T18 DISO 307 325 masa hiper eco ica
+T19 ANAT 145 153 cortical
+T20 ANAT 115 121 riá±ón
+T21 DISO 341 358 tumoración sólida
+T22 PROC 274 287 TAC abdominal
+T23 DISO 397 415 masa renal derecha
+T24 ANAT 300 313 polo inferior
+T25 DISO 121 126 hiper
+T26 DISO 51 53 ne
+T27 DISO 79 82 fro
+T28 DISO 55 57 ma
+T29 DISO 645 668 trombosis de vena renal
+T30 ANAT 523 541 vena cava inferior
+T31 DISO 841 869 adenopatías locorreg ionales
+T32 PROC 621 641 estudio de extensión
+T33 DISO 321 331 metástasis
+T34 PROC 364 375 diagnóstico
+T35 DISO 171 176 hiper
+T36 DISO 71 73 ne
+T37 DISO 109 112 fro
+T38 DISO 75 77 ma
+T39 PROC 1065 1093 nefrectomía ampliada derecha
+T40 PROC 79 81 ca
+T41 PROC 81 83 vo
+T42 PROC 206 211 tomía
+T43 PROC 547 560 extracción de
+T44 DISO 603 617 trombo tumoral
+T45 PROC 1585 1621 linfadenectomía inter a or to - cava
+T46 PROC 856 875 anatomía patológica
+T47 DISO 2531 2586 carcinoma de células renales del tipo de células claras
+T48 DISO 753 769 invasión tumoral
+T49 ANAT 289 295 uréter
+T50 ANAT 491 501 vena renal
+T51 ANAT 201 205 Gang
+T52 ANAT 205 209 lios
+T53 DISO 937 955 afectación tumoral
+T54 PROC 372 379 cirugía
+T55 PROC 1081 1101 radiografía de tórax
+T56 DISO 991 1009 imágenes nodulares
+T57 ANAT 953 970 campos pulmonares
+T58 DISO 571 581 metástasis
+T59 DISO 871 886 dolor radicular
+T60 ANAT 355 361 pierna
+T61 PROC 421 428 tratado
+T62 CHEM 306 311 Inter
+T63 CHEM 125 127 le
+T64 CHEM 127 129 uk
+T65 CHEM 193 196 ina
+T66 CHEM 66 67 -
+T67 CHEM 67 68 2
+T68 PROC 470 477 cirugía
+T69 DISO 1837 1864 nódulos irregulares , duros
+T70 ANAT 898 911 teste derecho
+T71 ANAT 911 924 raíz del pene
+T72 PROC 1279 1297 ecografía escrotal
+T73 DISO 3745 3797 masa extra tes ticular eco génica , sólida quísticas
+T74 ANAT 950 963 raíz pene ana
+T75 PROC 297 301 PAAF
+T76 DISO 601 609 lesiones
+T77 DISO 3193 3235 metástasis por carcinoma de células claras
+T78 PROC 1079 1093 TAC de control
+T79 DISO 2185 2213 masa paravertebral bilateral
+T80 ANAT 633 641 vértebra
+T81 ANAT 81 82 C
+T82 PROC 3241 3281 administración radioterapia anti ál gica
+T83 PROC 575 582 cirugía
+T84 PROC 2491 2521 tratado radioterapia paliativa
+T85 DISO 2521 2551 síndrome de compresión medular
+T86 DISO 426 431 falle
+T87 DISO 517 523 ciendo

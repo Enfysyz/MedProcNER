@@ -1,0 +1,84 @@
+T1 DISO 1 10 depresión
+T2 DISO 12 23 alcoholismo
+T3 CHEM 17 25 arsénico
+T4 DISO 22 29 agitado
+T5 DISO 29 36 náuseas
+T6 DISO 36 43 vómitos
+T7 DISO 85 99 diarrea acuosa
+T8 PROC 113 129 presión arterial
+T9 PROC 153 172 frecuencia cardíaca
+T10 PROC 100 111 temperatura
+T11 PROC 191 210 analítica sanguínea
+T12 DISO 276 301 acidosis metabólica aguda
+T13 PROC 25 27 pH
+T14 PROC 27 29 PO
+T15 PROC 15 16 2
+T16 PROC 16 17 P
+T17 PROC 33 35 CO
+T18 PROC 18 19 2
+T19 PROC 199 210 bicarbonato
+T20 PROC 58 61 FiO
+T21 PROC 21 22 2
+T22 PROC 148 155 lactato
+T23 DISO 287 300 hipopotasemia
+T24 PROC 415 433 electrocardiograma
+T25 PROC 73 76 ECG
+T26 DISO 476 495 taquicardia sinusal
+T27 PROC 183 190 tratado
+T28 CHEM 487 505 bicarbonato sódico
+T29 PROC 589 610 sobrecarga de fluidos
+T30 PROC 436 451 lavado gástrico
+T31 PROC 421 435 administración
+T32 CHEM 466 481 carbón activado
+T33 CHEM 65 67 di
+T34 CHEM 100 103 mer
+T35 CHEM 103 106 cap
+T36 CHEM 106 109 rol
+T37 PROC 145 149 intu
+T38 PROC 149 153 bado
+T39 PROC 381 391 trasladado
+T40 PROC 313 321 Medicina
+T41 PROC 281 288 ingreso
+T42 DISO 288 295 enfermo
+T43 PROC 127 130 sed
+T44 PROC 130 133 ado
+T45 PROC 133 136 mec
+T46 PROC 451 461 ánicamente
+T47 PROC 277 283 ventil
+T48 PROC 142 145 ado
+T49 PROC 865 883 exploración física
+T50 DISO 99 101 mi
+T51 DISO 201 205 osis
+T52 PROC 562 573 temperatura
+T53 PROC 833 849 presión arterial
+T54 PROC 1008 1027 frecuencia cardíaca
+T55 PROC 1189 1211 presión venosa central
+T56 PROC 386 393 glucosa
+T57 PROC 281 286 sodio
+T58 PROC 400 407 potasio
+T59 PROC 349 355 calcio
+T60 PROC 473 481 magnesio
+T61 PROC 421 428 fósforo
+T62 PROC 611 621 creatinina
+T63 PROC 249 253 urea
+T64 PROC 442 449 creatin
+T65 PROC 449 456 quinasa
+T66 PROC 716 727 troponina I
+T67 ANAT 661 671 leucocitos
+T68 ANAT 738 749 neutrófilos
+T69 PROC 749 760 hemoglobina
+T70 PROC 1105 1121 gases arteriales
+T71 PROC 141 143 Fi
+T72 PROC 72 73 O
+T73 PROC 73 74 2
+T74 PROC 147 149 pH
+T75 PROC 149 151 PO
+T76 PROC 76 77 2
+T77 PROC 77 78 P
+T78 PROC 155 157 CO
+T79 PROC 79 80 2
+T80 CHEM 870 881 bicarbonato
+T81 PROC 1601 1621 radiografía de tórax
+T82 PROC 244 247 ECG
+T83 PROC 1231 1246 registro de ECG
+T84 DISO 3155 3193 taquicardias ventriculares polimor fas

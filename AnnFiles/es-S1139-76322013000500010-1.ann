@@ -1,0 +1,57 @@
+T1 DISO 1 10 fallecido
+T2 DISO 16 31 tumor de Wil ms
+T3 DISO 41 61 síntomas miccionales
+T4 DISO 10 13 dis
+T5 DISO 17 21 uria
+T6 DISO 56 67 polaquiuria
+T7 DISO 85 99 sintomatología
+T8 PROC 155 177 tira reactiva de orina
+T9 PROC 89 100 tratamiento
+T10 CHEM 28 31 tri
+T11 CHEM 51 56 metop
+T12 CHEM 34 37 rim
+T13 CHEM 13 14 -
+T14 CHEM 53 57 sulf
+T15 CHEM 141 151 ametoxazol
+T16 PROC 151 161 urocultivo
+T17 PROC 145 154 anamnesis
+T18 DISO 341 361 síntomas miccionales
+T19 DISO 37 39 an
+T20 DISO 77 81 uria
+T21 DISO 301 316 dolor abdominal
+T22 ANAT 232 243 hipogastrio
+T23 ANAT 419 438 fosa ilíaca derecha
+T24 PROC 185 193 cirugías
+T25 DISO 145 151 fiebre
+T26 PROC 276 287 exploración
+T27 DISO 625 649 signos de deshidratación
+T28 PROC 730 757 auscultación cardiopulmonar
+T29 PROC 589 610 exploración abdominal
+T30 PROC 262 271 palpación
+T31 DISO 241 249 dolorosa
+T32 ANAT 342 353 hipogastrio
+T33 ANAT 609 628 fosa ilíaca derecha
+T34 DISO 199 205 signos
+T35 DISO 715 736 irritación peritoneal
+T36 DISO 456 469 globo vesical
+T37 PROC 397 408 exploración
+T38 PROC 667 685 pruebas analíticas
+T39 PROC 419 430 hemoglobina
+T40 PROC 742 761 proteína C reactiva
+T41 PROC 841 862 radiografía abdominal
+T42 PROC 780 799 ecografía abdominal
+T43 ANAT 505 517 vía urinaria
+T44 ANAT 259 265 vejiga
+T45 ANAT 353 361 apéndice
+T46 DISO 1396 1427 líquido libre peria pendi cular
+T47 ANAT 231 236 grasa
+T48 DISO 800 817 apendicitis aguda
+T49 PROC 1537 1569 infusión de fluidos intravenosos
+T50 PROC 981 1001 régimen de expansión
+T51 PROC 551 562 diagnóstico
+T52 DISO 868 885 apendicitis aguda
+T53 PROC 573 584 intervenido
+T54 PROC 902 919 anestesia general
+T55 DISO 1243 1266 apendicitis fle mon osa
+T56 PROC 771 785 apendicectomía
+T57 DISO 1681 1711 complicaciones postoperatorias

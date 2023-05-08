@@ -1,0 +1,76 @@
+T1 DISO 1 34 patología orgánica , psiquiátrica
+T2 DISO 17 33 abuso de tóxicos
+T3 PROC 41 61 ingresada neurología
+T4 DISO 73 97 alteraciones de conducta
+T5 DISO 57 71 desorientación
+T6 DISO 36 43 desanim
+T7 ANAT 109 127 venas de la cabeza
+T8 PROC 50 57 tratada
+T9 DISO 129 145 cuadro depresivo
+T10 CHEM 91 101 sertralina
+T11 PROC 71 78 ingreso
+T12 DISO 232 253 agitación psicomotriz
+T13 DISO 169 183 desorientación
+T14 DISO 443 477 enfermedad psiquiátrica u orgánica
+T15 PROC 85 91 examen
+T16 DISO 211 225 desorientación
+T17 DISO 145 154 agitación
+T18 DISO 358 379 focalidad neurológica
+T19 PROC 181 191 analíticas
+T20 PROC 77 81 hemo
+T21 PROC 101 106 grama
+T22 PROC 232 243 coagulación
+T23 PROC 1013 1059 pruebas de función hepática , renal , tiroidea
+T24 PROC 116 121 orina
+T25 PROC 289 301 ácido fólico
+T26 PROC 326 339 vitamina B 12
+T27 PROC 495 514 tomografía cerebral
+T28 PROC 433 449 tóxicos en orina
+T29 PROC 393 407 punción lumbar
+T30 PROC 59 61 PL
+T31 ANAT 301 311 leucocitos
+T32 DISO 1272 1313 convulsión tónico - cl ónica generalizada
+T33 PROC 289 298 ingresada
+T34 DISO 595 613 encefalitis vírica
+T35 PROC 375 386 tratamiento
+T36 CHEM 316 325 aciclovir
+T37 CHEM 541 556 ácido valproico
+T38 PROC 260 267 ingreso
+T39 PROC 305 313 evaluada
+T40 DISO 79 81 ap
+T41 DISO 201 206 ática
+T42 ANAT 329 337 venas de
+T43 DISO 799 818 depresión psicótica
+T44 CHEM 130 133 ven
+T45 CHEM 353 361 lafaxina
+T46 PROC 406 415 serología
+T47 DISO 139 142 Cit
+T48 DISO 95 97 om
+T49 DISO 481 491 egalovirus
+T50 DISO 687 701 Herpes Simp le
+T51 DISO 101 103 Sí
+T52 DISO 256 261 filis
+T53 DISO 209 213 Toxo
+T54 DISO 478 487 plasmosis
+T55 CHEM 379 386 Epstein
+T56 PROC 826 841 hospitalización
+T57 DISO 393 400 confusa
+T58 DISO 172 175 sol
+T59 DISO 175 178 ilo
+T60 DISO 296 301 quios
+T61 DISO 301 306 risas
+T62 PROC 123 125 PL
+T63 ANAT 621 631 leucocitos
+T64 PROC 568 577 serología
+T65 PROC 2497 2536 cultivo del líquido cefalorraquídeo LCR
+T66 PROC 1301 1321 resonancia magnética
+T67 PROC 859 872 RM ) cerebral
+T68 CHEM 872 885 antidepresivo
+T69 CHEM 137 139 ti
+T70 CHEM 139 141 ap
+T71 CHEM 141 143 ri
+T72 CHEM 143 145 de
+T73 PROC 1441 1461 electroencefalograma
+T74 PROC 220 223 EEG
+T75 DISO 445 451 signos
+T76 DISO 1951 1977 encefalopatía lenta difusa

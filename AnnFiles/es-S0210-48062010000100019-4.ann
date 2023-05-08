@@ -1,0 +1,42 @@
+T1 PROC 1 10 ingresada
+T2 PROC 13 25 diagnósticos
+T3 DISO 31 46 bronquiectasias
+T4 DISO 106 141 neumonitis peribron qui ec tás icas
+T5 DISO 25 31 anemia
+T6 DISO 136 163 insuficiencia renal crónica
+T7 DISO 37 43 signos
+T8 DISO 169 193 gastritis crónica difusa
+T9 PROC 137 154 factor reumatoide
+T10 DISO 109 121 caída casual
+T11 DISO 301 331 fractura del háºmero izquierdo
+T12 ANAT 67 73 cadera
+T13 PROC 85 92 ingreso
+T14 DISO 118 127 hematuria
+T15 PROC 57 61 daje
+T16 DISO 166 177 hipotensión
+T17 DISO 241 256 febrícula renal
+T18 PROC 732 775 traslado a la Unidad de Cuidados Intensivos
+T19 DISO 145 153 falleció
+T20 PROC 229 241 diagnósticos
+T21 DISO 161 169 neumonía
+T22 DISO 337 353 absceso pulmonar
+T23 DISO 199 208 hematuria
+T24 DISO 530 553 sepsis por pseud omonas
+T25 DISO 601 626 insuficiencia renal aguda
+T26 DISO 376 391 coágulo vesical
+T27 ANAT 79 82 luz
+T28 PROC 514 533 drenaje endoscópico
+T29 ANAT 365 378 pared vesical
+T30 DISO 262 271 inflamada
+T31 DISO 571 590 sangrado en sá bana
+T32 DISO 528 545 patología tumoral
+T33 PROC 257 265 biopsias
+T34 PROC 958 987 diagnóstico anatomopatológico
+T35 DISO 647 666 amiloidosis vesical
+T36 DISO 141 145 AA )
+T37 DISO 1081 1111 depósitos de material amiloide
+T38 ANAT 112 115 per
+T39 ANAT 153 157 ivas
+T40 ANAT 196 201 cular
+T41 ANAT 201 206 estro
+T42 ANAT 124 127 mal

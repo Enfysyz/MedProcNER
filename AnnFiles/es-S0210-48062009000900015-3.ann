@@ -1,0 +1,50 @@
+T1 DISO 1 25 diabetes mellitus tipo 2
+T2 DISO 28 55 insuficiencia renal crónica
+T3 PROC 15 22 tratado
+T4 PROC 37 49 hemodiálisis
+T5 PROC 109 136 amputación supra con dí lea
+T6 ANAT 76 91 miembro pélvico
+T7 DISO 115 134 lesiones amp ulosas
+T8 ANAT 43 49 glande
+T9 DISO 65 73 áºlceras
+T10 DISO 118 131 dolor intenso
+T11 ANAT 61 67 glande
+T12 DISO 45 49 hipo
+T13 DISO 37 40 cro
+T14 DISO 14 15 m
+T15 DISO 29 31 ía
+T16 PROC 121 129 consultó
+T17 PROC 289 307 exploración física
+T18 ANAT 103 109 glande
+T19 DISO 307 324 lesión necró tica
+T20 ANAT 229 241 cara ventral
+T21 DISO 381 400 secreción purulenta
+T22 DISO 64 67 ind
+T23 DISO 155 162 uración
+T24 ANAT 645 673 tercio distal del cuerpo del
+T25 ANAT 97 101 pene
+T26 PROC 51 53 bi
+T27 PROC 417 433 ometría hemática
+T28 PROC 298 309 hemoglobina
+T29 ANAT 281 291 leucocitos
+T30 PROC 262 271 plaquetas
+T31 PROC 511 528 química sanguínea
+T32 PROC 218 225 glucosa
+T33 PROC 321 331 creatinina
+T34 PROC 34 35 B
+T35 PROC 69 71 UN
+T36 PROC 701 721 electrolitos séricos
+T37 PROC 181 186 sodio
+T38 PROC 260 267 potasio
+T39 PROC 191 196 cloro
+T40 PROC 235 241 calcio
+T41 PROC 281 288 fósforo
+T42 PROC 1108 1135 pruebas de función hepática
+T43 PROC 43 44 T
+T44 PROC 87 89 GO
+T45 PROC 89 91 TG
+T46 PROC 46 47 P
+T47 PROC 829 847 fosfatasa alcalina
+T48 PROC 1317 1345 ultrasonido Doppler pene ano
+T49 ANAT 193 197 pene
+T50 PROC 883 901 manejo quiráºrgico

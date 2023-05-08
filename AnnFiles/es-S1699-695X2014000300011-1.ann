@@ -1,0 +1,45 @@
+T1 PROC 1 9 atención
+T2 DISO 10 19 lesión en
+T3 ANAT 15 22 mejilla
+T4 DISO 25 33 prurigin
+T5 DISO 13 16 osa
+T6 DISO 41 49 dolorosa
+T7 PROC 97 113 tratamiento oral
+T8 CHEM 92 105 amoxicilina /
+T9 CHEM 89 100 clavulánico
+T10 PROC 100 111 exploración
+T11 ANAT 71 78 mejilla
+T12 DISO 353 385 nódulo eritemato vi ol áceo frío
+T13 DISO 49 53 aden
+T14 DISO 118 127 omegalias
+T15 DISO 225 241 queratosis pilar
+T16 ANAT 106 113 piel de
+T17 ANAT 129 137 mejillas
+T18 DISO 18 19 G
+T19 DISO 37 39 AF
+T20 DISO 20 21 I
+T21 PROC 301 316 biopsia cutánea
+T22 PROC 442 463 seguimiento periódico
+T23 PROC 155 162 terapia
+T24 CHEM 277 289 metronidazol
+T25 DISO 145 151 lesión
+T26 DISO 151 157 nódulo
+T27 PROC 1249 1297 cultivos para bacterias , hongos y micobacterias
+T28 ANAT 406 421 exudado drenaje
+T29 DISO 393 407 lesión nodular
+T30 DISO 204 211 telangi
+T31 DISO 241 249 ectasias
+T32 PROC 342 353 seguimiento
+T33 PROC 321 331 revisiones
+T34 DISO 859 885 síntomas o signos clínicos
+T35 DISO 477 491 rosácea ocular
+T36 DISO 71 73 se
+T37 DISO 1081 1111 quedad o enrojecimiento ocular
+T38 DISO 112 115 ble
+T39 DISO 267 274 faritis
+T40 DISO 79 81 ch
+T41 DISO 121 124 ala
+T42 DISO 42 43 z
+T43 DISO 127 130 ion
+T44 DISO 388 397 fotofobia
+T45 DISO 1101 1126 pérdida de agudeza visual

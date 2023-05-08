@@ -1,0 +1,44 @@
+T1 DISO 1 4 ERC
+T2 DISO 5 9 poli
+T3 DISO 49 73 quistosis hepa tor renal
+T4 DISO 64 85 hipertensión arterial
+T5 DISO 97 121 diabetes mellitus tipo 2
+T6 DISO 66 79 hiperuricemia
+T7 DISO 61 71 dislipemia
+T8 DISO 274 313 enfermedad pulmonar obstructiva crónica
+T9 DISO 25 28 ERC
+T10 PROC 181 201 técnicas dial íticas
+T11 PROC 321 353 inserta catéter peritoneal recto
+T12 PROC 166 181 cirugía abierta
+T13 PROC 265 287 colocación del catéter
+T14 PROC 521 561 diálisis peritoneal continua ambulatoria
+T15 PROC 29 31 DP
+T16 PROC 31 33 CA
+T17 PROC 81 86 pauta
+T18 CHEM 52 55 dex
+T19 CHEM 91 96 trosa
+T20 PROC 457 481 tratamiento en domicilio
+T21 PROC 401 421 Diálisis Perit oneal
+T22 DISO 274 287 edema genital
+T23 PROC 441 461 ecografía testicular
+T24 DISO 208 217 patología
+T25 PROC 721 751 tomografía axial computarizada
+T26 PROC 76 79 TAC
+T27 PROC 131 136 perit
+T28 PROC 82 85 one
+T29 PROC 197 204 ografía
+T30 CHEM 900 931 contraste io dado hipo os molar
+T31 CHEM 601 621 contraste peritoneal
+T32 ANAT 590 609 cordón esper mático
+T33 ANAT 225 232 escroto
+T34 ANAT 826 851 proceso peritoneo vaginal
+T35 DISO 851 876 hernia inguinal indirecta
+T36 ANAT 141 145 saco
+T37 PROC 613 630 reposo peritoneal
+T38 PROC 260 267 cirugía
+T39 PROC 381 391 corrección
+T40 DISO 586 601 hernia inguinal
+T41 PROC 1481 1518 cierre del conducto peritoneo vaginal
+T42 PROC 780 799 diálisis peritoneal
+T43 PROC 589 603 reintervención
+T44 DISO 173 177 fuga

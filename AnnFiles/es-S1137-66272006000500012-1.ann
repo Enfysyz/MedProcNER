@@ -1,0 +1,83 @@
+T1 DISO 1 9 fumadora
+T2 DISO 9 17 síntomas
+T3 DISO 45 67 picaduras de mosquitos
+T4 PROC 25 33 consulta
+T5 PROC 17 21 auto
+T6 PROC 16 19 tra
+T7 PROC 13 15 tó
+T8 CHEM 183 209 ácido acetil - sal icílico
+T9 CHEM 9 10 A
+T10 CHEM 19 21 AS
+T11 CHEM 71 78 antipir
+T12 CHEM 56 61 ético
+T13 PROC 277 300 tratamiento sintomático
+T14 DISO 92 99 cefalea
+T15 PROC 253 271 exploración física
+T16 DISO 151 161 febricular
+T17 PROC 33 35 TA
+T18 DISO 205 217 rubor facial
+T19 DISO 559 590 inyección conjuntival bilateral
+T20 DISO 742 781 exantema hemorrágico má culo - pap ular
+T21 ANAT 121 127 tronco
+T22 ANAT 253 265 extremidades
+T23 ANAT 221 231 inferiores
+T24 PROC 553 577 exploración por aparatos
+T25 DISO 889 926 adenopatías latero y retro cervicales
+T26 ANAT 76 79 pre
+T27 ANAT 79 82 aur
+T28 ANAT 217 225 iculares
+T29 DISO 169 175 mening
+T30 DISO 117 121 ismo
+T31 DISO 181 187 hepato
+T32 DISO 187 193 esplen
+T33 DISO 257 265 omegalia
+T34 PROC 1222 1259 prueba del lazo ( R ump ell - L ea de
+T35 DISO 307 316 petequias
+T36 ANAT 911 937 fosa ante cu bital derecha
+T37 PROC 685 704 examen hematológico
+T38 ANAT 297 305 hematíes
+T39 PROC 419 430 hematocrito
+T40 PROC 352 361 plaquetas
+T41 ANAT 241 247 blanca
+T42 PROC 329 337 recuento
+T43 ANAT 421 431 leucocitos
+T44 DISO 431 441 linfopenia
+T45 DISO 881 901 linfocitos activados
+T46 PROC 136 139 VSG
+T47 PROC 139 142 PCR
+T48 PROC 1035 1057 pruebas de coagulación
+T49 PROC 481 491 bioquímica
+T50 PROC 491 501 creatinina
+T51 PROC 251 256 trans
+T52 PROC 205 209 amin
+T53 PROC 209 213 itis
+T54 PROC 160 163 ALT
+T55 PROC 595 606 gota gruesa
+T56 PROC 1046 1065 extensión sanguínea
+T57 PROC 1177 1198 análisis inmunológico
+T58 PROC 115 117 Ac
+T59 PROC 117 119 Ig
+T60 PROC 709 721 M contra CMV
+T61 PROC 121 123 Ac
+T62 PROC 123 125 HB
+T63 PROC 63 64 c
+T64 PROC 127 129 Ag
+T65 PROC 129 131 HB
+T66 PROC 66 67 s
+T67 PROC 133 135 Ag
+T68 PROC 135 137 HB
+T69 PROC 69 70 s
+T70 PROC 139 141 Ac
+T71 PROC 141 143 Ig
+T72 PROC 1634 1657 M contra P . falciparum
+T73 PROC 145 147 Ac
+T74 PROC 147 149 Ig
+T75 PROC 1111 1126 M contra dengue
+T76 PROC 151 153 IF
+T77 PROC 77 78 I
+T78 PROC 3235 3277 estudio de gota gruesa extensión sanguínea
+T79 DISO 1483 1502 parásitos hemáticos
+T80 PROC 1028 1041 diagnosticada
+T81 DISO 1121 1135 dengue clásico
+T82 DISO 1459 1477 dengue hemorrágico
+T83 CHEM 247 250 AAS

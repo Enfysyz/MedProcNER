@@ -1,0 +1,79 @@
+T1 DISO 1 7 disnea
+T2 DISO 14 27 expectoración
+T3 DISO 23 34 somnolencia
+T4 DISO 64 85 hipertensión arterial
+T5 DISO 69 86 diabetes mellitus
+T6 DISO 166 199 fibrilación auricular paroxística
+T7 DISO 151 176 síndrome Guill en - Barré
+T8 DISO 239 273 carcinoma epidermoide orofar íngeo
+T9 DISO 513 577 Síndrome de Secre ción In adecu ada de Horm ona An tidi ur ética
+T10 DISO 19 21 SI
+T11 DISO 211 232 ADH ) paraneoplás ico
+T12 PROC 221 241 radioterapia radical
+T13 PROC 133 144 tratamiento
+T14 CHEM 287 309 ácido acetilsalicílico
+T15 CHEM 127 136 lorazepam
+T16 CHEM 46 49 sil
+T17 CHEM 65 69 idos
+T18 CHEM 52 55 ina
+T19 CHEM 163 172 omeprazol
+T20 CHEM 58 61 tol
+T21 CHEM 41 43 va
+T22 CHEM 22 23 p
+T23 CHEM 67 70 tan
+T24 PROC 162 169 ingreso
+T25 PROC 169 176 ingresa
+T26 PROC 326 339 diagnosticado
+T27 DISO 1067 1108 neumonía bi lo - bar por broncoaspiración
+T28 DISO 703 729 hiponatremia hipo os molar
+T29 PROC 85 88 dio
+T30 PROC 59 61 Os
+T31 PROC 91 94 mol
+T32 PROC 187 193 alidad
+T33 DISO 257 265 disfagia
+T34 DISO 265 273 sangrado
+T35 DISO 647 666 tumoración faríngea
+T36 PROC 421 433 gastrostomía
+T37 PROC 1405 1444 nutrición parenteral por vía periférica
+T38 PROC 1185 1217 tratamiento antibiótico empírico
+T39 CHEM 343 352 meropenem
+T40 PROC 898 921 reposición de na tremia
+T41 PROC 481 493 sueroterapia
+T42 CHEM 206 211 sodio
+T43 CHEM 1009 1033 suero salino fisiológico
+T44 PROC 302 309 función
+T45 ANAT 221 226 renal
+T46 PROC 46 47 M
+T47 PROC 93 95 DR
+T48 PROC 48 49 D
+T49 PROC 1297 1324 ingreso en Medicina Interna
+T50 PROC 148 151 dio
+T51 DISO 101 103 SI
+T52 DISO 970 989 ADH paraneoplás ico
+T53 PROC 1145 1167 reposición na tr émica
+T54 PROC 637 649 sueroterapia
+T55 PROC 595 606 tratamiento
+T56 CHEM 166 169 tol
+T57 CHEM 113 115 va
+T58 CHEM 58 59 p
+T59 CHEM 175 178 tan
+T60 DISO 886 901 síndrome febril
+T61 PROC 1201 1221 tratamiento empírico
+T62 CHEM 123 125 ce
+T63 CHEM 125 127 fe
+T64 CHEM 127 129 pi
+T65 CHEM 129 131 me
+T66 CHEM 716 727 vancomicina
+T67 CHEM 727 738 oseltamivir
+T68 PROC 805 817 hemocultivos
+T69 CHEM 749 760 vancomicina
+T70 PROC 1588 1611 tratamiento antibiótico
+T71 DISO 1611 1634 bacteriemia por catéter
+T72 PROC 1989 2017 ecocardiograma transtorácico
+T73 DISO 865 877 endocarditis
+T74 PROC 877 889 hemocultivos
+T75 PROC 815 826 tratamiento
+T76 CHEM 826 837 vancomicina
+T77 DISO 1065 1079 picos febriles
+T78 PROC 232 235 PCR
+T79 PROC 1093 1107 procalcitonina

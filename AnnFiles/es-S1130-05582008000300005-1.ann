@@ -1,0 +1,56 @@
+T1 PROC 1 24 Cirugía B uco - ma xilo
+T2 PROC 9 17 remoción
+T3 DISO 13 19 lesión
+T4 ANAT 43 57 región lingual
+T5 ANAT 117 146 dientes anteriores inferiores
+T6 PROC 96 115 diagnóstico clínico
+T7 DISO 103 120 neurofibromatosis
+T8 PROC 92 105 examen físico
+T9 DISO 129 145 asimetría facial
+T10 DISO 145 161 nódulos cutáneos
+T11 ANAT 61 67 cuerpo
+T12 ANAT 45 49 cara
+T13 ANAT 73 79 cuello
+T14 DISO 40 43 Man
+T15 DISO 267 286 chas café con leche
+T16 ANAT 91 97 tronco
+T17 ANAT 305 324 miembros superiores
+T18 PROC 290 307 examen intra oral
+T19 DISO 73 77 malo
+T20 DISO 134 141 clusión
+T21 DISO 81 85 dias
+T22 DISO 43 45 te
+T23 DISO 67 70 mas
+T24 DISO 438 457 ausencias dentarias
+T25 DISO 721 751 masa aspecto neurofibro matoso
+T26 ANAT 151 157 región
+T27 ANAT 651 676 reborde alveolar inferior
+T28 ANAT 244 253 incisivos
+T29 DISO 169 175 lesión
+T30 ANAT 175 181 mucosa
+T31 DISO 151 156 ulcer
+T32 DISO 94 97 ada
+T33 ANAT 225 232 dientes
+T34 ANAT 199 205 región
+T35 DISO 239 246 cálculo
+T36 ANAT 211 217 lengua
+T37 DISO 649 667 aumento de volumen
+T38 DISO 889 913 lesión neurofibro matosa
+T39 PROC 723 742 examen radiográfico
+T40 DISO 1132 1161 hipoplasia mandibular derecha
+T41 DISO 961 985 lesión neurofibro matosa
+T42 ANAT 985 1009 región anterior inferior
+T43 PROC 85 87 ex
+T44 PROC 775 793 cisión quiráºrgica
+T45 DISO 265 271 lesión
+T46 ANAT 631 645 región lingual
+T47 PROC 231 236 abord
+T48 PROC 941 961 ada quiráºrgicamente
+T49 DISO 481 491 compromiso
+T50 PROC 540 551 diagnóstico
+T51 DISO 851 868 neurofibromatosis
+T52 PROC 1327 1353 análisis anatomopatológico
+T53 PROC 573 584 seguimiento
+T54 DISO 319 325 lesión
+T55 PROC 1243 1266 tratamiento periodontal
+T56 ANAT 991 1009 tejidos de soporte

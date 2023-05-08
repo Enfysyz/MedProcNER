@@ -1,0 +1,97 @@
+T1 DISO 1 4 HTA
+T2 DISO 20 39 hipercolesterolemia
+T3 DISO 7 10 dis
+T4 DISO 13 17 gluc
+T5 DISO 17 21 osis
+T6 DISO 41 49 obesidad
+T7 DISO 145 169 síndrome coronario agudo
+T8 ANAT 113 129 riá±ón izquierdo
+T9 DISO 73 82 estenosis
+T10 DISO 217 241 enfermedad renal crónica
+T11 DISO 201 221 nefropatía isquémica
+T12 PROC 56 61 angio
+T13 PROC 145 157 gráficamente
+T14 DISO 612 659 estenosis crítica de la arteria renal izquierda
+T15 DISO 169 181 hipertensión
+T16 PROC 751 801 tratamiento farmacológico con qu ín tu ple terapia
+T17 CHEM 81 86 inhib
+T18 CHEM 851 901 idores de la enzima convers ora de la angiotensina
+T19 CHEM 271 286 betabloqueantes
+T20 CHEM 115 121 calcio
+T21 CHEM 41 43 an
+T22 CHEM 211 221 tagonistas
+T23 CHEM 221 231 diuréticos
+T24 CHEM 70 73 alf
+T25 CHEM 97 101 ablo
+T26 CHEM 76 79 que
+T27 CHEM 131 136 antes
+T28 PROC 190 197 pruebas
+T29 PROC 281 291 creatinina
+T30 PROC 523 541 tensión arterial (
+T31 PROC 61 63 TA
+T32 PROC 342 353 intervenida
+T33 PROC 705 727 colocación de un stent
+T34 ANAT 430 443 arteria renal
+T35 PROC 817 841 anestesia locorreg ional
+T36 PROC 1611 1657 monitorización continua de la presión arterial
+T37 PROC 253 260 cirugía
+T38 DISO 482 495 dolor intenso
+T39 ANAT 761 781 fosa renal izquierda
+T40 DISO 430 441 hipotensión
+T41 DISO 681 698 cuadro vegetativo
+T42 DISO 206 211 oligo
+T43 DISO 85 87 an
+T44 DISO 173 177 uria
+T45 DISO 617 631 dolor torácico
+T46 ANAT 316 323 espalda
+T47 PROC 829 847 electrocardiograma
+T48 PROC 941 961 marcadores cardíacos
+T49 PROC 529 540 tratamiento
+T50 DISO 1030 1051 cardiopatía isquémica
+T51 DISO 951 970 trombosis del stent
+T52 ANAT 358 365 femoral
+T53 PROC 677 690 arteriografía
+T54 DISO 1538 1567 trombosis de la arteria renal
+T55 PROC 595 606 trombolisis
+T56 PROC 166 169 rec
+T57 PROC 169 172 olo
+T58 PROC 172 175 car
+T59 PROC 755 768 procedimiento
+T60 DISO 1594 1621 inestable hemodinámicamente
+T61 CHEM 1141 1160 drogas vaso activas
+T62 PROC 1282 1303 transfusión sanguínea
+T63 DISO 125 127 an
+T64 DISO 253 257 uria
+T65 PROC 257 261 urea
+T66 PROC 651 661 creatinina
+T67 PROC 1387 1408 implanta catéter para
+T68 PROC 537 545 diálisis
+T69 CHEM 1429 1450 fármacos vaso activos
+T70 PROC 139 141 TA
+T71 PROC 281 285 hemo
+T72 PROC 214 217 dia
+T73 PROC 721 731 filtración
+T74 DISO 147 149 an
+T75 DISO 297 301 uria
+T76 PROC 301 305 urea
+T77 PROC 761 771 creatinina
+T78 PROC 1156 1171 ecocardiografía
+T79 DISO 2341 2371 alteraciones de la coagulación
+T80 DISO 633 641 sangrado
+T81 DISO 2081 2107 insuficiencia respiratoria
+T82 PROC 1621 1641 ventilación mecánica
+T83 PROC 3281 3321 tomografía axial computarizada abdominal
+T84 DISO 1993 2017 hematoma retroperitoneal
+T85 PROC 1597 1616 laparotomía urgente
+T86 DISO 1616 1635 shock distribu tivo
+T87 CHEM 1635 1654 drogas vaso activas
+T88 DISO 3829 3873 síndrome de respuesta inflamatoria sistémica
+T89 DISO 2553 2582 insuficiencia renal an áºrica
+T90 DISO 1692 1711 fallo multiorgánico
+T91 DISO 2251 2276 complicaciones de cirugía
+T92 DISO 1275 1289 isquemia renal
+T93 DISO 369 373 rena
+T94 DISO 280 283 éxi
+T95 DISO 283 286 tus
+T96 DISO 476 481 shock
+T97 PROC 1057 1068 tratamiento

@@ -1,0 +1,52 @@
+T1 DISO 1 9 fumadora
+T2 DISO 24 47 alergias medicamentosas
+T3 PROC 17 25 consulta
+T4 DISO 55 73 aumento de volumen
+T5 ANAT 101 126 encía vestibular inferior
+T6 ANAT 156 187 orificio ment on iano izquierdo
+T7 DISO 67 78 traumáticas
+T8 PROC 99 113 examen clínico
+T9 DISO 49 55 nódulo
+T10 ANAT 55 61 mucosa
+T11 ANAT 61 67 planos
+T12 ANAT 100 109 profundos
+T13 PROC 229 248 estudio radiológico
+T14 DISO 79 85 lesión
+T15 PROC 211 226 anestesia local
+T16 PROC 301 321 biopsia es cis ional
+T17 DISO 97 103 lesión
+T18 PROC 426 451 estudio anatomopatológico
+T19 DISO 649 685 proliferación de células fus iformes
+T20 ANAT 210 221 estructuras
+T21 ANAT 201 211 vasculares
+T22 DISO 64 67 mix
+T23 DISO 67 70 oma
+T24 DISO 93 97 tosa
+T25 DISO 217 226 depósitos
+T26 CHEM 201 209 colágeno
+T27 DISO 625 649 infiltrado linfoci tario
+T28 CHEM 217 225 hematíes
+T29 PROC 813 842 estudios inmunohisto químicos
+T30 CHEM 30 31 v
+T31 CHEM 121 125 imen
+T32 CHEM 125 129 tina
+T33 CHEM 641 661 actina muscular lisa
+T34 CHEM 67 69 al
+T35 CHEM 35 36 k
+T36 CHEM 36 37 -
+T37 CHEM 325 334 protein 1
+T38 CHEM 408 419 beta ca ten
+T39 CHEM 115 118 ina
+T40 CHEM 79 81 CD
+T41 CHEM 81 83 34
+T42 CHEM 124 127 des
+T43 CHEM 169 173 mina
+T44 CHEM 44 45 S
+T45 CHEM 45 46 -
+T46 CHEM 136 139 100
+T47 CHEM 93 95 Ki
+T48 CHEM 95 97 67
+T49 ANAT 385 393 náºcleos
+T50 PROC 540 551 diagnóstico
+T51 DISO 801 817 fascitis nodular
+T52 PROC 562 573 seguimiento

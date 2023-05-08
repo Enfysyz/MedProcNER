@@ -1,0 +1,63 @@
+T1 PROC 1 9 consulta
+T2 DISO 6 11 dolor
+T3 DISO 23 34 parestesias
+T4 ANAT 19 25 pierna
+T5 DISO 37 46 pie caído
+T6 DISO 136 163 dificultades para la marcha
+T7 DISO 223 260 neuropatía del nervio ciático derecho
+T8 PROC 127 145 exploración física
+T9 ANAT 33 37 cara
+T10 ANAT 46 51 muslo
+T11 DISO 101 111 tumoración
+T12 DISO 89 97 dolorosa
+T13 PROC 217 235 exploración física
+T14 DISO 378 407 neuropatía del nervio ciático
+T15 DISO 295 316 compresión extrínseca
+T16 DISO 151 161 tumoración
+T17 PROC 385 409 estudios complementarios
+T18 PROC 477 505 Resonancia nuclear magnética
+T19 PROC 19 20 R
+T20 PROC 39 41 NM
+T21 ANAT 261 274 compartimento
+T22 ANAT 106 111 muslo
+T23 DISO 89 93 masa
+T24 ANAT 277 289 tejido graso
+T25 DISO 97 101 masa
+T26 ANAT 351 365 nervio ciático
+T27 DISO 157 163 lipoma
+T28 DISO 136 141 lipos
+T29 DISO 169 175 arcoma
+T30 PROC 204 211 Electro
+T31 PROC 61 63 mi
+T32 PROC 218 225 ografía
+T33 PROC 65 67 EM
+T34 PROC 34 35 G
+T35 DISO 987 1016 compresión del nervio ciático
+T36 ANAT 176 181 muslo
+T37 DISO 361 371 tumoración
+T38 PROC 112 115 RNM
+T39 PROC 875 898 tratamiento quiráºrgico
+T40 DISO 391 401 tumoración
+T41 PROC 961 985 intervención quiráºrgica
+T42 PROC 780 799 anestesia ra quídea
+T43 PROC 379 388 resección
+T44 DISO 431 441 tumoración
+T45 PROC 441 451 liberación
+T46 ANAT 631 645 nervio ciático
+T47 DISO 461 471 tumoración
+T48 DISO 1364 1393 complicación post quiráºrgica
+T49 PROC 1201 1226 estudio anatomopatológico
+T50 ANAT 834 851 pieza quiráºrgica
+T51 DISO 1501 1531 tumoración aspecto lipoma toso
+T52 DISO 919 937 zonas hemorrágicas
+T53 DISO 573 584 necró ticas
+T54 ANAT 743 757 tejido adiposo
+T55 ANAT 271 276 vasos
+T56 ANAT 936 953 células adipos as
+T57 DISO 281 286 dolor
+T58 DISO 628 639 parestesias
+T59 ANAT 465 473 muscular
+T60 PROC 1535 1561 seguimiento postoperatorio
+T61 DISO 661 672 parestesias
+T62 DISO 306 311 dolor
+T63 DISO 993 1009 alteración en la

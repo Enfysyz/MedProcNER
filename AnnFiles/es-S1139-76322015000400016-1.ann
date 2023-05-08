@@ -1,0 +1,56 @@
+T1 DISO 1 7 llanto
+T2 PROC 14 27 diagnosticado
+T3 DISO 41 61 cólicos del lactante
+T4 PROC 28 37 lactancia
+T5 DISO 25 31 llanto
+T6 PROC 91 109 exploración física
+T7 DISO 121 141 distensión abdominal
+T8 DISO 29 33 masa
+T9 ANAT 33 37 peri
+T10 ANAT 82 91 umbilical
+T11 ANAT 61 67 flanco
+T12 DISO 67 73 vómito
+T13 DISO 265 287 obstrucción intestinal
+T14 PROC 287 309 radiografía de abdomen
+T15 ANAT 127 136 abdominal
+T16 ANAT 166 177 hemiabdomen
+T17 DISO 177 188 efecto masa
+T18 ANAT 69 73 asas
+T19 ANAT 217 229 intestinales
+T20 PROC 172 181 ecografía
+T21 ANAT 181 190 abdominal
+T22 DISO 694 727 lesión focal ocup ante de espacio
+T23 DISO 199 208 quísticas
+T24 ANAT 185 193 vascular
+T25 PROC 313 326 Doppler color
+T26 PROC 201 209 traslado
+T27 PROC 183 190 cirugía
+T28 PROC 541 561 resonancia magnética
+T29 PROC 57 59 RM
+T30 ANAT 204 211 abdomen
+T31 DISO 841 869 masa quística intraabdominal
+T32 ANAT 187 193 flanco
+T33 ANAT 513 529 región abdominal
+T34 ANAT 760 783 borde inferior hepático
+T35 ANAT 205 211 riá±ón
+T36 ANAT 841 865 estructuras intestinales
+T37 DISO 145 149 masa
+T38 DISO 149 153 linf
+T39 DISO 153 157 angi
+T40 DISO 1054 1081 oma quístico de mes enterio
+T41 PROC 441 452 intervenido
+T42 PROC 698 715 laparotomía media
+T43 PROC 337 345 exéresis
+T44 DISO 861 881 masa multi qu ística
+T45 ANAT 133 136 mes
+T46 ANAT 316 323 enterio
+T47 ANAT 139 142 asa
+T48 ANAT 518 529 íleon medio
+T49 ANAT 145 148 asa
+T50 PROC 1471 1501 anastomosis término - terminal
+T51 DISO 701 715 complicaciones
+T52 PROC 970 989 anatomía patológica
+T53 DISO 209 213 linf
+T54 DISO 107 109 ag
+T55 DISO 1405 1431 ioma quístico mesent érico
+T56 DISO 991 1009 masa quística tada

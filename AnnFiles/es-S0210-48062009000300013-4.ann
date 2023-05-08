@@ -1,0 +1,39 @@
+T1 DISO 1 10 Hepatitis
+T2 PROC 4 7 Ure
+T3 PROC 11 16 terol
+T4 PROC 4 5 i
+T5 PROC 65 81 tectomía derecha
+T6 DISO 16 19 Cis
+T7 DISO 19 22 tin
+T8 DISO 29 33 uria
+T9 PROC 9 10 U
+T10 PROC 19 21 IV
+T11 ANAT 51 56 renal
+T12 ANAT 100 109 bilateral
+T13 ANAT 169 183 riá±ón derecho
+T14 DISO 40 43 HTA
+T15 PROC 29 31 ch
+T16 DISO 121 129 litiasis
+T17 ANAT 49 52 cál
+T18 ANAT 188 199 iz inferior
+T19 ANAT 253 267 riá±ón derecho
+T20 PROC 210 221 tratamiento
+T21 DISO 261 274 dolor intenso
+T22 ANAT 127 133 flanco
+T23 PROC 221 231 diagnostic
+T24 PROC 139 145 ándose
+T25 PROC 217 226 ecografía
+T26 DISO 526 547 hematoma sub capsular
+T27 PROC 79 82 TAC
+T28 DISO 217 225 hematoma
+T29 PROC 225 233 transfun
+T30 PROC 175 181 dieron
+T31 CHEM 721 745 concentrados de hematíes
+T32 PROC 125 129 lito
+T33 PROC 193 199 tricia
+T34 PROC 1189 1225 drenaje hematoma con cirugía abierta
+T35 PROC 579 596 Alta hospitalaria
+T36 PROC 316 325 controles
+T37 PROC 325 334 ecografía
+T38 PROC 38 39 U
+T39 PROC 77 79 IV
